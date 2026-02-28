@@ -9,13 +9,14 @@ export function mergeWords(
   words: Word[],
   another: Word[],
 ): Word[] {
-  const obj: Record<string, string> = {};
+  const obj: Record<string, { url: string; hot?: number }> = {};
   for (const w of words.concat(another)) {
-    obj[w.title] = w.url;
+    obj[w.title] = { url: w.url, hot: w.hot };
   }
-  return Object.entries(obj).map(([title, url]) => ({
+  return Object.entries(obj).map(([title, { url, hot }]) => ({
     url,
     title,
+    hot,
   }));
 }
 
@@ -28,7 +29,11 @@ export function createList(words: Word[]): string {
   return `<!-- BEGIN -->
 <!-- 最后更新时间 ${Date()} -->
 ${
-    words.map((x) => `1. [${x.title}](https://s.weibo.com/${x.url})`)
+    words.map((x) =>
+      x.hot
+        ? `1. [${x.title}](https://s.weibo.com/${x.url}) - ${x.hot}`
+        : `1. [${x.title}](https://s.weibo.com/${x.url})`
+    )
       .join("\n")
   }
 <!-- END -->`;
