@@ -1,7 +1,7 @@
 import type { Word } from "./types.ts";
 
 /**
- * 合并两次热门话题并根据**内容**去重，新的覆盖旧的
+ * 合并两次热门话题并根据**内容**去重，保留热度值最高的记录
  *
  * via https://github.com/justjavac/weibo-trending-hot-search/issues/11#issuecomment-1428187183
  */
@@ -11,7 +11,10 @@ export function mergeWords(
 ): Word[] {
   const obj: Record<string, { url: string; hot?: number }> = {};
   for (const w of words.concat(another)) {
-    obj[w.title] = { url: w.url, hot: w.hot };
+    const existing = obj[w.title];
+    if (!existing || (w.hot !== undefined && (existing.hot === undefined || w.hot > existing.hot))) {
+      obj[w.title] = { url: w.url, hot: w.hot };
+    }
   }
   return Object.entries(obj).map(([title, { url, hot }]) => ({
     url,
