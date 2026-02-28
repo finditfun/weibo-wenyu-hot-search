@@ -2,12 +2,19 @@ name: Fetch Weibo Hot Search
 
 on:
   schedule:
+    # 每10分钟执行一次
     - cron: '*/10 * * * *'
-  workflow_dispatch:
+  workflow_dispatch: # 允许手动触发
+
+permissions:
+  contents: write
 
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    
+    env:
+      TZ: Asia/Shanghai
     
     steps:
       - name: Checkout code
@@ -27,4 +34,4 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add .
           git diff --quiet && git diff --staged --quiet || git commit -m "Update hot search $(date '+%Y-%m-%d %H:%M')"
-          git push
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/finditfun/weibo-wenyu-hot-search.git
