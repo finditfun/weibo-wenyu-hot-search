@@ -7,7 +7,7 @@ import { exists } from "std/fs/mod.ts";
 import type { Word } from "./types.ts";
 import { createArchive, createReadme, mergeWords } from "./utils.ts";
 
-const regexp = /<a href="(\/weibo\?q=[^"]+)".*?>(.+)<\/a>/g;
+const regexp = /<a href="(\/weibo\?q=[^"]+)".*?>(.+)<\/a>[\s\S]*?<span>\s*(\d+)<\/span>/g;
 
 const response = await fetch("https://s.weibo.com/top/summary?cate=entrank", {
   headers: {
@@ -27,6 +27,7 @@ const matches = result.matchAll(regexp);
 const words: Word[] = Array.from(matches).map((x) => ({
   url: x[1],
   title: x[2],
+  hot: parseInt(x[3], 10),
 }));
 
 const yyyyMMdd = format(new Date(), "yyyy-MM-dd");
