@@ -24,27 +24,40 @@ export function mergeWords(
 }
 
 export async function createReadme(words: Word[]): Promise<string> {
-  const readme = await Deno.readTextFile("./README.md");
-  return readme.replace(/<!-- BEGIN -->[\W\w]*<!-- END -->/, createList(words));
+  const readmePath = "./README.md";
+  let readme = "";
+  try {
+    readme = await Deno.readTextFile(readmePath);
+  } catch {
+    // If README.md doesn't exist, start with a minimal header
+    readme = "# weibo-wenyu-hot-search\n微博文娱热搜\n\n";
+  }
+
+  const list = createList(words);
+
+  // If markers exist, replace the section between them. Use non-greedy match to avoid spanning multiple sections.
+  if (readme.includes("<!-- BEGIN -->") && readme.includes("<!-- END -->")) {
+    return readme.replace(/<!-- BEGIN -->[\s\S]*?<!-- END -->/, list);
+  }
+
+  // Otherwise, append the list (with markers) to the end of the README
+  if (!readme.endsWith("\n")) readme += "\n";
+  return readme + "\n" + list;
 }
 
 export function createList(words: Word[]): string {
   return `<!-- BEGIN -->
 <!-- 最后更新时间 ${Date()} -->
-${
-    words.map((x) =>
-      x.hot
-        ? `1. [${x.title}](https://s.weibo.com/${x.url}) - ${x.hot}`
-        : `1. [${x.title}](https://s.weibo.com/${x.url})`
-    )
-      .join("\n")
-  }
+${words.map((x) =>
+    x.hot
+      ? `1. [${x.title}](https://s.weibo.com/${x.url}) - ${x.hot}`
+      : `1. [${x.title}](https://s.weibo.com/${x.url})`
+  ).join("\n")}
 <!-- END -->`;
 }
 
 export function createArchive(words: Word[], date: string): string {
   return `# ${date}\n
 共 ${words.length} 条\n
-${createList(words)}
-`;
+${createList(words)}\n`;
 }
