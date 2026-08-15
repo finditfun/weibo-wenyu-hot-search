@@ -2,57 +2,77 @@
 微博文娱热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 15 2026 20:34:27 GMT+0800 (China Standard Time) -->
-1. [好多明星暴瘦](https://s.weibo.com//weibo?q=%23%E5%A5%BD%E5%A4%9A%E6%98%8E%E6%98%9F%E6%9A%B4%E7%98%A6%23&t=152&Refer=top) - 1704200
-1. [张桂源粉丝 lmp](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%A1%82%E6%BA%90%E7%B2%89%E4%B8%9D%20lmp&t=152&Refer=top) - 1703424
-1. [曝与张凌赫合照价格](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E4%B8%8E%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%90%88%E7%85%A7%E4%BB%B7%E6%A0%BC%23&t=152&Refer=top) - 1109793
+<!-- 最后更新时间 Sat Aug 15 2026 21:28:41 GMT+0800 (China Standard Time) -->
+1. [好多明星暴瘦](https://s.weibo.com//weibo?q=%23%E5%A5%BD%E5%A4%9A%E6%98%8E%E6%98%9F%E6%9A%B4%E7%98%A6%23&t=152&Refer=top) - 2061902
+1. [曝与张凌赫合照价格](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E4%B8%8E%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%90%88%E7%85%A7%E4%BB%B7%E6%A0%BC%23&t=152&Refer=top) - 1299721
+1. [曹骏跳操前后对比](https://s.weibo.com//weibo?q=%23%E6%9B%B9%E9%AA%8F%E8%B7%B3%E6%93%8D%E5%89%8D%E5%90%8E%E5%AF%B9%E6%AF%94%23&t=152&Refer=top) - 1023339
+1. [翔霖](https://s.weibo.com//weibo?q=%E7%BF%94%E9%9C%96&t=152&Refer=top) - 1017921
+1. [余文乐赢了曹骏](https://s.weibo.com//weibo?q=%23%E4%BD%99%E6%96%87%E4%B9%90%E8%B5%A2%E4%BA%86%E6%9B%B9%E9%AA%8F%23&t=152&Refer=top) - 999546
+1. [赵丽颖13个月没进组了](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%9613%E4%B8%AA%E6%9C%88%E6%B2%A1%E8%BF%9B%E7%BB%84%E4%BA%86%23&t=152&Refer=top) - 941034
+1. [披荆斩棘初舞台](https://s.weibo.com//weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%88%9D%E8%88%9E%E5%8F%B0&t=152&Refer=top) - 877193
+1. [王俊凯站姐顶级审美](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%AB%99%E5%A7%90%E9%A1%B6%E7%BA%A7%E5%AE%A1%E7%BE%8E%23&t=152&Refer=top) - 754809
+1. [牛来](https://s.weibo.com//weibo?q=%E7%89%9B%E6%9D%A5&t=152&Refer=top) - 651532
+1. [沈梦辰回应漂亮裙子配丑鞋](https://s.weibo.com//weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E5%9B%9E%E5%BA%94%E6%BC%82%E4%BA%AE%E8%A3%99%E5%AD%90%E9%85%8D%E4%B8%91%E9%9E%8B%23&t=152&Refer=top) - 586378
+1. [曹骏舞枪好帅](https://s.weibo.com//weibo?q=%23%E6%9B%B9%E9%AA%8F%E8%88%9E%E6%9E%AA%E5%A5%BD%E5%B8%85%23&t=152&Refer=top) - 586368
+1. [余文乐 港星的含金量还在上升](https://s.weibo.com//weibo?q=%E4%BD%99%E6%96%87%E4%B9%90%20%E6%B8%AF%E6%98%9F%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%E8%BF%98%E5%9C%A8%E4%B8%8A%E5%8D%87&t=152&Refer=top) - 567152
+1. [暗星拍的王俊凯](https://s.weibo.com//weibo?q=%E6%9A%97%E6%98%9F%E6%8B%8D%E7%9A%84%E7%8E%8B%E4%BF%8A%E5%87%AF&t=152&Refer=top) - 510436
 1. [梓渝空降跑错评论区](https://s.weibo.com//weibo?q=%E6%A2%93%E6%B8%9D%E7%A9%BA%E9%99%8D%E8%B7%91%E9%94%99%E8%AF%84%E8%AE%BA%E5%8C%BA&t=152&Refer=top) - 862168
-1. [王俊凯染粉发](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%9F%93%E7%B2%89%E5%8F%91%23&t=152&Refer=top) - 851370
-1. [isa聊天记录](https://s.weibo.com//weibo?q=isa%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95&t=152&Refer=top) - 1175940
-1. [披荆斩棘直播](https://s.weibo.com//weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9B%B4%E6%92%AD&t=152&Refer=top) - 695603
-1. [牛来](https://s.weibo.com//weibo?q=%E7%89%9B%E6%9D%A5&t=152&Refer=top) - 626042
-1. [李雪琴回复汪苏泷](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E5%9B%9E%E5%A4%8D%E6%B1%AA%E8%8B%8F%E6%B3%B7%23&t=152&Refer=top) - 563438
-1. [曹骏跳操前后对比](https://s.weibo.com//weibo?q=%23%E6%9B%B9%E9%AA%8F%E8%B7%B3%E6%93%8D%E5%89%8D%E5%90%8E%E5%AF%B9%E6%AF%94%23&t=152&Refer=top) - 507094
 1. [牛来票房暴涨1000倍](https://s.weibo.com//weibo?q=%E7%89%9B%E6%9D%A5%E7%A5%A8%E6%88%BF%E6%9A%B4%E6%B6%A81000%E5%80%8D&t=152&Refer=top) - 2715126
+1. [isa聊天记录](https://s.weibo.com//weibo?q=isa%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95&t=152&Refer=top) - 1175940
+1. [宋亚轩缺席国乐那期在拍运动会](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E7%BC%BA%E5%B8%AD%E5%9B%BD%E4%B9%90%E9%82%A3%E6%9C%9F%E5%9C%A8%E6%8B%8D%E8%BF%90%E5%8A%A8%E4%BC%9A%23&t=152&Refer=top) - 353303
+1. [周深宋亚轩你磕我也磕](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%B7%B1%E5%AE%8B%E4%BA%9A%E8%BD%A9%E4%BD%A0%E7%A3%95%E6%88%91%E4%B9%9F%E7%A3%95%23&t=152&Refer=top) - 352668
+1. [披荆斩棘直播](https://s.weibo.com//weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9B%B4%E6%92%AD&t=152&Refer=top) - 695603
+1. [王俊凯从荆棘皇冠到星星皇冠](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E4%BB%8E%E8%8D%86%E6%A3%98%E7%9A%87%E5%86%A0%E5%88%B0%E6%98%9F%E6%98%9F%E7%9A%87%E5%86%A0%23&t=152&Refer=top) - 309517
+1. [张桂源粉丝 lmp](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%A1%82%E6%BA%90%E7%B2%89%E4%B8%9D%20lmp&t=152&Refer=top) - 1703424
+1. [王俊凯染粉发](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%9F%93%E7%B2%89%E5%8F%91%23&t=152&Refer=top) - 851370
 1. [邓超给初代跑男合照签名](https://s.weibo.com//weibo?q=%23%E9%82%93%E8%B6%85%E7%BB%99%E5%88%9D%E4%BB%A3%E8%B7%91%E7%94%B7%E5%90%88%E7%85%A7%E7%AD%BE%E5%90%8D%23&t=152&Refer=top) - 1241334
-1. [杨超越提裙走这段](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E6%8F%90%E8%A3%99%E8%B5%B0%E8%BF%99%E6%AE%B5%23&t=152&Refer=top) - 403037
+1. [丁禹兮演唱会](https://s.weibo.com//weibo?q=%E4%B8%81%E7%A6%B9%E5%85%AE%E6%BC%94%E5%94%B1%E4%BC%9A&t=152&Refer=top) - 297365
+1. [曾辉现场回应扛住了内娱镜头](https://s.weibo.com//weibo?q=%23%E6%9B%BE%E8%BE%89%E7%8E%B0%E5%9C%BA%E5%9B%9E%E5%BA%94%E6%89%9B%E4%BD%8F%E4%BA%86%E5%86%85%E5%A8%B1%E9%95%9C%E5%A4%B4%23&t=152&Refer=top) - 267628
 1. [我们的少年时代2](https://s.weibo.com//weibo?q=%E6%88%91%E4%BB%AC%E7%9A%84%E5%B0%91%E5%B9%B4%E6%97%B6%E4%BB%A32&t=152&Refer=top) - 362733
-1. [短剧车祸戏居然是真撞](https://s.weibo.com//weibo?q=%23%E7%9F%AD%E5%89%A7%E8%BD%A6%E7%A5%B8%E6%88%8F%E5%B1%85%E7%84%B6%E6%98%AF%E7%9C%9F%E6%92%9E%23&t=152&Refer=top) - 332608
-1. [王嘉尔吃自己的瓜](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%98%89%E5%B0%94%E5%90%83%E8%87%AA%E5%B7%B1%E7%9A%84%E7%93%9C&t=152&Refer=top) - 5025089
-1. [姚琛好稳](https://s.weibo.com//weibo?q=%E5%A7%9A%E7%90%9B%E5%A5%BD%E7%A8%B3&t=152&Refer=top) - 297920
-1. [王俊凯演唱会](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A&t=152&Refer=top) - 594377
-1. [王俊凯站姐顶级审美](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%AB%99%E5%A7%90%E9%A1%B6%E7%BA%A7%E5%AE%A1%E7%BE%8E%23&t=152&Refer=top) - 282525
-1. [王俊凯粉发唱跳疑](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%B2%89%E5%8F%91%E5%94%B1%E8%B7%B3%E7%96%91%23&t=152&Refer=top) - 254272
+1. [王俊凯饿狼传说好会扭](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%A5%BF%E7%8B%BC%E4%BC%A0%E8%AF%B4%E5%A5%BD%E4%BC%9A%E6%89%AD%23&t=152&Refer=top) - 267608
+1. [李雪琴回复汪苏泷](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E5%9B%9E%E5%A4%8D%E6%B1%AA%E8%8B%8F%E6%B3%B7%23&t=152&Refer=top) - 563438
+1. [王传君唱rap](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%BC%A0%E5%90%9B%E5%94%B1rap&t=152&Refer=top) - 256544
+1. [宋亚轩一半一半挑战说唱](https://s.weibo.com//weibo?q=%E5%AE%8B%E4%BA%9A%E8%BD%A9%E4%B8%80%E5%8D%8A%E4%B8%80%E5%8D%8A%E6%8C%91%E6%88%98%E8%AF%B4%E5%94%B1&t=152&Refer=top) - 236857
 1. [曹骏关山酒初舞台](https://s.weibo.com//weibo?q=%E6%9B%B9%E9%AA%8F%E5%85%B3%E5%B1%B1%E9%85%92%E5%88%9D%E8%88%9E%E5%8F%B0&t=152&Refer=top) - 254266
+1. [姚琛好稳](https://s.weibo.com//weibo?q=%E5%A7%9A%E7%90%9B%E5%A5%BD%E7%A8%B3&t=152&Refer=top) - 297920
+1. [刘畊宏 跑调](https://s.weibo.com//weibo?q=%E5%88%98%E7%95%8A%E5%AE%8F%20%E8%B7%91%E8%B0%83&t=152&Refer=top) - 229001
+1. [王俊凯演唱会](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A&t=152&Refer=top) - 594377
+1. [王传君终于原谅爱情公寓了](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%BC%A0%E5%90%9B%E7%BB%88%E4%BA%8E%E5%8E%9F%E8%B0%85%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E4%BA%86&t=152&Refer=top) - 221383
+1. [王嘉尔吃自己的瓜](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%98%89%E5%B0%94%E5%90%83%E8%87%AA%E5%B7%B1%E7%9A%84%E7%93%9C&t=152&Refer=top) - 5025089
+1. [王传君 想成功先发疯](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%BC%A0%E5%90%9B%20%E6%83%B3%E6%88%90%E5%8A%9F%E5%85%88%E5%8F%91%E7%96%AF&t=152&Refer=top) - 213945
+1. [杨超越提裙走这段](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E6%8F%90%E8%A3%99%E8%B5%B0%E8%BF%99%E6%AE%B5%23&t=152&Refer=top) - 403037
+1. [小沈阳披哥双指数第一](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%B2%88%E9%98%B3%E6%8A%AB%E5%93%A5%E5%8F%8C%E6%8C%87%E6%95%B0%E7%AC%AC%E4%B8%80%23&t=152&Refer=top) - 190369
+1. [曝王嘉尔宋雨琦恋情](https://s.weibo.com//weibo?q=%E6%9B%9D%E7%8E%8B%E5%98%89%E5%B0%94%E5%AE%8B%E9%9B%A8%E7%90%A6%E6%81%8B%E6%83%85&t=152&Refer=top) - 1370380
+1. [刘畊宏赢了姚琛](https://s.weibo.com//weibo?q=%23%E5%88%98%E7%95%8A%E5%AE%8F%E8%B5%A2%E4%BA%86%E5%A7%9A%E7%90%9B%23&t=152&Refer=top) - 188307
+1. [潘大侠 淑元](https://s.weibo.com//weibo?q=%E6%BD%98%E5%A4%A7%E4%BE%A0%20%E6%B7%91%E5%85%83&t=152&Refer=top) - 189805
+1. [短剧车祸戏居然是真撞](https://s.weibo.com//weibo?q=%23%E7%9F%AD%E5%89%A7%E8%BD%A6%E7%A5%B8%E6%88%8F%E5%B1%85%E7%84%B6%E6%98%AF%E7%9C%9F%E6%92%9E%23&t=152&Refer=top) - 332608
+1. [王俊凯好壮观的蓝色海洋](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%A5%BD%E5%A3%AE%E8%A7%82%E7%9A%84%E8%93%9D%E8%89%B2%E6%B5%B7%E6%B4%8B%23&t=152&Refer=top) - 157908
+1. [张婧仪 怎么会有人睡觉也这么好看](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%A9%A7%E4%BB%AA%20%E6%80%8E%E4%B9%88%E4%BC%9A%E6%9C%89%E4%BA%BA%E7%9D%A1%E8%A7%89%E4%B9%9F%E8%BF%99%E4%B9%88%E5%A5%BD%E7%9C%8B&t=152&Refer=top) - 846614
+1. [王橹杰影之八秒](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%A9%B9%E6%9D%B0%E5%BD%B1%E4%B9%8B%E5%85%AB%E7%A7%92&t=152&Refer=top) - 166250
+1. [张睿 梦回新还珠](https://s.weibo.com//weibo?q=%E5%BC%A0%E7%9D%BF%20%E6%A2%A6%E5%9B%9E%E6%96%B0%E8%BF%98%E7%8F%A0&t=152&Refer=top) - 154920
+1. [侯佩岑演我看姚琛跳舞](https://s.weibo.com//weibo?q=%23%E4%BE%AF%E4%BD%A9%E5%B2%91%E6%BC%94%E6%88%91%E7%9C%8B%E5%A7%9A%E7%90%9B%E8%B7%B3%E8%88%9E%23&t=152&Refer=top) - 154527
 1. [杨幂ELLE金九封面预告](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82ELLE%E9%87%91%E4%B9%9D%E5%B0%81%E9%9D%A2%E9%A2%84%E5%91%8A%23&t=152&Refer=top) - 350657
+1. [侯明昊演唱会](https://s.weibo.com//weibo?q=%E4%BE%AF%E6%98%8E%E6%98%8A%E6%BC%94%E5%94%B1%E4%BC%9A&t=152&Refer=top) - 191424
+1. [王俊凯粉发唱跳疑](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%B2%89%E5%8F%91%E5%94%B1%E8%B7%B3%E7%96%91%23&t=152&Refer=top) - 254272
 1. [王俊凯广州上座率](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%B9%BF%E5%B7%9E%E4%B8%8A%E5%BA%A7%E7%8E%87%23&t=152&Refer=top) - 246478
 1. [杜女士你的身份证在邢昭林这儿](https://s.weibo.com//weibo?q=%23%E6%9D%9C%E5%A5%B3%E5%A3%AB%E4%BD%A0%E7%9A%84%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%9C%A8%E9%82%A2%E6%98%AD%E6%9E%97%E8%BF%99%E5%84%BF%23&t=152&Refer=top) - 463550
-1. [翔霖](https://s.weibo.com//weibo?q=%E7%BF%94%E9%9C%96&t=152&Refer=top) - 220456
-1. [张婧仪 怎么会有人睡觉也这么好看](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%A9%A7%E4%BB%AA%20%E6%80%8E%E4%B9%88%E4%BC%9A%E6%9C%89%E4%BA%BA%E7%9D%A1%E8%A7%89%E4%B9%9F%E8%BF%99%E4%B9%88%E5%A5%BD%E7%9C%8B&t=152&Refer=top) - 846614
 1. [王俊凯散粉合唱三生有幸](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%95%A3%E7%B2%89%E5%90%88%E5%94%B1%E4%B8%89%E7%94%9F%E6%9C%89%E5%B9%B8%23&t=152&Refer=top) - 200771
 1. [赵丽颖三个清宫女配没有重合感](https://s.weibo.com//weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%89%E4%B8%AA%E6%B8%85%E5%AE%AB%E5%A5%B3%E9%85%8D%E6%B2%A1%E6%9C%89%E9%87%8D%E5%90%88%E6%84%9F&t=152&Refer=top) - 198091
 1. [王俊凯演唱会舞台海浪效果](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E8%88%9E%E5%8F%B0%E6%B5%B7%E6%B5%AA%E6%95%88%E6%9E%9C&t=152&Refer=top) - 487767
-1. [侯明昊演唱会](https://s.weibo.com//weibo?q=%E4%BE%AF%E6%98%8E%E6%98%8A%E6%BC%94%E5%94%B1%E4%BC%9A&t=152&Refer=top) - 191424
-1. [潘大侠 淑元](https://s.weibo.com//weibo?q=%E6%BD%98%E5%A4%A7%E4%BE%A0%20%E6%B7%91%E5%85%83&t=152&Refer=top) - 189805
-1. [曝王嘉尔宋雨琦恋情](https://s.weibo.com//weibo?q=%E6%9B%9D%E7%8E%8B%E5%98%89%E5%B0%94%E5%AE%8B%E9%9B%A8%E7%90%A6%E6%81%8B%E6%83%85&t=152&Refer=top) - 1370380
-1. [小沈阳披哥双指数第一](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%B2%88%E9%98%B3%E6%8A%AB%E5%93%A5%E5%8F%8C%E6%8C%87%E6%95%B0%E7%AC%AC%E4%B8%80%23&t=152&Refer=top) - 186597
 1. [我们的少年时代2有36集](https://s.weibo.com//weibo?q=%E6%88%91%E4%BB%AC%E7%9A%84%E5%B0%91%E5%B9%B4%E6%97%B6%E4%BB%A32%E6%9C%8936%E9%9B%86&t=152&Refer=top) - 186488
 1. [疯狂动物城3官宣](https://s.weibo.com//weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E3%E5%AE%98%E5%AE%A3%23&t=152&Refer=top) - 1111971
 1. [宋亚轩给刘耀文出片的决心](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E7%BB%99%E5%88%98%E8%80%80%E6%96%87%E5%87%BA%E7%89%87%E7%9A%84%E5%86%B3%E5%BF%83%23&t=152&Refer=top) - 182612
-1. [王橹杰影之八秒](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%A9%B9%E6%9D%B0%E5%BD%B1%E4%B9%8B%E5%85%AB%E7%A7%92&t=152&Refer=top) - 166250
 1. [谢霆锋王菲情侣手镯](https://s.weibo.com//weibo?q=%E8%B0%A2%E9%9C%86%E9%94%8B%E7%8E%8B%E8%8F%B2%E6%83%85%E4%BE%A3%E6%89%8B%E9%95%AF&t=152&Refer=top) - 1338861
 1. [奥德赛 光敏性癫痫](https://s.weibo.com//weibo?q=%E5%A5%A5%E5%BE%B7%E8%B5%9B%20%E5%85%89%E6%95%8F%E6%80%A7%E7%99%AB%E7%97%AB&t=152&Refer=top) - 157077
 1. [魏子宸 剪发](https://s.weibo.com//weibo?q=%E9%AD%8F%E5%AD%90%E5%AE%B8%20%E5%89%AA%E5%8F%91&t=152&Refer=top) - 257558
 1. [国乐无双成绩单满屏宋亚轩](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E4%B9%90%E6%97%A0%E5%8F%8C%E6%88%90%E7%BB%A9%E5%8D%95%E6%BB%A1%E5%B1%8F%E5%AE%8B%E4%BA%9A%E8%BD%A9%23&t=152&Refer=top) - 149180
 1. [鹿晗给汪苏泷送花篮了](https://s.weibo.com//weibo?q=%23%E9%B9%BF%E6%99%97%E7%BB%99%E6%B1%AA%E8%8B%8F%E6%B3%B7%E9%80%81%E8%8A%B1%E7%AF%AE%E4%BA%86%23&t=152&Refer=top) - 365707
-1. [刘畊宏赢了姚琛](https://s.weibo.com//weibo?q=%E5%88%98%E7%95%8A%E5%AE%8F%E8%B5%A2%E4%BA%86%E5%A7%9A%E7%90%9B&t=152&Refer=top) - 144529
 1. [牛来导演亲友发声](https://s.weibo.com//weibo?q=%23%E7%89%9B%E6%9D%A5%E5%AF%BC%E6%BC%94%E4%BA%B2%E5%8F%8B%E5%8F%91%E5%A3%B0%23&t=152&Refer=top) - 926472
 1. [黄一鸣被封后首次公开露脸](https://s.weibo.com//weibo?q=%23%E9%BB%84%E4%B8%80%E9%B8%A3%E8%A2%AB%E5%B0%81%E5%90%8E%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E9%9C%B2%E8%84%B8%23&t=152&Refer=top) - 160441
 1. [比初代跑男粉更急的是邓超本人](https://s.weibo.com//weibo?q=%23%E6%AF%94%E5%88%9D%E4%BB%A3%E8%B7%91%E7%94%B7%E7%B2%89%E6%9B%B4%E6%80%A5%E7%9A%84%E6%98%AF%E9%82%93%E8%B6%85%E6%9C%AC%E4%BA%BA%23&t=152&Refer=top) - 135465
 1. [TF四代突围更新](https://s.weibo.com//weibo?q=TF%E5%9B%9B%E4%BB%A3%E7%AA%81%E5%9B%B4%E6%9B%B4%E6%96%B0&t=152&Refer=top) - 134043
 1. [披哥体脂率 离谱](https://s.weibo.com//weibo?q=%E6%8A%AB%E5%93%A5%E4%BD%93%E8%84%82%E7%8E%87%20%E7%A6%BB%E8%B0%B1&t=152&Refer=top) - 133446
 1. [国乐无双](https://s.weibo.com//weibo?q=%E5%9B%BD%E4%B9%90%E6%97%A0%E5%8F%8C&t=152&Refer=top) - 125616
-1. [刘畊宏 跑调](https://s.weibo.com//weibo?q=%E5%88%98%E7%95%8A%E5%AE%8F%20%E8%B7%91%E8%B0%83&t=152&Refer=top) - 123722
 1. [刘宇宁急得不行李乃文还在争取戏份](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%80%A5%E5%BE%97%E4%B8%8D%E8%A1%8C%E6%9D%8E%E4%B9%83%E6%96%87%E8%BF%98%E5%9C%A8%E4%BA%89%E5%8F%96%E6%88%8F%E4%BB%BD%23&t=152&Refer=top) - 383110
 1. [杨超越黄裙高定](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E9%BB%84%E8%A3%99%E9%AB%98%E5%AE%9A%23&t=152&Refer=top) - 448567
 1. [陈星旭问杨超越我扶一下脸可以吗](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%98%9F%E6%97%AD%E9%97%AE%E6%9D%A8%E8%B6%85%E8%B6%8A%E6%88%91%E6%89%B6%E4%B8%80%E4%B8%8B%E8%84%B8%E5%8F%AF%E4%BB%A5%E5%90%97%23&t=152&Refer=top) - 215878
