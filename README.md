@@ -2,48 +2,68 @@
 微博文娱热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Aug 16 2026 20:35:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 16 2026 21:29:56 GMT+0800 (China Standard Time) -->
+1. [谷爱凌否认恋情](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%90%A6%E8%AE%A4%E6%81%8B%E6%83%85%23&t=152&Refer=top) - 2789713
 1. [魏子宸太有杰尼斯味了](https://s.weibo.com//weibo?q=%E9%AD%8F%E5%AD%90%E5%AE%B8%E5%A4%AA%E6%9C%89%E6%9D%B0%E5%B0%BC%E6%96%AF%E5%91%B3%E4%BA%86&t=152&Refer=top) - 1186388
+1. [王橹杰 上春山](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%A9%B9%E6%9D%B0%20%E4%B8%8A%E6%98%A5%E5%B1%B1&t=152&Refer=top) - 959338
 1. [Alex一雯白分手](https://s.weibo.com//weibo?q=%23Alex%E4%B8%80%E9%9B%AF%E7%99%BD%E5%88%86%E6%89%8B%23&t=152&Refer=top) - 1153087
+1. [艾米进组几天瘦了一大圈](https://s.weibo.com//weibo?q=%23%E8%89%BE%E7%B1%B3%E8%BF%9B%E7%BB%84%E5%87%A0%E5%A4%A9%E7%98%A6%E4%BA%86%E4%B8%80%E5%A4%A7%E5%9C%88%23&t=152&Refer=top) - 740803
+1. [Jennie因服装问题道歉](https://s.weibo.com//weibo?q=%23Jennie%E5%9B%A0%E6%9C%8D%E8%A3%85%E9%97%AE%E9%A2%98%E9%81%93%E6%AD%89%23&t=152&Refer=top) - 688099
+1. [沈佳润还是藏不住事的年纪](https://s.weibo.com//weibo?q=%23%E6%B2%88%E4%BD%B3%E6%B6%A6%E8%BF%98%E6%98%AF%E8%97%8F%E4%B8%8D%E4%BD%8F%E4%BA%8B%E7%9A%84%E5%B9%B4%E7%BA%AA%23&t=152&Refer=top) - 619289
+1. [王橹杰摔倒](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%A9%B9%E6%9D%B0%E6%91%94%E5%80%92&t=152&Refer=top) - 572455
+1. [陈奕恒摔倒](https://s.weibo.com//weibo?q=%E9%99%88%E5%A5%95%E6%81%92%E6%91%94%E5%80%92&t=152&Refer=top) - 547364
+1. [曾辉陈若轩主持披哥预热](https://s.weibo.com//weibo?q=%23%E6%9B%BE%E8%BE%89%E9%99%88%E8%8B%A5%E8%BD%A9%E4%B8%BB%E6%8C%81%E6%8A%AB%E5%93%A5%E9%A2%84%E7%83%AD%23&t=152&Refer=top) - 492627
 1. [时代少年团个人能力排名](https://s.weibo.com//weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E4%B8%AA%E4%BA%BA%E8%83%BD%E5%8A%9B%E6%8E%92%E5%90%8D%23&t=152&Refer=top) - 2042400
 1. [沈佳润白到发光](https://s.weibo.com//weibo?q=%23%E6%B2%88%E4%BD%B3%E6%B6%A6%E7%99%BD%E5%88%B0%E5%8F%91%E5%85%89%23&t=152&Refer=top) - 1231087
-1. [谷爱凌否认恋情](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%90%A6%E8%AE%A4%E6%81%8B%E6%83%85%23&t=152&Refer=top) - 847627
-1. [王橹杰 上春山](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%A9%B9%E6%9D%B0%20%E4%B8%8A%E6%98%A5%E5%B1%B1&t=152&Refer=top) - 809136
-1. [鹿晗天资是很残忍的东西](https://s.weibo.com//weibo?q=%23%E9%B9%BF%E6%99%97%E5%A4%A9%E8%B5%84%E6%98%AF%E5%BE%88%E6%AE%8B%E5%BF%8D%E7%9A%84%E4%B8%9C%E8%A5%BF%23&t=152&Refer=top) - 772413
 1. [贺峻霖给严浩翔照片加了美颜](https://s.weibo.com//weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E7%BB%99%E4%B8%A5%E6%B5%A9%E7%BF%94%E7%85%A7%E7%89%87%E5%8A%A0%E4%BA%86%E7%BE%8E%E9%A2%9C%23&t=152&Refer=top) - 729857
 1. [龙餐馆](https://s.weibo.com//weibo?q=%E9%BE%99%E9%A4%90%E9%A6%86&t=152&Refer=top) - 571459
-1. [杜华 练练普通话吧](https://s.weibo.com//weibo?q=%E6%9D%9C%E5%8D%8E%20%E7%BB%83%E7%BB%83%E6%99%AE%E9%80%9A%E8%AF%9D%E5%90%A7&t=152&Refer=top) - 514313
-1. [四代唱刺了](https://s.weibo.com//weibo?q=%E5%9B%9B%E4%BB%A3%E5%94%B1%E5%88%BA%E4%BA%86&t=152&Refer=top) - 514303
-1. [陈奕恒陈思罕Teeth](https://s.weibo.com//weibo?q=%E9%99%88%E5%A5%95%E6%81%92%E9%99%88%E6%80%9D%E7%BD%95Teeth&t=152&Refer=top) - 514293
-1. [功夫女足](https://s.weibo.com//weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3&t=152&Refer=top) - 514283
-1. [虞书欣穿戏服聚会](https://s.weibo.com//weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%A9%BF%E6%88%8F%E6%9C%8D%E8%81%9A%E4%BC%9A%23&t=152&Refer=top) - 492018
-1. [陈奕恒摔倒](https://s.weibo.com//weibo?q=%E9%99%88%E5%A5%95%E6%81%92%E6%91%94%E5%80%92&t=152&Refer=top) - 472416
-1. [何穗妊娠纹](https://s.weibo.com//weibo?q=%23%E4%BD%95%E7%A9%97%E5%A6%8A%E5%A8%A0%E7%BA%B9%23&t=152&Refer=top) - 1572544
+1. [橹穆情侣发色](https://s.weibo.com//weibo?q=%23%E6%A9%B9%E7%A9%86%E6%83%85%E4%BE%A3%E5%8F%91%E8%89%B2%23&t=152&Refer=top) - 413591
+1. [唐九洲米卡 青春有你pk创造营](https://s.weibo.com//weibo?q=%E5%94%90%E4%B9%9D%E6%B4%B2%E7%B1%B3%E5%8D%A1%20%E9%9D%92%E6%98%A5%E6%9C%89%E4%BD%A0pk%E5%88%9B%E9%80%A0%E8%90%A5&t=152&Refer=top) - 411390
 1. [披荆斩棘直播](https://s.weibo.com//weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9B%B4%E6%92%AD&t=152&Refer=top) - 434470
+1. [功夫女足](https://s.weibo.com//weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3&t=152&Refer=top) - 514283
+1. [博瑞双人舞台](https://s.weibo.com//weibo?q=%E5%8D%9A%E7%91%9E%E5%8F%8C%E4%BA%BA%E8%88%9E%E5%8F%B0&t=152&Refer=top) - 346333
+1. [王传君娱乐圈人缘](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BC%A0%E5%90%9B%E5%A8%B1%E4%B9%90%E5%9C%88%E4%BA%BA%E7%BC%98%23&t=152&Refer=top) - 311699
+1. [何穗妊娠纹](https://s.weibo.com//weibo?q=%23%E4%BD%95%E7%A9%97%E5%A6%8A%E5%A8%A0%E7%BA%B9%23&t=152&Refer=top) - 1572544
+1. [单依纯二封内地最佳女歌手](https://s.weibo.com//weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E4%BA%8C%E5%B0%81%E5%86%85%E5%9C%B0%E6%9C%80%E4%BD%B3%E5%A5%B3%E6%AD%8C%E6%89%8B%23&t=152&Refer=top) - 311686
+1. [鹿晗天资是很残忍的东西](https://s.weibo.com//weibo?q=%23%E9%B9%BF%E6%99%97%E5%A4%A9%E8%B5%84%E6%98%AF%E5%BE%88%E6%AE%8B%E5%BF%8D%E7%9A%84%E4%B8%9C%E8%A5%BF%23&t=152&Refer=top) - 772413
 1. [严浩翔直播](https://s.weibo.com//weibo?q=%E4%B8%A5%E6%B5%A9%E7%BF%94%E7%9B%B4%E6%92%AD&t=152&Refer=top) - 430132
-1. [橹穆情侣发色](https://s.weibo.com//weibo?q=%23%E6%A9%B9%E7%A9%86%E6%83%85%E4%BE%A3%E5%8F%91%E8%89%B2%23&t=152&Refer=top) - 404261
+1. [陈奕恒陈思罕Teeth](https://s.weibo.com//weibo?q=%E9%99%88%E5%A5%95%E6%81%92%E9%99%88%E6%80%9D%E7%BD%95Teeth&t=152&Refer=top) - 514293
+1. [米卡音色流氓](https://s.weibo.com//weibo?q=%E7%B1%B3%E5%8D%A1%E9%9F%B3%E8%89%B2%E6%B5%81%E6%B0%93&t=152&Refer=top) - 311655
+1. [慢慢喜欢你](https://s.weibo.com//weibo?q=%E6%85%A2%E6%85%A2%E5%96%9C%E6%AC%A2%E4%BD%A0&t=152&Refer=top) - 306293
+1. [四代唱刺了](https://s.weibo.com//weibo?q=%E5%9B%9B%E4%BB%A3%E5%94%B1%E5%88%BA%E4%BA%86&t=152&Refer=top) - 514303
+1. [奇文 春雪](https://s.weibo.com//weibo?q=%E5%A5%87%E6%96%87%20%E6%98%A5%E9%9B%AA&t=152&Refer=top) - 306279
+1. [张彬彬台风好帅](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%BD%AC%E5%BD%AC%E5%8F%B0%E9%A3%8E%E5%A5%BD%E5%B8%85&t=152&Refer=top) - 292657
+1. [米卡居然输了](https://s.weibo.com//weibo?q=%23%E7%B1%B3%E5%8D%A1%E5%B1%85%E7%84%B6%E8%BE%93%E4%BA%86%23&t=152&Refer=top) - 272991
+1. [虞书欣穿戏服聚会](https://s.weibo.com//weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%A9%BF%E6%88%8F%E6%9C%8D%E8%81%9A%E4%BC%9A%23&t=152&Refer=top) - 492018
+1. [孙楠 降维打击](https://s.weibo.com//weibo?q=%E5%AD%99%E6%A5%A0%20%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB&t=152&Refer=top) - 254147
+1. [单依纯新歌](https://s.weibo.com//weibo?q=%E5%8D%95%E4%BE%9D%E7%BA%AF%E6%96%B0%E6%AD%8C&t=152&Refer=top) - 247593
+1. [唐九洲赢了米卡](https://s.weibo.com//weibo?q=%23%E5%94%90%E4%B9%9D%E6%B4%B2%E8%B5%A2%E4%BA%86%E7%B1%B3%E5%8D%A1%23&t=152&Refer=top) - 241010
+1. [王俊凯脖子上的蝴蝶](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%84%96%E5%AD%90%E4%B8%8A%E7%9A%84%E8%9D%B4%E8%9D%B6%23&t=152&Refer=top) - 295792
+1. [孙楠回应看曾辉唱歌表情](https://s.weibo.com//weibo?q=%23%E5%AD%99%E6%A5%A0%E5%9B%9E%E5%BA%94%E7%9C%8B%E6%9B%BE%E8%BE%89%E5%94%B1%E6%AD%8C%E8%A1%A8%E6%83%85%23&t=152&Refer=top) - 227252
+1. [陈伟霆张新成 山海相逢](https://s.weibo.com//weibo?q=%E9%99%88%E4%BC%9F%E9%9C%86%E5%BC%A0%E6%96%B0%E6%88%90%20%E5%B1%B1%E6%B5%B7%E7%9B%B8%E9%80%A2&t=152&Refer=top) - 226297
+1. [刘耀文雷霆裤子](https://s.weibo.com//weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E9%9B%B7%E9%9C%86%E8%A3%A4%E5%AD%90%23&t=152&Refer=top) - 295786
+1. [唐九洲披哥版糖果超甜](https://s.weibo.com//weibo?q=%23%E5%94%90%E4%B9%9D%E6%B4%B2%E6%8A%AB%E5%93%A5%E7%89%88%E7%B3%96%E6%9E%9C%E8%B6%85%E7%94%9C%23&t=152&Refer=top) - 213554
+1. [TF四代vs时代少年团刺舞台](https://s.weibo.com//weibo?q=%23TF%E5%9B%9B%E4%BB%A3vs%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%88%BA%E8%88%9E%E5%8F%B0%23&t=152&Refer=top) - 206445
+1. [TMEA节目单](https://s.weibo.com//weibo?q=TMEA%E8%8A%82%E7%9B%AE%E5%8D%95&t=152&Refer=top) - 552137
+1. [丁程鑫从不遮掩自己农村家庭背景](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E4%BB%8E%E4%B8%8D%E9%81%AE%E6%8E%A9%E8%87%AA%E5%B7%B1%E5%86%9C%E6%9D%91%E5%AE%B6%E5%BA%AD%E8%83%8C%E6%99%AF%23&t=152&Refer=top) - 206050
+1. [龙餐馆未被采纳的海报](https://s.weibo.com//weibo?q=%E9%BE%99%E9%A4%90%E9%A6%86%E6%9C%AA%E8%A2%AB%E9%87%87%E7%BA%B3%E7%9A%84%E6%B5%B7%E6%8A%A5&t=152&Refer=top) - 613485
+1. [五公节目单](https://s.weibo.com//weibo?q=%E4%BA%94%E5%85%AC%E8%8A%82%E7%9B%AE%E5%8D%95&t=152&Refer=top) - 336317
+1. [张远回南京财经大学了](https://s.weibo.com//weibo?q=%E5%BC%A0%E8%BF%9C%E5%9B%9E%E5%8D%97%E4%BA%AC%E8%B4%A2%E7%BB%8F%E5%A4%A7%E5%AD%A6%E4%BA%86&t=152&Refer=top) - 262928
+1. [王源雪崩年度金曲](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E9%9B%AA%E5%B4%A9%E5%B9%B4%E5%BA%A6%E9%87%91%E6%9B%B2%23&t=152&Refer=top) - 189810
+1. [铭罕](https://s.weibo.com//weibo?q=%E9%93%AD%E7%BD%95&t=152&Refer=top) - 183496
+1. [张柏芝演唱会状态](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9F%8F%E8%8A%9D%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8A%B6%E6%80%81%23&t=152&Refer=top) - 192274
+1. [灯牌](https://s.weibo.com//weibo?q=%E7%81%AF%E7%89%8C&t=152&Refer=top) - 1062788
+1. [杜华 练练普通话吧](https://s.weibo.com//weibo?q=%E6%9D%9C%E5%8D%8E%20%E7%BB%83%E7%BB%83%E6%99%AE%E9%80%9A%E8%AF%9D%E5%90%A7&t=152&Refer=top) - 514313
 1. [周深穿未完成作品走红毯](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%B7%B1%E7%A9%BF%E6%9C%AA%E5%AE%8C%E6%88%90%E4%BD%9C%E5%93%81%E8%B5%B0%E7%BA%A2%E6%AF%AF%23&t=152&Refer=top) - 363834
 1. [王橹杰蓝发](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%A9%B9%E6%9D%B0%E8%93%9D%E5%8F%91&t=152&Refer=top) - 1192209
-1. [五公节目单](https://s.weibo.com//weibo?q=%E4%BA%94%E5%85%AC%E8%8A%82%E7%9B%AE%E5%8D%95&t=152&Refer=top) - 336317
-1. [龙餐馆未被采纳的海报](https://s.weibo.com//weibo?q=%E9%BE%99%E9%A4%90%E9%A6%86%E6%9C%AA%E8%A2%AB%E9%87%87%E7%BA%B3%E7%9A%84%E6%B5%B7%E6%8A%A5&t=152&Refer=top) - 613485
-1. [王橹杰摔倒](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%A9%B9%E6%9D%B0%E6%91%94%E5%80%92&t=152&Refer=top) - 328664
 1. [苏新皓牙牙乐](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E6%96%B0%E7%9A%93%E7%89%99%E7%89%99%E4%B9%90%23&t=152&Refer=top) - 295797
-1. [王俊凯脖子上的蝴蝶](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%84%96%E5%AD%90%E4%B8%8A%E7%9A%84%E8%9D%B4%E8%9D%B6%23&t=152&Refer=top) - 295792
-1. [刘耀文雷霆裤子](https://s.weibo.com//weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E9%9B%B7%E9%9C%86%E8%A3%A4%E5%AD%90%23&t=152&Refer=top) - 295786
-1. [沈佳润还是藏不住事的年纪](https://s.weibo.com//weibo?q=%23%E6%B2%88%E4%BD%B3%E6%B6%A6%E8%BF%98%E6%98%AF%E8%97%8F%E4%B8%8D%E4%BD%8F%E4%BA%8B%E7%9A%84%E5%B9%B4%E7%BA%AA%23&t=152&Refer=top) - 292143
-1. [张远回南京财经大学了](https://s.weibo.com//weibo?q=%E5%BC%A0%E8%BF%9C%E5%9B%9E%E5%8D%97%E4%BA%AC%E8%B4%A2%E7%BB%8F%E5%A4%A7%E5%AD%A6%E4%BA%86&t=152&Refer=top) - 262928
-1. [灯牌](https://s.weibo.com//weibo?q=%E7%81%AF%E7%89%8C&t=152&Refer=top) - 1062788
-1. [TMEA节目单](https://s.weibo.com//weibo?q=TMEA%E8%8A%82%E7%9B%AE%E5%8D%95&t=152&Refer=top) - 552137
 1. [粉丝和侯明昊打了一晚上电话](https://s.weibo.com//weibo?q=%23%E7%B2%89%E4%B8%9D%E5%92%8C%E4%BE%AF%E6%98%8E%E6%98%8A%E6%89%93%E4%BA%86%E4%B8%80%E6%99%9A%E4%B8%8A%E7%94%B5%E8%AF%9D%23&t=152&Refer=top) - 236625
 1. [云旗演唱会](https://s.weibo.com//weibo?q=%E4%BA%91%E6%97%97%E6%BC%94%E5%94%B1%E4%BC%9A&t=152&Refer=top) - 376673
 1. [疑似龙餐馆找沈腾演男主的原因](https://s.weibo.com//weibo?q=%E7%96%91%E4%BC%BC%E9%BE%99%E9%A4%90%E9%A6%86%E6%89%BE%E6%B2%88%E8%85%BE%E6%BC%94%E7%94%B7%E4%B8%BB%E7%9A%84%E5%8E%9F%E5%9B%A0&t=152&Refer=top) - 781050
 1. [张真源有因为严浩翔的委屈心疼](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%9C%9F%E6%BA%90%E6%9C%89%E5%9B%A0%E4%B8%BA%E4%B8%A5%E6%B5%A9%E7%BF%94%E7%9A%84%E5%A7%94%E5%B1%88%E5%BF%83%E7%96%BC%23&t=152&Refer=top) - 236601
-1. [Jennie因服装问题道歉](https://s.weibo.com//weibo?q=%23Jennie%E5%9B%A0%E6%9C%8D%E8%A3%85%E9%97%AE%E9%A2%98%E9%81%93%E6%AD%89%23&t=152&Refer=top) - 236593
 1. [网红方丈承认出轨](https://s.weibo.com//weibo?q=%23%E7%BD%91%E7%BA%A2%E6%96%B9%E4%B8%88%E6%89%BF%E8%AE%A4%E5%87%BA%E8%BD%A8%23&t=152&Refer=top) - 680348
 1. [严浩翔听到张峻豪放狠话的反应](https://s.weibo.com//weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%90%AC%E5%88%B0%E5%BC%A0%E5%B3%BB%E8%B1%AA%E6%94%BE%E7%8B%A0%E8%AF%9D%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=152&Refer=top) - 996539
 1. [陈奕恒红棕卷毛](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%A5%95%E6%81%92%E7%BA%A2%E6%A3%95%E5%8D%B7%E6%AF%9B%23&t=152&Refer=top) - 217659
-1. [张彬彬台风好帅](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%BD%AC%E5%BD%AC%E5%8F%B0%E9%A3%8E%E5%A5%BD%E5%B8%85&t=152&Refer=top) - 213638
-1. [张柏芝演唱会状态](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9F%8F%E8%8A%9D%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8A%B6%E6%80%81%23&t=152&Refer=top) - 192274
 1. [第肆象限rap](https://s.weibo.com//weibo?q=%E7%AC%AC%E8%82%86%E8%B1%A1%E9%99%90rap&t=152&Refer=top) - 184801
 1. [时代少年团全世界我最美十大金曲](https://s.weibo.com//weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%85%A8%E4%B8%96%E7%95%8C%E6%88%91%E6%9C%80%E7%BE%8E%E5%8D%81%E5%A4%A7%E9%87%91%E6%9B%B2%23&t=152&Refer=top) - 180346
 1. [TMEA](https://s.weibo.com//weibo?q=TMEA&t=152&Refer=top) - 250082
