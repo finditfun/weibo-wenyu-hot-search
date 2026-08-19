@@ -2,44 +2,72 @@
 微博文娱热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 19 2026 09:10:03 GMT+0800 (China Standard Time) -->
-1. [桃黑黑 赌博](https://s.weibo.com//weibo?q=%E6%A1%83%E9%BB%91%E9%BB%91%20%E8%B5%8C%E5%8D%9A&t=152&Refer=top) - 2949180
+<!-- 最后更新时间 Wed Aug 19 2026 10:55:44 GMT+0800 (China Standard Time) -->
+1. [曝时代少年团明年规划](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%98%8E%E5%B9%B4%E8%A7%84%E5%88%92%23&t=152&Refer=top) - 1159008
+1. [邝玲玲全球最美女性第一名](https://s.weibo.com//weibo?q=%E9%82%9D%E7%8E%B2%E7%8E%B2%E5%85%A8%E7%90%83%E6%9C%80%E7%BE%8E%E5%A5%B3%E6%80%A7%E7%AC%AC%E4%B8%80%E5%90%8D&t=152&Refer=top) - 985813
+1. [肖战香港线下活动](https://s.weibo.com//weibo?q=%E8%82%96%E6%88%98%E9%A6%99%E6%B8%AF%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8&t=152&Refer=top) - 888706
+1. [去有风的地方](https://s.weibo.com//weibo?q=%E5%8E%BB%E6%9C%89%E9%A3%8E%E7%9A%84%E5%9C%B0%E6%96%B9&t=152&Refer=top) - 630082
 1. [章子怡套现3亿](https://s.weibo.com//weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E5%A5%97%E7%8E%B03%E4%BA%BF%23&t=152&Refer=top) - 1209237
+1. [我的前半生原著没有贺涵](https://s.weibo.com//weibo?q=%23%E6%88%91%E7%9A%84%E5%89%8D%E5%8D%8A%E7%94%9F%E5%8E%9F%E8%91%97%E6%B2%A1%E6%9C%89%E8%B4%BA%E6%B6%B5%23&t=152&Refer=top) - 510366
+1. [冬雪 橹穆](https://s.weibo.com//weibo?q=%E5%86%AC%E9%9B%AA%20%E6%A9%B9%E7%A9%86&t=152&Refer=top) - 459329
+1. [将门独后七夕海报](https://s.weibo.com//weibo?q=%23%E5%B0%86%E9%97%A8%E7%8B%AC%E5%90%8E%E4%B8%83%E5%A4%95%E6%B5%B7%E6%8A%A5%23&t=152&Refer=top) - 413396
 1. [武林外传 去性别化](https://s.weibo.com//weibo?q=%E6%AD%A6%E6%9E%97%E5%A4%96%E4%BC%A0%20%E5%8E%BB%E6%80%A7%E5%88%AB%E5%8C%96&t=152&Refer=top) - 738026
-1. [曝时代少年团明年规划](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%98%8E%E5%B9%B4%E8%A7%84%E5%88%92%23&t=152&Refer=top) - 454876
 1. [李现回沙溪古镇了](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E7%8E%B0%E5%9B%9E%E6%B2%99%E6%BA%AA%E5%8F%A4%E9%95%87%E4%BA%86%23&t=152&Refer=top) - 416573
+1. [张峻豪演唱会官宣](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%B3%BB%E8%B1%AA%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3&t=152&Refer=top) - 301366
+1. [杨迪以前以为谢娜喜欢他](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E8%BF%AA%E4%BB%A5%E5%89%8D%E4%BB%A5%E4%B8%BA%E8%B0%A2%E5%A8%9C%E5%96%9C%E6%AC%A2%E4%BB%96%23&t=152&Refer=top) - 271229
+1. [女子在洗澡间装了张凌赫窗帘](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%B4%97%E6%BE%A1%E9%97%B4%E8%A3%85%E4%BA%86%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%AA%97%E5%B8%98%23&t=152&Refer=top) - 244106
+1. [尚公主](https://s.weibo.com//weibo?q=%E5%B0%9A%E5%85%AC%E4%B8%BB&t=152&Refer=top) - 219696
+1. [偶遇左奇函陈奕恒一起吃饭](https://s.weibo.com//weibo?q=%23%E5%81%B6%E9%81%87%E5%B7%A6%E5%A5%87%E5%87%BD%E9%99%88%E5%A5%95%E6%81%92%E4%B8%80%E8%B5%B7%E5%90%83%E9%A5%AD%23&t=152&Refer=top) - 197726
+1. [偶遇邓超孙俪带等等](https://s.weibo.com//weibo?q=%E5%81%B6%E9%81%87%E9%82%93%E8%B6%85%E5%AD%99%E4%BF%AA%E5%B8%A6%E7%AD%89%E7%AD%89&t=152&Refer=top) - 177953
+1. [丞磊徐若晗玉簟秋七夕海报](https://s.weibo.com//weibo?q=%23%E4%B8%9E%E7%A3%8A%E5%BE%90%E8%8B%A5%E6%99%97%E7%8E%89%E7%B0%9F%E7%A7%8B%E4%B8%83%E5%A4%95%E6%B5%B7%E6%8A%A5%23&t=152&Refer=top) - 160158
+1. [桃黑黑曾辟谣赌博传闻](https://s.weibo.com//weibo?q=%23%E6%A1%83%E9%BB%91%E9%BB%91%E6%9B%BE%E8%BE%9F%E8%B0%A3%E8%B5%8C%E5%8D%9A%E4%BC%A0%E9%97%BB%23&t=152&Refer=top) - 144142
+1. [侯明昊七夕卡点520](https://s.weibo.com//weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E4%B8%83%E5%A4%95%E5%8D%A1%E7%82%B9520%23&t=152&Refer=top) - 130580
+1. [桂瑞数据组重组](https://s.weibo.com//weibo?q=%E6%A1%82%E7%91%9E%E6%95%B0%E6%8D%AE%E7%BB%84%E9%87%8D%E7%BB%84&t=152&Refer=top) - 124271
+1. [贝儿17岁才第一次剥虾](https://s.weibo.com//weibo?q=%23%E8%B4%9D%E5%84%BF17%E5%B2%81%E6%89%8D%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%89%A5%E8%99%BE%23&t=152&Refer=top) - 124261
 1. [迪丽热巴克拉恋人剧本照进现实](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%85%8B%E6%8B%89%E6%81%8B%E4%BA%BA%E5%89%A7%E6%9C%AC%E7%85%A7%E8%BF%9B%E7%8E%B0%E5%AE%9E%23&t=152&Refer=top) - 368449
-1. [那英北京演唱会嘉宾](https://s.weibo.com//weibo?q=%23%E9%82%A3%E8%8B%B1%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%23&t=152&Refer=top) - 331604
-1. [Dior全球公关总监去世](https://s.weibo.com//weibo?q=Dior%E5%85%A8%E7%90%83%E5%85%AC%E5%85%B3%E6%80%BB%E7%9B%91%E5%8E%BB%E4%B8%96&t=152&Refer=top) - 871170
-1. [蓝盈莹上浪姐确实赢麻了](https://s.weibo.com//weibo?q=%23%E8%93%9D%E7%9B%88%E8%8E%B9%E4%B8%8A%E6%B5%AA%E5%A7%90%E7%A1%AE%E5%AE%9E%E8%B5%A2%E9%BA%BB%E4%BA%86%23&t=152&Refer=top) - 268599
 1. [穆祉丞自拍P了眉钉和颜文字](https://s.weibo.com//weibo?q=%23%E7%A9%86%E7%A5%89%E4%B8%9E%E8%87%AA%E6%8B%8DP%E4%BA%86%E7%9C%89%E9%92%89%E5%92%8C%E9%A2%9C%E6%96%87%E5%AD%97%23&t=152&Refer=top) - 241739
-1. [穆祉丞像七夕报备的男友](https://s.weibo.com//weibo?q=%23%E7%A9%86%E7%A5%89%E4%B8%9E%E5%83%8F%E4%B8%83%E5%A4%95%E6%8A%A5%E5%A4%87%E7%9A%84%E7%94%B7%E5%8F%8B%23&t=152&Refer=top) - 374915
-1. [女子在洗澡间装了张凌赫窗帘](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%B4%97%E6%BE%A1%E9%97%B4%E8%A3%85%E4%BA%86%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%AA%97%E5%B8%98%23&t=152&Refer=top) - 195809
-1. [刘亦菲携爱宠登芭莎九月封面](https://s.weibo.com//weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E6%90%BA%E7%88%B1%E5%AE%A0%E7%99%BB%E8%8A%AD%E8%8E%8E%E4%B9%9D%E6%9C%88%E5%B0%81%E9%9D%A2&t=152&Refer=top) - 273313
-1. [桃黑黑被指纵容朋友辱女](https://s.weibo.com//weibo?q=%E6%A1%83%E9%BB%91%E9%BB%91%E8%A2%AB%E6%8C%87%E7%BA%B5%E5%AE%B9%E6%9C%8B%E5%8F%8B%E8%BE%B1%E5%A5%B3&t=152&Refer=top) - 158605
-1. [汪苏泷鸟巢御用墨镜](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E9%B8%9F%E5%B7%A2%E5%BE%A1%E7%94%A8%E5%A2%A8%E9%95%9C%23&t=152&Refer=top) - 142744
-1. [TF四代落地重庆](https://s.weibo.com//weibo?q=%23TF%E5%9B%9B%E4%BB%A3%E8%90%BD%E5%9C%B0%E9%87%8D%E5%BA%86%23&t=152&Refer=top) - 658634
-1. [侯明昊七夕卡点520](https://s.weibo.com//weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E4%B8%83%E5%A4%95%E5%8D%A1%E7%82%B9520%23&t=152&Refer=top) - 115623
-1. [杨迪以前以为谢娜喜欢他](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E8%BF%AA%E4%BB%A5%E5%89%8D%E4%BB%A5%E4%B8%BA%E8%B0%A2%E5%A8%9C%E5%96%9C%E6%AC%A2%E4%BB%96%23&t=152&Refer=top) - 104061
+1. [玉簟秋](https://s.weibo.com//weibo?q=%E7%8E%89%E7%B0%9F%E7%A7%8B&t=152&Refer=top) - 116190
+1. [BLACKPINK出道至今妆容变化](https://s.weibo.com//weibo?q=%23BLACKPINK%E5%87%BA%E9%81%93%E8%87%B3%E4%BB%8A%E5%A6%86%E5%AE%B9%E5%8F%98%E5%8C%96%23&t=152&Refer=top) - 113460
+1. [唐九洲邵子恒凌晨拉练满江](https://s.weibo.com//weibo?q=%23%E5%94%90%E4%B9%9D%E6%B4%B2%E9%82%B5%E5%AD%90%E6%81%92%E5%87%8C%E6%99%A8%E6%8B%89%E7%BB%83%E6%BB%A1%E6%B1%9F%23&t=152&Refer=top) - 111727
+1. [Dior全球公关总监去世](https://s.weibo.com//weibo?q=Dior%E5%85%A8%E7%90%83%E5%85%AC%E5%85%B3%E6%80%BB%E7%9B%91%E5%8E%BB%E4%B8%96&t=152&Refer=top) - 871170
+1. [艾米才进郭敬明组六七天](https://s.weibo.com//weibo?q=%23%E8%89%BE%E7%B1%B3%E6%89%8D%E8%BF%9B%E9%83%AD%E6%95%AC%E6%98%8E%E7%BB%84%E5%85%AD%E4%B8%83%E5%A4%A9%23&t=152&Refer=top) - 107947
+1. [电影空枪今日上映](https://s.weibo.com//weibo?q=%E7%94%B5%E5%BD%B1%E7%A9%BA%E6%9E%AA%E4%BB%8A%E6%97%A5%E4%B8%8A%E6%98%A0&t=152&Refer=top) - 106368
+1. [邢昭林何蓝逗吻戏](https://s.weibo.com//weibo?q=%23%E9%82%A2%E6%98%AD%E6%9E%97%E4%BD%95%E8%93%9D%E9%80%97%E5%90%BB%E6%88%8F%23&t=152&Refer=top) - 104077
+1. [蓝盈莹上浪姐确实赢麻了](https://s.weibo.com//weibo?q=%23%E8%93%9D%E7%9B%88%E8%8E%B9%E4%B8%8A%E6%B5%AA%E5%A7%90%E7%A1%AE%E5%AE%9E%E8%B5%A2%E9%BA%BB%E4%BA%86%23&t=152&Refer=top) - 268599
+1. [朱志鑫赛车服电竞男主](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E5%BF%97%E9%91%AB%E8%B5%9B%E8%BD%A6%E6%9C%8D%E7%94%B5%E7%AB%9E%E7%94%B7%E4%B8%BB%23&t=152&Refer=top) - 93245
+1. [宋茜和宋雨琦同框](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E8%8C%9C%E5%92%8C%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%90%8C%E6%A1%86%23&t=152&Refer=top) - 91186
+1. [爱奇艺Q2财报提到的剧集](https://s.weibo.com//weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BAQ2%E8%B4%A2%E6%8A%A5%E6%8F%90%E5%88%B0%E7%9A%84%E5%89%A7%E9%9B%86%23&t=152&Refer=top) - 88446
+1. [包上恩模仿蜘蛛侠](https://s.weibo.com//weibo?q=%23%E5%8C%85%E4%B8%8A%E6%81%A9%E6%A8%A1%E4%BB%BF%E8%9C%98%E8%9B%9B%E4%BE%A0%23&t=152&Refer=top) - 83394
+1. [鹭卓厕所直播吃蛋糕](https://s.weibo.com//weibo?q=%23%E9%B9%AD%E5%8D%93%E5%8E%95%E6%89%80%E7%9B%B4%E6%92%AD%E5%90%83%E8%9B%8B%E7%B3%95%23&t=152&Refer=top) - 80363
+1. [何炅因年龄大被密室拒绝](https://s.weibo.com//weibo?q=%23%E4%BD%95%E7%82%85%E5%9B%A0%E5%B9%B4%E9%BE%84%E5%A4%A7%E8%A2%AB%E5%AF%86%E5%AE%A4%E6%8B%92%E7%BB%9D%23&t=152&Refer=top) - 480144
+1. [蓝盈莹说浪姐只是摄影棚](https://s.weibo.com//weibo?q=%23%E8%93%9D%E7%9B%88%E8%8E%B9%E8%AF%B4%E6%B5%AA%E5%A7%90%E5%8F%AA%E6%98%AF%E6%91%84%E5%BD%B1%E6%A3%9A%23&t=152&Refer=top) - 76847
 1. [BIGBANG20周年纪念视频](https://s.weibo.com//weibo?q=%23BIGBANG20%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E8%A7%86%E9%A2%91%23&t=152&Refer=top) - 93654
-1. [蓝盈莹回应蹭蓝天野流量争议](https://s.weibo.com//weibo?q=%23%E8%93%9D%E7%9B%88%E8%8E%B9%E5%9B%9E%E5%BA%94%E8%B9%AD%E8%93%9D%E5%A4%A9%E9%87%8E%E6%B5%81%E9%87%8F%E4%BA%89%E8%AE%AE%23&t=152&Refer=top) - 130725
-1. [丁禹兮陪看花开锦绣红温了](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E9%99%AA%E7%9C%8B%E8%8A%B1%E5%BC%80%E9%94%A6%E7%BB%A3%E7%BA%A2%E6%B8%A9%E4%BA%86%23&t=152&Refer=top) - 84283
+1. [那英北京演唱会嘉宾](https://s.weibo.com//weibo?q=%23%E9%82%A3%E8%8B%B1%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%23&t=152&Refer=top) - 331604
 1. [白鹿包场敖瑞鹏孙珍妮师兄太稳健](https://s.weibo.com//weibo?q=%23%E7%99%BD%E9%B9%BF%E5%8C%85%E5%9C%BA%E6%95%96%E7%91%9E%E9%B9%8F%E5%AD%99%E7%8F%8D%E5%A6%AE%E5%B8%88%E5%85%84%E5%A4%AA%E7%A8%B3%E5%81%A5%23&t=152&Refer=top) - 388916
-1. [吴泽林曾在现场情绪失控](https://s.weibo.com//weibo?q=%23%E5%90%B4%E6%B3%BD%E6%9E%97%E6%9B%BE%E5%9C%A8%E7%8E%B0%E5%9C%BA%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%23&t=152&Refer=top) - 245982
-1. [王诗晴曾参加过再见爱人](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%AF%97%E6%99%B4%E6%9B%BE%E5%8F%82%E5%8A%A0%E8%BF%87%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%23&t=152&Refer=top) - 77053
+1. [刘亦菲携爱宠登芭莎九月封面](https://s.weibo.com//weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E6%90%BA%E7%88%B1%E5%AE%A0%E7%99%BB%E8%8A%AD%E8%8E%8E%E4%B9%9D%E6%9C%88%E5%B0%81%E9%9D%A2&t=152&Refer=top) - 273313
+1. [TF四代落地重庆](https://s.weibo.com//weibo?q=%23TF%E5%9B%9B%E4%BB%A3%E8%90%BD%E5%9C%B0%E9%87%8D%E5%BA%86%23&t=152&Refer=top) - 658634
+1. [乌兰图雅徐洁儿谢楠乘风研讨会合照](https://s.weibo.com//weibo?q=%23%E4%B9%8C%E5%85%B0%E5%9B%BE%E9%9B%85%E5%BE%90%E6%B4%81%E5%84%BF%E8%B0%A2%E6%A5%A0%E4%B9%98%E9%A3%8E%E7%A0%94%E8%AE%A8%E4%BC%9A%E5%90%88%E7%85%A7%23&t=152&Refer=top) - 61352
+1. [汪苏泷鸟巢御用墨镜](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E9%B8%9F%E5%B7%A2%E5%BE%A1%E7%94%A8%E5%A2%A8%E9%95%9C%23&t=152&Refer=top) - 142744
 1. [窦佳嫄去年才收到窦唯第一个红包](https://s.weibo.com//weibo?q=%23%E7%AA%A6%E4%BD%B3%E5%AB%84%E5%8E%BB%E5%B9%B4%E6%89%8D%E6%94%B6%E5%88%B0%E7%AA%A6%E5%94%AF%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%BA%A2%E5%8C%85%23&t=152&Refer=top) - 95290
 1. [鞠婧祎的车开到长江国际了](https://s.weibo.com//weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E7%9A%84%E8%BD%A6%E5%BC%80%E5%88%B0%E9%95%BF%E6%B1%9F%E5%9B%BD%E9%99%85%E4%BA%86%23&t=152&Refer=top) - 303681
+1. [丁禹兮陪看花开锦绣红温了](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E9%99%AA%E7%9C%8B%E8%8A%B1%E5%BC%80%E9%94%A6%E7%BB%A3%E7%BA%A2%E6%B8%A9%E4%BA%86%23&t=152&Refer=top) - 84283
+1. [王鹤棣孟子义将门独后七夕营业](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%AD%9F%E5%AD%90%E4%B9%89%E5%B0%86%E9%97%A8%E7%8B%AC%E5%90%8E%E4%B8%83%E5%A4%95%E8%90%A5%E4%B8%9A%23&t=152&Refer=top) - 53161
+1. [司宫令七夕剧宣](https://s.weibo.com//weibo?q=%23%E5%8F%B8%E5%AE%AB%E4%BB%A4%E4%B8%83%E5%A4%95%E5%89%A7%E5%AE%A3%23&t=152&Refer=top) - 52749
+1. [桃黑黑 赌博](https://s.weibo.com//weibo?q=%E6%A1%83%E9%BB%91%E9%BB%91%20%E8%B5%8C%E5%8D%9A&t=152&Refer=top) - 2949180
+1. [穆祉丞像七夕报备的男友](https://s.weibo.com//weibo?q=%23%E7%A9%86%E7%A5%89%E4%B8%9E%E5%83%8F%E4%B8%83%E5%A4%95%E6%8A%A5%E5%A4%87%E7%9A%84%E7%94%B7%E5%8F%8B%23&t=152&Refer=top) - 374915
+1. [桃黑黑被指纵容朋友辱女](https://s.weibo.com//weibo?q=%E6%A1%83%E9%BB%91%E9%BB%91%E8%A2%AB%E6%8C%87%E7%BA%B5%E5%AE%B9%E6%9C%8B%E5%8F%8B%E8%BE%B1%E5%A5%B3&t=152&Refer=top) - 158605
+1. [蓝盈莹回应蹭蓝天野流量争议](https://s.weibo.com//weibo?q=%23%E8%93%9D%E7%9B%88%E8%8E%B9%E5%9B%9E%E5%BA%94%E8%B9%AD%E8%93%9D%E5%A4%A9%E9%87%8E%E6%B5%81%E9%87%8F%E4%BA%89%E8%AE%AE%23&t=152&Refer=top) - 130725
+1. [吴泽林曾在现场情绪失控](https://s.weibo.com//weibo?q=%23%E5%90%B4%E6%B3%BD%E6%9E%97%E6%9B%BE%E5%9C%A8%E7%8E%B0%E5%9C%BA%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%23&t=152&Refer=top) - 245982
+1. [王诗晴曾参加过再见爱人](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%AF%97%E6%99%B4%E6%9B%BE%E5%8F%82%E5%8A%A0%E8%BF%87%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%23&t=152&Refer=top) - 77053
 1. [闫佩伦演技](https://s.weibo.com//weibo?q=%E9%97%AB%E4%BD%A9%E4%BC%A6%E6%BC%94%E6%8A%80&t=152&Refer=top) - 106027
 1. [曝时尚芭莎新主编封面首秀是刘亦菲](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E6%97%B6%E5%B0%9A%E8%8A%AD%E8%8E%8E%E6%96%B0%E4%B8%BB%E7%BC%96%E5%B0%81%E9%9D%A2%E9%A6%96%E7%A7%80%E6%98%AF%E5%88%98%E4%BA%A6%E8%8F%B2%23&t=152&Refer=top) - 64227
 1. [金智秀悼念迪奥公关总监](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%99%BA%E7%A7%80%E6%82%BC%E5%BF%B5%E8%BF%AA%E5%A5%A5%E5%85%AC%E5%85%B3%E6%80%BB%E7%9B%91%23&t=152&Refer=top) - 285056
-1. [何炅因年龄大被密室拒绝](https://s.weibo.com//weibo?q=%23%E4%BD%95%E7%82%85%E5%9B%A0%E5%B9%B4%E9%BE%84%E5%A4%A7%E8%A2%AB%E5%AF%86%E5%AE%A4%E6%8B%92%E7%BB%9D%23&t=152&Refer=top) - 480144
 1. [虞书欣Esther House上线](https://s.weibo.com//weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3Esther%20House%E4%B8%8A%E7%BA%BF&t=152&Refer=top) - 179321
 1. [王诗晴怀孕](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%AF%97%E6%99%B4%E6%80%80%E5%AD%95%23&t=152&Refer=top) - 315022
 1. [卢昱晓说英语好苏](https://s.weibo.com//weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E8%AF%B4%E8%8B%B1%E8%AF%AD%E5%A5%BD%E8%8B%8F%23&t=152&Refer=top) - 54669
 1. [章子怡一笔投资4年赚翻130倍](https://s.weibo.com//weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E4%B8%80%E7%AC%94%E6%8A%95%E8%B5%844%E5%B9%B4%E8%B5%9A%E7%BF%BB130%E5%80%8D%23&t=152&Refer=top) - 52055
 1. [Lisa获四项VMA提名](https://s.weibo.com//weibo?q=%23Lisa%E8%8E%B7%E5%9B%9B%E9%A1%B9VMA%E6%8F%90%E5%90%8D%23&t=152&Refer=top) - 51901
 1. [刺棠 张凌赫卢昱晓](https://s.weibo.com//weibo?q=%E5%88%BA%E6%A3%A0%20%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%8D%A2%E6%98%B1%E6%99%93&t=152&Refer=top) - 293874
-1. [爱奇艺Q2财报提到的剧集](https://s.weibo.com//weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BAQ2%E8%B4%A2%E6%8A%A5%E6%8F%90%E5%88%B0%E7%9A%84%E5%89%A7%E9%9B%86%23&t=152&Refer=top) - 46420
 1. [偶遇郭碧婷向佐带娃](https://s.weibo.com//weibo?q=%23%E5%81%B6%E9%81%87%E9%83%AD%E7%A2%A7%E5%A9%B7%E5%90%91%E4%BD%90%E5%B8%A6%E5%A8%83%23&t=152&Refer=top) - 161388
 1. [刘亦菲整个团队都穿黑色](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%95%B4%E4%B8%AA%E5%9B%A2%E9%98%9F%E9%83%BD%E7%A9%BF%E9%BB%91%E8%89%B2%23&t=152&Refer=top) - 592770
 1. [肖战香港](https://s.weibo.com//weibo?q=%E8%82%96%E6%88%98%E9%A6%99%E6%B8%AF&t=152&Refer=top) - 105878
@@ -51,7 +79,6 @@
 1. [蓝盈莹因为浪姐出圈接了3年的戏](https://s.weibo.com//weibo?q=%23%E8%93%9D%E7%9B%88%E8%8E%B9%E5%9B%A0%E4%B8%BA%E6%B5%AA%E5%A7%90%E5%87%BA%E5%9C%88%E6%8E%A5%E4%BA%863%E5%B9%B4%E7%9A%84%E6%88%8F%23&t=152&Refer=top) - 256550
 1. [周深两场演唱会带动周边消费近3亿](https://s.weibo.com//weibo?q=%E5%91%A8%E6%B7%B1%E4%B8%A4%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E5%B8%A6%E5%8A%A8%E5%91%A8%E8%BE%B9%E6%B6%88%E8%B4%B9%E8%BF%913%E4%BA%BF&t=152&Refer=top) - 34809
 1. [刘宇宁3年4次全台陆剧收视冠军](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%813%E5%B9%B44%E6%AC%A1%E5%85%A8%E5%8F%B0%E9%99%86%E5%89%A7%E6%94%B6%E8%A7%86%E5%86%A0%E5%86%9B%23&t=152&Refer=top) - 62520
-1. [我的前半生原著没有贺涵](https://s.weibo.com//weibo?q=%23%E6%88%91%E7%9A%84%E5%89%8D%E5%8D%8A%E7%94%9F%E5%8E%9F%E8%91%97%E6%B2%A1%E6%9C%89%E8%B4%BA%E6%B6%B5%23&t=152&Refer=top) - 31278
 1. [我的前半生](https://s.weibo.com//weibo?q=%E6%88%91%E7%9A%84%E5%89%8D%E5%8D%8A%E7%94%9F&t=152&Refer=top) - 199245
 1. [时代峰峻 爆料](https://s.weibo.com//weibo?q=%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%20%E7%88%86%E6%96%99&t=152&Refer=top) - 11212718
 1. [何老师出生证和教资一起发的](https://s.weibo.com//weibo?q=%23%E4%BD%95%E8%80%81%E5%B8%88%E5%87%BA%E7%94%9F%E8%AF%81%E5%92%8C%E6%95%99%E8%B5%84%E4%B8%80%E8%B5%B7%E5%8F%91%E7%9A%84%23&t=152&Refer=top) - 45851
