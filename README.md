@@ -2,45 +2,65 @@
 微博文娱热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 21 2026 21:43:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 21 2026 22:33:12 GMT+0800 (China Standard Time) -->
 1. [曝时代峰峻要给F1赔15.5亿](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E8%A6%81%E7%BB%99F1%E8%B5%9415.5%E4%BA%BF%23&t=152&Refer=top) - 4206592
 1. [陈柏霖当庭认罪](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%9F%8F%E9%9C%96%E5%BD%93%E5%BA%AD%E8%AE%A4%E7%BD%AA%23&t=152&Refer=top) - 1820314
+1. [虞书欣娜扎撞衫](https://s.weibo.com//weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%A8%9C%E6%89%8E%E6%92%9E%E8%A1%AB%23&t=152&Refer=top) - 1220363
 1. [小沈阳摔了](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%B2%88%E9%98%B3%E6%91%94%E4%BA%86%23&t=152&Refer=top) - 1608401
+1. [欢子 摆烂](https://s.weibo.com//weibo?q=%E6%AC%A2%E5%AD%90%20%E6%91%86%E7%83%82&t=152&Refer=top) - 762718
 1. [45岁的陈冠希48岁的黄晓明](https://s.weibo.com//weibo?q=%2345%E5%B2%81%E7%9A%84%E9%99%88%E5%86%A0%E5%B8%8C48%E5%B2%81%E7%9A%84%E9%BB%84%E6%99%93%E6%98%8E%23&t=152&Refer=top) - 1267567
-1. [离了曾辉谁逗我笑](https://s.weibo.com//weibo?q=%E7%A6%BB%E4%BA%86%E6%9B%BE%E8%BE%89%E8%B0%81%E9%80%97%E6%88%91%E7%AC%91&t=152&Refer=top) - 595060
+1. [闵塔鲨 迪丽热巴](https://s.weibo.com//weibo?q=%E9%97%B5%E5%A1%94%E9%B2%A8%20%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4&t=152&Refer=top) - 543696
+1. [艾热看曾辉唱rap的表情](https://s.weibo.com//weibo?q=%23%E8%89%BE%E7%83%AD%E7%9C%8B%E6%9B%BE%E8%BE%89%E5%94%B1rap%E7%9A%84%E8%A1%A8%E6%83%85%23&t=152&Refer=top) - 542659
 1. [舒淇美成这样还有什么烦恼](https://s.weibo.com//weibo?q=%E8%88%92%E6%B7%87%E7%BE%8E%E6%88%90%E8%BF%99%E6%A0%B7%E8%BF%98%E6%9C%89%E4%BB%80%E4%B9%88%E7%83%A6%E6%81%BC&t=152&Refer=top) - 491958
-1. [披荆斩棘直播](https://s.weibo.com//weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9B%B4%E6%92%AD&t=152&Refer=top) - 529144
+1. [林一名场面火到唐艺昕都刷到了](https://s.weibo.com//weibo?q=%23%E6%9E%97%E4%B8%80%E5%90%8D%E5%9C%BA%E9%9D%A2%E7%81%AB%E5%88%B0%E5%94%90%E8%89%BA%E6%98%95%E9%83%BD%E5%88%B7%E5%88%B0%E4%BA%86%23&t=152&Refer=top) - 439553
+1. [曾辉把小沈阳唱笑了](https://s.weibo.com//weibo?q=%23%E6%9B%BE%E8%BE%89%E6%8A%8A%E5%B0%8F%E6%B2%88%E9%98%B3%E5%94%B1%E7%AC%91%E4%BA%86%23&t=152&Refer=top) - 439544
+1. [顺其自然 难听](https://s.weibo.com//weibo?q=%E9%A1%BA%E5%85%B6%E8%87%AA%E7%84%B6%20%E9%9A%BE%E5%90%AC&t=152&Refer=top) - 439535
+1. [离了曾辉谁逗我笑](https://s.weibo.com//weibo?q=%E7%A6%BB%E4%BA%86%E6%9B%BE%E8%BE%89%E8%B0%81%E9%80%97%E6%88%91%E7%AC%91&t=152&Refer=top) - 595060
 1. [艾热去歌手吧](https://s.weibo.com//weibo?q=%E8%89%BE%E7%83%AD%E5%8E%BB%E6%AD%8C%E6%89%8B%E5%90%A7&t=152&Refer=top) - 398485
 1. [张函瑞的马陆被卖了](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%87%BD%E7%91%9E%E7%9A%84%E9%A9%AC%E9%99%86%E8%A2%AB%E5%8D%96%E4%BA%86%23&t=152&Refer=top) - 358637
-1. [闵塔鲨 迪丽热巴](https://s.weibo.com//weibo?q=%E9%97%B5%E5%A1%94%E9%B2%A8%20%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4&t=152&Refer=top) - 358630
 1. [马思纯又瘦了](https://s.weibo.com//weibo?q=%E9%A9%AC%E6%80%9D%E7%BA%AF%E5%8F%88%E7%98%A6%E4%BA%86&t=152&Refer=top) - 587938
-1. [艾热看曾辉唱rap的表情](https://s.weibo.com//weibo?q=%23%E8%89%BE%E7%83%AD%E7%9C%8B%E6%9B%BE%E8%BE%89%E5%94%B1rap%E7%9A%84%E8%A1%A8%E6%83%85%23&t=152&Refer=top) - 322761
-1. [小沈阳当面蛐蛐曾辉跑调](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%B2%88%E9%98%B3%E5%BD%93%E9%9D%A2%E8%9B%90%E8%9B%90%E6%9B%BE%E8%BE%89%E8%B7%91%E8%B0%83%23&t=152&Refer=top) - 290485
-1. [曝时代峰峻工作人员卖流浪狗](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%8D%96%E6%B5%81%E6%B5%AA%E7%8B%97%23&t=152&Refer=top) - 884313
-1. [汪苏泷说罗曼城音乐节是小道消息](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E8%AF%B4%E7%BD%97%E6%9B%BC%E5%9F%8E%E9%9F%B3%E4%B9%90%E8%8A%82%E6%98%AF%E5%B0%8F%E9%81%93%E6%B6%88%E6%81%AF%23&t=152&Refer=top) - 261429
-1. [曾辉把小沈阳唱笑了](https://s.weibo.com//weibo?q=%23%E6%9B%BE%E8%BE%89%E6%8A%8A%E5%B0%8F%E6%B2%88%E9%98%B3%E5%94%B1%E7%AC%91%E4%BA%86%23&t=152&Refer=top) - 261419
-1. [虞书欣黑丝](https://s.weibo.com//weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E9%BB%91%E4%B8%9D&t=152&Refer=top) - 1139052
-1. [中餐厅给张雅琪配了时钟后期](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E9%A4%90%E5%8E%85%E7%BB%99%E5%BC%A0%E9%9B%85%E7%90%AA%E9%85%8D%E4%BA%86%E6%97%B6%E9%92%9F%E5%90%8E%E6%9C%9F%23&t=152&Refer=top) - 1412363
-1. [时代峰峻被F1发函了](https://s.weibo.com//weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E8%A2%ABF1%E5%8F%91%E5%87%BD%E4%BA%86%23&t=152&Refer=top) - 246465
-1. [张彬彬李光洁曹骏顺其自然](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%AC%E6%9D%8E%E5%85%89%E6%B4%81%E6%9B%B9%E9%AA%8F%E9%A1%BA%E5%85%B6%E8%87%AA%E7%84%B6%23&t=152&Refer=top) - 197657
+1. [汪苏泷嘉宾莫文蔚](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%98%89%E5%AE%BE%E8%8E%AB%E6%96%87%E8%94%9A%23&t=152&Refer=top) - 259541
+1. [穆祉丞泡泡更新](https://s.weibo.com//weibo?q=%E7%A9%86%E7%A5%89%E4%B8%9E%E6%B3%A1%E6%B3%A1%E6%9B%B4%E6%96%B0&t=152&Refer=top) - 233587
+1. [李现王嘉尔生图](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E7%8E%B0%E7%8E%8B%E5%98%89%E5%B0%94%E7%94%9F%E5%9B%BE%23&t=152&Refer=top) - 210228
+1. [姚琛听到曾辉要睡在练习室的反应](https://s.weibo.com//weibo?q=%23%E5%A7%9A%E7%90%9B%E5%90%AC%E5%88%B0%E6%9B%BE%E8%BE%89%E8%A6%81%E7%9D%A1%E5%9C%A8%E7%BB%83%E4%B9%A0%E5%AE%A4%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=152&Refer=top) - 189205
 1. [网传宋丹丹每月给儿子家80万](https://s.weibo.com//weibo?q=%23%E7%BD%91%E4%BC%A0%E5%AE%8B%E4%B8%B9%E4%B8%B9%E6%AF%8F%E6%9C%88%E7%BB%99%E5%84%BF%E5%AD%90%E5%AE%B680%E4%B8%87%23&t=152&Refer=top) - 205379
-1. [哀人组太好听了](https://s.weibo.com//weibo?q=%E5%93%80%E4%BA%BA%E7%BB%84%E5%A4%AA%E5%A5%BD%E5%90%AC%E4%BA%86&t=152&Refer=top) - 197643
-1. [春山境大结局](https://s.weibo.com//weibo?q=%E6%98%A5%E5%B1%B1%E5%A2%83%E5%A4%A7%E7%BB%93%E5%B1%80&t=152&Refer=top) - 485213
+1. [汪苏泷联名2来了](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E8%81%94%E5%90%8D2%E6%9D%A5%E4%BA%86%23&t=152&Refer=top) - 189186
+1. [小沈阳当面蛐蛐曾辉跑调](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%B2%88%E9%98%B3%E5%BD%93%E9%9D%A2%E8%9B%90%E8%9B%90%E6%9B%BE%E8%BE%89%E8%B7%91%E8%B0%83%23&t=152&Refer=top) - 290485
+1. [披荆斩棘直播](https://s.weibo.com//weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9B%B4%E6%92%AD&t=152&Refer=top) - 529144
+1. [张碧晨铁了心要把我唱哭](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E9%93%81%E4%BA%86%E5%BF%83%E8%A6%81%E6%8A%8A%E6%88%91%E5%94%B1%E5%93%AD%23&t=152&Refer=top) - 170252
+1. [王嘉尔云南吃蘑菇差点见到小矮人](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E4%BA%91%E5%8D%97%E5%90%83%E8%98%91%E8%8F%87%E5%B7%AE%E7%82%B9%E8%A7%81%E5%88%B0%E5%B0%8F%E7%9F%AE%E4%BA%BA%23&t=152&Refer=top) - 153227
+1. [李光洁 演员哪敢随便改剧本](https://s.weibo.com//weibo?q=%E6%9D%8E%E5%85%89%E6%B4%81%20%E6%BC%94%E5%91%98%E5%93%AA%E6%95%A2%E9%9A%8F%E4%BE%BF%E6%94%B9%E5%89%A7%E6%9C%AC&t=152&Refer=top) - 153222
+1. [陈若轩进步好大](https://s.weibo.com//weibo?q=%23%E9%99%88%E8%8B%A5%E8%BD%A9%E8%BF%9B%E6%AD%A5%E5%A5%BD%E5%A4%A7%23&t=152&Refer=top) - 153213
+1. [TOP新歌含金量](https://s.weibo.com//weibo?q=%23TOP%E6%96%B0%E6%AD%8C%E5%90%AB%E9%87%91%E9%87%8F%23&t=152&Refer=top) - 137892
+1. [张彬彬组 努力且心酸](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%BD%AC%E5%BD%AC%E7%BB%84%20%E5%8A%AA%E5%8A%9B%E4%B8%94%E5%BF%83%E9%85%B8&t=152&Refer=top) - 137882
 1. [迪丽热巴直播](https://s.weibo.com//weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9B%B4%E6%92%AD&t=152&Refer=top) - 194649
+1. [小沈阳摔倒后反应](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%B2%88%E9%98%B3%E6%91%94%E5%80%92%E5%90%8E%E5%8F%8D%E5%BA%94%23&t=152&Refer=top) - 137869
+1. [哀人组太好听了](https://s.weibo.com//weibo?q=%E5%93%80%E4%BA%BA%E7%BB%84%E5%A4%AA%E5%A5%BD%E5%90%AC%E4%BA%86&t=152&Refer=top) - 197643
+1. [时代峰峻被F1发函了](https://s.weibo.com//weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E8%A2%ABF1%E5%8F%91%E5%87%BD%E4%BA%86%23&t=152&Refer=top) - 246465
+1. [曝高冷一线女星为商业大佬未婚生子](https://s.weibo.com//weibo?q=%E6%9B%9D%E9%AB%98%E5%86%B7%E4%B8%80%E7%BA%BF%E5%A5%B3%E6%98%9F%E4%B8%BA%E5%95%86%E4%B8%9A%E5%A4%A7%E4%BD%AC%E6%9C%AA%E5%A9%9A%E7%94%9F%E5%AD%90&t=152&Refer=top) - 137848
+1. [曝时代峰峻工作人员卖流浪狗](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%8D%96%E6%B5%81%E6%B5%AA%E7%8B%97%23&t=152&Refer=top) - 884313
+1. [披荆斩棘一公仅淘汰一人](https://s.weibo.com//weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E4%B8%80%E5%85%AC%E4%BB%85%E6%B7%98%E6%B1%B0%E4%B8%80%E4%BA%BA%23&t=152&Refer=top) - 137833
+1. [惠英红喊朱一龙龙宝贝](https://s.weibo.com//weibo?q=%E6%83%A0%E8%8B%B1%E7%BA%A2%E5%96%8A%E6%9C%B1%E4%B8%80%E9%BE%99%E9%BE%99%E5%AE%9D%E8%B4%9D&t=152&Refer=top) - 137824
+1. [披荆斩棘演员组 老实的好笑感](https://s.weibo.com//weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%BC%94%E5%91%98%E7%BB%84%20%E8%80%81%E5%AE%9E%E7%9A%84%E5%A5%BD%E7%AC%91%E6%84%9F&t=152&Refer=top) - 137818
+1. [TF四代 新加坡](https://s.weibo.com//weibo?q=TF%E5%9B%9B%E4%BB%A3%20%E6%96%B0%E5%8A%A0%E5%9D%A1&t=152&Refer=top) - 308720
+1. [中餐厅给张雅琪配了时钟后期](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E9%A4%90%E5%8E%85%E7%BB%99%E5%BC%A0%E9%9B%85%E7%90%AA%E9%85%8D%E4%BA%86%E6%97%B6%E9%92%9F%E5%90%8E%E6%9C%9F%23&t=152&Refer=top) - 1412363
+1. [卢昱晓全平台告黑](https://s.weibo.com//weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E5%85%A8%E5%B9%B3%E5%8F%B0%E5%91%8A%E9%BB%91%23&t=152&Refer=top) - 135380
+1. [余文乐低音rap](https://s.weibo.com//weibo?q=%E4%BD%99%E6%96%87%E4%B9%90%E4%BD%8E%E9%9F%B3rap&t=152&Refer=top) - 150464
+1. [虞书欣黑丝](https://s.weibo.com//weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E9%BB%91%E4%B8%9D&t=152&Refer=top) - 1139052
+1. [BigBang团巡首场唱了Blue](https://s.weibo.com//weibo?q=BigBang%E5%9B%A2%E5%B7%A1%E9%A6%96%E5%9C%BA%E5%94%B1%E4%BA%86Blue&t=152&Refer=top) - 118193
+1. [现在就出发 完颜团](https://s.weibo.com//weibo?q=%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%91%20%E5%AE%8C%E9%A2%9C%E5%9B%A2&t=152&Refer=top) - 158089
+1. [曾辉 进步](https://s.weibo.com//weibo?q=%E6%9B%BE%E8%BE%89%20%E8%BF%9B%E6%AD%A5&t=152&Refer=top) - 423485
+1. [时代峰峻高会产品售后困难](https://s.weibo.com//weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E9%AB%98%E4%BC%9A%E4%BA%A7%E5%93%81%E5%94%AE%E5%90%8E%E5%9B%B0%E9%9A%BE%23&t=152&Refer=top) - 381136
 1. [王嘉尔 我已经三十二了还要比心吗](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%98%89%E5%B0%94%20%E6%88%91%E5%B7%B2%E7%BB%8F%E4%B8%89%E5%8D%81%E4%BA%8C%E4%BA%86%E8%BF%98%E8%A6%81%E6%AF%94%E5%BF%83%E5%90%97&t=152&Refer=top) - 175184
 1. [一到姚琛solo就切远景](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%88%B0%E5%A7%9A%E7%90%9Bsolo%E5%B0%B1%E5%88%87%E8%BF%9C%E6%99%AF%23&t=152&Refer=top) - 175176
-1. [曾辉 进步](https://s.weibo.com//weibo?q=%E6%9B%BE%E8%BE%89%20%E8%BF%9B%E6%AD%A5&t=152&Refer=top) - 423485
-1. [TF四代 新加坡](https://s.weibo.com//weibo?q=TF%E5%9B%9B%E4%BB%A3%20%E6%96%B0%E5%8A%A0%E5%9D%A1&t=152&Refer=top) - 308720
+1. [汪苏泷说罗曼城音乐节是小道消息](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E8%AF%B4%E7%BD%97%E6%9B%BC%E5%9F%8E%E9%9F%B3%E4%B9%90%E8%8A%82%E6%98%AF%E5%B0%8F%E9%81%93%E6%B6%88%E6%81%AF%23&t=152&Refer=top) - 261429
+1. [张彬彬李光洁曹骏顺其自然](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%AC%E6%9D%8E%E5%85%89%E6%B4%81%E6%9B%B9%E9%AA%8F%E9%A1%BA%E5%85%B6%E8%87%AA%E7%84%B6%23&t=152&Refer=top) - 197657
+1. [春山境大结局](https://s.weibo.com//weibo?q=%E6%98%A5%E5%B1%B1%E5%A2%83%E5%A4%A7%E7%BB%93%E5%B1%80&t=152&Refer=top) - 485213
 1. [艾热听到曾辉说rap像自己的反应](https://s.weibo.com//weibo?q=%23%E8%89%BE%E7%83%AD%E5%90%AC%E5%88%B0%E6%9B%BE%E8%BE%89%E8%AF%B4rap%E5%83%8F%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=152&Refer=top) - 154739
-1. [余文乐低音rap](https://s.weibo.com//weibo?q=%E4%BD%99%E6%96%87%E4%B9%90%E4%BD%8E%E9%9F%B3rap&t=152&Refer=top) - 150464
 1. [陈若轩在余文乐怀里哭](https://s.weibo.com//weibo?q=%23%E9%99%88%E8%8B%A5%E8%BD%A9%E5%9C%A8%E4%BD%99%E6%96%87%E4%B9%90%E6%80%80%E9%87%8C%E5%93%AD%23&t=152&Refer=top) - 135417
-1. [时代峰峻高会产品售后困难](https://s.weibo.com//weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E9%AB%98%E4%BC%9A%E4%BA%A7%E5%93%81%E5%94%AE%E5%90%8E%E5%9B%B0%E9%9A%BE%23&t=152&Refer=top) - 381136
 1. [BIGBANG演唱会](https://s.weibo.com//weibo?q=BIGBANG%E6%BC%94%E5%94%B1%E4%BC%9A&t=152&Refer=top) - 158115
-1. [现在就出发 完颜团](https://s.weibo.com//weibo?q=%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%91%20%E5%AE%8C%E9%A2%9C%E5%9B%A2&t=152&Refer=top) - 158089
 1. [迪丽热巴耳洞发炎](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%80%B3%E6%B4%9E%E5%8F%91%E7%82%8E%23&t=152&Refer=top) - 605360
-1. [卢昱晓全平台告黑](https://s.weibo.com//weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E5%85%A8%E5%B9%B3%E5%8F%B0%E5%91%8A%E9%BB%91%23&t=152&Refer=top) - 135380
 1. [张子枫瘦得脸颊肉都没了](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AD%90%E6%9E%AB%E7%98%A6%E5%BE%97%E8%84%B8%E9%A2%8A%E8%82%89%E9%83%BD%E6%B2%A1%E4%BA%86%23&t=152&Refer=top) - 303709
-1. [惠英红喊朱一龙龙宝贝](https://s.weibo.com//weibo?q=%E6%83%A0%E8%8B%B1%E7%BA%A2%E5%96%8A%E6%9C%B1%E4%B8%80%E9%BE%99%E9%BE%99%E5%AE%9D%E8%B4%9D&t=152&Refer=top) - 129299
 1. [大王瘦了47斤](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E7%8E%8B%E7%98%A6%E4%BA%8647%E6%96%A4%23&t=152&Refer=top) - 277848
 1. [小林栋哲中戏报到](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%9E%97%E6%A0%8B%E5%93%B2%E4%B8%AD%E6%88%8F%E6%8A%A5%E5%88%B0%23&t=152&Refer=top) - 125873
 1. [黑灯 梁源](https://s.weibo.com//weibo?q=%E9%BB%91%E7%81%AF%20%E6%A2%81%E6%BA%90&t=152&Refer=top) - 133471
@@ -50,7 +70,6 @@
 1. [九门究竟谁扛剧](https://s.weibo.com//weibo?q=%23%E4%B9%9D%E9%97%A8%E7%A9%B6%E7%AB%9F%E8%B0%81%E6%89%9B%E5%89%A7%23&t=152&Refer=top) - 156726
 1. [第21届金鹿奖入围名单](https://s.weibo.com//weibo?q=%23%E7%AC%AC21%E5%B1%8A%E9%87%91%E9%B9%BF%E5%A5%96%E5%85%A5%E5%9B%B4%E5%90%8D%E5%8D%95%23&t=152&Refer=top) - 490342
 1. [时代少年团F1商标相似度](https://s.weibo.com//weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2F1%E5%95%86%E6%A0%87%E7%9B%B8%E4%BC%BC%E5%BA%A6%23&t=152&Refer=top) - 1048172
-1. [汪苏泷嘉宾莫文蔚](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%98%89%E5%AE%BE%E8%8E%AB%E6%96%87%E8%94%9A%23&t=152&Refer=top) - 93435
 1. [王嘉尔第一次吃云南蘑菇就中毒](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%90%83%E4%BA%91%E5%8D%97%E8%98%91%E8%8F%87%E5%B0%B1%E4%B8%AD%E6%AF%92%23&t=152&Refer=top) - 91469
 1. [空枪票房破亿](https://s.weibo.com//weibo?q=%23%E7%A9%BA%E6%9E%AA%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF%23&t=152&Refer=top) - 91410
 1. [爱的主打歌 改编](https://s.weibo.com//weibo?q=%E7%88%B1%E7%9A%84%E4%B8%BB%E6%89%93%E6%AD%8C%20%E6%94%B9%E7%BC%96&t=152&Refer=top) - 250063
