@@ -2,44 +2,66 @@
 微博文娱热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 22 2026 20:35:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 22 2026 21:30:12 GMT+0800 (China Standard Time) -->
+1. [那英演唱会 肖战](https://s.weibo.com//weibo?q=%E9%82%A3%E8%8B%B1%E6%BC%94%E5%94%B1%E4%BC%9A%20%E8%82%96%E6%88%98&t=152&Refer=top) - 3853517
 1. [墨香铜臭 亿级版权](https://s.weibo.com//weibo?q=%E5%A2%A8%E9%A6%99%E9%93%9C%E8%87%AD%20%E4%BA%BF%E7%BA%A7%E7%89%88%E6%9D%83&t=152&Refer=top) - 3883683
+1. [那英演唱会包厢堪比春晚](https://s.weibo.com//weibo?q=%23%E9%82%A3%E8%8B%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8C%85%E5%8E%A2%E5%A0%AA%E6%AF%94%E6%98%A5%E6%99%9A%23&t=152&Refer=top) - 1345712
+1. [疑似王橹杰私生回应](https://s.weibo.com//weibo?q=%23%E7%96%91%E4%BC%BC%E7%8E%8B%E6%A9%B9%E6%9D%B0%E7%A7%81%E7%94%9F%E5%9B%9E%E5%BA%94%23&t=152&Refer=top) - 1122375
+1. [网友把蔡徐坤当路人p掉了](https://s.weibo.com//weibo?q=%23%E7%BD%91%E5%8F%8B%E6%8A%8A%E8%94%A1%E5%BE%90%E5%9D%A4%E5%BD%93%E8%B7%AF%E4%BA%BAp%E6%8E%89%E4%BA%86%23&t=152&Refer=top) - 1065002
+1. [肖战那英演唱会彩排记录](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E9%82%A3%E8%8B%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BD%A9%E6%8E%92%E8%AE%B0%E5%BD%95%23&t=152&Refer=top) - 899349
+1. [王菲去看了那英演唱会](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%8F%B2%E5%8E%BB%E7%9C%8B%E4%BA%86%E9%82%A3%E8%8B%B1%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=152&Refer=top) - 812947
+1. [欢子入院 美容院](https://s.weibo.com//weibo?q=%E6%AC%A2%E5%AD%90%E5%85%A5%E9%99%A2%20%E7%BE%8E%E5%AE%B9%E9%99%A2&t=152&Refer=top) - 649728
+1. [谁给王传君化的妆](https://s.weibo.com//weibo?q=%23%E8%B0%81%E7%BB%99%E7%8E%8B%E4%BC%A0%E5%90%9B%E5%8C%96%E7%9A%84%E5%A6%86%23&t=152&Refer=top) - 626130
+1. [孙楠跳舞豁出去了](https://s.weibo.com//weibo?q=%E5%AD%99%E6%A5%A0%E8%B7%B3%E8%88%9E%E8%B1%81%E5%87%BA%E5%8E%BB%E4%BA%86&t=152&Refer=top) - 563517
+1. [肖战回应来那英演唱会的原因](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E5%9B%9E%E5%BA%94%E6%9D%A5%E9%82%A3%E8%8B%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=152&Refer=top) - 563511
+1. [那英演唱会直播](https://s.weibo.com//weibo?q=%E9%82%A3%E8%8B%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9B%B4%E6%92%AD&t=152&Refer=top) - 563504
 1. [李一桐被毒虫咬了脸](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E8%A2%AB%E6%AF%92%E8%99%AB%E5%92%AC%E4%BA%86%E8%84%B8%23&t=152&Refer=top) - 1187208
-1. [王菲去看了那英演唱会](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%8F%B2%E5%8E%BB%E7%9C%8B%E4%BA%86%E9%82%A3%E8%8B%B1%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=152&Refer=top) - 753323
-1. [钟丽缇助眠 张伦硕把大家崩醒了](https://s.weibo.com//weibo?q=%E9%92%9F%E4%B8%BD%E7%BC%87%E5%8A%A9%E7%9C%A0%20%E5%BC%A0%E4%BC%A6%E7%A1%95%E6%8A%8A%E5%A4%A7%E5%AE%B6%E5%B4%A9%E9%86%92%E4%BA%86&t=152&Refer=top) - 1210398
-1. [律师回应王橹杰妈妈打掉私生手机](https://s.weibo.com//weibo?q=%23%E5%BE%8B%E5%B8%88%E5%9B%9E%E5%BA%94%E7%8E%8B%E6%A9%B9%E6%9D%B0%E5%A6%88%E5%A6%88%E6%89%93%E6%8E%89%E7%A7%81%E7%94%9F%E6%89%8B%E6%9C%BA%23&t=152&Refer=top) - 500587
-1. [那英演唱会 肖战](https://s.weibo.com//weibo?q=%E9%82%A3%E8%8B%B1%E6%BC%94%E5%94%B1%E4%BC%9A%20%E8%82%96%E6%88%98&t=152&Refer=top) - 1523167
-1. [那英娱乐圈人脉](https://s.weibo.com//weibo?q=%23%E9%82%A3%E8%8B%B1%E5%A8%B1%E4%B9%90%E5%9C%88%E4%BA%BA%E8%84%89%23&t=152&Refer=top) - 450521
-1. [小鹿老公连人工授精都做不了](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E9%B9%BF%E8%80%81%E5%85%AC%E8%BF%9E%E4%BA%BA%E5%B7%A5%E6%8E%88%E7%B2%BE%E9%83%BD%E5%81%9A%E4%B8%8D%E4%BA%86%23&t=152&Refer=top) - 1272883
+1. [白鹿相扑上衣](https://s.weibo.com//weibo?q=%23%E7%99%BD%E9%B9%BF%E7%9B%B8%E6%89%91%E4%B8%8A%E8%A1%A3%23&t=152&Refer=top) - 563486
+1. [走马](https://s.weibo.com//weibo?q=%E8%B5%B0%E9%A9%AC&t=152&Refer=top) - 562335
 1. [李乃文声明王玉雯哭跟他没关系](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E4%B9%83%E6%96%87%E5%A3%B0%E6%98%8E%E7%8E%8B%E7%8E%89%E9%9B%AF%E5%93%AD%E8%B7%9F%E4%BB%96%E6%B2%A1%E5%85%B3%E7%B3%BB%23&t=152&Refer=top) - 1764486
-1. [唐九洲 不能再有人退赛了](https://s.weibo.com//weibo?q=%E5%94%90%E4%B9%9D%E6%B4%B2%20%E4%B8%8D%E8%83%BD%E5%86%8D%E6%9C%89%E4%BA%BA%E9%80%80%E8%B5%9B%E4%BA%86&t=152&Refer=top) - 377539
-1. [逐玉长月烬明版权费上千万](https://s.weibo.com//weibo?q=%E9%80%90%E7%8E%89%E9%95%BF%E6%9C%88%E7%83%AC%E6%98%8E%E7%89%88%E6%9D%83%E8%B4%B9%E4%B8%8A%E5%8D%83%E4%B8%87&t=152&Refer=top) - 640252
-1. [披荆斩棘直播](https://s.weibo.com//weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9B%B4%E6%92%AD&t=152&Refer=top) - 307901
-1. [Angelababy像是来和我结婚的](https://s.weibo.com//weibo?q=%23Angelababy%E5%83%8F%E6%98%AF%E6%9D%A5%E5%92%8C%E6%88%91%E7%BB%93%E5%A9%9A%E7%9A%84%23&t=152&Refer=top) - 307896
-1. [王菲字体](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%8F%B2%E5%AD%97%E4%BD%93%23&t=152&Refer=top) - 374192
-1. [刘卓感叹那英第二组花篮好震撼](https://s.weibo.com//weibo?q=%E5%88%98%E5%8D%93%E6%84%9F%E5%8F%B9%E9%82%A3%E8%8B%B1%E7%AC%AC%E4%BA%8C%E7%BB%84%E8%8A%B1%E7%AF%AE%E5%A5%BD%E9%9C%87%E6%92%BC&t=152&Refer=top) - 307881
-1. [谁给王传君化的妆](https://s.weibo.com//weibo?q=%23%E8%B0%81%E7%BB%99%E7%8E%8B%E4%BC%A0%E5%90%9B%E5%8C%96%E7%9A%84%E5%A6%86%23&t=152&Refer=top) - 288136
-1. [龚俊看那英演唱会挥应援棒](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%E7%9C%8B%E9%82%A3%E8%8B%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8C%A5%E5%BA%94%E6%8F%B4%E6%A3%92&t=152&Refer=top) - 259322
-1. [龙餐馆](https://s.weibo.com//weibo?q=%E9%BE%99%E9%A4%90%E9%A6%86&t=152&Refer=top) - 573003
+1. [肖战一边崩溃一边给白布污渍](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E4%B8%80%E8%BE%B9%E5%B4%A9%E6%BA%83%E4%B8%80%E8%BE%B9%E7%BB%99%E7%99%BD%E5%B8%83%E6%B1%A1%E6%B8%8D%23&t=152&Refer=top) - 503837
+1. [刘卓感叹那英第二组花篮好震撼](https://s.weibo.com//weibo?q=%E5%88%98%E5%8D%93%E6%84%9F%E5%8F%B9%E9%82%A3%E8%8B%B1%E7%AC%AC%E4%BA%8C%E7%BB%84%E8%8A%B1%E7%AF%AE%E5%A5%BD%E9%9C%87%E6%92%BC&t=152&Refer=top) - 453453
+1. [肖战第一次当演唱会嘉宾](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%BD%93%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%23&t=152&Refer=top) - 408108
+1. [刘畊宏被灯光打没了](https://s.weibo.com//weibo?q=%23%E5%88%98%E7%95%8A%E5%AE%8F%E8%A2%AB%E7%81%AF%E5%85%89%E6%89%93%E6%B2%A1%E4%BA%86%23&t=152&Refer=top) - 367297
+1. [披荆斩棘直播](https://s.weibo.com//weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9B%B4%E6%92%AD&t=152&Refer=top) - 350318
+1. [Angelababy像是来和我结婚的](https://s.weibo.com//weibo?q=%23Angelababy%E5%83%8F%E6%98%AF%E6%9D%A5%E5%92%8C%E6%88%91%E7%BB%93%E5%A9%9A%E7%9A%84%23&t=152&Refer=top) - 349929
+1. [张峻豪说没有热单时严浩翔的反应](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%B3%BB%E8%B1%AA%E8%AF%B4%E6%B2%A1%E6%9C%89%E7%83%AD%E5%8D%95%E6%97%B6%E4%B8%A5%E6%B5%A9%E7%BF%94%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=152&Refer=top) - 319331
+1. [律师回应王橹杰妈妈打掉私生手机](https://s.weibo.com//weibo?q=%23%E5%BE%8B%E5%B8%88%E5%9B%9E%E5%BA%94%E7%8E%8B%E6%A9%B9%E6%9D%B0%E5%A6%88%E5%A6%88%E6%89%93%E6%8E%89%E7%A7%81%E7%94%9F%E6%89%8B%E6%9C%BA%23&t=152&Refer=top) - 500587
+1. [陈卓璇亲自拼豆后不让粉丝做了](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%8D%93%E7%92%87%E4%BA%B2%E8%87%AA%E6%8B%BC%E8%B1%86%E5%90%8E%E4%B8%8D%E8%AE%A9%E7%B2%89%E4%B8%9D%E5%81%9A%E4%BA%86%23&t=152&Refer=top) - 284094
+1. [那英娱乐圈人脉](https://s.weibo.com//weibo?q=%23%E9%82%A3%E8%8B%B1%E5%A8%B1%E4%B9%90%E5%9C%88%E4%BA%BA%E8%84%89%23&t=152&Refer=top) - 450521
 1. [那英演唱会](https://s.weibo.com//weibo?q=%E9%82%A3%E8%8B%B1%E6%BC%94%E5%94%B1%E4%BC%9A&t=152&Refer=top) - 805069
-1. [王源南京上座率夯爆了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E5%8D%97%E4%BA%AC%E4%B8%8A%E5%BA%A7%E7%8E%87%E5%A4%AF%E7%88%86%E4%BA%86%23&t=152&Refer=top) - 210043
-1. [张凌赫贴的耳钉掉了](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%B4%B4%E7%9A%84%E8%80%B3%E9%92%89%E6%8E%89%E4%BA%86%23&t=152&Refer=top) - 210036
-1. [王橹杰 私生](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%A9%B9%E6%9D%B0%20%E7%A7%81%E7%94%9F&t=152&Refer=top) - 2065750
-1. [肖战一边崩溃一边给白布污渍](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E4%B8%80%E8%BE%B9%E5%B4%A9%E6%BA%83%E4%B8%80%E8%BE%B9%E7%BB%99%E7%99%BD%E5%B8%83%E6%B1%A1%E6%B8%8D%23&t=152&Refer=top) - 197268
-1. [网友把蔡徐坤当路人p掉了](https://s.weibo.com//weibo?q=%23%E7%BD%91%E5%8F%8B%E6%8A%8A%E8%94%A1%E5%BE%90%E5%9D%A4%E5%BD%93%E8%B7%AF%E4%BA%BAp%E6%8E%89%E4%BA%86%23&t=152&Refer=top) - 177541
-1. [尼格买提撒贝宁节目里打架](https://s.weibo.com//weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E6%92%92%E8%B4%9D%E5%AE%81%E8%8A%82%E7%9B%AE%E9%87%8C%E6%89%93%E6%9E%B6%23&t=152&Refer=top) - 159787
+1. [钟丽缇助眠 张伦硕把大家崩醒了](https://s.weibo.com//weibo?q=%E9%92%9F%E4%B8%BD%E7%BC%87%E5%8A%A9%E7%9C%A0%20%E5%BC%A0%E4%BC%A6%E7%A1%95%E6%8A%8A%E5%A4%A7%E5%AE%B6%E5%B4%A9%E9%86%92%E4%BA%86&t=152&Refer=top) - 1210398
+1. [逐玉长月烬明版权费上千万](https://s.weibo.com//weibo?q=%E9%80%90%E7%8E%89%E9%95%BF%E6%9C%88%E7%83%AC%E6%98%8E%E7%89%88%E6%9D%83%E8%B4%B9%E4%B8%8A%E5%8D%83%E4%B8%87&t=152&Refer=top) - 640252
+1. [龙餐馆](https://s.weibo.com//weibo?q=%E9%BE%99%E9%A4%90%E9%A6%86&t=152&Refer=top) - 573003
+1. [小鹿老公连人工授精都做不了](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E9%B9%BF%E8%80%81%E5%85%AC%E8%BF%9E%E4%BA%BA%E5%B7%A5%E6%8E%88%E7%B2%BE%E9%83%BD%E5%81%9A%E4%B8%8D%E4%BA%86%23&t=152&Refer=top) - 1272883
 1. [张婧仪大理素颜爬山](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%A4%A7%E7%90%86%E7%B4%A0%E9%A2%9C%E7%88%AC%E5%B1%B1%23&t=152&Refer=top) - 513295
+1. [唐九洲 不能再有人退赛了](https://s.weibo.com//weibo?q=%E5%94%90%E4%B9%9D%E6%B4%B2%20%E4%B8%8D%E8%83%BD%E5%86%8D%E6%9C%89%E4%BA%BA%E9%80%80%E8%B5%9B%E4%BA%86&t=152&Refer=top) - 377539
+1. [鹿哈妈妈给儿媳洗内裤](https://s.weibo.com//weibo?q=%23%E9%B9%BF%E5%93%88%E5%A6%88%E5%A6%88%E7%BB%99%E5%84%BF%E5%AA%B3%E6%B4%97%E5%86%85%E8%A3%A4%23&t=152&Refer=top) - 216233
+1. [肖战说答应了就一定要做到](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E8%AF%B4%E7%AD%94%E5%BA%94%E4%BA%86%E5%B0%B1%E4%B8%80%E5%AE%9A%E8%A6%81%E5%81%9A%E5%88%B0%23&t=152&Refer=top) - 212121
+1. [王菲字体](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%8F%B2%E5%AD%97%E4%BD%93%23&t=152&Refer=top) - 374192
+1. [走马太好听了](https://s.weibo.com//weibo?q=%23%E8%B5%B0%E9%A9%AC%E5%A4%AA%E5%A5%BD%E5%90%AC%E4%BA%86%23&t=152&Refer=top) - 197258
+1. [张凌赫贴的耳钉掉了](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%B4%B4%E7%9A%84%E8%80%B3%E9%92%89%E6%8E%89%E4%BA%86%23&t=152&Refer=top) - 210036
+1. [曝方圆吸干了阿爆流量](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E6%96%B9%E5%9C%86%E5%90%B8%E5%B9%B2%E4%BA%86%E9%98%BF%E7%88%86%E6%B5%81%E9%87%8F%23&t=152&Refer=top) - 184544
+1. [花开锦绣15.4%](https://s.weibo.com//weibo?q=%23%E8%8A%B1%E5%BC%80%E9%94%A6%E7%BB%A315.4%25%23&t=152&Refer=top) - 166089
+1. [孙怡穿细高跟膝盖还能笔直](https://s.weibo.com//weibo?q=%23%E5%AD%99%E6%80%A1%E7%A9%BF%E7%BB%86%E9%AB%98%E8%B7%9F%E8%86%9D%E7%9B%96%E8%BF%98%E8%83%BD%E7%AC%94%E7%9B%B4%23&t=152&Refer=top) - 166082
+1. [宋雨琦马甲线比我人生还清晰](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E9%A9%AC%E7%94%B2%E7%BA%BF%E6%AF%94%E6%88%91%E4%BA%BA%E7%94%9F%E8%BF%98%E6%B8%85%E6%99%B0%23&t=152&Refer=top) - 323881
+1. [TF家族五代唱的太好听了](https://s.weibo.com//weibo?q=TF%E5%AE%B6%E6%97%8F%E4%BA%94%E4%BB%A3%E5%94%B1%E7%9A%84%E5%A4%AA%E5%A5%BD%E5%90%AC%E4%BA%86&t=152&Refer=top) - 166070
+1. [黄子韬演唱会](https://s.weibo.com//weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%E6%BC%94%E5%94%B1%E4%BC%9A&t=152&Refer=top) - 164696
+1. [宋佳秦岚一起看那英演唱会](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E4%BD%B3%E7%A7%A6%E5%B2%9A%E4%B8%80%E8%B5%B7%E7%9C%8B%E9%82%A3%E8%8B%B1%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=152&Refer=top) - 148226
+1. [TOP彩排唱了NINEPERCENT的歌](https://s.weibo.com//weibo?q=%23TOP%E5%BD%A9%E6%8E%92%E5%94%B1%E4%BA%86NINEPERCENT%E7%9A%84%E6%AD%8C%23&t=152&Refer=top) - 147893
+1. [龚俊看那英演唱会挥应援棒](https://s.weibo.com//weibo?q=%E9%BE%9A%E4%BF%8A%E7%9C%8B%E9%82%A3%E8%8B%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8C%A5%E5%BA%94%E6%8F%B4%E6%A3%92&t=152&Refer=top) - 259322
+1. [邵子恒 舞台妖精](https://s.weibo.com//weibo?q=%E9%82%B5%E5%AD%90%E6%81%92%20%E8%88%9E%E5%8F%B0%E5%A6%96%E7%B2%BE&t=152&Refer=top) - 146678
+1. [张艺兴澳门演唱会](https://s.weibo.com//weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A&t=152&Refer=top) - 142031
+1. [杨幂打卡过的吊床被睡断了](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E6%89%93%E5%8D%A1%E8%BF%87%E7%9A%84%E5%90%8A%E5%BA%8A%E8%A2%AB%E7%9D%A1%E6%96%AD%E4%BA%86%23&t=152&Refer=top) - 140630
+1. [王源南京上座率夯爆了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E5%8D%97%E4%BA%AC%E4%B8%8A%E5%BA%A7%E7%8E%87%E5%A4%AF%E7%88%86%E4%BA%86%23&t=152&Refer=top) - 210043
+1. [王橹杰 私生](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%A9%B9%E6%9D%B0%20%E7%A7%81%E7%94%9F&t=152&Refer=top) - 2065750
+1. [尼格买提撒贝宁节目里打架](https://s.weibo.com//weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E6%92%92%E8%B4%9D%E5%AE%81%E8%8A%82%E7%9B%AE%E9%87%8C%E6%89%93%E6%9E%B6%23&t=152&Refer=top) - 159787
 1. [李灿荣全中文主持](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E7%81%BF%E8%8D%A3%E5%85%A8%E4%B8%AD%E6%96%87%E4%B8%BB%E6%8C%81%23&t=152&Refer=top) - 299711
 1. [巴旦木公主疑似出轨](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E6%97%A6%E6%9C%A8%E5%85%AC%E4%B8%BB%E7%96%91%E4%BC%BC%E5%87%BA%E8%BD%A8%23&t=152&Refer=top) - 1579303
-1. [宋雨琦马甲线比我人生还清晰](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E9%A9%AC%E7%94%B2%E7%BA%BF%E6%AF%94%E6%88%91%E4%BA%BA%E7%94%9F%E8%BF%98%E6%B8%85%E6%99%B0%23&t=152&Refer=top) - 323881
 1. [昆凌比张雅琪更适合前台](https://s.weibo.com//weibo?q=%23%E6%98%86%E5%87%8C%E6%AF%94%E5%BC%A0%E9%9B%85%E7%90%AA%E6%9B%B4%E9%80%82%E5%90%88%E5%89%8D%E5%8F%B0%23&t=152&Refer=top) - 151101
-1. [TF家族五代唱的太好听了](https://s.weibo.com//weibo?q=TF%E5%AE%B6%E6%97%8F%E4%BA%94%E4%BB%A3%E5%94%B1%E7%9A%84%E5%A4%AA%E5%A5%BD%E5%90%AC%E4%BA%86&t=152&Refer=top) - 151094
-1. [杨幂打卡过的吊床被睡断了](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E6%89%93%E5%8D%A1%E8%BF%87%E7%9A%84%E5%90%8A%E5%BA%8A%E8%A2%AB%E7%9D%A1%E6%96%AD%E4%BA%86%23&t=152&Refer=top) - 140630
-1. [张峻豪说没有热单时严浩翔的反应](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%B3%BB%E8%B1%AA%E8%AF%B4%E6%B2%A1%E6%9C%89%E7%83%AD%E5%8D%95%E6%97%B6%E4%B8%A5%E6%B5%A9%E7%BF%94%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=152&Refer=top) - 140625
 1. [刘卓说那英演唱会有个超级大惊喜](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%8D%93%E8%AF%B4%E9%82%A3%E8%8B%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9C%89%E4%B8%AA%E8%B6%85%E7%BA%A7%E5%A4%A7%E6%83%8A%E5%96%9C%23&t=152&Refer=top) - 235119
 1. [肖战解开扣子漏出来的是内搭](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E8%A7%A3%E5%BC%80%E6%89%A3%E5%AD%90%E6%BC%8F%E5%87%BA%E6%9D%A5%E7%9A%84%E6%98%AF%E5%86%85%E6%90%AD%23&t=152&Refer=top) - 339131
 1. [肖战我的强项不是色彩是素描](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E6%88%91%E7%9A%84%E5%BC%BA%E9%A1%B9%E4%B8%8D%E6%98%AF%E8%89%B2%E5%BD%A9%E6%98%AF%E7%B4%A0%E6%8F%8F%23&t=152&Refer=top) - 136281
-1. [TOP彩排唱了NINEPERCENT的歌](https://s.weibo.com//weibo?q=%23TOP%E5%BD%A9%E6%8E%92%E5%94%B1%E4%BA%86NINEPERCENT%E7%9A%84%E6%AD%8C%23&t=152&Refer=top) - 136271
 1. [迪丽热巴无名指珍珠戒指](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%97%A0%E5%90%8D%E6%8C%87%E7%8F%8D%E7%8F%A0%E6%88%92%E6%8C%87%23&t=152&Refer=top) - 558974
 1. [tima直播](https://s.weibo.com//weibo?q=tima%E7%9B%B4%E6%92%AD&t=152&Refer=top) - 135774
 1. [数到三唱聊会](https://s.weibo.com//weibo?q=%E6%95%B0%E5%88%B0%E4%B8%89%E5%94%B1%E8%81%8A%E4%BC%9A&t=152&Refer=top) - 132819
