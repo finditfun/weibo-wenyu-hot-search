@@ -2,51 +2,69 @@
 微博文娱热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 24 2026 13:36:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 24 2026 14:55:15 GMT+0800 (China Standard Time) -->
 1. [韩沛颖向刘浩存道歉](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E6%B2%9B%E9%A2%96%E5%90%91%E5%88%98%E6%B5%A9%E5%AD%98%E9%81%93%E6%AD%89%23&t=152&Refer=top) - 10970599
-1. [韩沛颖说刘浩存14岁就跟某某某导了](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E6%B2%9B%E9%A2%96%E8%AF%B4%E5%88%98%E6%B5%A9%E5%AD%9814%E5%B2%81%E5%B0%B1%E8%B7%9F%E6%9F%90%E6%9F%90%E6%9F%90%E5%AF%BC%E4%BA%86%23&t=152&Refer=top) - 5845259
-1. [刘浩存有段地府戏也被删了](https://s.weibo.com//weibo?q=%E5%88%98%E6%B5%A9%E5%AD%98%E6%9C%89%E6%AE%B5%E5%9C%B0%E5%BA%9C%E6%88%8F%E4%B9%9F%E8%A2%AB%E5%88%A0%E4%BA%86&t=152&Refer=top) - 1491392
+1. [王一博告了新湃传媒](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%91%8A%E4%BA%86%E6%96%B0%E6%B9%83%E4%BC%A0%E5%AA%92&t=152&Refer=top) - 1727715
 1. [韩沛颖让王晓晨道歉](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E6%B2%9B%E9%A2%96%E8%AE%A9%E7%8E%8B%E6%99%93%E6%99%A8%E9%81%93%E6%AD%89%23&t=152&Refer=top) - 3241509
-1. [法老 退圈](https://s.weibo.com//weibo?q=%E6%B3%95%E8%80%81%20%E9%80%80%E5%9C%88&t=152&Refer=top) - 857548
+1. [刘浩存有段地府戏也被删了](https://s.weibo.com//weibo?q=%E5%88%98%E6%B5%A9%E5%AD%98%E6%9C%89%E6%AE%B5%E5%9C%B0%E5%BA%9C%E6%88%8F%E4%B9%9F%E8%A2%AB%E5%88%A0%E4%BA%86&t=152&Refer=top) - 1491392
+1. [法老 退圈](https://s.weibo.com//weibo?q=%E6%B3%95%E8%80%81%20%E9%80%80%E5%9C%88&t=152&Refer=top) - 923556
+1. [王以太被披哥工作人员吐槽](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%BB%A5%E5%A4%AA%E8%A2%AB%E6%8A%AB%E5%93%A5%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%90%90%E6%A7%BD&t=152&Refer=top) - 708348
+1. [刘浩存工作室声明](https://s.weibo.com//weibo?q=%E5%88%98%E6%B5%A9%E5%AD%98%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E&t=152&Refer=top) - 699986
+1. [韩沛颖没向王晓晨道歉](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E6%B2%9B%E9%A2%96%E6%B2%A1%E5%90%91%E7%8E%8B%E6%99%93%E6%99%A8%E9%81%93%E6%AD%89%23&t=152&Refer=top) - 629987
+1. [璀璨之上 迪丽热巴](https://s.weibo.com//weibo?q=%E7%92%80%E7%92%A8%E4%B9%8B%E4%B8%8A%20%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4&t=152&Refer=top) - 589002
+1. [天猫秋冬上新解锁百变娜扎](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E7%8C%AB%E7%A7%8B%E5%86%AC%E4%B8%8A%E6%96%B0%E8%A7%A3%E9%94%81%E7%99%BE%E5%8F%98%E5%A8%9C%E6%89%8E%23&t=152&Refer=top) - 510289
 1. [主角剧宣时韩沛颖对刘浩存的态度](https://s.weibo.com//weibo?q=%23%E4%B8%BB%E8%A7%92%E5%89%A7%E5%AE%A3%E6%97%B6%E9%9F%A9%E6%B2%9B%E9%A2%96%E5%AF%B9%E5%88%98%E6%B5%A9%E5%AD%98%E7%9A%84%E6%80%81%E5%BA%A6%23&t=152&Refer=top) - 1189358
+1. [王晓晨谈泼菜戏份引发演员争议](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%99%93%E6%99%A8%E8%B0%88%E6%B3%BC%E8%8F%9C%E6%88%8F%E4%BB%BD%E5%BC%95%E5%8F%91%E6%BC%94%E5%91%98%E4%BA%89%E8%AE%AE%23&t=152&Refer=top) - 477076
+1. [严浩翔香水拌饭](https://s.weibo.com//weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E9%A6%99%E6%B0%B4%E6%8B%8C%E9%A5%AD%23&t=152&Refer=top) - 431292
+1. [宋亚轩品牌方澄清](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%93%81%E7%89%8C%E6%96%B9%E6%BE%84%E6%B8%85%23&t=152&Refer=top) - 507881
+1. [虞书欣 迷雾剧场连环套](https://s.weibo.com//weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E8%BF%B7%E9%9B%BE%E5%89%A7%E5%9C%BA%E8%BF%9E%E7%8E%AF%E5%A5%97&t=152&Refer=top) - 349346
+1. [韩沛颖演过少年派2邓小琪](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E6%B2%9B%E9%A2%96%E6%BC%94%E8%BF%87%E5%B0%91%E5%B9%B4%E6%B4%BE2%E9%82%93%E5%B0%8F%E7%90%AA%23&t=152&Refer=top) - 411370
+1. [张韶涵手术后发现母亲转走所有财产](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9F%B6%E6%B6%B5%E6%89%8B%E6%9C%AF%E5%90%8E%E5%8F%91%E7%8E%B0%E6%AF%8D%E4%BA%B2%E8%BD%AC%E8%B5%B0%E6%89%80%E6%9C%89%E8%B4%A2%E4%BA%A7%23&t=152&Refer=top) - 282970
+1. [新湃传媒是陈情令出品公司](https://s.weibo.com//weibo?q=%23%E6%96%B0%E6%B9%83%E4%BC%A0%E5%AA%92%E6%98%AF%E9%99%88%E6%83%85%E4%BB%A4%E5%87%BA%E5%93%81%E5%85%AC%E5%8F%B8%23&t=152&Refer=top) - 254673
+1. [主角原著14岁被造谣](https://s.weibo.com//weibo?q=%23%E4%B8%BB%E8%A7%92%E5%8E%9F%E8%91%9714%E5%B2%81%E8%A2%AB%E9%80%A0%E8%B0%A3%23&t=152&Refer=top) - 229206
+1. [付彬言 您觉得我看起来吉祥吗](https://s.weibo.com//weibo?q=%E4%BB%98%E5%BD%AC%E8%A8%80%20%E6%82%A8%E8%A7%89%E5%BE%97%E6%88%91%E7%9C%8B%E8%B5%B7%E6%9D%A5%E5%90%89%E7%A5%A5%E5%90%97&t=152&Refer=top) - 206285
+1. [王橹杰 陈奕恒](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%A9%B9%E6%9D%B0%20%E9%99%88%E5%A5%95%E6%81%92&t=152&Refer=top) - 206275
+1. [瞿颖早年不敢胡王菲的牌](https://s.weibo.com//weibo?q=%23%E7%9E%BF%E9%A2%96%E6%97%A9%E5%B9%B4%E4%B8%8D%E6%95%A2%E8%83%A1%E7%8E%8B%E8%8F%B2%E7%9A%84%E7%89%8C%23&t=152&Refer=top) - 206270
 1. [宋亚轩 得物账号](https://s.weibo.com//weibo?q=%E5%AE%8B%E4%BA%9A%E8%BD%A9%20%E5%BE%97%E7%89%A9%E8%B4%A6%E5%8F%B7&t=152&Refer=top) - 1189365
 1. [刘浩存14岁还在北舞附中跳舞](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%B5%A9%E5%AD%9814%E5%B2%81%E8%BF%98%E5%9C%A8%E5%8C%97%E8%88%9E%E9%99%84%E4%B8%AD%E8%B7%B3%E8%88%9E%23&t=152&Refer=top) - 527731
-1. [宋亚轩品牌方澄清](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%93%81%E7%89%8C%E6%96%B9%E6%BE%84%E6%B8%85%23&t=152&Refer=top) - 507881
-1. [卓沅说这是我唯一的选择](https://s.weibo.com//weibo?q=%23%E5%8D%93%E6%B2%85%E8%AF%B4%E8%BF%99%E6%98%AF%E6%88%91%E5%94%AF%E4%B8%80%E7%9A%84%E9%80%89%E6%8B%A9%23&t=152&Refer=top) - 457092
-1. [王晓晨谈泼菜戏份引发演员争议](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%99%93%E6%99%A8%E8%B0%88%E6%B3%BC%E8%8F%9C%E6%88%8F%E4%BB%BD%E5%BC%95%E5%8F%91%E6%BC%94%E5%91%98%E4%BA%89%E8%AE%AE%23&t=152&Refer=top) - 477076
-1. [璀璨之上 迪丽热巴](https://s.weibo.com//weibo?q=%E7%92%80%E7%92%A8%E4%B9%8B%E4%B8%8A%20%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4&t=152&Refer=top) - 589002
-1. [韩沛颖演过少年派2邓小琪](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E6%B2%9B%E9%A2%96%E6%BC%94%E8%BF%87%E5%B0%91%E5%B9%B4%E6%B4%BE2%E9%82%93%E5%B0%8F%E7%90%AA%23&t=152&Refer=top) - 411370
-1. [刘浩存工作室声明](https://s.weibo.com//weibo?q=%E5%88%98%E6%B5%A9%E5%AD%98%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E&t=152&Refer=top) - 370233
-1. [刘浩存 韩沛颖](https://s.weibo.com//weibo?q=%E5%88%98%E6%B5%A9%E5%AD%98%20%E9%9F%A9%E6%B2%9B%E9%A2%96&t=152&Refer=top) - 942982
+1. [虞书欣快闪周边](https://s.weibo.com//weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%BF%AB%E9%97%AA%E5%91%A8%E8%BE%B9%23&t=152&Refer=top) - 201410
+1. [傅首尔回应整容争议](https://s.weibo.com//weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E5%9B%9E%E5%BA%94%E6%95%B4%E5%AE%B9%E4%BA%89%E8%AE%AE%23&t=152&Refer=top) - 184310
+1. [金秀贤复出活动现场](https://s.weibo.com//weibo?q=%23%E9%87%91%E7%A7%80%E8%B4%A4%E5%A4%8D%E5%87%BA%E6%B4%BB%E5%8A%A8%E7%8E%B0%E5%9C%BA%23&t=152&Refer=top) - 180658
 1. [肖战从这里闪耀上线](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E4%BB%8E%E8%BF%99%E9%87%8C%E9%97%AA%E8%80%80%E4%B8%8A%E7%BA%BF%23&t=152&Refer=top) - 477069
-1. [韩沛颖还有一部待播剧](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E6%B2%9B%E9%A2%96%E8%BF%98%E6%9C%89%E4%B8%80%E9%83%A8%E5%BE%85%E6%92%AD%E5%89%A7%23&t=152&Refer=top) - 429362
+1. [yoyo酱颢鑫订婚了](https://s.weibo.com//weibo?q=%23yoyo%E9%85%B1%E9%A2%A2%E9%91%AB%E8%AE%A2%E5%A9%9A%E4%BA%86%23&t=152&Refer=top) - 162200
+1. [关晓彤陈星旭红掌婚礼比真结婚还全](https://s.weibo.com//weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E9%99%88%E6%98%9F%E6%97%AD%E7%BA%A2%E6%8E%8C%E5%A9%9A%E7%A4%BC%E6%AF%94%E7%9C%9F%E7%BB%93%E5%A9%9A%E8%BF%98%E5%85%A8%23&t=152&Refer=top) - 162193
+1. [李昀锐一露脸瞿颖就开始加分了](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E4%B8%80%E9%9C%B2%E8%84%B8%E7%9E%BF%E9%A2%96%E5%B0%B1%E5%BC%80%E5%A7%8B%E5%8A%A0%E5%88%86%E4%BA%86%23&t=152&Refer=top) - 162188
+1. [肖战蒙娜丽莎时候](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E8%92%99%E5%A8%9C%E4%B8%BD%E8%8E%8E%E6%97%B6%E5%80%99%23&t=152&Refer=top) - 295049
+1. [张凌赫峨眉路透](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%B3%A8%E7%9C%89%E8%B7%AF%E9%80%8F%23&t=152&Refer=top) - 228258
+1. [曝蒋梦婕恋情](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E8%92%8B%E6%A2%A6%E5%A9%95%E6%81%8B%E6%83%85%23&t=152&Refer=top) - 530101
 1. [张子枫好薄的一片](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AD%90%E6%9E%AB%E5%A5%BD%E8%96%84%E7%9A%84%E4%B8%80%E7%89%87%23&t=152&Refer=top) - 327843
 1. [王一博告多家公司侵权](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%91%8A%E5%A4%9A%E5%AE%B6%E5%85%AC%E5%8F%B8%E4%BE%B5%E6%9D%83%23&t=152&Refer=top) - 287793
-1. [刘宪华不拍一个正太扭腰可惜了](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%AA%E5%8D%8E%E4%B8%8D%E6%8B%8D%E4%B8%80%E4%B8%AA%E6%AD%A3%E5%A4%AA%E6%89%AD%E8%85%B0%E5%8F%AF%E6%83%9C%E4%BA%86%23&t=152&Refer=top) - 259013
-1. [肖战蒙娜丽莎时候](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E8%92%99%E5%A8%9C%E4%B8%BD%E8%8E%8E%E6%97%B6%E5%80%99%23&t=152&Refer=top) - 295049
-1. [张韶涵因心脏病找母亲要医疗费未果](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9F%B6%E6%B6%B5%E5%9B%A0%E5%BF%83%E8%84%8F%E7%97%85%E6%89%BE%E6%AF%8D%E4%BA%B2%E8%A6%81%E5%8C%BB%E7%96%97%E8%B4%B9%E6%9C%AA%E6%9E%9C%23&t=152&Refer=top) - 708830
+1. [刘浩存 韩沛颖](https://s.weibo.com//weibo?q=%E5%88%98%E6%B5%A9%E5%AD%98%20%E9%9F%A9%E6%B2%9B%E9%A2%96&t=152&Refer=top) - 942982
 1. [丁程鑫机场被点名](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E6%9C%BA%E5%9C%BA%E8%A2%AB%E7%82%B9%E5%90%8D%23&t=152&Refer=top) - 546780
-1. [韩沛颖没向王晓晨道歉](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E6%B2%9B%E9%A2%96%E6%B2%A1%E5%90%91%E7%8E%8B%E6%99%93%E6%99%A8%E9%81%93%E6%AD%89%23&t=152&Refer=top) - 253658
+1. [郭晓东披荆斩棘专属站哥](https://s.weibo.com//weibo?q=%23%E9%83%AD%E6%99%93%E4%B8%9C%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E4%B8%93%E5%B1%9E%E7%AB%99%E5%93%A5%23&t=152&Refer=top) - 131212
+1. [方时赫瘦到认不出](https://s.weibo.com//weibo?q=%23%E6%96%B9%E6%97%B6%E8%B5%AB%E7%98%A6%E5%88%B0%E8%AE%A4%E4%B8%8D%E5%87%BA%23&t=152&Refer=top) - 205432
+1. [刘浩存涨粉了](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%B5%A9%E5%AD%98%E6%B6%A8%E7%B2%89%E4%BA%86%23&t=152&Refer=top) - 131195
+1. [霉霉的婚礼视频终于放出来了吗](https://s.weibo.com//weibo?q=%23%E9%9C%89%E9%9C%89%E7%9A%84%E5%A9%9A%E7%A4%BC%E8%A7%86%E9%A2%91%E7%BB%88%E4%BA%8E%E6%94%BE%E5%87%BA%E6%9D%A5%E4%BA%86%E5%90%97%23&t=152&Refer=top) - 265544
+1. [韩沛颖还有一部待播剧](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E6%B2%9B%E9%A2%96%E8%BF%98%E6%9C%89%E4%B8%80%E9%83%A8%E5%BE%85%E6%92%AD%E5%89%A7%23&t=152&Refer=top) - 429362
 1. [梅尼耶女友回应被说比迪丽热巴好看](https://s.weibo.com//weibo?q=%23%E6%A2%85%E5%B0%BC%E8%80%B6%E5%A5%B3%E5%8F%8B%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%AF%B4%E6%AF%94%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%A5%BD%E7%9C%8B%23&t=152&Refer=top) - 228292
 1. [舞蹈新风暴舞者官宣](https://s.weibo.com//weibo?q=%23%E8%88%9E%E8%B9%88%E6%96%B0%E9%A3%8E%E6%9A%B4%E8%88%9E%E8%80%85%E5%AE%98%E5%AE%A3%23&t=152&Refer=top) - 295058
-1. [曝蒋梦婕恋情](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E8%92%8B%E6%A2%A6%E5%A9%95%E6%81%8B%E6%83%85%23&t=152&Refer=top) - 530101
-1. [志极](https://s.weibo.com//weibo?q=%E5%BF%97%E6%9E%81&t=152&Refer=top) - 345655
-1. [张凌赫峨眉路透](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%B3%A8%E7%9C%89%E8%B7%AF%E9%80%8F%23&t=152&Refer=top) - 228258
-1. [方时赫瘦到认不出](https://s.weibo.com//weibo?q=%23%E6%96%B9%E6%97%B6%E8%B5%AB%E7%98%A6%E5%88%B0%E8%AE%A4%E4%B8%8D%E5%87%BA%23&t=152&Refer=top) - 205432
-1. [霉霉的婚礼视频终于放出来了吗](https://s.weibo.com//weibo?q=%23%E9%9C%89%E9%9C%89%E7%9A%84%E5%A9%9A%E7%A4%BC%E8%A7%86%E9%A2%91%E7%BB%88%E4%BA%8E%E6%94%BE%E5%87%BA%E6%9D%A5%E4%BA%86%E5%90%97%23&t=152&Refer=top) - 265544
-1. [王一博告了新湃传媒](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%91%8A%E4%BA%86%E6%96%B0%E6%B9%83%E4%BC%A0%E5%AA%92&t=152&Refer=top) - 201044
-1. [楚嘉禾 加戏](https://s.weibo.com//weibo?q=%E6%A5%9A%E5%98%89%E7%A6%BE%20%E5%8A%A0%E6%88%8F&t=152&Refer=top) - 398603
+1. [主角](https://s.weibo.com//weibo?q=%E4%B8%BB%E8%A7%92&t=152&Refer=top) - 133131
+1. [权志龙抓住了差点掉下舞台的摄像师](https://s.weibo.com//weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E6%8A%93%E4%BD%8F%E4%BA%86%E5%B7%AE%E7%82%B9%E6%8E%89%E4%B8%8B%E8%88%9E%E5%8F%B0%E7%9A%84%E6%91%84%E5%83%8F%E5%B8%88%23&t=152&Refer=top) - 137536
 1. [蒋梦婕单身](https://s.weibo.com//weibo?q=%23%E8%92%8B%E6%A2%A6%E5%A9%95%E5%8D%95%E8%BA%AB%23&t=152&Refer=top) - 176968
+1. [爸爸当家](https://s.weibo.com//weibo?q=%E7%88%B8%E7%88%B8%E5%BD%93%E5%AE%B6&t=152&Refer=top) - 107666
+1. [卓沅说这是我唯一的选择](https://s.weibo.com//weibo?q=%23%E5%8D%93%E6%B2%85%E8%AF%B4%E8%BF%99%E6%98%AF%E6%88%91%E5%94%AF%E4%B8%80%E7%9A%84%E9%80%89%E6%8B%A9%23&t=152&Refer=top) - 457092
+1. [韩沛颖说刘浩存14岁就跟某某某导了](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E6%B2%9B%E9%A2%96%E8%AF%B4%E5%88%98%E6%B5%A9%E5%AD%9814%E5%B2%81%E5%B0%B1%E8%B7%9F%E6%9F%90%E6%9F%90%E6%9F%90%E5%AF%BC%E4%BA%86%23&t=152&Refer=top) - 5845259
+1. [刘宪华不拍一个正太扭腰可惜了](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%AA%E5%8D%8E%E4%B8%8D%E6%8B%8D%E4%B8%80%E4%B8%AA%E6%AD%A3%E5%A4%AA%E6%89%AD%E8%85%B0%E5%8F%AF%E6%83%9C%E4%BA%86%23&t=152&Refer=top) - 259013
+1. [张韶涵因心脏病找母亲要医疗费未果](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9F%B6%E6%B6%B5%E5%9B%A0%E5%BF%83%E8%84%8F%E7%97%85%E6%89%BE%E6%AF%8D%E4%BA%B2%E8%A6%81%E5%8C%BB%E7%96%97%E8%B4%B9%E6%9C%AA%E6%9E%9C%23&t=152&Refer=top) - 708830
+1. [志极](https://s.weibo.com//weibo?q=%E5%BF%97%E6%9E%81&t=152&Refer=top) - 345655
+1. [楚嘉禾 加戏](https://s.weibo.com//weibo?q=%E6%A5%9A%E5%98%89%E7%A6%BE%20%E5%8A%A0%E6%88%8F&t=152&Refer=top) - 398603
 1. [以为孙楠的假发戴反了](https://s.weibo.com//weibo?q=%23%E4%BB%A5%E4%B8%BA%E5%AD%99%E6%A5%A0%E7%9A%84%E5%81%87%E5%8F%91%E6%88%B4%E5%8F%8D%E4%BA%86%23&t=152&Refer=top) - 171981
 1. [梓渝专辑口碑](https://s.weibo.com//weibo?q=%23%E6%A2%93%E6%B8%9D%E4%B8%93%E8%BE%91%E5%8F%A3%E7%A2%91%23&t=152&Refer=top) - 165480
 1. [白敬亭卡地亚晚宴现场唱嗨了](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%8D%A1%E5%9C%B0%E4%BA%9A%E6%99%9A%E5%AE%B4%E7%8E%B0%E5%9C%BA%E5%94%B1%E5%97%A8%E4%BA%86%23&t=152&Refer=top) - 158139
 1. [刺棠](https://s.weibo.com//weibo?q=%E5%88%BA%E6%A3%A0&t=152&Refer=top) - 227475
 1. [刘亦菲芭莎九月刊预告](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E8%8A%AD%E8%8E%8E%E4%B9%9D%E6%9C%88%E5%88%8A%E9%A2%84%E5%91%8A%23&t=152&Refer=top) - 184255
 1. [花开锦绣女主被指双标](https://s.weibo.com//weibo?q=%E8%8A%B1%E5%BC%80%E9%94%A6%E7%BB%A3%E5%A5%B3%E4%B8%BB%E8%A2%AB%E6%8C%87%E5%8F%8C%E6%A0%87&t=152&Refer=top) - 492102
-1. [张韶涵手术后发现母亲转走所有财产](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9F%B6%E6%B6%B5%E6%89%8B%E6%9C%AF%E5%90%8E%E5%8F%91%E7%8E%B0%E6%AF%8D%E4%BA%B2%E8%BD%AC%E8%B5%B0%E6%89%80%E6%9C%89%E8%B4%A2%E4%BA%A7%23&t=152&Refer=top) - 138460
-1. [权志龙抓住了差点掉下舞台的摄像师](https://s.weibo.com//weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E6%8A%93%E4%BD%8F%E4%BA%86%E5%B7%AE%E7%82%B9%E6%8E%89%E4%B8%8B%E8%88%9E%E5%8F%B0%E7%9A%84%E6%91%84%E5%83%8F%E5%B8%88%23&t=152&Refer=top) - 137536
 1. [林雨申儿子11岁身高](https://s.weibo.com//weibo?q=%23%E6%9E%97%E9%9B%A8%E7%94%B3%E5%84%BF%E5%AD%9011%E5%B2%81%E8%BA%AB%E9%AB%98%23&t=152&Refer=top) - 133159
-1. [主角](https://s.weibo.com//weibo?q=%E4%B8%BB%E8%A7%92&t=152&Refer=top) - 133131
 1. [CORTIS Ball发行](https://s.weibo.com//weibo?q=CORTIS%20Ball%E5%8F%91%E8%A1%8C&t=152&Refer=top) - 128700
 1. [严浩翔MV放了小时候的视频](https://s.weibo.com//weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94MV%E6%94%BE%E4%BA%86%E5%B0%8F%E6%97%B6%E5%80%99%E7%9A%84%E8%A7%86%E9%A2%91%23&t=152&Refer=top) - 122057
 1. [黄景瑜觉醒之重启唯一领衔主演](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E8%A7%89%E9%86%92%E4%B9%8B%E9%87%8D%E5%90%AF%E5%94%AF%E4%B8%80%E9%A2%86%E8%A1%94%E4%B8%BB%E6%BC%94%23&t=152&Refer=top) - 111267
