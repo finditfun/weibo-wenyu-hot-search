@@ -2,50 +2,65 @@
 微博文娱热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 26 2026 16:41:02 GMT+0800 (China Standard Time) -->
-1. [欢子起诉湖南卫视](https://s.weibo.com//weibo?q=%E6%AC%A2%E5%AD%90%E8%B5%B7%E8%AF%89%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&t=152&Refer=top) - 4648941
+<!-- 最后更新时间 Wed Aug 26 2026 17:39:07 GMT+0800 (China Standard Time) -->
+1. [刘大锤曝包贝尔与红发女子24年认识](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%A4%A7%E9%94%A4%E6%9B%9D%E5%8C%85%E8%B4%9D%E5%B0%94%E4%B8%8E%E7%BA%A2%E5%8F%91%E5%A5%B3%E5%AD%9024%E5%B9%B4%E8%AE%A4%E8%AF%86%23&t=152&Refer=top) - 5391770
 1. [曝包贝尔出轨](https://s.weibo.com//weibo?q=%E6%9B%9D%E5%8C%85%E8%B4%9D%E5%B0%94%E5%87%BA%E8%BD%A8&t=152&Refer=top) - 18842725
-1. [刘大锤要直播细聊包贝尔这个瓜](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%A4%A7%E9%94%A4%E8%A6%81%E7%9B%B4%E6%92%AD%E7%BB%86%E8%81%8A%E5%8C%85%E8%B4%9D%E5%B0%94%E8%BF%99%E4%B8%AA%E7%93%9C%23&t=152&Refer=top) - 1802924
-1. [范丞丞晒了现发团合照](https://s.weibo.com//weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%99%92%E4%BA%86%E7%8E%B0%E5%8F%91%E5%9B%A2%E5%90%88%E7%85%A7%23&t=152&Refer=top) - 1622052
 1. [虞书欣 丝巾当抹胸穿](https://s.weibo.com//weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E4%B8%9D%E5%B7%BE%E5%BD%93%E6%8A%B9%E8%83%B8%E7%A9%BF&t=152&Refer=top) - 1610459
 1. [包文婧生二胎产后抑郁](https://s.weibo.com//weibo?q=%23%E5%8C%85%E6%96%87%E5%A9%A7%E7%94%9F%E4%BA%8C%E8%83%8E%E4%BA%A7%E5%90%8E%E6%8A%91%E9%83%81%23&t=152&Refer=top) - 2520704
+1. [范丞丞晒了现发团合照](https://s.weibo.com//weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%99%92%E4%BA%86%E7%8E%B0%E5%8F%91%E5%9B%A2%E5%90%88%E7%85%A7%23&t=152&Refer=top) - 1622052
+1. [网友小梅道歉信](https://s.weibo.com//weibo?q=%23%E7%BD%91%E5%8F%8B%E5%B0%8F%E6%A2%85%E9%81%93%E6%AD%89%E4%BF%A1%23&t=152&Refer=top) - 1018954
 1. [包贝尔 包文婧](https://s.weibo.com//weibo?q=%E5%8C%85%E8%B4%9D%E5%B0%94%20%E5%8C%85%E6%96%87%E5%A9%A7&t=152&Refer=top) - 3247323
 1. [网友劝包文婧离婚](https://s.weibo.com//weibo?q=%23%E7%BD%91%E5%8F%8B%E5%8A%9D%E5%8C%85%E6%96%87%E5%A9%A7%E7%A6%BB%E5%A9%9A%23&t=152&Refer=top) - 1876981
 1. [孙千第一集穿的假名牌](https://s.weibo.com//weibo?q=%23%E5%AD%99%E5%8D%83%E7%AC%AC%E4%B8%80%E9%9B%86%E7%A9%BF%E7%9A%84%E5%81%87%E5%90%8D%E7%89%8C%23&t=152&Refer=top) - 1043921
-1. [刘大锤回应这次真没骗人](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%A4%A7%E9%94%A4%E5%9B%9E%E5%BA%94%E8%BF%99%E6%AC%A1%E7%9C%9F%E6%B2%A1%E9%AA%97%E4%BA%BA%23&t=152&Refer=top) - 2118826
-1. [刘大锤3年前就曝过包贝尔](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%A4%A7%E9%94%A43%E5%B9%B4%E5%89%8D%E5%B0%B1%E6%9B%9D%E8%BF%87%E5%8C%85%E8%B4%9D%E5%B0%94%23&t=152&Refer=top) - 2621924
-1. [刘大锤直播](https://s.weibo.com//weibo?q=%E5%88%98%E5%A4%A7%E9%94%A4%E7%9B%B4%E6%92%AD&t=152&Refer=top) - 836461
+1. [王橹杰蓝莓拟人](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%A9%B9%E6%9D%B0%E8%93%9D%E8%8E%93%E6%8B%9F%E4%BA%BA&t=152&Refer=top) - 581778
 1. [朴树 王子文](https://s.weibo.com//weibo?q=%E6%9C%B4%E6%A0%91%20%E7%8E%8B%E5%AD%90%E6%96%87&t=152&Refer=top) - 674052
+1. [刘大锤直播](https://s.weibo.com//weibo?q=%E5%88%98%E5%A4%A7%E9%94%A4%E7%9B%B4%E6%92%AD&t=152&Refer=top) - 836461
+1. [张延张锦程离婚](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%BB%B6%E5%BC%A0%E9%94%A6%E7%A8%8B%E7%A6%BB%E5%A9%9A%23&t=152&Refer=top) - 572303
+1. [刘大锤3年前就曝过包贝尔](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%A4%A7%E9%94%A43%E5%B9%B4%E5%89%8D%E5%B0%B1%E6%9B%9D%E8%BF%87%E5%8C%85%E8%B4%9D%E5%B0%94%23&t=152&Refer=top) - 2621924
+1. [梓渝回复田栩宁梓渝cp粉](https://s.weibo.com//weibo?q=%23%E6%A2%93%E6%B8%9D%E5%9B%9E%E5%A4%8D%E7%94%B0%E6%A0%A9%E5%AE%81%E6%A2%93%E6%B8%9Dcp%E7%B2%89%23&t=152&Refer=top) - 463565
 1. [金鹰奖 刘亦菲国籍](https://s.weibo.com//weibo?q=%E9%87%91%E9%B9%B0%E5%A5%96%20%E5%88%98%E4%BA%A6%E8%8F%B2%E5%9B%BD%E7%B1%8D&t=152&Refer=top) - 3313023
+1. [刘大锤回应这次真没骗人](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%A4%A7%E9%94%A4%E5%9B%9E%E5%BA%94%E8%BF%99%E6%AC%A1%E7%9C%9F%E6%B2%A1%E9%AA%97%E4%BA%BA%23&t=152&Refer=top) - 2118826
 1. [包贝尔包文婧去年才生二胎](https://s.weibo.com//weibo?q=%E5%8C%85%E8%B4%9D%E5%B0%94%E5%8C%85%E6%96%87%E5%A9%A7%E5%8E%BB%E5%B9%B4%E6%89%8D%E7%94%9F%E4%BA%8C%E8%83%8E&t=152&Refer=top) - 3045332
-1. [张延张锦程离婚](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%BB%B6%E5%BC%A0%E9%94%A6%E7%A8%8B%E7%A6%BB%E5%A9%9A%23&t=152&Refer=top) - 517725
-1. [小酒窝给杜华女儿让C位](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E9%85%92%E7%AA%9D%E7%BB%99%E6%9D%9C%E5%8D%8E%E5%A5%B3%E5%84%BF%E8%AE%A9C%E4%BD%8D%23&t=152&Refer=top) - 1136330
-1. [包文婧曾说很怕孙怡爱上包贝尔](https://s.weibo.com//weibo?q=%23%E5%8C%85%E6%96%87%E5%A9%A7%E6%9B%BE%E8%AF%B4%E5%BE%88%E6%80%95%E5%AD%99%E6%80%A1%E7%88%B1%E4%B8%8A%E5%8C%85%E8%B4%9D%E5%B0%94%23&t=152&Refer=top) - 2048774
-1. [早春晴朗开场就是床戏](https://s.weibo.com//weibo?q=%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E5%BC%80%E5%9C%BA%E5%B0%B1%E6%98%AF%E5%BA%8A%E6%88%8F&t=152&Refer=top) - 846262
-1. [生命树金鹰口碑](https://s.weibo.com//weibo?q=%23%E7%94%9F%E5%91%BD%E6%A0%91%E9%87%91%E9%B9%B0%E5%8F%A3%E7%A2%91%23&t=152&Refer=top) - 372261
+1. [黄景瑜被九寨沟净化了](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E8%A2%AB%E4%B9%9D%E5%AF%A8%E6%B2%9F%E5%87%80%E5%8C%96%E4%BA%86%23&t=152&Refer=top) - 349174
+1. [早春晴朗这段和广播剧一模一样](https://s.weibo.com//weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E8%BF%99%E6%AE%B5%E5%92%8C%E5%B9%BF%E6%92%AD%E5%89%A7%E4%B8%80%E6%A8%A1%E4%B8%80%E6%A0%B7%23&t=152&Refer=top) - 314256
+1. [欢子起诉湖南卫视](https://s.weibo.com//weibo?q=%E6%AC%A2%E5%AD%90%E8%B5%B7%E8%AF%89%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&t=152&Refer=top) - 4648941
 1. [包文婧拿烟头烫自己求爱](https://s.weibo.com//weibo?q=%23%E5%8C%85%E6%96%87%E5%A9%A7%E6%8B%BF%E7%83%9F%E5%A4%B4%E7%83%AB%E8%87%AA%E5%B7%B1%E6%B1%82%E7%88%B1%23&t=152&Refer=top) - 372252
+1. [欢子称为披哥损失百万](https://s.weibo.com//weibo?q=%23%E6%AC%A2%E5%AD%90%E7%A7%B0%E4%B8%BA%E6%8A%AB%E5%93%A5%E6%8D%9F%E5%A4%B1%E7%99%BE%E4%B8%87%23&t=152&Refer=top) - 314232
+1. [刘亦菲幼儿园就是高颅顶](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%B0%B1%E6%98%AF%E9%AB%98%E9%A2%85%E9%A1%B6%23&t=152&Refer=top) - 282809
+1. [尚之桃回应穿假名牌](https://s.weibo.com//weibo?q=%23%E5%B0%9A%E4%B9%8B%E6%A1%83%E5%9B%9E%E5%BA%94%E7%A9%BF%E5%81%87%E5%90%8D%E7%89%8C%23&t=152&Refer=top) - 254528
+1. [小酒窝给杜华女儿让C位](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E9%85%92%E7%AA%9D%E7%BB%99%E6%9D%9C%E5%8D%8E%E5%A5%B3%E5%84%BF%E8%AE%A9C%E4%BD%8D%23&t=152&Refer=top) - 1136330
+1. [范丞丞给黄景瑜P墨镜](https://s.weibo.com//weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%BB%99%E9%BB%84%E6%99%AF%E7%91%9CP%E5%A2%A8%E9%95%9C%23&t=152&Refer=top) - 254510
+1. [短剧演员失业后尝试上门保洁](https://s.weibo.com//weibo?q=%23%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E5%A4%B1%E4%B8%9A%E5%90%8E%E5%B0%9D%E8%AF%95%E4%B8%8A%E9%97%A8%E4%BF%9D%E6%B4%81%23&t=152&Refer=top) - 229059
+1. [包文婧曾说很怕孙怡爱上包贝尔](https://s.weibo.com//weibo?q=%23%E5%8C%85%E6%96%87%E5%A9%A7%E6%9B%BE%E8%AF%B4%E5%BE%88%E6%80%95%E5%AD%99%E6%80%A1%E7%88%B1%E4%B8%8A%E5%8C%85%E8%B4%9D%E5%B0%94%23&t=152&Refer=top) - 2048774
+1. [包贝尔包文婧账号开防护](https://s.weibo.com//weibo?q=%23%E5%8C%85%E8%B4%9D%E5%B0%94%E5%8C%85%E6%96%87%E5%A9%A7%E8%B4%A6%E5%8F%B7%E5%BC%80%E9%98%B2%E6%8A%A4%23&t=152&Refer=top) - 229044
+1. [范丞丞照片被判AI](https://s.weibo.com//weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%85%A7%E7%89%87%E8%A2%AB%E5%88%A4AI%23&t=152&Refer=top) - 229037
+1. [欢乐颂3可以开拍了](https://s.weibo.com//weibo?q=%E6%AC%A2%E4%B9%90%E9%A2%823%E5%8F%AF%E4%BB%A5%E5%BC%80%E6%8B%8D%E4%BA%86&t=152&Refer=top) - 229031
 1. [包文婧上月生日还对包贝尔热烈表白](https://s.weibo.com//weibo?q=%23%E5%8C%85%E6%96%87%E5%A9%A7%E4%B8%8A%E6%9C%88%E7%94%9F%E6%97%A5%E8%BF%98%E5%AF%B9%E5%8C%85%E8%B4%9D%E5%B0%94%E7%83%AD%E7%83%88%E8%A1%A8%E7%99%BD%23&t=152&Refer=top) - 436235
-1. [刘大锤这次真没骗人](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%A4%A7%E9%94%A4%E8%BF%99%E6%AC%A1%E7%9C%9F%E6%B2%A1%E9%AA%97%E4%BA%BA%23&t=152&Refer=top) - 3058549
 1. [网传时代峰峻要搬出长江国际了](https://s.weibo.com//weibo?q=%23%E7%BD%91%E4%BC%A0%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E8%A6%81%E6%90%AC%E5%87%BA%E9%95%BF%E6%B1%9F%E5%9B%BD%E9%99%85%E4%BA%86%23&t=152&Refer=top) - 271372
-1. [刘亦菲 我想象中拍生日照的样子](https://s.weibo.com//weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E6%88%91%E6%83%B3%E8%B1%A1%E4%B8%AD%E6%8B%8D%E7%94%9F%E6%97%A5%E7%85%A7%E7%9A%84%E6%A0%B7%E5%AD%90&t=152&Refer=top) - 457803
+1. [早春晴朗开场就是床戏](https://s.weibo.com//weibo?q=%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E5%BC%80%E5%9C%BA%E5%B0%B1%E6%98%AF%E5%BA%8A%E6%88%8F&t=152&Refer=top) - 846262
+1. [朴树王子文时间线](https://s.weibo.com//weibo?q=%23%E6%9C%B4%E6%A0%91%E7%8E%8B%E5%AD%90%E6%96%87%E6%97%B6%E9%97%B4%E7%BA%BF%23&t=152&Refer=top) - 166841
 1. [包贝尔包文婧婚礼誓词](https://s.weibo.com//weibo?q=%23%E5%8C%85%E8%B4%9D%E5%B0%94%E5%8C%85%E6%96%87%E5%A9%A7%E5%A9%9A%E7%A4%BC%E8%AA%93%E8%AF%8D%23&t=152&Refer=top) - 457821
 1. [井柏然字体](https://s.weibo.com//weibo?q=%E4%BA%95%E6%9F%8F%E7%84%B6%E5%AD%97%E4%BD%93&t=152&Refer=top) - 249355
-1. [欢乐颂3可以开拍了](https://s.weibo.com//weibo?q=%E6%AC%A2%E4%B9%90%E9%A2%823%E5%8F%AF%E4%BB%A5%E5%BC%80%E6%8B%8D%E4%BA%86&t=152&Refer=top) - 224495
-1. [汪峰女儿小苹果20岁近照](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E5%B3%B0%E5%A5%B3%E5%84%BF%E5%B0%8F%E8%8B%B9%E6%9E%9C20%E5%B2%81%E8%BF%91%E7%85%A7%23&t=152&Refer=top) - 333586
-1. [包文婧包贝尔时间线](https://s.weibo.com//weibo?q=%23%E5%8C%85%E6%96%87%E5%A9%A7%E5%8C%85%E8%B4%9D%E5%B0%94%E6%97%B6%E9%97%B4%E7%BA%BF%23&t=152&Refer=top) - 2123978
-1. [逐夏开机照](https://s.weibo.com//weibo?q=%23%E9%80%90%E5%A4%8F%E5%BC%80%E6%9C%BA%E7%85%A7%23&t=152&Refer=top) - 484751
-1. [张锦程回应与张延离婚](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%94%A6%E7%A8%8B%E5%9B%9E%E5%BA%94%E4%B8%8E%E5%BC%A0%E5%BB%B6%E7%A6%BB%E5%A9%9A%23&t=152&Refer=top) - 353347
-1. [刘亦菲梦回19岁时的金鹰女神](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%A2%A6%E5%9B%9E19%E5%B2%81%E6%97%B6%E7%9A%84%E9%87%91%E9%B9%B0%E5%A5%B3%E7%A5%9E%23&t=152&Refer=top) - 422510
+1. [刘大锤要直播细聊包贝尔这个瓜](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%A4%A7%E9%94%A4%E8%A6%81%E7%9B%B4%E6%92%AD%E7%BB%86%E8%81%8A%E5%8C%85%E8%B4%9D%E5%B0%94%E8%BF%99%E4%B8%AA%E7%93%9C%23&t=152&Refer=top) - 1802924
 1. [袁咏仪曾对包贝尔说包文婧很好](https://s.weibo.com//weibo?q=%23%E8%A2%81%E5%92%8F%E4%BB%AA%E6%9B%BE%E5%AF%B9%E5%8C%85%E8%B4%9D%E5%B0%94%E8%AF%B4%E5%8C%85%E6%96%87%E5%A9%A7%E5%BE%88%E5%A5%BD%23&t=152&Refer=top) - 152074
-1. [范丞丞照片被判AI](https://s.weibo.com//weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%85%A7%E7%89%87%E8%A2%AB%E5%88%A4AI%23&t=152&Refer=top) - 148654
-1. [左奇函发语音](https://s.weibo.com//weibo?q=%E5%B7%A6%E5%A5%87%E5%87%BD%E5%8F%91%E8%AF%AD%E9%9F%B3&t=152&Refer=top) - 168512
+1. [张锦程回应与张延离婚](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%94%A6%E7%A8%8B%E5%9B%9E%E5%BA%94%E4%B8%8E%E5%BC%A0%E5%BB%B6%E7%A6%BB%E5%A9%9A%23&t=152&Refer=top) - 353347
+1. [刘亦菲 我想象中拍生日照的样子](https://s.weibo.com//weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E6%88%91%E6%83%B3%E8%B1%A1%E4%B8%AD%E6%8B%8D%E7%94%9F%E6%97%A5%E7%85%A7%E7%9A%84%E6%A0%B7%E5%AD%90&t=152&Refer=top) - 457803
+1. [汪峰女儿小苹果20岁近照](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E5%B3%B0%E5%A5%B3%E5%84%BF%E5%B0%8F%E8%8B%B9%E6%9E%9C20%E5%B2%81%E8%BF%91%E7%85%A7%23&t=152&Refer=top) - 333586
+1. [逐夏开机照](https://s.weibo.com//weibo?q=%23%E9%80%90%E5%A4%8F%E5%BC%80%E6%9C%BA%E7%85%A7%23&t=152&Refer=top) - 484751
+1. [郭晓东 张杰站哥随时待命](https://s.weibo.com//weibo?q=%E9%83%AD%E6%99%93%E4%B8%9C%20%E5%BC%A0%E6%9D%B0%E7%AB%99%E5%93%A5%E9%9A%8F%E6%97%B6%E5%BE%85%E5%91%BD&t=152&Refer=top) - 115589
+1. [周深鸟巢两年同天开票](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%B7%B1%E9%B8%9F%E5%B7%A2%E4%B8%A4%E5%B9%B4%E5%90%8C%E5%A4%A9%E5%BC%80%E7%A5%A8%23&t=152&Refer=top) - 104030
 1. [早春晴朗](https://s.weibo.com//weibo?q=%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97&t=152&Refer=top) - 529292
-1. [井柏然孙千你们在脸红什么](https://s.weibo.com//weibo?q=%E4%BA%95%E6%9F%8F%E7%84%B6%E5%AD%99%E5%8D%83%E4%BD%A0%E4%BB%AC%E5%9C%A8%E8%84%B8%E7%BA%A2%E4%BB%80%E4%B9%88&t=152&Refer=top) - 450526
-1. [金鹰奖只提名了3个90后演员](https://s.weibo.com//weibo?q=%23%E9%87%91%E9%B9%B0%E5%A5%96%E5%8F%AA%E6%8F%90%E5%90%8D%E4%BA%863%E4%B8%AA90%E5%90%8E%E6%BC%94%E5%91%98%23&t=152&Refer=top) - 248242
-1. [周深鸟巢延长演出时间](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%B7%B1%E9%B8%9F%E5%B7%A2%E5%BB%B6%E9%95%BF%E6%BC%94%E5%87%BA%E6%97%B6%E9%97%B4%23&t=152&Refer=top) - 201977
-1. [童星片场被强奸指控迪士尼不作为](https://s.weibo.com//weibo?q=%23%E7%AB%A5%E6%98%9F%E7%89%87%E5%9C%BA%E8%A2%AB%E5%BC%BA%E5%A5%B8%E6%8C%87%E6%8E%A7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B8%8D%E4%BD%9C%E4%B8%BA%23&t=152&Refer=top) - 457813
 1. [陈奕恒空降超话爆了](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%A5%95%E6%81%92%E7%A9%BA%E9%99%8D%E8%B6%85%E8%AF%9D%E7%88%86%E4%BA%86%23&t=152&Refer=top) - 122128
 1. [张桂源演技](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%A1%82%E6%BA%90%E6%BC%94%E6%8A%80&t=152&Refer=top) - 110463
+1. [周深鸟巢延长演出时间](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%B7%B1%E9%B8%9F%E5%B7%A2%E5%BB%B6%E9%95%BF%E6%BC%94%E5%87%BA%E6%97%B6%E9%97%B4%23&t=152&Refer=top) - 201977
+1. [生命树金鹰口碑](https://s.weibo.com//weibo?q=%23%E7%94%9F%E5%91%BD%E6%A0%91%E9%87%91%E9%B9%B0%E5%8F%A3%E7%A2%91%23&t=152&Refer=top) - 372261
+1. [刘大锤这次真没骗人](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%A4%A7%E9%94%A4%E8%BF%99%E6%AC%A1%E7%9C%9F%E6%B2%A1%E9%AA%97%E4%BA%BA%23&t=152&Refer=top) - 3058549
+1. [包文婧包贝尔时间线](https://s.weibo.com//weibo?q=%23%E5%8C%85%E6%96%87%E5%A9%A7%E5%8C%85%E8%B4%9D%E5%B0%94%E6%97%B6%E9%97%B4%E7%BA%BF%23&t=152&Refer=top) - 2123978
+1. [刘亦菲梦回19岁时的金鹰女神](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%A2%A6%E5%9B%9E19%E5%B2%81%E6%97%B6%E7%9A%84%E9%87%91%E9%B9%B0%E5%A5%B3%E7%A5%9E%23&t=152&Refer=top) - 422510
+1. [左奇函发语音](https://s.weibo.com//weibo?q=%E5%B7%A6%E5%A5%87%E5%87%BD%E5%8F%91%E8%AF%AD%E9%9F%B3&t=152&Refer=top) - 168512
+1. [井柏然孙千你们在脸红什么](https://s.weibo.com//weibo?q=%E4%BA%95%E6%9F%8F%E7%84%B6%E5%AD%99%E5%8D%83%E4%BD%A0%E4%BB%AC%E5%9C%A8%E8%84%B8%E7%BA%A2%E4%BB%80%E4%B9%88&t=152&Refer=top) - 450526
+1. [金鹰奖只提名了3个90后演员](https://s.weibo.com//weibo?q=%23%E9%87%91%E9%B9%B0%E5%A5%96%E5%8F%AA%E6%8F%90%E5%90%8D%E4%BA%863%E4%B8%AA90%E5%90%8E%E6%BC%94%E5%91%98%23&t=152&Refer=top) - 248242
+1. [童星片场被强奸指控迪士尼不作为](https://s.weibo.com//weibo?q=%23%E7%AB%A5%E6%98%9F%E7%89%87%E5%9C%BA%E8%A2%AB%E5%BC%BA%E5%A5%B8%E6%8C%87%E6%8E%A7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B8%8D%E4%BD%9C%E4%B8%BA%23&t=152&Refer=top) - 457813
 1. [芭莎金九宝格丽高珠](https://s.weibo.com//weibo?q=%23%E8%8A%AD%E8%8E%8E%E9%87%91%E4%B9%9D%E5%AE%9D%E6%A0%BC%E4%B8%BD%E9%AB%98%E7%8F%A0%23&t=152&Refer=top) - 110381
 1. [何与生日会](https://s.weibo.com//weibo?q=%E4%BD%95%E4%B8%8E%E7%94%9F%E6%97%A5%E4%BC%9A&t=152&Refer=top) - 143024
 1. [孙千新剧租房真去了天通苑](https://s.weibo.com//weibo?q=%23%E5%AD%99%E5%8D%83%E6%96%B0%E5%89%A7%E7%A7%9F%E6%88%BF%E7%9C%9F%E5%8E%BB%E4%BA%86%E5%A4%A9%E9%80%9A%E8%8B%91%23&t=152&Refer=top) - 165110
