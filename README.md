@@ -2,18 +2,61 @@
 微博文娱热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 04 2026 13:32:00 GMT+0800 (China Standard Time) -->
-1. [歌手何勇去世](https://s.weibo.com//weibo?q=%23%E6%AD%8C%E6%89%8B%E4%BD%95%E5%8B%87%E5%8E%BB%E4%B8%96%23&t=152&Refer=top) - 2243630
-1. [龚爽去世](https://s.weibo.com//weibo?q=%E9%BE%9A%E7%88%BD%E5%8E%BB%E4%B8%96&t=152&Refer=top) - 1956747
+<!-- 最后更新时间 Fri Sep 04 2026 18:39:31 GMT+0800 (China Standard Time) -->
 1. [Lisa曝BLACKPINK时期曾隐藏恋爱](https://s.weibo.com//weibo?q=%23Lisa%E6%9B%9DBLACKPINK%E6%97%B6%E6%9C%9F%E6%9B%BE%E9%9A%90%E8%97%8F%E6%81%8B%E7%88%B1%23&t=152&Refer=top) - 1529429
+1. [孙怡发博回应深夜送友人回家](https://s.weibo.com//weibo?q=%23%E5%AD%99%E6%80%A1%E5%8F%91%E5%8D%9A%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%A4%9C%E9%80%81%E5%8F%8B%E4%BA%BA%E5%9B%9E%E5%AE%B6%23&t=152&Refer=top) - 805156
+1. [宁静 谁说小爽坏了](https://s.weibo.com//weibo?q=%E5%AE%81%E9%9D%99%20%E8%B0%81%E8%AF%B4%E5%B0%8F%E7%88%BD%E5%9D%8F%E4%BA%86&t=152&Refer=top) - 691681
+1. [吴君如眼神就没离开邓为](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%90%9B%E5%A6%82%E7%9C%BC%E7%A5%9E%E5%B0%B1%E6%B2%A1%E7%A6%BB%E5%BC%80%E9%82%93%E4%B8%BA%23&t=152&Refer=top) - 685045
 1. [井柏然直播澄清](https://s.weibo.com//weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E7%9B%B4%E6%92%AD%E6%BE%84%E6%B8%85%23&t=152&Refer=top) - 1109574
+1. [田曦薇无刘海半扎发造型](https://s.weibo.com//weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E6%97%A0%E5%88%98%E6%B5%B7%E5%8D%8A%E6%89%8E%E5%8F%91%E9%80%A0%E5%9E%8B%23&t=152&Refer=top) - 606511
+1. [有人想靠复盘花少6洗白](https://s.weibo.com//weibo?q=%E6%9C%89%E4%BA%BA%E6%83%B3%E9%9D%A0%E5%A4%8D%E7%9B%98%E8%8A%B1%E5%B0%916%E6%B4%97%E7%99%BD&t=152&Refer=top) - 545860
+1. [新音](https://s.weibo.com//weibo?q=%E6%96%B0%E9%9F%B3&t=152&Refer=top) - 491274
+1. [偷偷藏不住制片人十月启动新项目](https://s.weibo.com//weibo?q=%23%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E5%88%B6%E7%89%87%E4%BA%BA%E5%8D%81%E6%9C%88%E5%90%AF%E5%8A%A8%E6%96%B0%E9%A1%B9%E7%9B%AE%23&t=152&Refer=top) - 442147
+1. [花少2行李 肖奈拿完肖奈拿](https://s.weibo.com//weibo?q=%E8%8A%B1%E5%B0%912%E8%A1%8C%E6%9D%8E%20%E8%82%96%E5%A5%88%E6%8B%BF%E5%AE%8C%E8%82%96%E5%A5%88%E6%8B%BF&t=152&Refer=top) - 397932
+1. [花少大姐从夯到拉排名](https://s.weibo.com//weibo?q=%E8%8A%B1%E5%B0%91%E5%A4%A7%E5%A7%90%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89%E6%8E%92%E5%90%8D&t=152&Refer=top) - 358139
+1. [龚爽去世](https://s.weibo.com//weibo?q=%E9%BE%9A%E7%88%BD%E5%8E%BB%E4%B8%96&t=152&Refer=top) - 1956747
+1. [王诗晴试管怀孕](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%AF%97%E6%99%B4%E8%AF%95%E7%AE%A1%E6%80%80%E5%AD%95%23&t=152&Refer=top) - 290092
+1. [李羲承曾患癌](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E7%BE%B2%E6%89%BF%E6%9B%BE%E6%82%A3%E7%99%8C%23&t=152&Refer=top) - 261083
+1. [披荆斩棘](https://s.weibo.com//weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98&t=152&Refer=top) - 234975
+1. [温宜公主纪姿含入学中戏国际班](https://s.weibo.com//weibo?q=%23%E6%B8%A9%E5%AE%9C%E5%85%AC%E4%B8%BB%E7%BA%AA%E5%A7%BF%E5%90%AB%E5%85%A5%E5%AD%A6%E4%B8%AD%E6%88%8F%E5%9B%BD%E9%99%85%E7%8F%AD%23&t=152&Refer=top) - 211477
+1. [港媒曝古天乐欠一家离岸公司1.49亿元](https://s.weibo.com//weibo?q=%23%E6%B8%AF%E5%AA%92%E6%9B%9D%E5%8F%A4%E5%A4%A9%E4%B9%90%E6%AC%A0%E4%B8%80%E5%AE%B6%E7%A6%BB%E5%B2%B8%E5%85%AC%E5%8F%B81.49%E4%BA%BF%E5%85%83%23&t=152&Refer=top) - 190329
+1. [王俊凯王源易烊千玺怎么不算一种合体](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%80%8E%E4%B9%88%E4%B8%8D%E7%AE%97%E4%B8%80%E7%A7%8D%E5%90%88%E4%BD%93%23&t=152&Refer=top) - 171296
 1. [井柏然 刘雯](https://s.weibo.com//weibo?q=%E4%BA%95%E6%9F%8F%E7%84%B6%20%E5%88%98%E9%9B%AF&t=152&Refer=top) - 986732
+1. [邓为花少8情商](https://s.weibo.com//weibo?q=%23%E9%82%93%E4%B8%BA%E8%8A%B1%E5%B0%918%E6%83%85%E5%95%86%23&t=152&Refer=top) - 138750
+1. [鞠婧祎锁骨窝能装下珍珠项链](https://s.weibo.com//weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E9%94%81%E9%AA%A8%E7%AA%9D%E8%83%BD%E8%A3%85%E4%B8%8B%E7%8F%8D%E7%8F%A0%E9%A1%B9%E9%93%BE%23&t=152&Refer=top) - 138742
+1. [奶奶虽然没有60分 但奶奶有金像奖](https://s.weibo.com//weibo?q=%E5%A5%B6%E5%A5%B6%E8%99%BD%E7%84%B6%E6%B2%A1%E6%9C%8960%E5%88%86%20%E4%BD%86%E5%A5%B6%E5%A5%B6%E6%9C%89%E9%87%91%E5%83%8F%E5%A5%96&t=152&Refer=top) - 138736
 1. [花少2房车大战 未剪辑版](https://s.weibo.com//weibo?q=%E8%8A%B1%E5%B0%912%E6%88%BF%E8%BD%A6%E5%A4%A7%E6%88%98%20%E6%9C%AA%E5%89%AA%E8%BE%91%E7%89%88&t=152&Refer=top) - 648797
-1. [毛阿敏对许晴称呼的变化](https://s.weibo.com//weibo?q=%23%E6%AF%9B%E9%98%BF%E6%95%8F%E5%AF%B9%E8%AE%B8%E6%99%B4%E7%A7%B0%E5%91%BC%E7%9A%84%E5%8F%98%E5%8C%96%23&t=152&Refer=top) - 583917
+1. [曝马皓轩强奸未成年](https://s.weibo.com//weibo?q=%E6%9B%9D%E9%A9%AC%E7%9A%93%E8%BD%A9%E5%BC%BA%E5%A5%B8%E6%9C%AA%E6%88%90%E5%B9%B4&t=152&Refer=top) - 1060879
+1. [杨幂一句话点醒漆漆](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%82%B9%E9%86%92%E6%BC%86%E6%BC%86%23&t=152&Refer=top) - 117422
+1. [Lisa说粉丝没猜对她的地下恋男友](https://s.weibo.com//weibo?q=%23Lisa%E8%AF%B4%E7%B2%89%E4%B8%9D%E6%B2%A1%E7%8C%9C%E5%AF%B9%E5%A5%B9%E7%9A%84%E5%9C%B0%E4%B8%8B%E6%81%8B%E7%94%B7%E5%8F%8B%23&t=152&Refer=top) - 117413
+1. [易烊千玺珍藏粉丝的每一份爱](https://s.weibo.com//weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%8F%8D%E8%97%8F%E7%B2%89%E4%B8%9D%E7%9A%84%E6%AF%8F%E4%B8%80%E4%BB%BD%E7%88%B1%23&t=152&Refer=top) - 117403
+1. [薛之谦突发状况把粉丝放在第一位](https://s.weibo.com//weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E7%AA%81%E5%8F%91%E7%8A%B6%E5%86%B5%E6%8A%8A%E7%B2%89%E4%B8%9D%E6%94%BE%E5%9C%A8%E7%AC%AC%E4%B8%80%E4%BD%8D%23&t=152&Refer=top) - 117398
+1. [花少8没有吴君如可怎么办](https://s.weibo.com//weibo?q=%23%E8%8A%B1%E5%B0%918%E6%B2%A1%E6%9C%89%E5%90%B4%E5%90%9B%E5%A6%82%E5%8F%AF%E6%80%8E%E4%B9%88%E5%8A%9E%23&t=152&Refer=top) - 109906
+1. [郭涛儿子石头入学北电国际班](https://s.weibo.com//weibo?q=%23%E9%83%AD%E6%B6%9B%E5%84%BF%E5%AD%90%E7%9F%B3%E5%A4%B4%E5%85%A5%E5%AD%A6%E5%8C%97%E7%94%B5%E5%9B%BD%E9%99%85%E7%8F%AD%23&t=152&Refer=top) - 108715
+1. [李现回复任敏和自己合照](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E7%8E%B0%E5%9B%9E%E5%A4%8D%E4%BB%BB%E6%95%8F%E5%92%8C%E8%87%AA%E5%B7%B1%E5%90%88%E7%85%A7%23&t=152&Refer=top) - 108707
+1. [早春晴朗kitty人设改了](https://s.weibo.com//weibo?q=%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97kitty%E4%BA%BA%E8%AE%BE%E6%94%B9%E4%BA%86&t=152&Refer=top) - 105869
+1. [路人根本没兴趣和耐心回看花少6](https://s.weibo.com//weibo?q=%23%E8%B7%AF%E4%BA%BA%E6%A0%B9%E6%9C%AC%E6%B2%A1%E5%85%B4%E8%B6%A3%E5%92%8C%E8%80%90%E5%BF%83%E5%9B%9E%E7%9C%8B%E8%8A%B1%E5%B0%916%23&t=152&Refer=top) - 98648
+1. [周冬雨看到花少团留C位的反应](https://s.weibo.com//weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E7%9C%8B%E5%88%B0%E8%8A%B1%E5%B0%91%E5%9B%A2%E7%95%99C%E4%BD%8D%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=152&Refer=top) - 97994
+1. [王俊凯演我离职前最后一天](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E6%88%91%E7%A6%BB%E8%81%8C%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9%23&t=152&Refer=top) - 96450
+1. [迪丽热巴杂志待遇](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%9D%82%E5%BF%97%E5%BE%85%E9%81%87%23&t=152&Refer=top) - 93116
+1. [宁静偶像来了没穿礼服的原因](https://s.weibo.com//weibo?q=%23%E5%AE%81%E9%9D%99%E5%81%B6%E5%83%8F%E6%9D%A5%E4%BA%86%E6%B2%A1%E7%A9%BF%E7%A4%BC%E6%9C%8D%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=152&Refer=top) - 88353
+1. [关晓彤19岁就上身祖海高定了](https://s.weibo.com//weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A419%E5%B2%81%E5%B0%B1%E4%B8%8A%E8%BA%AB%E7%A5%96%E6%B5%B7%E9%AB%98%E5%AE%9A%E4%BA%86%23&t=152&Refer=top) - 87844
 1. [马皓轩](https://s.weibo.com//weibo?q=%E9%A9%AC%E7%9A%93%E8%BD%A9&t=152&Refer=top) - 525525
+1. [花少2翻红不代表花少6也能翻红](https://s.weibo.com//weibo?q=%23%E8%8A%B1%E5%B0%912%E7%BF%BB%E7%BA%A2%E4%B8%8D%E4%BB%A3%E8%A1%A8%E8%8A%B1%E5%B0%916%E4%B9%9F%E8%83%BD%E7%BF%BB%E7%BA%A2%23&t=152&Refer=top) - 86559
+1. [井柏然曾为Angelababy递婚戒](https://s.weibo.com//weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E6%9B%BE%E4%B8%BAAngelababy%E9%80%92%E5%A9%9A%E6%88%92%23&t=152&Refer=top) - 85592
+1. [郑佩佩 唐晶原型](https://s.weibo.com//weibo?q=%E9%83%91%E4%BD%A9%E4%BD%A9%20%E5%94%90%E6%99%B6%E5%8E%9F%E5%9E%8B&t=152&Refer=top) - 405545
+1. [殷桃是看过花少5吗](https://s.weibo.com//weibo?q=%23%E6%AE%B7%E6%A1%83%E6%98%AF%E7%9C%8B%E8%BF%87%E8%8A%B1%E5%B0%915%E5%90%97%23&t=152&Refer=top) - 79515
+1. [花少8首播观后感](https://s.weibo.com//weibo?q=%23%E8%8A%B1%E5%B0%918%E9%A6%96%E6%92%AD%E8%A7%82%E5%90%8E%E6%84%9F%23&t=152&Refer=top) - 74152
+1. [昆凌说王俊凯承受了最多的压力](https://s.weibo.com//weibo?q=%23%E6%98%86%E5%87%8C%E8%AF%B4%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%89%BF%E5%8F%97%E4%BA%86%E6%9C%80%E5%A4%9A%E7%9A%84%E5%8E%8B%E5%8A%9B%23&t=152&Refer=top) - 69567
+1. [王俊凯一句话让姜妍鸡皮疙瘩起来了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E4%B8%80%E5%8F%A5%E8%AF%9D%E8%AE%A9%E5%A7%9C%E5%A6%8D%E9%B8%A1%E7%9A%AE%E7%96%99%E7%98%A9%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=152&Refer=top) - 67296
+1. [井柏然刘雯手型差](https://s.weibo.com//weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E5%88%98%E9%9B%AF%E6%89%8B%E5%9E%8B%E5%B7%AE%23&t=152&Refer=top) - 65423
+1. [易烊千玺原来你是故意的](https://s.weibo.com//weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%8E%9F%E6%9D%A5%E4%BD%A0%E6%98%AF%E6%95%85%E6%84%8F%E7%9A%84%23&t=152&Refer=top) - 64156
+1. [范丞丞也打到过一口价臭车](https://s.weibo.com//weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E4%B9%9F%E6%89%93%E5%88%B0%E8%BF%87%E4%B8%80%E5%8F%A3%E4%BB%B7%E8%87%AD%E8%BD%A6%23&t=152&Refer=top) - 63209
+1. [孙千晒6张卢克合照](https://s.weibo.com//weibo?q=%23%E5%AD%99%E5%8D%83%E6%99%926%E5%BC%A0%E5%8D%A2%E5%85%8B%E5%90%88%E7%85%A7%23&t=152&Refer=top) - 62363
+1. [歌手何勇去世](https://s.weibo.com//weibo?q=%23%E6%AD%8C%E6%89%8B%E4%BD%95%E5%8B%87%E5%8E%BB%E4%B8%96%23&t=152&Refer=top) - 2243630
+1. [毛阿敏对许晴称呼的变化](https://s.weibo.com//weibo?q=%23%E6%AF%9B%E9%98%BF%E6%95%8F%E5%AF%B9%E8%AE%B8%E6%99%B4%E7%A7%B0%E5%91%BC%E7%9A%84%E5%8F%98%E5%8C%96%23&t=152&Refer=top) - 583917
 1. [花少5是花少系列唯一一部获奖作品](https://s.weibo.com//weibo?q=%23%E8%8A%B1%E5%B0%915%E6%98%AF%E8%8A%B1%E5%B0%91%E7%B3%BB%E5%88%97%E5%94%AF%E4%B8%80%E4%B8%80%E9%83%A8%E8%8E%B7%E5%A5%96%E4%BD%9C%E5%93%81%23&t=152&Refer=top) - 472973
 1. [花少8 破冰](https://s.weibo.com//weibo?q=%E8%8A%B1%E5%B0%918%20%E7%A0%B4%E5%86%B0&t=152&Refer=top) - 425675
-1. [郑佩佩 唐晶原型](https://s.weibo.com//weibo?q=%E9%83%91%E4%BD%A9%E4%BD%A9%20%E5%94%90%E6%99%B6%E5%8E%9F%E5%9E%8B&t=152&Refer=top) - 405545
 1. [周雨彤的天什么时候能亮](https://s.weibo.com//weibo?q=%E5%91%A8%E9%9B%A8%E5%BD%A4%E7%9A%84%E5%A4%A9%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E8%83%BD%E4%BA%AE&t=152&Refer=top) - 364990
 1. [易烊千玺小心翼翼又惹祸了](https://s.weibo.com//weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%B0%8F%E5%BF%83%E7%BF%BC%E7%BF%BC%E5%8F%88%E6%83%B9%E7%A5%B8%E4%BA%86%23&t=152&Refer=top) - 328491
 1. [花少8](https://s.weibo.com//weibo?q=%E8%8A%B1%E5%B0%918&t=152&Refer=top) - 325943
@@ -25,7 +68,6 @@
 1. [孙千说尚之桃栾念是疯狂星期五](https://s.weibo.com//weibo?q=%23%E5%AD%99%E5%8D%83%E8%AF%B4%E5%B0%9A%E4%B9%8B%E6%A1%83%E6%A0%BE%E5%BF%B5%E6%98%AF%E7%96%AF%E7%8B%82%E6%98%9F%E6%9C%9F%E4%BA%94%23&t=152&Refer=top) - 199571
 1. [井柏然Angelababy靠肩合照](https://s.weibo.com//weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6Angelababy%E9%9D%A0%E8%82%A9%E5%90%88%E7%85%A7%23&t=152&Refer=top) - 199563
 1. [谢娜宣布娜就聊姐姐开播](https://s.weibo.com//weibo?q=%E8%B0%A2%E5%A8%9C%E5%AE%A3%E5%B8%83%E5%A8%9C%E5%B0%B1%E8%81%8A%E5%A7%90%E5%A7%90%E5%BC%80%E6%92%AD&t=152&Refer=top) - 199554
-1. [曝马皓轩强奸未成年](https://s.weibo.com//weibo?q=%E6%9B%9D%E9%A9%AC%E7%9A%93%E8%BD%A9%E5%BC%BA%E5%A5%B8%E6%9C%AA%E6%88%90%E5%B9%B4&t=152&Refer=top) - 1060879
 1. [李昀锐池昌旭权威脸旁边还是权威脸](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E6%B1%A0%E6%98%8C%E6%97%AD%E6%9D%83%E5%A8%81%E8%84%B8%E6%97%81%E8%BE%B9%E8%BF%98%E6%98%AF%E6%9D%83%E5%A8%81%E8%84%B8%23&t=152&Refer=top) - 170700
 1. [池昌旭闯中交友](https://s.weibo.com//weibo?q=%23%E6%B1%A0%E6%98%8C%E6%97%AD%E9%97%AF%E4%B8%AD%E4%BA%A4%E5%8F%8B%23&t=152&Refer=top) - 153630
 1. [Jisoo新歌](https://s.weibo.com//weibo?q=Jisoo%E6%96%B0%E6%AD%8C&t=152&Refer=top) - 153620
