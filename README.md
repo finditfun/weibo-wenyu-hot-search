@@ -2,10 +2,57 @@
 微博文娱热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Sep 05 2026 16:04:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 05 2026 20:23:12 GMT+0800 (China Standard Time) -->
 1. [张雅琪被花少8剪掉了](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9B%85%E7%90%AA%E8%A2%AB%E8%8A%B1%E5%B0%918%E5%89%AA%E6%8E%89%E4%BA%86%23&t=152&Refer=top) - 1439688
+1. [才知道陈妍希儿子名字陈睦辰](https://s.weibo.com//weibo?q=%23%E6%89%8D%E7%9F%A5%E9%81%93%E9%99%88%E5%A6%8D%E5%B8%8C%E5%84%BF%E5%AD%90%E5%90%8D%E5%AD%97%E9%99%88%E7%9D%A6%E8%BE%B0%23&t=152&Refer=top) - 841638
+1. [王橹杰开售一分钟销售额800万](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E5%BC%80%E5%94%AE%E4%B8%80%E5%88%86%E9%92%9F%E9%94%80%E5%94%AE%E9%A2%9D800%E4%B8%87%23&t=152&Refer=top) - 589146
+1. [张家齐13岁赚了81万](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%9013%E5%B2%81%E8%B5%9A%E4%BA%8681%E4%B8%87%23&t=152&Refer=top) - 531812
 1. [刘雯 井柏然](https://s.weibo.com//weibo?q=%E5%88%98%E9%9B%AF%20%E4%BA%95%E6%9F%8F%E7%84%B6&t=152&Refer=top) - 1378617
 1. [刘雯 避嫌](https://s.weibo.com//weibo?q=%E5%88%98%E9%9B%AF%20%E9%81%BF%E5%AB%8C&t=152&Refer=top) - 1451473
+1. [安静公主下沉口碑](https://s.weibo.com//weibo?q=%E5%AE%89%E9%9D%99%E5%85%AC%E4%B8%BB%E4%B8%8B%E6%B2%89%E5%8F%A3%E7%A2%91&t=152&Refer=top) - 387690
+1. [房主任进急诊还在被女儿骂](https://s.weibo.com//weibo?q=%23%E6%88%BF%E4%B8%BB%E4%BB%BB%E8%BF%9B%E6%80%A5%E8%AF%8A%E8%BF%98%E5%9C%A8%E8%A2%AB%E5%A5%B3%E5%84%BF%E9%AA%82%23&t=152&Refer=top) - 348921
+1. [披荆斩棘直播](https://s.weibo.com//weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9B%B4%E6%92%AD&t=152&Refer=top) - 314029
+1. [华晨宇说喝酒大赛太容易拿冠军了](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E8%AF%B4%E5%96%9D%E9%85%92%E5%A4%A7%E8%B5%9B%E5%A4%AA%E5%AE%B9%E6%98%93%E6%8B%BF%E5%86%A0%E5%86%9B%E4%BA%86%23&t=152&Refer=top) - 282626
+1. [虞书欣黑丝尖高跟熟女感](https://s.weibo.com//weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E9%BB%91%E4%B8%9D%E5%B0%96%E9%AB%98%E8%B7%9F%E7%86%9F%E5%A5%B3%E6%84%9F%23&t=152&Refer=top) - 282616
+1. [刘雯井柏然是姐夫而不是嫂子](https://s.weibo.com//weibo?q=%23%E5%88%98%E9%9B%AF%E4%BA%95%E6%9F%8F%E7%84%B6%E6%98%AF%E5%A7%90%E5%A4%AB%E8%80%8C%E4%B8%8D%E6%98%AF%E5%AB%82%E5%AD%90%23&t=152&Refer=top) - 282606
+1. [杭州给井柏然热得没招了](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E7%BB%99%E4%BA%95%E6%9F%8F%E7%84%B6%E7%83%AD%E5%BE%97%E6%B2%A1%E6%8B%9B%E4%BA%86%23&t=152&Refer=top) - 254346
+1. [李兰迪 我找凌玲](https://s.weibo.com//weibo?q=%E6%9D%8E%E5%85%B0%E8%BF%AA%20%E6%88%91%E6%89%BE%E5%87%8C%E7%8E%B2&t=152&Refer=top) - 228911
+1. [卢昱晓瘦成竹竿了](https://s.weibo.com//weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E7%98%A6%E6%88%90%E7%AB%B9%E7%AB%BF%E4%BA%86%23&t=152&Refer=top) - 206020
+1. [TFING厂综](https://s.weibo.com//weibo?q=%23TFING%E5%8E%82%E7%BB%BC%23&t=152&Refer=top) - 185418
+1. [丁禹兮音乐节](https://s.weibo.com//weibo?q=%E4%B8%81%E7%A6%B9%E5%85%AE%E9%9F%B3%E4%B9%90%E8%8A%82&t=152&Refer=top) - 182434
+1. [侯明昊在花少6搬了30个行李箱](https://s.weibo.com//weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E5%9C%A8%E8%8A%B1%E5%B0%916%E6%90%AC%E4%BA%8630%E4%B8%AA%E8%A1%8C%E6%9D%8E%E7%AE%B1%23&t=152&Refer=top) - 164190
+1. [王一博ins转发排位赛成绩](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9Ains%E8%BD%AC%E5%8F%91%E6%8E%92%E4%BD%8D%E8%B5%9B%E6%88%90%E7%BB%A9%23&t=152&Refer=top) - 159641
+1. [张雅琪曾自曝能上花少7是运气好](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9B%85%E7%90%AA%E6%9B%BE%E8%87%AA%E6%9B%9D%E8%83%BD%E4%B8%8A%E8%8A%B1%E5%B0%917%E6%98%AF%E8%BF%90%E6%B0%94%E5%A5%BD%23&t=152&Refer=top) - 156952
+1. [徐良演唱会奖品是帮还房贷车贷](https://s.weibo.com//weibo?q=%23%E5%BE%90%E8%89%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A5%96%E5%93%81%E6%98%AF%E5%B8%AE%E8%BF%98%E6%88%BF%E8%B4%B7%E8%BD%A6%E8%B4%B7%23&t=152&Refer=top) - 154886
+1. [网传蔡徐坤签了贾士凯](https://s.weibo.com//weibo?q=%23%E7%BD%91%E4%BC%A0%E8%94%A1%E5%BE%90%E5%9D%A4%E7%AD%BE%E4%BA%86%E8%B4%BE%E5%A3%AB%E5%87%AF%23&t=152&Refer=top) - 153844
+1. [井柏然说他也不理解早春晴朗单更](https://s.weibo.com//weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E8%AF%B4%E4%BB%96%E4%B9%9F%E4%B8%8D%E7%90%86%E8%A7%A3%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E5%8D%95%E6%9B%B4%23&t=152&Refer=top) - 150471
+1. [私服王一博](https://s.weibo.com//weibo?q=%23%E7%A7%81%E6%9C%8D%E7%8E%8B%E4%B8%80%E5%8D%9A%23&t=152&Refer=top) - 150275
+1. [chinagt赛场车辆碰撞着火](https://s.weibo.com//weibo?q=chinagt%E8%B5%9B%E5%9C%BA%E8%BD%A6%E8%BE%86%E7%A2%B0%E6%92%9E%E7%9D%80%E7%81%AB&t=152&Refer=top) - 136988
+1. [宋祖儿 花少3表现体面](https://s.weibo.com//weibo?q=%E5%AE%8B%E7%A5%96%E5%84%BF%20%E8%8A%B1%E5%B0%913%E8%A1%A8%E7%8E%B0%E4%BD%93%E9%9D%A2&t=152&Refer=top) - 129913
+1. [李宇春演唱会](https://s.weibo.com//weibo?q=%E6%9D%8E%E5%AE%87%E6%98%A5%E6%BC%94%E5%94%B1%E4%BC%9A&t=152&Refer=top) - 119428
+1. [杨洋一张合照让老外记了10年](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E6%B4%8B%E4%B8%80%E5%BC%A0%E5%90%88%E7%85%A7%E8%AE%A9%E8%80%81%E5%A4%96%E8%AE%B0%E4%BA%8610%E5%B9%B4%23&t=152&Refer=top) - 107485
+1. [吴彦祖上海站撞车退赛](https://s.weibo.com//weibo?q=%E5%90%B4%E5%BD%A6%E7%A5%96%E4%B8%8A%E6%B5%B7%E7%AB%99%E6%92%9E%E8%BD%A6%E9%80%80%E8%B5%9B&t=152&Refer=top) - 107476
+1. [邓为对张晚意说能不能盼我点好](https://s.weibo.com//weibo?q=%23%E9%82%93%E4%B8%BA%E5%AF%B9%E5%BC%A0%E6%99%9A%E6%84%8F%E8%AF%B4%E8%83%BD%E4%B8%8D%E8%83%BD%E7%9B%BC%E6%88%91%E7%82%B9%E5%A5%BD%23&t=152&Refer=top) - 107468
+1. [马嘉祺冰箱木蛋](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E5%86%B0%E7%AE%B1%E6%9C%A8%E8%9B%8B%23&t=152&Refer=top) - 107463
+1. [荷兰弟赞达亚因为疲惫放弃蜜月](https://s.weibo.com//weibo?q=%23%E8%8D%B7%E5%85%B0%E5%BC%9F%E8%B5%9E%E8%BE%BE%E4%BA%9A%E5%9B%A0%E4%B8%BA%E7%96%B2%E6%83%AB%E6%94%BE%E5%BC%83%E8%9C%9C%E6%9C%88%23&t=152&Refer=top) - 107456
+1. [杨超越用嘴接信那一下](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E7%94%A8%E5%98%B4%E6%8E%A5%E4%BF%A1%E9%82%A3%E4%B8%80%E4%B8%8B%23&t=152&Refer=top) - 107451
+1. [曹骏耳返两次没声音的原因](https://s.weibo.com//weibo?q=%23%E6%9B%B9%E9%AA%8F%E8%80%B3%E8%BF%94%E4%B8%A4%E6%AC%A1%E6%B2%A1%E5%A3%B0%E9%9F%B3%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=152&Refer=top) - 106917
+1. [何炅 要去歌手吗我跟他们说](https://s.weibo.com//weibo?q=%E4%BD%95%E7%82%85%20%E8%A6%81%E5%8E%BB%E6%AD%8C%E6%89%8B%E5%90%97%E6%88%91%E8%B7%9F%E4%BB%96%E4%BB%AC%E8%AF%B4&t=152&Refer=top) - 105570
+1. [王一博赛车组别第一](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%B5%9B%E8%BD%A6%E7%BB%84%E5%88%AB%E7%AC%AC%E4%B8%80%23&t=152&Refer=top) - 104788
+1. [井柏然曾谈结婚对象的条件](https://s.weibo.com//weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E6%9B%BE%E8%B0%88%E7%BB%93%E5%A9%9A%E5%AF%B9%E8%B1%A1%E7%9A%84%E6%9D%A1%E4%BB%B6%23&t=152&Refer=top) - 101665
+1. [luke就这样老来得子](https://s.weibo.com//weibo?q=%23luke%E5%B0%B1%E8%BF%99%E6%A0%B7%E8%80%81%E6%9D%A5%E5%BE%97%E5%AD%90%23&t=152&Refer=top) - 100523
+1. [谁去偷花少2母带](https://s.weibo.com//weibo?q=%E8%B0%81%E5%8E%BB%E5%81%B7%E8%8A%B1%E5%B0%912%E6%AF%8D%E5%B8%A6&t=152&Refer=top) - 98677
+1. [金晨直播提到李一桐](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%99%A8%E7%9B%B4%E6%92%AD%E6%8F%90%E5%88%B0%E6%9D%8E%E4%B8%80%E6%A1%90%23&t=152&Refer=top) - 97631
+1. [陈瑶早饭就吃辣椒](https://s.weibo.com//weibo?q=%23%E9%99%88%E7%91%B6%E6%97%A9%E9%A5%AD%E5%B0%B1%E5%90%83%E8%BE%A3%E6%A4%92%23&t=152&Refer=top) - 94591
+1. [井柏然多拍几部现偶再转型吧](https://s.weibo.com//weibo?q=%E4%BA%95%E6%9F%8F%E7%84%B6%E5%A4%9A%E6%8B%8D%E5%87%A0%E9%83%A8%E7%8E%B0%E5%81%B6%E5%86%8D%E8%BD%AC%E5%9E%8B%E5%90%A7&t=152&Refer=top) - 93820
+1. [李一桐说会考虑参加浪姐](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%B8%80%E6%A1%90%E8%AF%B4%E4%BC%9A%E8%80%83%E8%99%91%E5%8F%82%E5%8A%A0%E6%B5%AA%E5%A7%90&t=152&Refer=top) - 92771
+1. [王一博单手骑电动滑板车](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%8D%95%E6%89%8B%E9%AA%91%E7%94%B5%E5%8A%A8%E6%BB%91%E6%9D%BF%E8%BD%A6&t=152&Refer=top) - 92449
+1. [张学友大女儿近照](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AD%A6%E5%8F%8B%E5%A4%A7%E5%A5%B3%E5%84%BF%E8%BF%91%E7%85%A7%23&t=152&Refer=top) - 91102
+1. [网红小胖被曝有私生子](https://s.weibo.com//weibo?q=%23%E7%BD%91%E7%BA%A2%E5%B0%8F%E8%83%96%E8%A2%AB%E6%9B%9D%E6%9C%89%E7%A7%81%E7%94%9F%E5%AD%90%23&t=152&Refer=top) - 89724
+1. [花少8首播热度](https://s.weibo.com//weibo?q=%E8%8A%B1%E5%B0%918%E9%A6%96%E6%92%AD%E7%83%AD%E5%BA%A6&t=152&Refer=top) - 88063
+1. [李一桐互联网没有你在乎的人了吗](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E4%BA%92%E8%81%94%E7%BD%91%E6%B2%A1%E6%9C%89%E4%BD%A0%E5%9C%A8%E4%B9%8E%E7%9A%84%E4%BA%BA%E4%BA%86%E5%90%97%23&t=152&Refer=top) - 79256
+1. [Tiffany主动追求卞耀汉](https://s.weibo.com//weibo?q=%23Tiffany%E4%B8%BB%E5%8A%A8%E8%BF%BD%E6%B1%82%E5%8D%9E%E8%80%80%E6%B1%89%23&t=152&Refer=top) - 76357
+1. [超级夏晚给到一个夯](https://s.weibo.com//weibo?q=%23%E8%B6%85%E7%BA%A7%E5%A4%8F%E6%99%9A%E7%BB%99%E5%88%B0%E4%B8%80%E4%B8%AA%E5%A4%AF%23&t=152&Refer=top) - 72653
 1. [早春晴朗这尺度正片确实放不了](https://s.weibo.com//weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E8%BF%99%E5%B0%BA%E5%BA%A6%E6%AD%A3%E7%89%87%E7%A1%AE%E5%AE%9E%E6%94%BE%E4%B8%8D%E4%BA%86%23&t=152&Refer=top) - 527163
 1. [律师解读刘雯井柏然点赞风波](https://s.weibo.com//weibo?q=%23%E5%BE%8B%E5%B8%88%E8%A7%A3%E8%AF%BB%E5%88%98%E9%9B%AF%E4%BA%95%E6%9F%8F%E7%84%B6%E7%82%B9%E8%B5%9E%E9%A3%8E%E6%B3%A2%23&t=152&Refer=top) - 474446
 1. [井柏然杭州人气](https://s.weibo.com//weibo?q=%E4%BA%95%E6%9F%8F%E7%84%B6%E6%9D%AD%E5%B7%9E%E4%BA%BA%E6%B0%94&t=152&Refer=top) - 427002
@@ -138,7 +185,6 @@
 1. [披荆斩棘二公舞台](https://s.weibo.com//weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E4%BA%8C%E5%85%AC%E8%88%9E%E5%8F%B0&t=152&Refer=top) - 26519
 1. [杨博文助眠vlog](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%8D%9A%E6%96%87%E5%8A%A9%E7%9C%A0vlog%23&t=152&Refer=top) - 82898
 1. [陈若轩淘汰待定](https://s.weibo.com//weibo?q=%E9%99%88%E8%8B%A5%E8%BD%A9%E6%B7%98%E6%B1%B0%E5%BE%85%E5%AE%9A&t=152&Refer=top) - 113715
-1. [披荆斩棘直播](https://s.weibo.com//weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9B%B4%E6%92%AD&t=152&Refer=top) - 17387
 1. [井柏然到杭州了](https://s.weibo.com//weibo?q=%E4%BA%95%E6%9F%8F%E7%84%B6%E5%88%B0%E6%9D%AD%E5%B7%9E%E4%BA%86&t=152&Refer=top) - 45022
 1. [曝马皓轩强奸未成年](https://s.weibo.com//weibo?q=%E6%9B%9D%E9%A9%AC%E7%9A%93%E8%BD%A9%E5%BC%BA%E5%A5%B8%E6%9C%AA%E6%88%90%E5%B9%B4&t=152&Refer=top) - 60433
 1. [王传君833火力值第一](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%BC%A0%E5%90%9B833%E7%81%AB%E5%8A%9B%E5%80%BC%E7%AC%AC%E4%B8%80&t=152&Refer=top) - 14082
