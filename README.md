@@ -2,9 +2,58 @@
 微博文娱热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 06 2026 08:35:15 GMT+0800 (China Standard Time) -->
-1. [冉莹颖给爸爸三婚妻子塞钱](https://s.weibo.com//weibo?q=%23%E5%86%89%E8%8E%B9%E9%A2%96%E7%BB%99%E7%88%B8%E7%88%B8%E4%B8%89%E5%A9%9A%E5%A6%BB%E5%AD%90%E5%A1%9E%E9%92%B1%23&t=152&Refer=top) - 1082266
+<!-- 最后更新时间 Sun Sep 06 2026 13:31:05 GMT+0800 (China Standard Time) -->
+1. [早春晴朗原著尚之桃开公司不收女员工](https://s.weibo.com//weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E5%8E%9F%E8%91%97%E5%B0%9A%E4%B9%8B%E6%A1%83%E5%BC%80%E5%85%AC%E5%8F%B8%E4%B8%8D%E6%94%B6%E5%A5%B3%E5%91%98%E5%B7%A5%23&t=152&Refer=top) - 1681666
+1. [章泽天采访 没有一个菜入味](https://s.weibo.com//weibo?q=%E7%AB%A0%E6%B3%BD%E5%A4%A9%E9%87%87%E8%AE%BF%20%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E8%8F%9C%E5%85%A5%E5%91%B3&t=152&Refer=top) - 1633691
+1. [张雅琪中餐厅 穿帮](https://s.weibo.com//weibo?q=%E5%BC%A0%E9%9B%85%E7%90%AA%E4%B8%AD%E9%A4%90%E5%8E%85%20%E7%A9%BF%E5%B8%AE&t=152&Refer=top) - 952995
+1. [沙溢胡可送两儿子去英国读书](https://s.weibo.com//weibo?q=%23%E6%B2%99%E6%BA%A2%E8%83%A1%E5%8F%AF%E9%80%81%E4%B8%A4%E5%84%BF%E5%AD%90%E5%8E%BB%E8%8B%B1%E5%9B%BD%E8%AF%BB%E4%B9%A6%23&t=152&Refer=top) - 548509
 1. [某幻 花少北](https://s.weibo.com//weibo?q=%E6%9F%90%E5%B9%BB%20%E8%8A%B1%E5%B0%91%E5%8C%97&t=152&Refer=top) - 757586
+1. [早春晴朗作者回应争议](https://s.weibo.com//weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E4%BD%9C%E8%80%85%E5%9B%9E%E5%BA%94%E4%BA%89%E8%AE%AE%23&t=152&Refer=top) - 444292
+1. [李多海妈妈来中国照顾怀孕女儿](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%A4%9A%E6%B5%B7%E5%A6%88%E5%A6%88%E6%9D%A5%E4%B8%AD%E5%9B%BD%E7%85%A7%E9%A1%BE%E6%80%80%E5%AD%95%E5%A5%B3%E5%84%BF%23&t=152&Refer=top) - 399863
+1. [你们俩死哪去了](https://s.weibo.com//weibo?q=%E4%BD%A0%E4%BB%AC%E4%BF%A9%E6%AD%BB%E5%93%AA%E5%8E%BB%E4%BA%86&t=152&Refer=top) - 359876
+1. [铁证剧组 给居民封窗](https://s.weibo.com//weibo?q=%E9%93%81%E8%AF%81%E5%89%A7%E7%BB%84%20%E7%BB%99%E5%B1%85%E6%B0%91%E5%B0%81%E7%AA%97&t=152&Refer=top) - 323889
+1. [孟佳开学vlog](https://s.weibo.com//weibo?q=%E5%AD%9F%E4%BD%B3%E5%BC%80%E5%AD%A6vlog&t=152&Refer=top) - 291500
+1. [贺峻霖中传研究生报到](https://s.weibo.com//weibo?q=%E8%B4%BA%E5%B3%BB%E9%9C%96%E4%B8%AD%E4%BC%A0%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8A%A5%E5%88%B0&t=152&Refer=top) - 291492
+1. [童锦程自曝不分遗产给儿子](https://s.weibo.com//weibo?q=%23%E7%AB%A5%E9%94%A6%E7%A8%8B%E8%87%AA%E6%9B%9D%E4%B8%8D%E5%88%86%E9%81%97%E4%BA%A7%E7%BB%99%E5%84%BF%E5%AD%90%23&t=152&Refer=top) - 291487
+1. [陈丽君这才是最尊重观众的女扮男装](https://s.weibo.com//weibo?q=%23%E9%99%88%E4%B8%BD%E5%90%9B%E8%BF%99%E6%89%8D%E6%98%AF%E6%9C%80%E5%B0%8A%E9%87%8D%E8%A7%82%E4%BC%97%E7%9A%84%E5%A5%B3%E6%89%AE%E7%94%B7%E8%A3%85%23&t=152&Refer=top) - 291481
+1. [韩安冉发与肌肉男合照刺激宋浩然](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%AE%89%E5%86%89%E5%8F%91%E4%B8%8E%E8%82%8C%E8%82%89%E7%94%B7%E5%90%88%E7%85%A7%E5%88%BA%E6%BF%80%E5%AE%8B%E6%B5%A9%E7%84%B6%23&t=152&Refer=top) - 262333
+1. [陈妍希想要二胎](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E6%83%B3%E8%A6%81%E4%BA%8C%E8%83%8E%23&t=152&Refer=top) - 236099
+1. [影帝来了也得拍古偶](https://s.weibo.com//weibo?q=%E5%BD%B1%E5%B8%9D%E6%9D%A5%E4%BA%86%E4%B9%9F%E5%BE%97%E6%8B%8D%E5%8F%A4%E5%81%B6&t=152&Refer=top) - 236092
+1. [小沈阳在干嘛](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%B2%88%E9%98%B3%E5%9C%A8%E5%B9%B2%E5%98%9B%23&t=152&Refer=top) - 222267
+1. [杨博文原vlog已经替换](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%8D%9A%E6%96%87%E5%8E%9Fvlog%E5%B7%B2%E7%BB%8F%E6%9B%BF%E6%8D%A2%23&t=152&Refer=top) - 218585
+1. [锤娜丽莎因重度脂肪肝减肥](https://s.weibo.com//weibo?q=%23%E9%94%A4%E5%A8%9C%E4%B8%BD%E8%8E%8E%E5%9B%A0%E9%87%8D%E5%BA%A6%E8%84%82%E8%82%AA%E8%82%9D%E5%87%8F%E8%82%A5%23&t=152&Refer=top) - 200565
+1. [花少4全员倒霉蛋](https://s.weibo.com//weibo?q=%23%E8%8A%B1%E5%B0%914%E5%85%A8%E5%91%98%E5%80%92%E9%9C%89%E8%9B%8B%23&t=152&Refer=top) - 180508
+1. [心动的信号9](https://s.weibo.com//weibo?q=%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B79&t=152&Refer=top) - 162457
+1. [陈瑶你的瘦超乎了我的想象](https://s.weibo.com//weibo?q=%23%E9%99%88%E7%91%B6%E4%BD%A0%E7%9A%84%E7%98%A6%E8%B6%85%E4%B9%8E%E4%BA%86%E6%88%91%E7%9A%84%E6%83%B3%E8%B1%A1%23&t=152&Refer=top) - 153769
+1. [童锦程孩子直播大哭](https://s.weibo.com//weibo?q=%23%E7%AB%A5%E9%94%A6%E7%A8%8B%E5%AD%A9%E5%AD%90%E7%9B%B4%E6%92%AD%E5%A4%A7%E5%93%AD%23&t=152&Refer=top) - 152086
+1. [单凭这一段就可以提名金鸡吗](https://s.weibo.com//weibo?q=%E5%8D%95%E5%87%AD%E8%BF%99%E4%B8%80%E6%AE%B5%E5%B0%B1%E5%8F%AF%E4%BB%A5%E6%8F%90%E5%90%8D%E9%87%91%E9%B8%A1%E5%90%97&t=152&Refer=top) - 136877
+1. [米卡披哥二公表现](https://s.weibo.com//weibo?q=%23%E7%B1%B3%E5%8D%A1%E6%8A%AB%E5%93%A5%E4%BA%8C%E5%85%AC%E8%A1%A8%E7%8E%B0%23&t=152&Refer=top) - 123189
+1. [张元英16岁出圈普拉提神图](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B116%E5%B2%81%E5%87%BA%E5%9C%88%E6%99%AE%E6%8B%89%E6%8F%90%E7%A5%9E%E5%9B%BE%23&t=152&Refer=top) - 123183
+1. [我的前半生 韩国财阀大姨版](https://s.weibo.com//weibo?q=%E6%88%91%E7%9A%84%E5%89%8D%E5%8D%8A%E7%94%9F%20%E9%9F%A9%E5%9B%BD%E8%B4%A2%E9%98%80%E5%A4%A7%E5%A7%A8%E7%89%88&t=152&Refer=top) - 123174
+1. [秦牛正威回应订婚原因](https://s.weibo.com//weibo?q=%23%E7%A7%A6%E7%89%9B%E6%AD%A3%E5%A8%81%E5%9B%9E%E5%BA%94%E8%AE%A2%E5%A9%9A%E5%8E%9F%E5%9B%A0%23&t=152&Refer=top) - 123164
+1. [曹骏第二](https://s.weibo.com//weibo?q=%23%E6%9B%B9%E9%AA%8F%E7%AC%AC%E4%BA%8C%23&t=152&Refer=top) - 123156
+1. [早春晴朗20集](https://s.weibo.com//weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%9720%E9%9B%86%23&t=152&Refer=top) - 123151
+1. [吴慷仁居然去横店拍古装剧了](https://s.weibo.com//weibo?q=%E5%90%B4%E6%85%B7%E4%BB%81%E5%B1%85%E7%84%B6%E5%8E%BB%E6%A8%AA%E5%BA%97%E6%8B%8D%E5%8F%A4%E8%A3%85%E5%89%A7%E4%BA%86&t=152&Refer=top) - 123141
+1. [小鱼儿12岁身高180](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E9%B1%BC%E5%84%BF12%E5%B2%81%E8%BA%AB%E9%AB%98180%23&t=152&Refer=top) - 123133
+1. [胡军那个演员叫什么烨来着](https://s.weibo.com//weibo?q=%23%E8%83%A1%E5%86%9B%E9%82%A3%E4%B8%AA%E6%BC%94%E5%91%98%E5%8F%AB%E4%BB%80%E4%B9%88%E7%83%A8%E6%9D%A5%E7%9D%80%23&t=152&Refer=top) - 123124
+1. [马嘉祺歌手未公开剧照](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E6%AD%8C%E6%89%8B%E6%9C%AA%E5%85%AC%E5%BC%80%E5%89%A7%E7%85%A7%23&t=152&Refer=top) - 123119
+1. [给阿嬷的情书剧组首次合体露面](https://s.weibo.com//weibo?q=%23%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E5%89%A7%E7%BB%84%E9%A6%96%E6%AC%A1%E5%90%88%E4%BD%93%E9%9C%B2%E9%9D%A2%23&t=152&Refer=top) - 121011
+1. [程潇杨超越两张建模脸同框](https://s.weibo.com//weibo?q=%23%E7%A8%8B%E6%BD%87%E6%9D%A8%E8%B6%85%E8%B6%8A%E4%B8%A4%E5%BC%A0%E5%BB%BA%E6%A8%A1%E8%84%B8%E5%90%8C%E6%A1%86%23&t=152&Refer=top) - 114936
+1. [小S亲老公庆生照](https://s.weibo.com//weibo?q=%23%E5%B0%8FS%E4%BA%B2%E8%80%81%E5%85%AC%E5%BA%86%E7%94%9F%E7%85%A7%23&t=152&Refer=top) - 106894
+1. [王凯人缘](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%87%AF%E4%BA%BA%E7%BC%98%23&t=152&Refer=top) - 103791
+1. [这居然是郑元畅](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E9%83%91%E5%85%83%E7%95%85%23&t=152&Refer=top) - 102672
+1. [杨博文vlog里疑似有人说脏话](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%8D%9A%E6%96%87vlog%E9%87%8C%E7%96%91%E4%BC%BC%E6%9C%89%E4%BA%BA%E8%AF%B4%E8%84%8F%E8%AF%9D%23&t=152&Refer=top) - 228281
+1. [孟子义 消失一天等于分手](https://s.weibo.com//weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%20%E6%B6%88%E5%A4%B1%E4%B8%80%E5%A4%A9%E7%AD%89%E4%BA%8E%E5%88%86%E6%89%8B&t=152&Refer=top) - 100321
+1. [杨博文隔壁](https://s.weibo.com//weibo?q=%E6%9D%A8%E5%8D%9A%E6%96%87%E9%9A%94%E5%A3%81&t=152&Refer=top) - 100049
+1. [刘琳琳 美妆刘姐](https://s.weibo.com//weibo?q=%E5%88%98%E7%90%B3%E7%90%B3%20%E7%BE%8E%E5%A6%86%E5%88%98%E5%A7%90&t=152&Refer=top) - 99908
+1. [余宇涵模仿邓恩熙wink](https://s.weibo.com//weibo?q=%23%E4%BD%99%E5%AE%87%E6%B6%B5%E6%A8%A1%E4%BB%BF%E9%82%93%E6%81%A9%E7%86%99wink%23&t=152&Refer=top) - 89917
+1. [少女时代孝渊看逐玉学中文](https://s.weibo.com//weibo?q=%E5%B0%91%E5%A5%B3%E6%97%B6%E4%BB%A3%E5%AD%9D%E6%B8%8A%E7%9C%8B%E9%80%90%E7%8E%89%E5%AD%A6%E4%B8%AD%E6%96%87&t=152&Refer=top) - 88550
+1. [何不同舟渡播出时间](https://s.weibo.com//weibo?q=%E4%BD%95%E4%B8%8D%E5%90%8C%E8%88%9F%E6%B8%A1%E6%92%AD%E5%87%BA%E6%97%B6%E9%97%B4&t=152&Refer=top) - 84921
+1. [85后女生自学AI做短剧播放量破亿](https://s.weibo.com//weibo?q=85%E5%90%8E%E5%A5%B3%E7%94%9F%E8%87%AA%E5%AD%A6AI%E5%81%9A%E7%9F%AD%E5%89%A7%E6%92%AD%E6%94%BE%E9%87%8F%E7%A0%B4%E4%BA%BF&t=152&Refer=top) - 84521
+1. [张学友26岁长女张瑶华近照](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AD%A6%E5%8F%8B26%E5%B2%81%E9%95%BF%E5%A5%B3%E5%BC%A0%E7%91%B6%E5%8D%8E%E8%BF%91%E7%85%A7%23&t=152&Refer=top) - 81636
+1. [邝玲玲武汉活动人气](https://s.weibo.com//weibo?q=%23%E9%82%9D%E7%8E%B2%E7%8E%B2%E6%AD%A6%E6%B1%89%E6%B4%BB%E5%8A%A8%E4%BA%BA%E6%B0%94%23&t=152&Refer=top) - 81031
+1. [孟子义谈恋爱最在乎的是时间](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E8%B0%88%E6%81%8B%E7%88%B1%E6%9C%80%E5%9C%A8%E4%B9%8E%E7%9A%84%E6%98%AF%E6%97%B6%E9%97%B4%23&t=152&Refer=top) - 81011
+1. [冉莹颖给爸爸三婚妻子塞钱](https://s.weibo.com//weibo?q=%23%E5%86%89%E8%8E%B9%E9%A2%96%E7%BB%99%E7%88%B8%E7%88%B8%E4%B8%89%E5%A9%9A%E5%A6%BB%E5%AD%90%E5%A1%9E%E9%92%B1%23&t=152&Refer=top) - 1082266
 1. [鞠婧祎扇巴掌给我看爽了](https://s.weibo.com//weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%89%87%E5%B7%B4%E6%8E%8C%E7%BB%99%E6%88%91%E7%9C%8B%E7%88%BD%E4%BA%86%23&t=152&Refer=top) - 530310
 1. [披荆斩棘三公分组](https://s.weibo.com//weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E4%B8%89%E5%85%AC%E5%88%86%E7%BB%84&t=152&Refer=top) - 477279
 1. [王一博点赞救人车手](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%82%B9%E8%B5%9E%E6%95%91%E4%BA%BA%E8%BD%A6%E6%89%8B%23&t=152&Refer=top) - 429551
@@ -13,7 +62,6 @@
 1. [刘琳琳金哥对质](https://s.weibo.com//weibo?q=%E5%88%98%E7%90%B3%E7%90%B3%E9%87%91%E5%93%A5%E5%AF%B9%E8%B4%A8&t=152&Refer=top) - 313142
 1. [陈丽君 祝姑娘路透](https://s.weibo.com//weibo?q=%E9%99%88%E4%B8%BD%E5%90%9B%20%E7%A5%9D%E5%A7%91%E5%A8%98%E8%B7%AF%E9%80%8F&t=152&Refer=top) - 281828
 1. [披荆斩棘排名](https://s.weibo.com//weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%8E%92%E5%90%8D&t=152&Refer=top) - 253645
-1. [杨博文vlog里疑似有人说脏话](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%8D%9A%E6%96%87vlog%E9%87%8C%E7%96%91%E4%BC%BC%E6%9C%89%E4%BA%BA%E8%AF%B4%E8%84%8F%E8%AF%9D%23&t=152&Refer=top) - 228281
 1. [安静公主近30天涨粉超27万](https://s.weibo.com//weibo?q=%23%E5%AE%89%E9%9D%99%E5%85%AC%E4%B8%BB%E8%BF%9130%E5%A4%A9%E6%B6%A8%E7%B2%89%E8%B6%8527%E4%B8%87%23&t=152&Refer=top) - 205453
 1. [张雅琪被花少8剪掉了](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9B%85%E7%90%AA%E8%A2%AB%E8%8A%B1%E5%B0%918%E5%89%AA%E6%8E%89%E4%BA%86%23&t=152&Refer=top) - 332706
 1. [得闲谨制](https://s.weibo.com//weibo?q=%E5%BE%97%E9%97%B2%E8%B0%A8%E5%88%B6&t=152&Refer=top) - 166417
