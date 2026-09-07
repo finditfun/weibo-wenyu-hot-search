@@ -2,14 +2,57 @@
 微博文娱热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 07 2026 07:29:57 GMT+0800 (China Standard Time) -->
-1. [陈晓陈妍希好体面](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%99%93%E9%99%88%E5%A6%8D%E5%B8%8C%E5%A5%BD%E4%BD%93%E9%9D%A2%23&t=152&Refer=top) - 871229
-1. [肖战背后拍爸妈看李宇春演唱会](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E8%83%8C%E5%90%8E%E6%8B%8D%E7%88%B8%E5%A6%88%E7%9C%8B%E6%9D%8E%E5%AE%87%E6%98%A5%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=152&Refer=top) - 609860
-1. [陈晓妈妈仍会帮陈妍希带孩子](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%99%93%E5%A6%88%E5%A6%88%E4%BB%8D%E4%BC%9A%E5%B8%AE%E9%99%88%E5%A6%8D%E5%B8%8C%E5%B8%A6%E5%AD%A9%E5%AD%90%23&t=152&Refer=top) - 835468
-1. [王一博事故调查诉求](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E8%AF%89%E6%B1%82&t=152&Refer=top) - 493986
+<!-- 最后更新时间 Mon Sep 07 2026 11:03:46 GMT+0800 (China Standard Time) -->
+1. [陈晓陈妍希好体面](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%99%93%E9%99%88%E5%A6%8D%E5%B8%8C%E5%A5%BD%E4%BD%93%E9%9D%A2%23&t=152&Refer=top) - 1151319
+1. [詹青云删除宣传早春晴朗视频](https://s.weibo.com//weibo?q=%23%E8%A9%B9%E9%9D%92%E4%BA%91%E5%88%A0%E9%99%A4%E5%AE%A3%E4%BC%A0%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E8%A7%86%E9%A2%91%23&t=152&Refer=top) - 924479
+1. [詹青云宣传早春晴朗被吐槽](https://s.weibo.com//weibo?q=%23%E8%A9%B9%E9%9D%92%E4%BA%91%E5%AE%A3%E4%BC%A0%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E8%A2%AB%E5%90%90%E6%A7%BD%23&t=152&Refer=top) - 808123
+1. [麦琳和锤娜丽莎分别瘦了快三十斤](https://s.weibo.com//weibo?q=%23%E9%BA%A6%E7%90%B3%E5%92%8C%E9%94%A4%E5%A8%9C%E4%B8%BD%E8%8E%8E%E5%88%86%E5%88%AB%E7%98%A6%E4%BA%86%E5%BF%AB%E4%B8%89%E5%8D%81%E6%96%A4%23&t=152&Refer=top) - 558788
+1. [陈晓 陈妍希](https://s.weibo.com//weibo?q=%E9%99%88%E6%99%93%20%E9%99%88%E5%A6%8D%E5%B8%8C&t=152&Refer=top) - 502909
+1. [早春晴朗删掉的亲密戏](https://s.weibo.com//weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E5%88%A0%E6%8E%89%E7%9A%84%E4%BA%B2%E5%AF%86%E6%88%8F%23&t=152&Refer=top) - 452618
+1. [鸡蛋歌](https://s.weibo.com//weibo?q=%E9%B8%A1%E8%9B%8B%E6%AD%8C&t=152&Refer=top) - 407356
+1. [王一博赛车被撞调查结果](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%B5%9B%E8%BD%A6%E8%A2%AB%E6%92%9E%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%23&t=152&Refer=top) - 395761
+1. [肖战现身舞蹈工作室](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E7%8E%B0%E8%BA%AB%E8%88%9E%E8%B9%88%E5%B7%A5%E4%BD%9C%E5%AE%A4%23&t=152&Refer=top) - 375982
+1. [COS 蔡徐坤](https://s.weibo.com//weibo?q=COS%20%E8%94%A1%E5%BE%90%E5%9D%A4&t=152&Refer=top) - 338383
+1. [你那个情人也有妻子](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E9%82%A3%E4%B8%AA%E6%83%85%E4%BA%BA%E4%B9%9F%E6%9C%89%E5%A6%BB%E5%AD%90%23&t=152&Refer=top) - 304545
+1. [娜扎池昌旭又同框了](https://s.weibo.com//weibo?q=%E5%A8%9C%E6%89%8E%E6%B1%A0%E6%98%8C%E6%97%AD%E5%8F%88%E5%90%8C%E6%A1%86%E4%BA%86&t=152&Refer=top) - 274090
+1. [交锋同妻剧情](https://s.weibo.com//weibo?q=%E4%BA%A4%E9%94%8B%E5%90%8C%E5%A6%BB%E5%89%A7%E6%83%85&t=152&Refer=top) - 262649
+1. [马嘉祺新EP](https://s.weibo.com//weibo?q=%E9%A9%AC%E5%98%89%E7%A5%BA%E6%96%B0EP&t=152&Refer=top) - 236384
+1. [张家齐一直在被妈妈吐槽](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E4%B8%80%E7%9B%B4%E5%9C%A8%E8%A2%AB%E5%A6%88%E5%A6%88%E5%90%90%E6%A7%BD%23&t=152&Refer=top) - 212745
+1. [交锋 尺度大](https://s.weibo.com//weibo?q=%E4%BA%A4%E9%94%8B%20%E5%B0%BA%E5%BA%A6%E5%A4%A7&t=152&Refer=top) - 199737
+1. [井柏然口误](https://s.weibo.com//weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E5%8F%A3%E8%AF%AF%23&t=152&Refer=top) - 188797
 1. [毛阿敏工作室早期博文 活人感](https://s.weibo.com//weibo?q=%E6%AF%9B%E9%98%BF%E6%95%8F%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%97%A9%E6%9C%9F%E5%8D%9A%E6%96%87%20%E6%B4%BB%E4%BA%BA%E6%84%9F&t=152&Refer=top) - 444588
+1. [陈晓妈妈仍会帮陈妍希带孩子](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%99%93%E5%A6%88%E5%A6%88%E4%BB%8D%E4%BC%9A%E5%B8%AE%E9%99%88%E5%A6%8D%E5%B8%8C%E5%B8%A6%E5%AD%A9%E5%AD%90%23&t=152&Refer=top) - 835468
+1. [早春晴朗好隐晦的婚纱照](https://s.weibo.com//weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E5%A5%BD%E9%9A%90%E6%99%A6%E7%9A%84%E5%A9%9A%E7%BA%B1%E7%85%A7%23&t=152&Refer=top) - 143298
+1. [边伯贤金珉锡金钟大起诉INB100](https://s.weibo.com//weibo?q=%23%E8%BE%B9%E4%BC%AF%E8%B4%A4%E9%87%91%E7%8F%89%E9%94%A1%E9%87%91%E9%92%9F%E5%A4%A7%E8%B5%B7%E8%AF%89INB100%23&t=152&Refer=top) - 141962
+1. [苏晓彤 拍戏的意义是什么](https://s.weibo.com//weibo?q=%E8%8B%8F%E6%99%93%E5%BD%A4%20%E6%8B%8D%E6%88%8F%E7%9A%84%E6%84%8F%E4%B9%89%E6%98%AF%E4%BB%80%E4%B9%88&t=152&Refer=top) - 139997
+1. [电影界已经不能没有AI了](https://s.weibo.com//weibo?q=%E7%94%B5%E5%BD%B1%E7%95%8C%E5%B7%B2%E7%BB%8F%E4%B8%8D%E8%83%BD%E6%B2%A1%E6%9C%89AI%E4%BA%86&t=152&Refer=top) - 125997
+1. [肖战和爸爸看演唱会戴的是亲子帽](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E5%92%8C%E7%88%B8%E7%88%B8%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E6%88%B4%E7%9A%84%E6%98%AF%E4%BA%B2%E5%AD%90%E5%B8%BD%23&t=152&Refer=top) - 119346
+1. [早春晴朗](https://s.weibo.com//weibo?q=%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97&t=152&Refer=top) - 114517
+1. [宁静当年花少2你在想啥](https://s.weibo.com//weibo?q=%23%E5%AE%81%E9%9D%99%E5%BD%93%E5%B9%B4%E8%8A%B1%E5%B0%912%E4%BD%A0%E5%9C%A8%E6%83%B3%E5%95%A5%23&t=152&Refer=top) - 104073
+1. [金智秀粉丝](https://s.weibo.com//weibo?q=%E9%87%91%E6%99%BA%E7%A7%80%E7%B2%89%E4%B8%9D&t=152&Refer=top) - 100549
+1. [外网评价易烊千玺演技](https://s.weibo.com//weibo?q=%E5%A4%96%E7%BD%91%E8%AF%84%E4%BB%B7%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%BC%94%E6%8A%80&t=152&Refer=top) - 95016
+1. [朱珠腰身比](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E7%8F%A0%E8%85%B0%E8%BA%AB%E6%AF%94%23&t=152&Refer=top) - 94281
 1. [刘耀文说错话丁程鑫的表情](https://s.weibo.com//weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E8%AF%B4%E9%94%99%E8%AF%9D%E4%B8%81%E7%A8%8B%E9%91%AB%E7%9A%84%E8%A1%A8%E6%83%85%23&t=152&Refer=top) - 400129
+1. [田曦薇拍了第57次取消发送](https://s.weibo.com//weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E6%8B%8D%E4%BA%86%E7%AC%AC57%E6%AC%A1%E5%8F%96%E6%B6%88%E5%8F%91%E9%80%81%23&t=152&Refer=top) - 92454
+1. [马嘉祺穿帮笑声](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E7%A9%BF%E5%B8%AE%E7%AC%91%E5%A3%B0%23&t=152&Refer=top) - 87280
+1. [赵丽颖长发](https://s.weibo.com//weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%95%BF%E5%8F%91&t=152&Refer=top) - 87095
+1. [肖战背后拍爸妈看李宇春演唱会](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E8%83%8C%E5%90%8E%E6%8B%8D%E7%88%B8%E5%A6%88%E7%9C%8B%E6%9D%8E%E5%AE%87%E6%98%A5%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=152&Refer=top) - 609860
+1. [陈粒害羞把李宇春推开](https://s.weibo.com//weibo?q=%23%E9%99%88%E7%B2%92%E5%AE%B3%E7%BE%9E%E6%8A%8A%E6%9D%8E%E5%AE%87%E6%98%A5%E6%8E%A8%E5%BC%80%23&t=152&Refer=top) - 80654
 1. [半个娱乐圈明星都去李宇春演唱会](https://s.weibo.com//weibo?q=%23%E5%8D%8A%E4%B8%AA%E5%A8%B1%E4%B9%90%E5%9C%88%E6%98%8E%E6%98%9F%E9%83%BD%E5%8E%BB%E6%9D%8E%E5%AE%87%E6%98%A5%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=152&Refer=top) - 360116
+1. [郭富城偶遇刘德华张学友聊育女经](https://s.weibo.com//weibo?q=%23%E9%83%AD%E5%AF%8C%E5%9F%8E%E5%81%B6%E9%81%87%E5%88%98%E5%BE%B7%E5%8D%8E%E5%BC%A0%E5%AD%A6%E5%8F%8B%E8%81%8A%E8%82%B2%E5%A5%B3%E7%BB%8F%23&t=152&Refer=top) - 74341
+1. [王一博事故调查诉求](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E8%AF%89%E6%B1%82&t=152&Refer=top) - 493986
+1. [肖战的家庭氛围好幸福](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E7%9A%84%E5%AE%B6%E5%BA%AD%E6%B0%9B%E5%9B%B4%E5%A5%BD%E5%B9%B8%E7%A6%8F%23&t=152&Refer=top) - 66829
+1. [四大超模感情现状](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%A4%A7%E8%B6%85%E6%A8%A1%E6%84%9F%E6%83%85%E7%8E%B0%E7%8A%B6%23&t=152&Refer=top) - 62486
+1. [汪苏泷演唱会被抓伤](https://s.weibo.com//weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E6%8A%93%E4%BC%A4&t=152&Refer=top) - 59879
+1. [杨幂生万物的反响](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E7%94%9F%E4%B8%87%E7%89%A9%E7%9A%84%E5%8F%8D%E5%93%8D%23&t=152&Refer=top) - 58559
+1. [马嘉祺心室开放中](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E5%BF%83%E5%AE%A4%E5%BC%80%E6%94%BE%E4%B8%AD%23&t=152&Refer=top) - 55523
+1. [早春晴朗Tracy造型师发文](https://s.weibo.com//weibo?q=%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97Tracy%E9%80%A0%E5%9E%8B%E5%B8%88%E5%8F%91%E6%96%87&t=152&Refer=top) - 55044
+1. [田曦薇网速最快的一次](https://s.weibo.com//weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E7%BD%91%E9%80%9F%E6%9C%80%E5%BF%AB%E7%9A%84%E4%B8%80%E6%AC%A1%23&t=152&Refer=top) - 54264
+1. [栾念一句话挑衅尚之桃前男友](https://s.weibo.com//weibo?q=%23%E6%A0%BE%E5%BF%B5%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%8C%91%E8%A1%85%E5%B0%9A%E4%B9%8B%E6%A1%83%E5%89%8D%E7%94%B7%E5%8F%8B%23&t=152&Refer=top) - 53396
+1. [曝王晓慧结婚了](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E7%8E%8B%E6%99%93%E6%85%A7%E7%BB%93%E5%A9%9A%E4%BA%86%23&t=152&Refer=top) - 51092
+1. [现在不是出轨的问题](https://s.weibo.com//weibo?q=%E7%8E%B0%E5%9C%A8%E4%B8%8D%E6%98%AF%E5%87%BA%E8%BD%A8%E7%9A%84%E9%97%AE%E9%A2%98&t=152&Refer=top) - 50665
+1. [毛阿敏许晴 旅行的意义](https://s.weibo.com//weibo?q=%E6%AF%9B%E9%98%BF%E6%95%8F%E8%AE%B8%E6%99%B4%20%E6%97%85%E8%A1%8C%E7%9A%84%E6%84%8F%E4%B9%89&t=152&Refer=top) - 49895
+1. [栾念放卢克跟尚之桃走](https://s.weibo.com//weibo?q=%23%E6%A0%BE%E5%BF%B5%E6%94%BE%E5%8D%A2%E5%85%8B%E8%B7%9F%E5%B0%9A%E4%B9%8B%E6%A1%83%E8%B5%B0%23&t=152&Refer=top) - 48495
 1. [张纪中妻子称已进入良性循环](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%BA%AA%E4%B8%AD%E5%A6%BB%E5%AD%90%E7%A7%B0%E5%B7%B2%E8%BF%9B%E5%85%A5%E8%89%AF%E6%80%A7%E5%BE%AA%E7%8E%AF%23&t=152&Refer=top) - 324104
 1. [花少2摄影师曾劝杨洋明天跑吧](https://s.weibo.com//weibo?q=%23%E8%8A%B1%E5%B0%912%E6%91%84%E5%BD%B1%E5%B8%88%E6%9B%BE%E5%8A%9D%E6%9D%A8%E6%B4%8B%E6%98%8E%E5%A4%A9%E8%B7%91%E5%90%A7%23&t=152&Refer=top) - 291694
 1. [曝白玉兰杨幂0票](https://s.weibo.com//weibo?q=%E6%9B%9D%E7%99%BD%E7%8E%89%E5%85%B0%E6%9D%A8%E5%B9%820%E7%A5%A8&t=152&Refer=top) - 331597
@@ -30,7 +73,6 @@
 1. [曝刘雨昕节奏病为披哥三公选曲](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E5%88%98%E9%9B%A8%E6%98%95%E8%8A%82%E5%A5%8F%E7%97%85%E4%B8%BA%E6%8A%AB%E5%93%A5%E4%B8%89%E5%85%AC%E9%80%89%E6%9B%B2%23&t=152&Refer=top) - 54051
 1. [王一博赛车被撞现场画面曝光](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%B5%9B%E8%BD%A6%E8%A2%AB%E6%92%9E%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23&t=152&Refer=top) - 87458
 1. [路人视角下韩星的现实长相](https://s.weibo.com//weibo?q=%E8%B7%AF%E4%BA%BA%E8%A7%86%E8%A7%92%E4%B8%8B%E9%9F%A9%E6%98%9F%E7%9A%84%E7%8E%B0%E5%AE%9E%E9%95%BF%E7%9B%B8&t=152&Refer=top) - 43781
-1. [交锋 尺度大](https://s.weibo.com//weibo?q=%E4%BA%A4%E9%94%8B%20%E5%B0%BA%E5%BA%A6%E5%A4%A7&t=152&Refer=top) - 39403
 1. [叶一茜曾轶可黄雅莉看李宇春演唱会](https://s.weibo.com//weibo?q=%23%E5%8F%B6%E4%B8%80%E8%8C%9C%E6%9B%BE%E8%BD%B6%E5%8F%AF%E9%BB%84%E9%9B%85%E8%8E%89%E7%9C%8B%E6%9D%8E%E5%AE%87%E6%98%A5%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=152&Refer=top) - 64440
 1. [交锋](https://s.weibo.com//weibo?q=%E4%BA%A4%E9%94%8B&t=152&Refer=top) - 268593
 1. [一年级导演否认马皓轩传言](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%B9%B4%E7%BA%A7%E5%AF%BC%E6%BC%94%E5%90%A6%E8%AE%A4%E9%A9%AC%E7%9A%93%E8%BD%A9%E4%BC%A0%E8%A8%80%23&t=152&Refer=top) - 139985
