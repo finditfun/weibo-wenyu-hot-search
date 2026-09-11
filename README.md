@@ -2,9 +2,57 @@
 微博文娱热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 11 2026 11:10:49 GMT+0800 (China Standard Time) -->
-1. [范丞丞ins发抽烟照](https://s.weibo.com//weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9Eins%E5%8F%91%E6%8A%BD%E7%83%9F%E7%85%A7%23&t=152&Refer=top) - 1246093
+<!-- 最后更新时间 Fri Sep 11 2026 16:35:56 GMT+0800 (China Standard Time) -->
+1. [TF三代艺人活动取消](https://s.weibo.com//weibo?q=%23TF%E4%B8%89%E4%BB%A3%E8%89%BA%E4%BA%BA%E6%B4%BB%E5%8A%A8%E5%8F%96%E6%B6%88%23&t=152&Refer=top) - 2041424
+1. [雷宇扬去世](https://s.weibo.com//weibo?q=%23%E9%9B%B7%E5%AE%87%E6%89%AC%E5%8E%BB%E4%B8%96%23&t=152&Refer=top) - 931315
+1. [鹿晗去了张碧晨生日会](https://s.weibo.com//weibo?q=%E9%B9%BF%E6%99%97%E5%8E%BB%E4%BA%86%E5%BC%A0%E7%A2%A7%E6%99%A8%E7%94%9F%E6%97%A5%E4%BC%9A&t=152&Refer=top) - 920505
+1. [时代峰峻艺人现状](https://s.weibo.com//weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E8%89%BA%E4%BA%BA%E7%8E%B0%E7%8A%B6%23&t=152&Refer=top) - 859147
+1. [时代峰峻 线下活动](https://s.weibo.com//weibo?q=%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%20%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8&t=152&Refer=top) - 851511
+1. [艾特孙千结果井柏然回复了](https://s.weibo.com//weibo?q=%23%E8%89%BE%E7%89%B9%E5%AD%99%E5%8D%83%E7%BB%93%E6%9E%9C%E4%BA%95%E6%9F%8F%E7%84%B6%E5%9B%9E%E5%A4%8D%E4%BA%86%23&t=152&Refer=top) - 374564
+1. [高露老公](https://s.weibo.com//weibo?q=%E9%AB%98%E9%9C%B2%E8%80%81%E5%85%AC&t=152&Refer=top) - 374556
+1. [白敬亭谭松韵一个叫姐一个叫哥](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%B0%AD%E6%9D%BE%E9%9F%B5%E4%B8%80%E4%B8%AA%E5%8F%AB%E5%A7%90%E4%B8%80%E4%B8%AA%E5%8F%AB%E5%93%A5%23&t=152&Refer=top) - 358945
+1. [TF三代 备战高考](https://s.weibo.com//weibo?q=TF%E4%B8%89%E4%BB%A3%20%E5%A4%87%E6%88%98%E9%AB%98%E8%80%83&t=152&Refer=top) - 358937
+1. [井柏然 现偶整不动了](https://s.weibo.com//weibo?q=%E4%BA%95%E6%9F%8F%E7%84%B6%20%E7%8E%B0%E5%81%B6%E6%95%B4%E4%B8%8D%E5%8A%A8%E4%BA%86&t=152&Refer=top) - 343344
 1. [章若楠说大家卸了妆都长一样](https://s.weibo.com//weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E8%AF%B4%E5%A4%A7%E5%AE%B6%E5%8D%B8%E4%BA%86%E5%A6%86%E9%83%BD%E9%95%BF%E4%B8%80%E6%A0%B7%23&t=152&Refer=top) - 1058114
+1. [文俊辉疑似说seventeen的歌是口水歌](https://s.weibo.com//weibo?q=%E6%96%87%E4%BF%8A%E8%BE%89%E7%96%91%E4%BC%BC%E8%AF%B4seventeen%E7%9A%84%E6%AD%8C%E6%98%AF%E5%8F%A3%E6%B0%B4%E6%AD%8C&t=152&Refer=top) - 309002
+1. [孙艺珍说儿子帅想不当演员都难](https://s.weibo.com//weibo?q=%23%E5%AD%99%E8%89%BA%E7%8F%8D%E8%AF%B4%E5%84%BF%E5%AD%90%E5%B8%85%E6%83%B3%E4%B8%8D%E5%BD%93%E6%BC%94%E5%91%98%E9%83%BD%E9%9A%BE%23&t=152&Refer=top) - 278102
+1. [肖战孙菲菲 杂志](https://s.weibo.com//weibo?q=%E8%82%96%E6%88%98%E5%AD%99%E8%8F%B2%E8%8F%B2%20%E6%9D%82%E5%BF%97&t=152&Refer=top) - 252985
+1. [林依晨睡沙发](https://s.weibo.com//weibo?q=%E6%9E%97%E4%BE%9D%E6%99%A8%E7%9D%A1%E6%B2%99%E5%8F%91&t=152&Refer=top) - 244360
+1. [范丞丞ins发抽烟照](https://s.weibo.com//weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9Eins%E5%8F%91%E6%8A%BD%E7%83%9F%E7%85%A7%23&t=152&Refer=top) - 1246093
+1. [银河左岸音乐节公告](https://s.weibo.com//weibo?q=%23%E9%93%B6%E6%B2%B3%E5%B7%A6%E5%B2%B8%E9%9F%B3%E4%B9%90%E8%8A%82%E5%85%AC%E5%91%8A%23&t=152&Refer=top) - 224363
+1. [井柏然又要送私服了](https://s.weibo.com//weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E5%8F%88%E8%A6%81%E9%80%81%E7%A7%81%E6%9C%8D%E4%BA%86%23&t=152&Refer=top) - 214723
+1. [再就业男团每人演出60分钟](https://s.weibo.com//weibo?q=%E5%86%8D%E5%B0%B1%E4%B8%9A%E7%94%B7%E5%9B%A2%E6%AF%8F%E4%BA%BA%E6%BC%94%E5%87%BA60%E5%88%86%E9%92%9F&t=152&Refer=top) - 210186
+1. [花少8镜头外的殷桃](https://s.weibo.com//weibo?q=%23%E8%8A%B1%E5%B0%918%E9%95%9C%E5%A4%B4%E5%A4%96%E7%9A%84%E6%AE%B7%E6%A1%83%23&t=152&Refer=top) - 189167
+1. [卢昱晓腰围从64cm缩减至59cm](https://s.weibo.com//weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E8%85%B0%E5%9B%B4%E4%BB%8E64cm%E7%BC%A9%E5%87%8F%E8%87%B359cm%23&t=152&Refer=top) - 181804
+1. [早春晴朗豆瓣6.7分](https://s.weibo.com//weibo?q=%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E8%B1%86%E7%93%A36.7%E5%88%86&t=152&Refer=top) - 170565
+1. [不接汪浚熙事业运](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E6%8E%A5%E6%B1%AA%E6%B5%9A%E7%86%99%E4%BA%8B%E4%B8%9A%E8%BF%90%23&t=152&Refer=top) - 153508
+1. [周冬雨走到哪儿都是素颜](https://s.weibo.com//weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E8%B5%B0%E5%88%B0%E5%93%AA%E5%84%BF%E9%83%BD%E6%98%AF%E7%B4%A0%E9%A2%9C%23&t=152&Refer=top) - 138157
+1. [就算你是范丞丞也得和亲戚合照](https://s.weibo.com//weibo?q=%23%E5%B0%B1%E7%AE%97%E4%BD%A0%E6%98%AF%E8%8C%83%E4%B8%9E%E4%B8%9E%E4%B9%9F%E5%BE%97%E5%92%8C%E4%BA%B2%E6%88%9A%E5%90%88%E7%85%A7%23&t=152&Refer=top) - 124341
+1. [张小斐蔡文静别试探了有市场](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E8%94%A1%E6%96%87%E9%9D%99%E5%88%AB%E8%AF%95%E6%8E%A2%E4%BA%86%E6%9C%89%E5%B8%82%E5%9C%BA%23&t=152&Refer=top) - 124336
+1. [于适 这就是地球online吗](https://s.weibo.com//weibo?q=%E4%BA%8E%E9%80%82%20%E8%BF%99%E5%B0%B1%E6%98%AF%E5%9C%B0%E7%90%83online%E5%90%97&t=152&Refer=top) - 111903
+1. [井柏然孙千空降](https://s.weibo.com//weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E5%AD%99%E5%8D%83%E7%A9%BA%E9%99%8D%23&t=152&Refer=top) - 111893
+1. [国内超模收入榜刘雯霸榜第一](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%86%85%E8%B6%85%E6%A8%A1%E6%94%B6%E5%85%A5%E6%A6%9C%E5%88%98%E9%9B%AF%E9%9C%B8%E6%A6%9C%E7%AC%AC%E4%B8%80%23&t=152&Refer=top) - 111888
+1. [TFING是不是TFBOYS的进行时](https://s.weibo.com//weibo?q=%23TFING%E6%98%AF%E4%B8%8D%E6%98%AFTFBOYS%E7%9A%84%E8%BF%9B%E8%A1%8C%E6%97%B6%23&t=152&Refer=top) - 111878
+1. [卢昱晓遇见才晓下沉口碑](https://s.weibo.com//weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E9%81%87%E8%A7%81%E6%89%8D%E6%99%93%E4%B8%8B%E6%B2%89%E5%8F%A3%E7%A2%91%23&t=152&Refer=top) - 111873
+1. [赴山海删减片段](https://s.weibo.com//weibo?q=%E8%B5%B4%E5%B1%B1%E6%B5%B7%E5%88%A0%E5%87%8F%E7%89%87%E6%AE%B5&t=152&Refer=top) - 108796
+1. [晚晚老公林瀚自嘲形象差](https://s.weibo.com//weibo?q=%23%E6%99%9A%E6%99%9A%E8%80%81%E5%85%AC%E6%9E%97%E7%80%9A%E8%87%AA%E5%98%B2%E5%BD%A2%E8%B1%A1%E5%B7%AE%23&t=152&Refer=top) - 97916
+1. [邓为顺产头](https://s.weibo.com//weibo?q=%23%E9%82%93%E4%B8%BA%E9%A1%BA%E4%BA%A7%E5%A4%B4%23&t=152&Refer=top) - 97910
+1. [收入断层第一的顶级超模](https://s.weibo.com//weibo?q=%23%E6%94%B6%E5%85%A5%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80%E7%9A%84%E9%A1%B6%E7%BA%A7%E8%B6%85%E6%A8%A1%23&t=152&Refer=top) - 97904
+1. [谭松韵人缘](https://s.weibo.com//weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E4%BA%BA%E7%BC%98%23&t=152&Refer=top) - 97899
+1. [张晚意花少7到8的反差](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%99%9A%E6%84%8F%E8%8A%B1%E5%B0%917%E5%88%B08%E7%9A%84%E5%8F%8D%E5%B7%AE&t=152&Refer=top) - 97891
+1. [黄晓明帮过的明星](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%B8%AE%E8%BF%87%E7%9A%84%E6%98%8E%E6%98%9F%23&t=152&Refer=top) - 96358
+1. [姚琛二公个喜排名](https://s.weibo.com//weibo?q=%23%E5%A7%9A%E7%90%9B%E4%BA%8C%E5%85%AC%E4%B8%AA%E5%96%9C%E6%8E%92%E5%90%8D%23&t=152&Refer=top) - 93209
+1. [井柏然再过几天大家就可以正常午休了](https://s.weibo.com//weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E5%86%8D%E8%BF%87%E5%87%A0%E5%A4%A9%E5%A4%A7%E5%AE%B6%E5%B0%B1%E5%8F%AF%E4%BB%A5%E6%AD%A3%E5%B8%B8%E5%8D%88%E4%BC%91%E4%BA%86%23&t=152&Refer=top) - 91721
+1. [我追星运belike](https://s.weibo.com//weibo?q=%E6%88%91%E8%BF%BD%E6%98%9F%E8%BF%90belike&t=152&Refer=top) - 90319
+1. [殷桃感情时间线](https://s.weibo.com//weibo?q=%23%E6%AE%B7%E6%A1%83%E6%84%9F%E6%83%85%E6%97%B6%E9%97%B4%E7%BA%BF%23&t=152&Refer=top) - 89382
+1. [颜安给唐九洲道歉](https://s.weibo.com//weibo?q=%23%E9%A2%9C%E5%AE%89%E7%BB%99%E5%94%90%E4%B9%9D%E6%B4%B2%E9%81%93%E6%AD%89%23&t=152&Refer=top) - 88929
+1. [曹骏二公第七](https://s.weibo.com//weibo?q=%23%E6%9B%B9%E9%AA%8F%E4%BA%8C%E5%85%AC%E7%AC%AC%E4%B8%83%23&t=152&Refer=top) - 88129
+1. [井柏然难受就对了](https://s.weibo.com//weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E9%9A%BE%E5%8F%97%E5%B0%B1%E5%AF%B9%E4%BA%86%23&t=152&Refer=top) - 87951
+1. [花少2大电影 大姐](https://s.weibo.com//weibo?q=%E8%8A%B1%E5%B0%912%E5%A4%A7%E7%94%B5%E5%BD%B1%20%E5%A4%A7%E5%A7%90&t=152&Refer=top) - 84750
+1. [文俊辉口型](https://s.weibo.com//weibo?q=%23%E6%96%87%E4%BF%8A%E8%BE%89%E5%8F%A3%E5%9E%8B%23&t=152&Refer=top) - 80275
+1. [周冬雨跳水](https://s.weibo.com//weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E8%B7%B3%E6%B0%B4%23&t=152&Refer=top) - 79561
+1. [关晓彤接电话会害怕到手抖](https://s.weibo.com//weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%8E%A5%E7%94%B5%E8%AF%9D%E4%BC%9A%E5%AE%B3%E6%80%95%E5%88%B0%E6%89%8B%E6%8A%96%23&t=152&Refer=top) - 79555
+1. [关晓彤说宋雨琦胆子肥嘟嘟的](https://s.weibo.com//weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E8%AF%B4%E5%AE%8B%E9%9B%A8%E7%90%A6%E8%83%86%E5%AD%90%E8%82%A5%E5%98%9F%E5%98%9F%E7%9A%84%23&t=152&Refer=top) - 79131
 1. [小S大女儿二女儿创立品牌](https://s.weibo.com//weibo?q=%23%E5%B0%8FS%E5%A4%A7%E5%A5%B3%E5%84%BF%E4%BA%8C%E5%A5%B3%E5%84%BF%E5%88%9B%E7%AB%8B%E5%93%81%E7%89%8C%23&t=152&Refer=top) - 740679
 1. [刘雯纽约时装周开场](https://s.weibo.com//weibo?q=%E5%88%98%E9%9B%AF%E7%BA%BD%E7%BA%A6%E6%97%B6%E8%A3%85%E5%91%A8%E5%BC%80%E5%9C%BA&t=152&Refer=top) - 510456
 1. [章若楠直播回怼恶评](https://s.weibo.com//weibo?q=%E7%AB%A0%E8%8B%A5%E6%A5%A0%E7%9B%B4%E6%92%AD%E5%9B%9E%E6%80%BC%E6%81%B6%E8%AF%84&t=152&Refer=top) - 459410
