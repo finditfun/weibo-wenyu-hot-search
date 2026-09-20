@@ -2,14 +2,59 @@
 微博文娱热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 20 2026 13:44:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 20 2026 18:41:34 GMT+0800 (China Standard Time) -->
 1. [冯禧前男友疑似是她高中老师](https://s.weibo.com//weibo?q=%23%E5%86%AF%E7%A6%A7%E5%89%8D%E7%94%B7%E5%8F%8B%E7%96%91%E4%BC%BC%E6%98%AF%E5%A5%B9%E9%AB%98%E4%B8%AD%E8%80%81%E5%B8%88%23&t=152&Refer=top) - 3766473
-1. [曝冯禧西太后婚纱价值5万多](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E5%86%AF%E7%A6%A7%E8%A5%BF%E5%A4%AA%E5%90%8E%E5%A9%9A%E7%BA%B1%E4%BB%B7%E5%80%BC5%E4%B8%87%E5%A4%9A%23&t=152&Refer=top) - 1168002
-1. [湾区升明月官宣](https://s.weibo.com//weibo?q=%23%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%E5%AE%98%E5%AE%A3%23&t=152&Refer=top) - 1080869
-1. [池昌旭 脱粉](https://s.weibo.com//weibo?q=%E6%B1%A0%E6%98%8C%E6%97%AD%20%E8%84%B1%E7%B2%89&t=152&Refer=top) - 883616
-1. [疑似马伊琍恋情](https://s.weibo.com//weibo?q=%23%E7%96%91%E4%BC%BC%E9%A9%AC%E4%BC%8A%E7%90%8D%E6%81%8B%E6%83%85%23&t=152&Refer=top) - 728451
-1. [金秀贤 金赛纶](https://s.weibo.com//weibo?q=%E9%87%91%E7%A7%80%E8%B4%A4%20%E9%87%91%E8%B5%9B%E7%BA%B6&t=152&Refer=top) - 715827
+1. [许嵩婚纱礼服是借的](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E5%B5%A9%E5%A9%9A%E7%BA%B1%E7%A4%BC%E6%9C%8D%E6%98%AF%E5%80%9F%E7%9A%84%23&t=152&Refer=top) - 1129960
+1. [2026湾区升明月节目单](https://s.weibo.com//weibo?q=2026%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%E8%8A%82%E7%9B%AE%E5%8D%95&t=152&Refer=top) - 1040632
+1. [我家那闺女张家齐母女争议](https://s.weibo.com//weibo?q=%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3%E5%BC%A0%E5%AE%B6%E9%BD%90%E6%AF%8D%E5%A5%B3%E4%BA%89%E8%AE%AE&t=152&Refer=top) - 854947
+1. [肖战去金山岭长城了](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E5%8E%BB%E9%87%91%E5%B1%B1%E5%B2%AD%E9%95%BF%E5%9F%8E%E4%BA%86%23&t=152&Refer=top) - 812451
+1. [我们来了 王菲](https://s.weibo.com//weibo?q=%E6%88%91%E4%BB%AC%E6%9D%A5%E4%BA%86%20%E7%8E%8B%E8%8F%B2&t=152&Refer=top) - 658218
+1. [张家齐让妈妈闭嘴](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E8%AE%A9%E5%A6%88%E5%A6%88%E9%97%AD%E5%98%B4%23&t=152&Refer=top) - 592396
+1. [于正回怼虞书欣粉丝](https://s.weibo.com//weibo?q=%E4%BA%8E%E6%AD%A3%E5%9B%9E%E6%80%BC%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%B2%89%E4%B8%9D&t=152&Refer=top) - 533156
+1. [白鹿偷走常华森的狗](https://s.weibo.com//weibo?q=%23%E7%99%BD%E9%B9%BF%E5%81%B7%E8%B5%B0%E5%B8%B8%E5%8D%8E%E6%A3%AE%E7%9A%84%E7%8B%97%23&t=152&Refer=top) - 479840
+1. [那英13年前对调休发出的疑惑](https://s.weibo.com//weibo?q=%E9%82%A3%E8%8B%B113%E5%B9%B4%E5%89%8D%E5%AF%B9%E8%B0%83%E4%BC%91%E5%8F%91%E5%87%BA%E7%9A%84%E7%96%91%E6%83%91&t=152&Refer=top) - 431856
+1. [张家齐看妈妈出丑后冷笑](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E7%9C%8B%E5%A6%88%E5%A6%88%E5%87%BA%E4%B8%91%E5%90%8E%E5%86%B7%E7%AC%91%23&t=152&Refer=top) - 431848
+1. [许嵩冯禧回门宴细节](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E5%B5%A9%E5%86%AF%E7%A6%A7%E5%9B%9E%E9%97%A8%E5%AE%B4%E7%BB%86%E8%8A%82%23&t=152&Refer=top) - 388663
 1. [单依纯 尤长靖](https://s.weibo.com//weibo?q=%E5%8D%95%E4%BE%9D%E7%BA%AF%20%E5%B0%A4%E9%95%BF%E9%9D%96&t=152&Refer=top) - 628089
+1. [池昌旭 脱粉](https://s.weibo.com//weibo?q=%E6%B1%A0%E6%98%8C%E6%97%AD%20%E8%84%B1%E7%B2%89&t=152&Refer=top) - 883616
+1. [时代少年团七个宝藏大男孩](https://s.weibo.com//weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E4%B8%83%E4%B8%AA%E5%AE%9D%E8%97%8F%E5%A4%A7%E7%94%B7%E5%AD%A9%23&t=152&Refer=top) - 283336
+1. [王一博嘉人银十刊销量](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%98%89%E4%BA%BA%E9%93%B6%E5%8D%81%E5%88%8A%E9%94%80%E9%87%8F%23&t=152&Refer=top) - 255002
+1. [金秀贤 金赛纶](https://s.weibo.com//weibo?q=%E9%87%91%E7%A7%80%E8%B4%A4%20%E9%87%91%E8%B5%9B%E7%BA%B6&t=152&Refer=top) - 715827
+1. [湾区升明月海报站位](https://s.weibo.com//weibo?q=%23%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%E6%B5%B7%E6%8A%A5%E7%AB%99%E4%BD%8D%23&t=152&Refer=top) - 206551
+1. [肖战在长城拍啥呢](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E5%9C%A8%E9%95%BF%E5%9F%8E%E6%8B%8D%E5%95%A5%E5%91%A2%23&t=152&Refer=top) - 185896
+1. [陈瑶是御兽宗传人吧](https://s.weibo.com//weibo?q=%E9%99%88%E7%91%B6%E6%98%AF%E5%BE%A1%E5%85%BD%E5%AE%97%E4%BC%A0%E4%BA%BA%E5%90%A7&t=152&Refer=top) - 167307
+1. [央视镜头下的张凌赫](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E5%BC%A0%E5%87%8C%E8%B5%AB%23&t=152&Refer=top) - 161054
+1. [张家齐把妈妈说哭了](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E6%8A%8A%E5%A6%88%E5%A6%88%E8%AF%B4%E5%93%AD%E4%BA%86%23&t=152&Refer=top) - 155181
+1. [许嵩婚纱照 老一辈影楼风](https://s.weibo.com//weibo?q=%E8%AE%B8%E5%B5%A9%E5%A9%9A%E7%BA%B1%E7%85%A7%20%E8%80%81%E4%B8%80%E8%BE%88%E5%BD%B1%E6%A5%BC%E9%A3%8E&t=152&Refer=top) - 150560
+1. [文章马伊琍大女儿18岁近照](https://s.weibo.com//weibo?q=%23%E6%96%87%E7%AB%A0%E9%A9%AC%E4%BC%8A%E7%90%8D%E5%A4%A7%E5%A5%B3%E5%84%BF18%E5%B2%81%E8%BF%91%E7%85%A7%23&t=152&Refer=top) - 135504
+1. [任嘉伦回应林依轮红衣](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E5%9B%9E%E5%BA%94%E6%9E%97%E4%BE%9D%E8%BD%AE%E7%BA%A2%E8%A1%A3%23&t=152&Refer=top) - 121953
+1. [曝冯禧西太后婚纱价值5万多](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E5%86%AF%E7%A6%A7%E8%A5%BF%E5%A4%AA%E5%90%8E%E5%A9%9A%E7%BA%B1%E4%BB%B7%E5%80%BC5%E4%B8%87%E5%A4%9A%23&t=152&Refer=top) - 1168002
+1. [古巨基苏有朋林心如唱情深深雨濛濛](https://s.weibo.com//weibo?q=%E5%8F%A4%E5%B7%A8%E5%9F%BA%E8%8B%8F%E6%9C%89%E6%9C%8B%E6%9E%97%E5%BF%83%E5%A6%82%E5%94%B1%E6%83%85%E6%B7%B1%E6%B7%B1%E9%9B%A8%E6%BF%9B%E6%BF%9B&t=152&Refer=top) - 121939
+1. [冯禧高中采访视频](https://s.weibo.com//weibo?q=%23%E5%86%AF%E7%A6%A7%E9%AB%98%E4%B8%AD%E9%87%87%E8%AE%BF%E8%A7%86%E9%A2%91%23&t=152&Refer=top) - 168002
+1. [梓渝穿泳衣好小方](https://s.weibo.com//weibo?q=%23%E6%A2%93%E6%B8%9D%E7%A9%BF%E6%B3%B3%E8%A1%A3%E5%A5%BD%E5%B0%8F%E6%96%B9%23&t=152&Refer=top) - 121921
+1. [冯禧曾是中传艺考全国第二名](https://s.weibo.com//weibo?q=%23%E5%86%AF%E7%A6%A7%E6%9B%BE%E6%98%AF%E4%B8%AD%E4%BC%A0%E8%89%BA%E8%80%83%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%BA%8C%E5%90%8D%23&t=152&Refer=top) - 121911
+1. [knowknow晒与王源合影](https://s.weibo.com//weibo?q=%23knowknow%E6%99%92%E4%B8%8E%E7%8E%8B%E6%BA%90%E5%90%88%E5%BD%B1%23&t=152&Refer=top) - 121903
+1. [孟子义江语晨合唱](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%B1%9F%E8%AF%AD%E6%99%A8%E5%90%88%E5%94%B1%23&t=152&Refer=top) - 113463
+1. [许兰香成为当家主母](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E5%85%B0%E9%A6%99%E6%88%90%E4%B8%BA%E5%BD%93%E5%AE%B6%E4%B8%BB%E6%AF%8D%23&t=152&Refer=top) - 112866
+1. [冯禧离开湖南卫视的原因](https://s.weibo.com//weibo?q=%23%E5%86%AF%E7%A6%A7%E7%A6%BB%E5%BC%80%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=152&Refer=top) - 209969
+1. [张凌赫黄灿灿都敢怼](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E9%BB%84%E7%81%BF%E7%81%BF%E9%83%BD%E6%95%A2%E6%80%BC%23&t=152&Refer=top) - 108215
+1. [2026湾区升明月](https://s.weibo.com//weibo?q=%232026%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%23&t=152&Refer=top) - 106274
+1. [我们来了](https://s.weibo.com//weibo?q=%E6%88%91%E4%BB%AC%E6%9D%A5%E4%BA%86&t=152&Refer=top) - 102976
+1. [网传刘亦菲罗云熙将合作咸雪](https://s.weibo.com//weibo?q=%23%E7%BD%91%E4%BC%A0%E5%88%98%E4%BA%A6%E8%8F%B2%E7%BD%97%E4%BA%91%E7%86%99%E5%B0%86%E5%90%88%E4%BD%9C%E5%92%B8%E9%9B%AA%23&t=152&Refer=top) - 102817
+1. [王一博以自为始大片](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%BB%A5%E8%87%AA%E4%B8%BA%E5%A7%8B%E5%A4%A7%E7%89%87%23&t=152&Refer=top) - 102617
+1. [冯禧前男友 xx459](https://s.weibo.com//weibo?q=%E5%86%AF%E7%A6%A7%E5%89%8D%E7%94%B7%E5%8F%8B%20xx459&t=152&Refer=top) - 209959
+1. [鞠婧祎 这样乱拍就能出神图吗](https://s.weibo.com//weibo?q=%E9%9E%A0%E5%A9%A7%E7%A5%8E%20%E8%BF%99%E6%A0%B7%E4%B9%B1%E6%8B%8D%E5%B0%B1%E8%83%BD%E5%87%BA%E7%A5%9E%E5%9B%BE%E5%90%97&t=152&Refer=top) - 94852
+1. [冯禧曾在你好星期六被打码](https://s.weibo.com//weibo?q=%23%E5%86%AF%E7%A6%A7%E6%9B%BE%E5%9C%A8%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E8%A2%AB%E6%89%93%E7%A0%81%23&t=152&Refer=top) - 92610
+1. [白鹿陈都灵都官宣了见面会](https://s.weibo.com//weibo?q=%23%E7%99%BD%E9%B9%BF%E9%99%88%E9%83%BD%E7%81%B5%E9%83%BD%E5%AE%98%E5%AE%A3%E4%BA%86%E8%A7%81%E9%9D%A2%E4%BC%9A%23&t=152&Refer=top) - 89131
+1. [心动的信号9](https://s.weibo.com//weibo?q=%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B79&t=152&Refer=top) - 86925
+1. [许嵩冯禧 顶流偶像给我当助理](https://s.weibo.com//weibo?q=%E8%AE%B8%E5%B5%A9%E5%86%AF%E7%A6%A7%20%E9%A1%B6%E6%B5%81%E5%81%B6%E5%83%8F%E7%BB%99%E6%88%91%E5%BD%93%E5%8A%A9%E7%90%86&t=152&Refer=top) - 84037
+1. [冯禧高情商回应身高](https://s.weibo.com//weibo?q=%23%E5%86%AF%E7%A6%A7%E9%AB%98%E6%83%85%E5%95%86%E5%9B%9E%E5%BA%94%E8%BA%AB%E9%AB%98%23&t=152&Refer=top) - 81493
+1. [王一博嘉人造型](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%98%89%E4%BA%BA%E9%80%A0%E5%9E%8B%23&t=152&Refer=top) - 79932
+1. [黄灿灿出生起就没有爸爸的概念](https://s.weibo.com//weibo?q=%23%E9%BB%84%E7%81%BF%E7%81%BF%E5%87%BA%E7%94%9F%E8%B5%B7%E5%B0%B1%E6%B2%A1%E6%9C%89%E7%88%B8%E7%88%B8%E7%9A%84%E6%A6%82%E5%BF%B5%23&t=152&Refer=top) - 79084
+1. [孙燕姿晒和林俊杰陈洁仪合照](https://s.weibo.com//weibo?q=%23%E5%AD%99%E7%87%95%E5%A7%BF%E6%99%92%E5%92%8C%E6%9E%97%E4%BF%8A%E6%9D%B0%E9%99%88%E6%B4%81%E4%BB%AA%E5%90%88%E7%85%A7%23&t=152&Refer=top) - 78681
+1. [王俊凯ins回应周杰伦](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AFins%E5%9B%9E%E5%BA%94%E5%91%A8%E6%9D%B0%E4%BC%A6%23&t=152&Refer=top) - 78205
+1. [湾区升明月官宣](https://s.weibo.com//weibo?q=%23%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%E5%AE%98%E5%AE%A3%23&t=152&Refer=top) - 1080869
+1. [疑似马伊琍恋情](https://s.weibo.com//weibo?q=%23%E7%96%91%E4%BC%BC%E9%A9%AC%E4%BC%8A%E7%90%8D%E6%81%8B%E6%83%85%23&t=152&Refer=top) - 728451
 1. [两年挣6.8亿元神秘艺人疑为许嵩](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E5%B9%B4%E6%8C%A36.8%E4%BA%BF%E5%85%83%E7%A5%9E%E7%A7%98%E8%89%BA%E4%BA%BA%E7%96%91%E4%B8%BA%E8%AE%B8%E5%B5%A9%23&t=152&Refer=top) - 565280
 1. [许嵩冯禧原来当时功夫女足就已经成了](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E5%B5%A9%E5%86%AF%E7%A6%A7%E5%8E%9F%E6%9D%A5%E5%BD%93%E6%97%B6%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%B0%B1%E5%B7%B2%E7%BB%8F%E6%88%90%E4%BA%86%23&t=152&Refer=top) - 514985
 1. [陈瑶张月张慧雯者来女逛动物园](https://s.weibo.com//weibo?q=%23%E9%99%88%E7%91%B6%E5%BC%A0%E6%9C%88%E5%BC%A0%E6%85%A7%E9%9B%AF%E8%80%85%E6%9D%A5%E5%A5%B3%E9%80%9B%E5%8A%A8%E7%89%A9%E5%9B%AD%23&t=152&Refer=top) - 457876
@@ -23,8 +68,6 @@
 1. [郭涛儿子石头拍电影了](https://s.weibo.com//weibo?q=%23%E9%83%AD%E6%B6%9B%E5%84%BF%E5%AD%90%E7%9F%B3%E5%A4%B4%E6%8B%8D%E7%94%B5%E5%BD%B1%E4%BA%86%23&t=152&Refer=top) - 239607
 1. [潘玮柏的面瘫是王心凌发现的](https://s.weibo.com//weibo?q=%23%E6%BD%98%E7%8E%AE%E6%9F%8F%E7%9A%84%E9%9D%A2%E7%98%AB%E6%98%AF%E7%8E%8B%E5%BF%83%E5%87%8C%E5%8F%91%E7%8E%B0%E7%9A%84%23&t=152&Refer=top) - 233305
 1. [电视剧公主乱世沉沙大片](https://s.weibo.com//weibo?q=%23%E7%94%B5%E8%A7%86%E5%89%A7%E5%85%AC%E4%B8%BB%E4%B9%B1%E4%B8%96%E6%B2%89%E6%B2%99%E5%A4%A7%E7%89%87%23&t=152&Refer=top) - 209974
-1. [冯禧离开湖南卫视的原因](https://s.weibo.com//weibo?q=%23%E5%86%AF%E7%A6%A7%E7%A6%BB%E5%BC%80%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=152&Refer=top) - 209969
-1. [冯禧前男友 xx459](https://s.weibo.com//weibo?q=%E5%86%AF%E7%A6%A7%E5%89%8D%E7%94%B7%E5%8F%8B%20xx459&t=152&Refer=top) - 209959
 1. [许嵩冯禧婚礼](https://s.weibo.com//weibo?q=%E8%AE%B8%E5%B5%A9%E5%86%AF%E7%A6%A7%E5%A9%9A%E7%A4%BC&t=152&Refer=top) - 1177736
 1. [我乔嘉了](https://s.weibo.com//weibo?q=%E6%88%91%E4%B9%94%E5%98%89%E4%BA%86&t=152&Refer=top) - 207451
 1. [张新成神级退场台下视角](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%96%B0%E6%88%90%E7%A5%9E%E7%BA%A7%E9%80%80%E5%9C%BA%E5%8F%B0%E4%B8%8B%E8%A7%86%E8%A7%92%23&t=152&Refer=top) - 186705
@@ -33,7 +76,6 @@
 1. [华策祝福吴倩](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E7%AD%96%E7%A5%9D%E7%A6%8F%E5%90%B4%E5%80%A9%23&t=152&Refer=top) - 168023
 1. [郑合惠子不接纯现偶不演仙侠](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90%E4%B8%8D%E6%8E%A5%E7%BA%AF%E7%8E%B0%E5%81%B6%E4%B8%8D%E6%BC%94%E4%BB%99%E4%BE%A0%23&t=152&Refer=top) - 168017
 1. [白鹿朝玉阶招商](https://s.weibo.com//weibo?q=%23%E7%99%BD%E9%B9%BF%E6%9C%9D%E7%8E%89%E9%98%B6%E6%8B%9B%E5%95%86%23&t=152&Refer=top) - 168012
-1. [冯禧高中采访视频](https://s.weibo.com//weibo?q=%23%E5%86%AF%E7%A6%A7%E9%AB%98%E4%B8%AD%E9%87%87%E8%AE%BF%E8%A7%86%E9%A2%91%23&t=152&Refer=top) - 168002
 1. [陈哲远吃完减肥药拉了两天](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E5%90%83%E5%AE%8C%E5%87%8F%E8%82%A5%E8%8D%AF%E6%8B%89%E4%BA%86%E4%B8%A4%E5%A4%A9%23&t=152&Refer=top) - 162514
 1. [大湾区晚会主持人阵容](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E6%B9%BE%E5%8C%BA%E6%99%9A%E4%BC%9A%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%98%B5%E5%AE%B9%23&t=152&Refer=top) - 154466
 1. [小酒窝演了周也小时候](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E9%85%92%E7%AA%9D%E6%BC%94%E4%BA%86%E5%91%A8%E4%B9%9F%E5%B0%8F%E6%97%B6%E5%80%99%23&t=152&Refer=top) - 139019
