@@ -2,19 +2,61 @@
 微博文娱热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 23 2026 18:49:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 23 2026 23:17:21 GMT+0800 (China Standard Time) -->
 1. [陈翔 毛晓彤](https://s.weibo.com//weibo?q=%E9%99%88%E7%BF%94%20%E6%AF%9B%E6%99%93%E5%BD%A4&t=152&Refer=top) - 1710408
+1. [经纪公司指控郭宇欣违约](https://s.weibo.com//weibo?q=%23%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E6%8C%87%E6%8E%A7%E9%83%AD%E5%AE%87%E6%AC%A3%E8%BF%9D%E7%BA%A6%23&t=152&Refer=top) - 921765
 1. [王祖贤自曝与齐秦分手后没谈过恋爱](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E7%A5%96%E8%B4%A4%E8%87%AA%E6%9B%9D%E4%B8%8E%E9%BD%90%E7%A7%A6%E5%88%86%E6%89%8B%E5%90%8E%E6%B2%A1%E8%B0%88%E8%BF%87%E6%81%8B%E7%88%B1%23&t=152&Refer=top) - 1174966
+1. [丁程鑫发了刘耀文未公开手势舞](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E5%8F%91%E4%BA%86%E5%88%98%E8%80%80%E6%96%87%E6%9C%AA%E5%85%AC%E5%BC%80%E6%89%8B%E5%8A%BF%E8%88%9E%23&t=152&Refer=top) - 831090
+1. [兰香如故 气人](https://s.weibo.com//weibo?q=%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%20%E6%B0%94%E4%BA%BA&t=152&Refer=top) - 786238
+1. [李梦被曝走红后迟到惹制片人开骂](https://s.weibo.com//weibo?q=%E6%9D%8E%E6%A2%A6%E8%A2%AB%E6%9B%9D%E8%B5%B0%E7%BA%A2%E5%90%8E%E8%BF%9F%E5%88%B0%E6%83%B9%E5%88%B6%E7%89%87%E4%BA%BA%E5%BC%80%E9%AA%82&t=152&Refer=top) - 753016
+1. [张元英超绝不经意露出iPhone18Pro](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1%E8%B6%85%E7%BB%9D%E4%B8%8D%E7%BB%8F%E6%84%8F%E9%9C%B2%E5%87%BAiPhone18Pro%23&t=152&Refer=top) - 579775
+1. [冯小刚直言对不起投资方](https://s.weibo.com//weibo?q=%23%E5%86%AF%E5%B0%8F%E5%88%9A%E7%9B%B4%E8%A8%80%E5%AF%B9%E4%B8%8D%E8%B5%B7%E6%8A%95%E8%B5%84%E6%96%B9%23&t=152&Refer=top) - 521797
+1. [白鹿回复于正生日祝福](https://s.weibo.com//weibo?q=%23%E7%99%BD%E9%B9%BF%E5%9B%9E%E5%A4%8D%E4%BA%8E%E6%AD%A3%E7%94%9F%E6%97%A5%E7%A5%9D%E7%A6%8F%23&t=152&Refer=top) - 469617
+1. [兰香如故热度](https://s.weibo.com//weibo?q=%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E7%83%AD%E5%BA%A6&t=152&Refer=top) - 422655
 1. [宋祖儿不用艺名了](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E4%B8%8D%E7%94%A8%E8%89%BA%E5%90%8D%E4%BA%86%23&t=152&Refer=top) - 822476
+1. [亚运会冠军发了朱志鑫娃娃](https://s.weibo.com//weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%86%A0%E5%86%9B%E5%8F%91%E4%BA%86%E6%9C%B1%E5%BF%97%E9%91%AB%E5%A8%83%E5%A8%83%23&t=152&Refer=top) - 359154
+1. [五哈7阵容原班人马](https://s.weibo.com//weibo?q=%23%E4%BA%94%E5%93%887%E9%98%B5%E5%AE%B9%E5%8E%9F%E7%8F%AD%E4%BA%BA%E9%A9%AC%23&t=152&Refer=top) - 323238
+1. [程潇闫桉双人舞好辣](https://s.weibo.com//weibo?q=%E7%A8%8B%E6%BD%87%E9%97%AB%E6%A1%89%E5%8F%8C%E4%BA%BA%E8%88%9E%E5%A5%BD%E8%BE%A3&t=152&Refer=top) - 290914
+1. [王源说想看汪苏泷演唱会](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E8%AF%B4%E6%83%B3%E7%9C%8B%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=152&Refer=top) - 267160
+1. [肖战新剧差点被姜妍一电炮呼死](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E6%96%B0%E5%89%A7%E5%B7%AE%E7%82%B9%E8%A2%AB%E5%A7%9C%E5%A6%8D%E4%B8%80%E7%94%B5%E7%82%AE%E5%91%BC%E6%AD%BB%23&t=152&Refer=top) - 242752
+1. [白鹿生日直播摸错头了](https://s.weibo.com//weibo?q=%23%E7%99%BD%E9%B9%BF%E7%94%9F%E6%97%A5%E7%9B%B4%E6%92%AD%E6%91%B8%E9%94%99%E5%A4%B4%E4%BA%86%23&t=152&Refer=top) - 238920
+1. [丁程鑫发过贺峻霖喵喵舞](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E5%8F%91%E8%BF%87%E8%B4%BA%E5%B3%BB%E9%9C%96%E5%96%B5%E5%96%B5%E8%88%9E%23&t=152&Refer=top) - 215028
 1. [兰香如故](https://s.weibo.com//weibo?q=%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85&t=152&Refer=top) - 516191
-1. [陈翔 江铠同](https://s.weibo.com//weibo?q=%E9%99%88%E7%BF%94%20%E6%B1%9F%E9%93%A0%E5%90%8C&t=152&Refer=top) - 473521
-1. [现偶进入大吻戏时代](https://s.weibo.com//weibo?q=%23%E7%8E%B0%E5%81%B6%E8%BF%9B%E5%85%A5%E5%A4%A7%E5%90%BB%E6%88%8F%E6%97%B6%E4%BB%A3%23&t=152&Refer=top) - 437898
-1. [白鹿直播](https://s.weibo.com//weibo?q=%E7%99%BD%E9%B9%BF%E7%9B%B4%E6%92%AD&t=152&Refer=top) - 394108
+1. [兰香如故大太太挑儿媳的眼光](https://s.weibo.com//weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E5%A4%A7%E5%A4%AA%E5%A4%AA%E6%8C%91%E5%84%BF%E5%AA%B3%E7%9A%84%E7%9C%BC%E5%85%89%23&t=152&Refer=top) - 187619
+1. [谢娜碎钻长裙](https://s.weibo.com//weibo?q=%E8%B0%A2%E5%A8%9C%E7%A2%8E%E9%92%BB%E9%95%BF%E8%A3%99&t=152&Refer=top) - 168857
+1. [全女综我们喜欢你](https://s.weibo.com//weibo?q=%E5%85%A8%E5%A5%B3%E7%BB%BC%E6%88%91%E4%BB%AC%E5%96%9C%E6%AC%A2%E4%BD%A0&t=152&Refer=top) - 168851
+1. [杨幂把麦克风拿反了](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E6%8A%8A%E9%BA%A6%E5%85%8B%E9%A3%8E%E6%8B%BF%E5%8F%8D%E4%BA%86%23&t=152&Refer=top) - 168844
+1. [伊能静为13岁遭强奸女孩发声](https://s.weibo.com//weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E4%B8%BA13%E5%B2%81%E9%81%AD%E5%BC%BA%E5%A5%B8%E5%A5%B3%E5%AD%A9%E5%8F%91%E5%A3%B0%23&t=152&Refer=top) - 168835
+1. [冯小刚回应垃圾观众言论](https://s.weibo.com//weibo?q=%23%E5%86%AF%E5%B0%8F%E5%88%9A%E5%9B%9E%E5%BA%94%E5%9E%83%E5%9C%BE%E8%A7%82%E4%BC%97%E8%A8%80%E8%AE%BA%23&t=152&Refer=top) - 168829
+1. [WMA微博音乐盛典](https://s.weibo.com//weibo?q=WMA%E5%BE%AE%E5%8D%9A%E9%9F%B3%E4%B9%90%E7%9B%9B%E5%85%B8&t=152&Refer=top) - 232716
+1. [孟子义米兰美得好有辨识度](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E7%B1%B3%E5%85%B0%E7%BE%8E%E5%BE%97%E5%A5%BD%E6%9C%89%E8%BE%A8%E8%AF%86%E5%BA%A6%23&t=152&Refer=top) - 147347
+1. [丁程鑫翻相册给刘耀文庆生](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E7%BF%BB%E7%9B%B8%E5%86%8C%E7%BB%99%E5%88%98%E8%80%80%E6%96%87%E5%BA%86%E7%94%9F%23&t=152&Refer=top) - 134668
+1. [檀健次孟子义同赴FENDI秀场](https://s.weibo.com//weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E5%AD%9F%E5%AD%90%E4%B9%89%E5%90%8C%E8%B5%B4FENDI%E7%A7%80%E5%9C%BA%23&t=152&Refer=top) - 133225
+1. [TizzyT年度说唱歌手](https://s.weibo.com//weibo?q=%23TizzyT%E5%B9%B4%E5%BA%A6%E8%AF%B4%E5%94%B1%E6%AD%8C%E6%89%8B%23&t=152&Refer=top) - 130723
+1. [张云龙 云初令](https://s.weibo.com//weibo?q=%E5%BC%A0%E4%BA%91%E9%BE%99%20%E4%BA%91%E5%88%9D%E4%BB%A4&t=152&Refer=top) - 130716
+1. [唐嫣状态好得像女大学生](https://s.weibo.com//weibo?q=%23%E5%94%90%E5%AB%A3%E7%8A%B6%E6%80%81%E5%A5%BD%E5%BE%97%E5%83%8F%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%23&t=152&Refer=top) - 130708
+1. [王源wma内场](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%BA%90wma%E5%86%85%E5%9C%BA&t=152&Refer=top) - 128148
 1. [林府大婚](https://s.weibo.com//weibo?q=%E6%9E%97%E5%BA%9C%E5%A4%A7%E5%A9%9A&t=152&Refer=top) - 354697
+1. [林锦岐叫兰香夫人夫人夫人](https://s.weibo.com//weibo?q=%23%E6%9E%97%E9%94%A6%E5%B2%90%E5%8F%AB%E5%85%B0%E9%A6%99%E5%A4%AB%E4%BA%BA%E5%A4%AB%E4%BA%BA%E5%A4%AB%E4%BA%BA%23&t=152&Refer=top) - 122277
+1. [文鑫](https://s.weibo.com//weibo?q=%E6%96%87%E9%91%AB&t=152&Refer=top) - 110049
+1. [白鹿直播](https://s.weibo.com//weibo?q=%E7%99%BD%E9%B9%BF%E7%9B%B4%E6%92%AD&t=152&Refer=top) - 394108
+1. [郭宇欣近期风波](https://s.weibo.com//weibo?q=%23%E9%83%AD%E5%AE%87%E6%AC%A3%E8%BF%91%E6%9C%9F%E9%A3%8E%E6%B3%A2%23&t=152&Refer=top) - 101605
+1. [金龟子女儿回应家暴传闻](https://s.weibo.com//weibo?q=%23%E9%87%91%E9%BE%9F%E5%AD%90%E5%A5%B3%E5%84%BF%E5%9B%9E%E5%BA%94%E5%AE%B6%E6%9A%B4%E4%BC%A0%E9%97%BB%23&t=152&Refer=top) - 100234
+1. [赵雅芝脸帘](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E9%9B%85%E8%8A%9D%E8%84%B8%E5%B8%98%23&t=152&Refer=top) - 96572
+1. [陈翔 江铠同](https://s.weibo.com//weibo?q=%E9%99%88%E7%BF%94%20%E6%B1%9F%E9%93%A0%E5%90%8C&t=152&Refer=top) - 473521
+1. [林绣茹怀孕](https://s.weibo.com//weibo?q=%23%E6%9E%97%E7%BB%A3%E8%8C%B9%E6%80%80%E5%AD%95%23&t=152&Refer=top) - 94748
+1. [王嘉尔领舞WMA全场](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E9%A2%86%E8%88%9EWMA%E5%85%A8%E5%9C%BA%23&t=152&Refer=top) - 86325
+1. [丁程鑫刘耀文维港合照](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E5%88%98%E8%80%80%E6%96%87%E7%BB%B4%E6%B8%AF%E5%90%88%E7%85%A7%23&t=152&Refer=top) - 82378
+1. [刘耀文说要帮马嘉祺冰箱里装满鸡蛋](https://s.weibo.com//weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E8%AF%B4%E8%A6%81%E5%B8%AE%E9%A9%AC%E5%98%89%E7%A5%BA%E5%86%B0%E7%AE%B1%E9%87%8C%E8%A3%85%E6%BB%A1%E9%B8%A1%E8%9B%8B%23&t=152&Refer=top) - 81654
+1. [肖战今年没去大湾区刘铮亮去了](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E4%BB%8A%E5%B9%B4%E6%B2%A1%E5%8E%BB%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%88%98%E9%93%AE%E4%BA%AE%E5%8E%BB%E4%BA%86%23&t=152&Refer=top) - 77544
+1. [兰香如故有总冠名了](https://s.weibo.com//weibo?q=%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E6%9C%89%E6%80%BB%E5%86%A0%E5%90%8D%E4%BA%86&t=152&Refer=top) - 77414
+1. [王源WMA音乐盛典唱雪崩](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90WMA%E9%9F%B3%E4%B9%90%E7%9B%9B%E5%85%B8%E5%94%B1%E9%9B%AA%E5%B4%A9%23&t=152&Refer=top) - 75544
+1. [花少2搬箱子楼梯实际长这样](https://s.weibo.com//weibo?q=%23%E8%8A%B1%E5%B0%912%E6%90%AC%E7%AE%B1%E5%AD%90%E6%A5%BC%E6%A2%AF%E5%AE%9E%E9%99%85%E9%95%BF%E8%BF%99%E6%A0%B7%23&t=152&Refer=top) - 75276
+1. [王俊凯直播](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%9B%B4%E6%92%AD&t=152&Refer=top) - 73749
+1. [现偶进入大吻戏时代](https://s.weibo.com//weibo?q=%23%E7%8E%B0%E5%81%B6%E8%BF%9B%E5%85%A5%E5%A4%A7%E5%90%BB%E6%88%8F%E6%97%B6%E4%BB%A3%23&t=152&Refer=top) - 437898
 1. [登陆少年发文祝刘耀文生日快乐](https://s.weibo.com//weibo?q=%23%E7%99%BB%E9%99%86%E5%B0%91%E5%B9%B4%E5%8F%91%E6%96%87%E7%A5%9D%E5%88%98%E8%80%80%E6%96%87%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%23&t=152&Refer=top) - 319227
 1. [许兰香怀孕后林锦岐辞官](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E5%85%B0%E9%A6%99%E6%80%80%E5%AD%95%E5%90%8E%E6%9E%97%E9%94%A6%E5%B2%90%E8%BE%9E%E5%AE%98%23&t=152&Refer=top) - 287304
 1. [现偶宣传 亲密戏](https://s.weibo.com//weibo?q=%E7%8E%B0%E5%81%B6%E5%AE%A3%E4%BC%A0%20%E4%BA%B2%E5%AF%86%E6%88%8F&t=152&Refer=top) - 258574
-1. [WMA微博音乐盛典](https://s.weibo.com//weibo?q=WMA%E5%BE%AE%E5%8D%9A%E9%9F%B3%E4%B9%90%E7%9B%9B%E5%85%B8&t=152&Refer=top) - 232716
 1. [陈翔让观众喊自己名字全喊毛晓彤](https://s.weibo.com//weibo?q=%23%E9%99%88%E7%BF%94%E8%AE%A9%E8%A7%82%E4%BC%97%E5%96%8A%E8%87%AA%E5%B7%B1%E5%90%8D%E5%AD%97%E5%85%A8%E5%96%8A%E6%AF%9B%E6%99%93%E5%BD%A4%23&t=152&Refer=top) - 1610905
 1. [WMA微博音乐盛典节目单](https://s.weibo.com//weibo?q=WMA%E5%BE%AE%E5%8D%9A%E9%9F%B3%E4%B9%90%E7%9B%9B%E5%85%B8%E8%8A%82%E7%9B%AE%E5%8D%95&t=152&Refer=top) - 207938
 1. [郭宇欣米兰街拍](https://s.weibo.com//weibo?q=%E9%83%AD%E5%AE%87%E6%AC%A3%E7%B1%B3%E5%85%B0%E8%A1%97%E6%8B%8D&t=152&Refer=top) - 198857
@@ -26,7 +68,6 @@
 1. [33岁女演员确诊癌症](https://s.weibo.com//weibo?q=%2333%E5%B2%81%E5%A5%B3%E6%BC%94%E5%91%98%E7%A1%AE%E8%AF%8A%E7%99%8C%E7%97%87%23&t=152&Refer=top) - 134908
 1. [兰香如故云合超过藏海传](https://s.weibo.com//weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E4%BA%91%E5%90%88%E8%B6%85%E8%BF%87%E8%97%8F%E6%B5%B7%E4%BC%A0%23&t=152&Refer=top) - 134901
 1. [于正回应刘宇粉丝少打个宁字](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E6%AD%A3%E5%9B%9E%E5%BA%94%E5%88%98%E5%AE%87%E7%B2%89%E4%B8%9D%E5%B0%91%E6%89%93%E4%B8%AA%E5%AE%81%E5%AD%97%23&t=152&Refer=top) - 123236
-1. [肖战新剧差点被姜妍一电炮呼死](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E6%96%B0%E5%89%A7%E5%B7%AE%E7%82%B9%E8%A2%AB%E5%A7%9C%E5%A6%8D%E4%B8%80%E7%94%B5%E7%82%AE%E5%91%BC%E6%AD%BB%23&t=152&Refer=top) - 123226
 1. [虞书欣人字拖高跟鞋](https://s.weibo.com//weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%BA%BA%E5%AD%97%E6%8B%96%E9%AB%98%E8%B7%9F%E9%9E%8B&t=152&Refer=top) - 110903
 1. [于正你少打了个宁字](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E6%AD%A3%E4%BD%A0%E5%B0%91%E6%89%93%E4%BA%86%E4%B8%AA%E5%AE%81%E5%AD%97%23&t=152&Refer=top) - 108266
 1. [辛迪克劳馥儿子死因疑似吸毒过量](https://s.weibo.com//weibo?q=%E8%BE%9B%E8%BF%AA%E5%85%8B%E5%8A%B3%E9%A6%A5%E5%84%BF%E5%AD%90%E6%AD%BB%E5%9B%A0%E7%96%91%E4%BC%BC%E5%90%B8%E6%AF%92%E8%BF%87%E9%87%8F&t=152&Refer=top) - 107294
