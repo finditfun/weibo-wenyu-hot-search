@@ -2,18 +2,61 @@
 微博文娱热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Sep 26 2026 17:08:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 26 2026 22:08:06 GMT+0800 (China Standard Time) -->
+1. [早春晴朗剧粉列出井柏然18宗罪](https://s.weibo.com//weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E5%89%A7%E7%B2%89%E5%88%97%E5%87%BA%E4%BA%95%E6%9F%8F%E7%84%B618%E5%AE%97%E7%BD%AA%23&t=152&Refer=top) - 1883560
+1. [刘雯评论区](https://s.weibo.com//weibo?q=%E5%88%98%E9%9B%AF%E8%AF%84%E8%AE%BA%E5%8C%BA&t=152&Refer=top) - 1861029
+1. [那英演唱会缅怀刘欢](https://s.weibo.com//weibo?q=%23%E9%82%A3%E8%8B%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BC%85%E6%80%80%E5%88%98%E6%AC%A2%23&t=152&Refer=top) - 1508313
+1. [刘欢曾救过郑钧](https://s.weibo.com//weibo?q=%E5%88%98%E6%AC%A2%E6%9B%BE%E6%95%91%E8%BF%87%E9%83%91%E9%92%A7&t=152&Refer=top) - 1199624
+1. [刘欢离世前太太曾联系甄嬛传编曲](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%AC%A2%E7%A6%BB%E4%B8%96%E5%89%8D%E5%A4%AA%E5%A4%AA%E6%9B%BE%E8%81%94%E7%B3%BB%E7%94%84%E5%AC%9B%E4%BC%A0%E7%BC%96%E6%9B%B2%23&t=152&Refer=top) - 1151330
 1. [刘雯改签 避嫌](https://s.weibo.com//weibo?q=%E5%88%98%E9%9B%AF%E6%94%B9%E7%AD%BE%20%E9%81%BF%E5%AB%8C&t=152&Refer=top) - 3116116
+1. [井柏然看热搜](https://s.weibo.com//weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E7%9C%8B%E7%83%AD%E6%90%9C%23&t=152&Refer=top) - 936631
+1. [刘欢妻子发文我永远的爱永远的痛](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%AC%A2%E5%A6%BB%E5%AD%90%E5%8F%91%E6%96%87%E6%88%91%E6%B0%B8%E8%BF%9C%E7%9A%84%E7%88%B1%E6%B0%B8%E8%BF%9C%E7%9A%84%E7%97%9B%23&t=152&Refer=top) - 605365
+1. [周深雨中唱响我爱你中国好震撼](https://s.weibo.com//weibo?q=%E5%91%A8%E6%B7%B1%E9%9B%A8%E4%B8%AD%E5%94%B1%E5%93%8D%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD%E5%A5%BD%E9%9C%87%E6%92%BC&t=152&Refer=top) - 544828
+1. [田曦薇在米兰送的签名被秒卖](https://s.weibo.com//weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E5%9C%A8%E7%B1%B3%E5%85%B0%E9%80%81%E7%9A%84%E7%AD%BE%E5%90%8D%E8%A2%AB%E7%A7%92%E5%8D%96%23&t=152&Refer=top) - 490345
 1. [刘欢离世十几天前急还钱](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%AC%A2%E7%A6%BB%E4%B8%96%E5%8D%81%E5%87%A0%E5%A4%A9%E5%89%8D%E6%80%A5%E8%BF%98%E9%92%B1%23&t=152&Refer=top) - 1273052
-1. [崔雪莉这真的是人类能承受的文字吗](https://s.weibo.com//weibo?q=%23%E5%B4%94%E9%9B%AA%E8%8E%89%E8%BF%99%E7%9C%9F%E7%9A%84%E6%98%AF%E4%BA%BA%E7%B1%BB%E8%83%BD%E6%89%BF%E5%8F%97%E7%9A%84%E6%96%87%E5%AD%97%E5%90%97%23&t=152&Refer=top) - 1235983
-1. [众歌手悼念刘欢](https://s.weibo.com//weibo?q=%23%E4%BC%97%E6%AD%8C%E6%89%8B%E6%82%BC%E5%BF%B5%E5%88%98%E6%AC%A2%23&t=152&Refer=top) - 1033784
+1. [孙俪用甄嬛传歌词缅怀刘欢](https://s.weibo.com//weibo?q=%23%E5%AD%99%E4%BF%AA%E7%94%A8%E7%94%84%E5%AC%9B%E4%BC%A0%E6%AD%8C%E8%AF%8D%E7%BC%85%E6%80%80%E5%88%98%E6%AC%A2%23&t=152&Refer=top) - 460066
 1. [刘欢去世](https://s.weibo.com//weibo?q=%E5%88%98%E6%AC%A2%E5%8E%BB%E4%B8%96&t=152&Refer=top) - 25046641
+1. [崔雪莉这真的是人类能承受的文字吗](https://s.weibo.com//weibo?q=%23%E5%B4%94%E9%9B%AA%E8%8E%89%E8%BF%99%E7%9C%9F%E7%9A%84%E6%98%AF%E4%BA%BA%E7%B1%BB%E8%83%BD%E6%89%BF%E5%8F%97%E7%9A%84%E6%96%87%E5%AD%97%E5%90%97%23&t=152&Refer=top) - 1235983
+1. [兰香如故破33000](https://s.weibo.com//weibo?q=%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E7%A0%B433000&t=152&Refer=top) - 372648
+1. [张一山演争吵戏面相都变了](https://s.weibo.com//weibo?q=%E5%BC%A0%E4%B8%80%E5%B1%B1%E6%BC%94%E4%BA%89%E5%90%B5%E6%88%8F%E9%9D%A2%E7%9B%B8%E9%83%BD%E5%8F%98%E4%BA%86&t=152&Refer=top) - 335383
+1. [张远让曾辉五公不要找他](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%BF%9C%E8%AE%A9%E6%9B%BE%E8%BE%89%E4%BA%94%E5%85%AC%E4%B8%8D%E8%A6%81%E6%89%BE%E4%BB%96%23&t=152&Refer=top) - 301845
 1. [韩红 刘欢先生一路走好](https://s.weibo.com//weibo?q=%E9%9F%A9%E7%BA%A2%20%E5%88%98%E6%AC%A2%E5%85%88%E7%94%9F%E4%B8%80%E8%B7%AF%E8%B5%B0%E5%A5%BD&t=152&Refer=top) - 777900
+1. [华晨宇撑伞落泪](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%92%91%E4%BC%9E%E8%90%BD%E6%B3%AA%23&t=152&Refer=top) - 244494
+1. [看到王一博比心了](https://s.weibo.com//weibo?q=%23%E7%9C%8B%E5%88%B0%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%AF%94%E5%BF%83%E4%BA%86%23&t=152&Refer=top) - 220045
+1. [林锦岐给沈家立了坟墓](https://s.weibo.com//weibo?q=%23%E6%9E%97%E9%94%A6%E5%B2%90%E7%BB%99%E6%B2%88%E5%AE%B6%E7%AB%8B%E4%BA%86%E5%9D%9F%E5%A2%93%23&t=152&Refer=top) - 210225
+1. [婆婆大笑引来了婆婆大闹](https://s.weibo.com//weibo?q=%23%E5%A9%86%E5%A9%86%E5%A4%A7%E7%AC%91%E5%BC%95%E6%9D%A5%E4%BA%86%E5%A9%86%E5%A9%86%E5%A4%A7%E9%97%B9%23&t=152&Refer=top) - 209107
+1. [肖战真的好严谨](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E7%9C%9F%E7%9A%84%E5%A5%BD%E4%B8%A5%E8%B0%A8%23&t=152&Refer=top) - 207351
+1. [蔡国庆追忆刘欢](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%9B%BD%E5%BA%86%E8%BF%BD%E5%BF%86%E5%88%98%E6%AC%A2%23&t=152&Refer=top) - 195705
+1. [文章姚笛不管任何年代都必塌](https://s.weibo.com//weibo?q=%23%E6%96%87%E7%AB%A0%E5%A7%9A%E7%AC%9B%E4%B8%8D%E7%AE%A1%E4%BB%BB%E4%BD%95%E5%B9%B4%E4%BB%A3%E9%83%BD%E5%BF%85%E5%A1%8C%23&t=152&Refer=top) - 182939
+1. [刘欢出生那年的男性期望寿命](https://s.weibo.com//weibo?q=%E5%88%98%E6%AC%A2%E5%87%BA%E7%94%9F%E9%82%A3%E5%B9%B4%E7%9A%84%E7%94%B7%E6%80%A7%E6%9C%9F%E6%9C%9B%E5%AF%BF%E5%91%BD&t=152&Refer=top) - 172131
+1. [HYBE唯一组合年销不如月销](https://s.weibo.com//weibo?q=HYBE%E5%94%AF%E4%B8%80%E7%BB%84%E5%90%88%E5%B9%B4%E9%94%80%E4%B8%8D%E5%A6%82%E6%9C%88%E9%94%80&t=152&Refer=top) - 165440
+1. [兰香突然护夫我不行了](https://s.weibo.com//weibo?q=%E5%85%B0%E9%A6%99%E7%AA%81%E7%84%B6%E6%8A%A4%E5%A4%AB%E6%88%91%E4%B8%8D%E8%A1%8C%E4%BA%86&t=152&Refer=top) - 159567
+1. [那英演唱会嘉宾是梁博](https://s.weibo.com//weibo?q=%23%E9%82%A3%E8%8B%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%E6%98%AF%E6%A2%81%E5%8D%9A%23&t=152&Refer=top) - 156027
+1. [曝刘雯被早春晴朗cp粉骂得改航班](https://s.weibo.com//weibo?q=%E6%9B%9D%E5%88%98%E9%9B%AF%E8%A2%AB%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97cp%E7%B2%89%E9%AA%82%E5%BE%97%E6%94%B9%E8%88%AA%E7%8F%AD&t=152&Refer=top) - 151816
+1. [杨博文 陈思罕](https://s.weibo.com//weibo?q=%E6%9D%A8%E5%8D%9A%E6%96%87%20%E9%99%88%E6%80%9D%E7%BD%95&t=152&Refer=top) - 151810
+1. [井柏然让你不爽了不是我的原因](https://s.weibo.com//weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E8%AE%A9%E4%BD%A0%E4%B8%8D%E7%88%BD%E4%BA%86%E4%B8%8D%E6%98%AF%E6%88%91%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=152&Refer=top) - 151804
+1. [张艺谋悼念刘欢](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E6%82%BC%E5%BF%B5%E5%88%98%E6%AC%A2%23&t=152&Refer=top) - 152708
+1. [原来拼豆是永夜星河带火的](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%8B%BC%E8%B1%86%E6%98%AF%E6%B0%B8%E5%A4%9C%E6%98%9F%E6%B2%B3%E5%B8%A6%E7%81%AB%E7%9A%84%23&t=152&Refer=top) - 381438
+1. [小S去伦敦看了大S纪念长椅](https://s.weibo.com//weibo?q=%23%E5%B0%8FS%E5%8E%BB%E4%BC%A6%E6%95%A6%E7%9C%8B%E4%BA%86%E5%A4%A7S%E7%BA%AA%E5%BF%B5%E9%95%BF%E6%A4%85%23&t=152&Refer=top) - 137746
+1. [沈嘉兰一直没有忘记许兰香](https://s.weibo.com//weibo?q=%23%E6%B2%88%E5%98%89%E5%85%B0%E4%B8%80%E7%9B%B4%E6%B2%A1%E6%9C%89%E5%BF%98%E8%AE%B0%E8%AE%B8%E5%85%B0%E9%A6%99%23&t=152&Refer=top) - 134945
+1. [田曦薇特意叮嘱了三遍不准卖](https://s.weibo.com//weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%E7%89%B9%E6%84%8F%E5%8F%AE%E5%98%B1%E4%BA%86%E4%B8%89%E9%81%8D%E4%B8%8D%E5%87%86%E5%8D%96&t=152&Refer=top) - 134872
+1. [吉克隽逸吾师远去悲痛难抑](https://s.weibo.com//weibo?q=%E5%90%89%E5%85%8B%E9%9A%BD%E9%80%B8%E5%90%BE%E5%B8%88%E8%BF%9C%E5%8E%BB%E6%82%B2%E7%97%9B%E9%9A%BE%E6%8A%91&t=152&Refer=top) - 152668
+1. [兰香如故](https://s.weibo.com//weibo?q=%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85&t=152&Refer=top) - 121233
+1. [华晨宇雨中上演大规模烟花秀](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E9%9B%A8%E4%B8%AD%E4%B8%8A%E6%BC%94%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%83%9F%E8%8A%B1%E7%A7%80%23&t=152&Refer=top) - 112579
+1. [周深演唱会因雨暂停高空舞台环节](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%B7%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9B%A0%E9%9B%A8%E6%9A%82%E5%81%9C%E9%AB%98%E7%A9%BA%E8%88%9E%E5%8F%B0%E7%8E%AF%E8%8A%82%23&t=152&Refer=top) - 111758
+1. [黄景瑜看秀衣服是昨天买的](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E7%9C%8B%E7%A7%80%E8%A1%A3%E6%9C%8D%E6%98%AF%E6%98%A8%E5%A4%A9%E4%B9%B0%E7%9A%84%23&t=152&Refer=top) - 105898
+1. [许兰香不能说的谭松韵演出来了](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E5%85%B0%E9%A6%99%E4%B8%8D%E8%83%BD%E8%AF%B4%E7%9A%84%E8%B0%AD%E6%9D%BE%E9%9F%B5%E6%BC%94%E5%87%BA%E6%9D%A5%E4%BA%86%23&t=152&Refer=top) - 102606
+1. [孙楠发文](https://s.weibo.com//weibo?q=%23%E5%AD%99%E6%A5%A0%E5%8F%91%E6%96%87%23&t=152&Refer=top) - 152682
+1. [春日宴这两个人能体面一点吗](https://s.weibo.com//weibo?q=%E6%98%A5%E6%97%A5%E5%AE%B4%E8%BF%99%E4%B8%A4%E4%B8%AA%E4%BA%BA%E8%83%BD%E4%BD%93%E9%9D%A2%E4%B8%80%E7%82%B9%E5%90%97&t=152&Refer=top) - 100650
+1. [孟可称刘欢离世前或已有预感](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E5%8F%AF%E7%A7%B0%E5%88%98%E6%AC%A2%E7%A6%BB%E4%B8%96%E5%89%8D%E6%88%96%E5%B7%B2%E6%9C%89%E9%A2%84%E6%84%9F%23&t=152&Refer=top) - 99820
+1. [肖战歌声和比赛的适配度](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E6%AD%8C%E5%A3%B0%E5%92%8C%E6%AF%94%E8%B5%9B%E7%9A%84%E9%80%82%E9%85%8D%E5%BA%A6%23&t=152&Refer=top) - 93991
+1. [杨澜发文送别刘欢](https://s.weibo.com//weibo?q=%E6%9D%A8%E6%BE%9C%E5%8F%91%E6%96%87%E9%80%81%E5%88%AB%E5%88%98%E6%AC%A2&t=152&Refer=top) - 93139
+1. [周深演唱会](https://s.weibo.com//weibo?q=%E5%91%A8%E6%B7%B1%E6%BC%94%E5%94%B1%E4%BC%9A&t=152&Refer=top) - 84867
+1. [华晨宇演唱会](https://s.weibo.com//weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A&t=152&Refer=top) - 76837
+1. [众歌手悼念刘欢](https://s.weibo.com//weibo?q=%23%E4%BC%97%E6%AD%8C%E6%89%8B%E6%82%BC%E5%BF%B5%E5%88%98%E6%AC%A2%23&t=152&Refer=top) - 1033784
 1. [淡淡姐弟恋新恋情公开](https://s.weibo.com//weibo?q=%E6%B7%A1%E6%B7%A1%E5%A7%90%E5%BC%9F%E6%81%8B%E6%96%B0%E6%81%8B%E6%83%85%E5%85%AC%E5%BC%80&t=152&Refer=top) - 423830
 1. [井柏然刘雯无名指都戴了戒指](https://s.weibo.com//weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E5%88%98%E9%9B%AF%E6%97%A0%E5%90%8D%E6%8C%87%E9%83%BD%E6%88%B4%E4%BA%86%E6%88%92%E6%8C%87%23&t=152&Refer=top) - 423821
-1. [原来拼豆是永夜星河带火的](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%8B%BC%E8%B1%86%E6%98%AF%E6%B0%B8%E5%A4%9C%E6%98%9F%E6%B2%B3%E5%B8%A6%E7%81%AB%E7%9A%84%23&t=152&Refer=top) - 381438
 1. [港媒给朱一龙卫诗雅取的标题](https://s.weibo.com//weibo?q=%23%E6%B8%AF%E5%AA%92%E7%BB%99%E6%9C%B1%E4%B8%80%E9%BE%99%E5%8D%AB%E8%AF%97%E9%9B%85%E5%8F%96%E7%9A%84%E6%A0%87%E9%A2%98%23&t=152&Refer=top) - 343295
-1. [刘欢妻子发文我永远的爱永远的痛](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%AC%A2%E5%A6%BB%E5%AD%90%E5%8F%91%E6%96%87%E6%88%91%E6%B0%B8%E8%BF%9C%E7%9A%84%E7%88%B1%E6%B0%B8%E8%BF%9C%E7%9A%84%E7%97%9B%23&t=152&Refer=top) - 343285
 1. [姚贝娜父亲哽咽回应刘欢去世](https://s.weibo.com//weibo?q=%23%E5%A7%9A%E8%B4%9D%E5%A8%9C%E7%88%B6%E4%BA%B2%E5%93%BD%E5%92%BD%E5%9B%9E%E5%BA%94%E5%88%98%E6%AC%A2%E5%8E%BB%E4%B8%96%23&t=152&Refer=top) - 343275
 1. [井柏然可不是软柿子](https://s.weibo.com//weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E5%8F%AF%E4%B8%8D%E6%98%AF%E8%BD%AF%E6%9F%BF%E5%AD%90%23&t=152&Refer=top) - 319310
 1. [卡戴珊家族来上海](https://s.weibo.com//weibo?q=%E5%8D%A1%E6%88%B4%E7%8F%8A%E5%AE%B6%E6%97%8F%E6%9D%A5%E4%B8%8A%E6%B5%B7&t=152&Refer=top) - 287379
@@ -23,14 +66,10 @@
 1. [王濛带曾沛慈逛北京](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BF%9B%E5%B8%A6%E6%9B%BE%E6%B2%9B%E6%85%88%E9%80%9B%E5%8C%97%E4%BA%AC%23&t=152&Refer=top) - 188549
 1. [李荣浩说刘雯是井柏然的重要女士](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%E8%AF%B4%E5%88%98%E9%9B%AF%E6%98%AF%E4%BA%95%E6%9F%8F%E7%84%B6%E7%9A%84%E9%87%8D%E8%A6%81%E5%A5%B3%E5%A3%AB%23&t=152&Refer=top) - 169694
 1. [赵雷的画曾被刘欢一眼相中](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E9%9B%B7%E7%9A%84%E7%94%BB%E6%9B%BE%E8%A2%AB%E5%88%98%E6%AC%A2%E4%B8%80%E7%9C%BC%E7%9B%B8%E4%B8%AD%23&t=152&Refer=top) - 152724
-1. [文章姚笛不管任何年代都必塌](https://s.weibo.com//weibo?q=%23%E6%96%87%E7%AB%A0%E5%A7%9A%E7%AC%9B%E4%B8%8D%E7%AE%A1%E4%BB%BB%E4%BD%95%E5%B9%B4%E4%BB%A3%E9%83%BD%E5%BF%85%E5%A1%8C%23&t=152&Refer=top) - 152714
-1. [张艺谋悼念刘欢](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E6%82%BC%E5%BF%B5%E5%88%98%E6%AC%A2%23&t=152&Refer=top) - 152708
 1. [高晓松笔下的刘欢](https://s.weibo.com//weibo?q=%23%E9%AB%98%E6%99%93%E6%9D%BE%E7%AC%94%E4%B8%8B%E7%9A%84%E5%88%98%E6%AC%A2%23&t=152&Refer=top) - 152703
 1. [刘欢什么病](https://s.weibo.com//weibo?q=%E5%88%98%E6%AC%A2%E4%BB%80%E4%B9%88%E7%97%85&t=152&Refer=top) - 4880824
 1. [刘欢 股骨头坏死](https://s.weibo.com//weibo?q=%E5%88%98%E6%AC%A2%20%E8%82%A1%E9%AA%A8%E5%A4%B4%E5%9D%8F%E6%AD%BB&t=152&Refer=top) - 372353
-1. [孙楠发文](https://s.weibo.com//weibo?q=%23%E5%AD%99%E6%A5%A0%E5%8F%91%E6%96%87%23&t=152&Refer=top) - 152682
 1. [阿朵发文悼念刘欢](https://s.weibo.com//weibo?q=%E9%98%BF%E6%9C%B5%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E5%88%98%E6%AC%A2&t=152&Refer=top) - 152676
-1. [吉克隽逸吾师远去悲痛难抑](https://s.weibo.com//weibo?q=%E5%90%89%E5%85%8B%E9%9A%BD%E9%80%B8%E5%90%BE%E5%B8%88%E8%BF%9C%E5%8E%BB%E6%82%B2%E7%97%9B%E9%9A%BE%E6%8A%91&t=152&Refer=top) - 152668
 1. [早春晴朗播前倪妮最惨播后刘雯最惨](https://s.weibo.com//weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E6%92%AD%E5%89%8D%E5%80%AA%E5%A6%AE%E6%9C%80%E6%83%A8%E6%92%AD%E5%90%8E%E5%88%98%E9%9B%AF%E6%9C%80%E6%83%A8%23&t=152&Refer=top) - 137402
 1. [兰香如故和长相思的共性](https://s.weibo.com//weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E5%92%8C%E9%95%BF%E7%9B%B8%E6%80%9D%E7%9A%84%E5%85%B1%E6%80%A7%23&t=152&Refer=top) - 123661
 1. [姚贝娜化疗时刘欢邀唱甄嬛传插曲](https://s.weibo.com//weibo?q=%23%E5%A7%9A%E8%B4%9D%E5%A8%9C%E5%8C%96%E7%96%97%E6%97%B6%E5%88%98%E6%AC%A2%E9%82%80%E5%94%B1%E7%94%84%E5%AC%9B%E4%BC%A0%E6%8F%92%E6%9B%B2%23&t=152&Refer=top) - 123655
