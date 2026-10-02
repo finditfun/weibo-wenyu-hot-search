@@ -2,9 +2,57 @@
 微博文娱热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 02 2026 14:42:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 02 2026 21:34:57 GMT+0800 (China Standard Time) -->
+1. [顾廷烨 二婚男](https://s.weibo.com//weibo?q=%E9%A1%BE%E5%BB%B7%E7%83%A8%20%E4%BA%8C%E5%A9%9A%E7%94%B7&t=152&Refer=top) - 1794696
+1. [兰香如故袁绍辉去世](https://s.weibo.com//weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E8%A2%81%E7%BB%8D%E8%BE%89%E5%8E%BB%E4%B8%96%23&t=152&Refer=top) - 945220
 1. [TFBOYS亲签 350万](https://s.weibo.com//weibo?q=TFBOYS%E4%BA%B2%E7%AD%BE%20350%E4%B8%87&t=152&Refer=top) - 1680626
+1. [沈腾李小冉也没戏拍了吗](https://s.weibo.com//weibo?q=%23%E6%B2%88%E8%85%BE%E6%9D%8E%E5%B0%8F%E5%86%89%E4%B9%9F%E6%B2%A1%E6%88%8F%E6%8B%8D%E4%BA%86%E5%90%97%23&t=152&Refer=top) - 595488
+1. [鹭卓向粉丝道歉](https://s.weibo.com//weibo?q=%E9%B9%AD%E5%8D%93%E5%90%91%E7%B2%89%E4%B8%9D%E9%81%93%E6%AD%89&t=152&Refer=top) - 535939
+1. [王一博C位看秀](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9AC%E4%BD%8D%E7%9C%8B%E7%A7%80%23&t=152&Refer=top) - 482345
+1. [兰香产女](https://s.weibo.com//weibo?q=%23%E5%85%B0%E9%A6%99%E4%BA%A7%E5%A5%B3%23&t=152&Refer=top) - 434111
+1. [披荆斩棘四公](https://s.weibo.com//weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%9B%9B%E5%85%AC&t=152&Refer=top) - 390700
 1. [TOP林珍娜承认恋情](https://s.weibo.com//weibo?q=%23TOP%E6%9E%97%E7%8F%8D%E5%A8%9C%E6%89%BF%E8%AE%A4%E6%81%8B%E6%83%85%23&t=152&Refer=top) - 931264
+1. [米卡能力者秀赢了邵子恒](https://s.weibo.com//weibo?q=%23%E7%B1%B3%E5%8D%A1%E8%83%BD%E5%8A%9B%E8%80%85%E7%A7%80%E8%B5%A2%E4%BA%86%E9%82%B5%E5%AD%90%E6%81%92%23&t=152&Refer=top) - 316467
+1. [王一博陈都灵大秀同框](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E9%99%88%E9%83%BD%E7%81%B5%E5%A4%A7%E7%A7%80%E5%90%8C%E6%A1%86%23&t=152&Refer=top) - 284820
+1. [鹭卓团粉唯粉矛盾](https://s.weibo.com//weibo?q=%E9%B9%AD%E5%8D%93%E5%9B%A2%E7%B2%89%E5%94%AF%E7%B2%89%E7%9F%9B%E7%9B%BE&t=152&Refer=top) - 256338
+1. [兰香如故碧芜登场](https://s.weibo.com//weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E7%A2%A7%E8%8A%9C%E7%99%BB%E5%9C%BA%23&t=152&Refer=top) - 230704
+1. [杜翠雀杀了袁绍辉](https://s.weibo.com//weibo?q=%23%E6%9D%9C%E7%BF%A0%E9%9B%80%E6%9D%80%E4%BA%86%E8%A2%81%E7%BB%8D%E8%BE%89%23&t=152&Refer=top) - 207634
+1. [米卡邵子恒曾辉trap](https://s.weibo.com//weibo?q=%23%E7%B1%B3%E5%8D%A1%E9%82%B5%E5%AD%90%E6%81%92%E6%9B%BE%E8%BE%89trap%23&t=152&Refer=top) - 186870
+1. [前娜扎经纪人喊话刘耀文](https://s.weibo.com//weibo?q=%23%E5%89%8D%E5%A8%9C%E6%89%8E%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%96%8A%E8%AF%9D%E5%88%98%E8%80%80%E6%96%87%23&t=152&Refer=top) - 168183
+1. [兰香如故大太太下线](https://s.weibo.com//weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E5%A4%A7%E5%A4%AA%E5%A4%AA%E4%B8%8B%E7%BA%BF%23&t=152&Refer=top) - 161715
+1. [王一博安娜温图尔握手](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%AE%89%E5%A8%9C%E6%B8%A9%E5%9B%BE%E5%B0%94%E6%8F%A1%E6%89%8B%23&t=152&Refer=top) - 149180
+1. [瑶一瑶妈妈因长期掉发剪短发](https://s.weibo.com//weibo?q=%23%E7%91%B6%E4%B8%80%E7%91%B6%E5%A6%88%E5%A6%88%E5%9B%A0%E9%95%BF%E6%9C%9F%E6%8E%89%E5%8F%91%E5%89%AA%E7%9F%AD%E5%8F%91%23&t=152&Refer=top) - 138104
+1. [沈梦辰西装好帅](https://s.weibo.com//weibo?q=%E6%B2%88%E6%A2%A6%E8%BE%B0%E8%A5%BF%E8%A3%85%E5%A5%BD%E5%B8%85&t=152&Refer=top) - 124293
+1. [肖战得闲谨制首播收视率破2](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E5%BE%97%E9%97%B2%E8%B0%A8%E5%88%B6%E9%A6%96%E6%92%AD%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B42%23&t=152&Refer=top) - 124285
+1. [颜安和孙楠阿云嘎还是有差距](https://s.weibo.com//weibo?q=%23%E9%A2%9C%E5%AE%89%E5%92%8C%E5%AD%99%E6%A5%A0%E9%98%BF%E4%BA%91%E5%98%8E%E8%BF%98%E6%98%AF%E6%9C%89%E5%B7%AE%E8%B7%9D%23&t=152&Refer=top) - 124280
+1. [张杰团队听劝](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%9B%A2%E9%98%9F%E5%90%AC%E5%8A%9D%23&t=152&Refer=top) - 111852
+1. [罗意威直播镜头里的王一博](https://s.weibo.com//weibo?q=%23%E7%BD%97%E6%84%8F%E5%A8%81%E7%9B%B4%E6%92%AD%E9%95%9C%E5%A4%B4%E9%87%8C%E7%9A%84%E7%8E%8B%E4%B8%80%E5%8D%9A%23&t=152&Refer=top) - 107003
+1. [汪苏泷改了晴的最后一句](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%94%B9%E4%BA%86%E6%99%B4%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%8F%A5%23&t=152&Refer=top) - 96302
+1. [迪丽热巴说自己名模来的](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%AF%B4%E8%87%AA%E5%B7%B1%E5%90%8D%E6%A8%A1%E6%9D%A5%E7%9A%84%23&t=152&Refer=top) - 96292
+1. [沈月说我要是再长高20厘米就好了](https://s.weibo.com//weibo?q=%23%E6%B2%88%E6%9C%88%E8%AF%B4%E6%88%91%E8%A6%81%E6%98%AF%E5%86%8D%E9%95%BF%E9%AB%9820%E5%8E%98%E7%B1%B3%E5%B0%B1%E5%A5%BD%E4%BA%86%23&t=152&Refer=top) - 86663
+1. [曾辉 进步](https://s.weibo.com//weibo?q=%E6%9B%BE%E8%BE%89%20%E8%BF%9B%E6%AD%A5&t=152&Refer=top) - 86654
+1. [曾辉四公能力者秀](https://s.weibo.com//weibo?q=%23%E6%9B%BE%E8%BE%89%E5%9B%9B%E5%85%AC%E8%83%BD%E5%8A%9B%E8%80%85%E7%A7%80%23&t=152&Refer=top) - 86645
+1. [张杰真火](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%9C%9F%E7%81%AB%23&t=152&Refer=top) - 86637
+1. [田栩宁梓渝把你名字纹在我手臂](https://s.weibo.com//weibo?q=%23%E7%94%B0%E6%A0%A9%E5%AE%81%E6%A2%93%E6%B8%9D%E6%8A%8A%E4%BD%A0%E5%90%8D%E5%AD%97%E7%BA%B9%E5%9C%A8%E6%88%91%E6%89%8B%E8%87%82%23&t=152&Refer=top) - 86627
+1. [杨博文 内蒙古](https://s.weibo.com//weibo?q=%E6%9D%A8%E5%8D%9A%E6%96%87%20%E5%86%85%E8%92%99%E5%8F%A4&t=152&Refer=top) - 86617
+1. [邵子恒荨麻疹复发](https://s.weibo.com//weibo?q=%23%E9%82%B5%E5%AD%90%E6%81%92%E8%8D%A8%E9%BA%BB%E7%96%B9%E5%A4%8D%E5%8F%91%23&t=152&Refer=top) - 86608
+1. [披荆斩棘直播](https://s.weibo.com//weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9B%B4%E6%92%AD&t=152&Refer=top) - 86603
+1. [刘冲问迪丽热巴见面会为啥没邀请他](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%86%B2%E9%97%AE%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%A7%81%E9%9D%A2%E4%BC%9A%E4%B8%BA%E5%95%A5%E6%B2%A1%E9%82%80%E8%AF%B7%E4%BB%96%23&t=152&Refer=top) - 86598
+1. [打歌2026](https://s.weibo.com//weibo?q=%E6%89%93%E6%AD%8C2026&t=152&Refer=top) - 86593
+1. [去看张杰人多不烧心](https://s.weibo.com//weibo?q=%23%E5%8E%BB%E7%9C%8B%E5%BC%A0%E6%9D%B0%E4%BA%BA%E5%A4%9A%E4%B8%8D%E7%83%A7%E5%BF%83%23&t=152&Refer=top) - 86583
+1. [AI都被王楚然的颜值惊艳](https://s.weibo.com//weibo?q=%23AI%E9%83%BD%E8%A2%AB%E7%8E%8B%E6%A5%9A%E7%84%B6%E7%9A%84%E9%A2%9C%E5%80%BC%E6%83%8A%E8%89%B3%23&t=152&Refer=top) - 86575
+1. [华晨宇这恐怖的20秒](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E8%BF%99%E6%81%90%E6%80%96%E7%9A%8420%E7%A7%92%23&t=152&Refer=top) - 86570
+1. [华晨宇中140元给左大爷买吉他](https://s.weibo.com//weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E4%B8%AD140%E5%85%83%E7%BB%99%E5%B7%A6%E5%A4%A7%E7%88%B7%E4%B9%B0%E5%90%89%E4%BB%96&t=152&Refer=top) - 86562
+1. [王一博在线反驳](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%9C%A8%E7%BA%BF%E5%8F%8D%E9%A9%B3%23&t=152&Refer=top) - 86554
+1. [陈靖可父亲去世](https://s.weibo.com//weibo?q=%23%E9%99%88%E9%9D%96%E5%8F%AF%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%23&t=152&Refer=top) - 84931
+1. [田曦薇棕色制服裙造型](https://s.weibo.com//weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E6%A3%95%E8%89%B2%E5%88%B6%E6%9C%8D%E8%A3%99%E9%80%A0%E5%9E%8B%23&t=152&Refer=top) - 83725
+1. [王源工作人员的伙食](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%9A%84%E4%BC%99%E9%A3%9F%23&t=152&Refer=top) - 82871
+1. [巴黎时装周](https://s.weibo.com//weibo?q=%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8&t=152&Refer=top) - 78254
+1. [Angelababy点赞宋威龙金智秀文淇ins](https://s.weibo.com//weibo?q=%23Angelababy%E7%82%B9%E8%B5%9E%E5%AE%8B%E5%A8%81%E9%BE%99%E9%87%91%E6%99%BA%E7%A7%80%E6%96%87%E6%B7%87ins%23&t=152&Refer=top) - 77789
+1. [罗云熙演技下沉口碑](https://s.weibo.com//weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E6%BC%94%E6%8A%80%E4%B8%8B%E6%B2%89%E5%8F%A3%E7%A2%91%23&t=152&Refer=top) - 76496
+1. [王一博LOEWE大秀造型](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9ALOEWE%E5%A4%A7%E7%A7%80%E9%80%A0%E5%9E%8B%23&t=152&Refer=top) - 76299
+1. [迪丽热巴起床不喜欢叠被子](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B5%B7%E5%BA%8A%E4%B8%8D%E5%96%9C%E6%AC%A2%E5%8F%A0%E8%A2%AB%E5%AD%90%23&t=152&Refer=top) - 76277
+1. [孙楠披哥主题曲C位](https://s.weibo.com//weibo?q=%23%E5%AD%99%E6%A5%A0%E6%8A%AB%E5%93%A5%E4%B8%BB%E9%A2%98%E6%9B%B2C%E4%BD%8D%23&t=152&Refer=top) - 74204
 1. [那英在家失去意识30S](https://s.weibo.com//weibo?q=%E9%82%A3%E8%8B%B1%E5%9C%A8%E5%AE%B6%E5%A4%B1%E5%8E%BB%E6%84%8F%E8%AF%8630S&t=152&Refer=top) - 898298
 1. [在国外被中国男演员救了一命](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E5%9B%BD%E5%A4%96%E8%A2%AB%E4%B8%AD%E5%9B%BD%E7%94%B7%E6%BC%94%E5%91%98%E6%95%91%E4%BA%86%E4%B8%80%E5%91%BD%23&t=152&Refer=top) - 862519
 1. [难怪那么多艺人最后和经纪人结婚了](https://s.weibo.com//weibo?q=%23%E9%9A%BE%E6%80%AA%E9%82%A3%E4%B9%88%E5%A4%9A%E8%89%BA%E4%BA%BA%E6%9C%80%E5%90%8E%E5%92%8C%E7%BB%8F%E7%BA%AA%E4%BA%BA%E7%BB%93%E5%A9%9A%E4%BA%86%23&t=152&Refer=top) - 473619
