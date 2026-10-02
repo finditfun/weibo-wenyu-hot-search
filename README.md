@@ -2,8 +2,57 @@
 微博文娱热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 02 2026 08:31:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 02 2026 14:42:36 GMT+0800 (China Standard Time) -->
+1. [TFBOYS亲签 350万](https://s.weibo.com//weibo?q=TFBOYS%E4%BA%B2%E7%AD%BE%20350%E4%B8%87&t=152&Refer=top) - 1680626
+1. [TOP林珍娜承认恋情](https://s.weibo.com//weibo?q=%23TOP%E6%9E%97%E7%8F%8D%E5%A8%9C%E6%89%BF%E8%AE%A4%E6%81%8B%E6%83%85%23&t=152&Refer=top) - 931264
+1. [那英在家失去意识30S](https://s.weibo.com//weibo?q=%E9%82%A3%E8%8B%B1%E5%9C%A8%E5%AE%B6%E5%A4%B1%E5%8E%BB%E6%84%8F%E8%AF%8630S&t=152&Refer=top) - 898298
+1. [在国外被中国男演员救了一命](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E5%9B%BD%E5%A4%96%E8%A2%AB%E4%B8%AD%E5%9B%BD%E7%94%B7%E6%BC%94%E5%91%98%E6%95%91%E4%BA%86%E4%B8%80%E5%91%BD%23&t=152&Refer=top) - 862519
+1. [难怪那么多艺人最后和经纪人结婚了](https://s.weibo.com//weibo?q=%23%E9%9A%BE%E6%80%AA%E9%82%A3%E4%B9%88%E5%A4%9A%E8%89%BA%E4%BA%BA%E6%9C%80%E5%90%8E%E5%92%8C%E7%BB%8F%E7%BA%AA%E4%BA%BA%E7%BB%93%E5%A9%9A%E4%BA%86%23&t=152&Refer=top) - 473619
+1. [电视剧喜剧之王定档](https://s.weibo.com//weibo?q=%E7%94%B5%E8%A7%86%E5%89%A7%E5%96%9C%E5%89%A7%E4%B9%8B%E7%8E%8B%E5%AE%9A%E6%A1%A3&t=152&Refer=top) - 426257
+1. [孙千1条日常分享带6个广](https://s.weibo.com//weibo?q=%23%E5%AD%99%E5%8D%831%E6%9D%A1%E6%97%A5%E5%B8%B8%E5%88%86%E4%BA%AB%E5%B8%A66%E4%B8%AA%E5%B9%BF%23&t=152&Refer=top) - 383631
+1. [电视剧名 奶茶名](https://s.weibo.com//weibo?q=%E7%94%B5%E8%A7%86%E5%89%A7%E5%90%8D%20%E5%A5%B6%E8%8C%B6%E5%90%8D&t=152&Refer=top) - 345268
+1. [李小冉 你们还有戏拍](https://s.weibo.com//weibo?q=%E6%9D%8E%E5%B0%8F%E5%86%89%20%E4%BD%A0%E4%BB%AC%E8%BF%98%E6%9C%89%E6%88%8F%E6%8B%8D&t=152&Refer=top) - 345260
+1. [林锦岐认出许兰香先烧证据](https://s.weibo.com//weibo?q=%E6%9E%97%E9%94%A6%E5%B2%90%E8%AE%A4%E5%87%BA%E8%AE%B8%E5%85%B0%E9%A6%99%E5%85%88%E7%83%A7%E8%AF%81%E6%8D%AE&t=152&Refer=top) - 310734
+1. [林珍娜粉丝现状](https://s.weibo.com//weibo?q=%23%E6%9E%97%E7%8F%8D%E5%A8%9C%E7%B2%89%E4%B8%9D%E7%8E%B0%E7%8A%B6%23&t=152&Refer=top) - 279660
+1. [章涛](https://s.weibo.com//weibo?q=%E7%AB%A0%E6%B6%9B&t=152&Refer=top) - 251694
+1. [林珍娜说会和TOP健康地好好交往](https://s.weibo.com//weibo?q=%23%E6%9E%97%E7%8F%8D%E5%A8%9C%E8%AF%B4%E4%BC%9A%E5%92%8CTOP%E5%81%A5%E5%BA%B7%E5%9C%B0%E5%A5%BD%E5%A5%BD%E4%BA%A4%E5%BE%80%23&t=152&Refer=top) - 226525
+1. [麦琳7个月瘦了40斤](https://s.weibo.com//weibo?q=%23%E9%BA%A6%E7%90%B37%E4%B8%AA%E6%9C%88%E7%98%A6%E4%BA%8640%E6%96%A4%23&t=152&Refer=top) - 211873
+1. [赵今麦不敢接魏大勋的话](https://s.weibo.com//weibo?q=%E8%B5%B5%E4%BB%8A%E9%BA%A6%E4%B8%8D%E6%95%A2%E6%8E%A5%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%9A%84%E8%AF%9D&t=152&Refer=top) - 190685
+1. [陈思诚还是忘不了秦昊](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%80%9D%E8%AF%9A%E8%BF%98%E6%98%AF%E5%BF%98%E4%B8%8D%E4%BA%86%E7%A7%A6%E6%98%8A%23&t=152&Refer=top) - 188503
+1. [邓为抱着林依晨玩水上滑滑梯](https://s.weibo.com//weibo?q=%23%E9%82%93%E4%B8%BA%E6%8A%B1%E7%9D%80%E6%9E%97%E4%BE%9D%E6%99%A8%E7%8E%A9%E6%B0%B4%E4%B8%8A%E6%BB%91%E6%BB%91%E6%A2%AF%23&t=152&Refer=top) - 169652
+1. [TOP林珍娜 嘴唇互补](https://s.weibo.com//weibo?q=TOP%E6%9E%97%E7%8F%8D%E5%A8%9C%20%E5%98%B4%E5%94%87%E4%BA%92%E8%A1%A5&t=152&Refer=top) - 153286
+1. [兰香如故 隐喻](https://s.weibo.com//weibo?q=%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%20%E9%9A%90%E5%96%BB&t=152&Refer=top) - 149848
+1. [傅园慧爸爸原来明星也吃麻辣烫](https://s.weibo.com//weibo?q=%23%E5%82%85%E5%9B%AD%E6%85%A7%E7%88%B8%E7%88%B8%E5%8E%9F%E6%9D%A5%E6%98%8E%E6%98%9F%E4%B9%9F%E5%90%83%E9%BA%BB%E8%BE%A3%E7%83%AB%23&t=152&Refer=top) - 134863
+1. [86版西游记插曲作曲维权](https://s.weibo.com//weibo?q=86%E7%89%88%E8%A5%BF%E6%B8%B8%E8%AE%B0%E6%8F%92%E6%9B%B2%E4%BD%9C%E6%9B%B2%E7%BB%B4%E6%9D%83&t=152&Refer=top) - 134853
+1. [八仙](https://s.weibo.com//weibo?q=%E5%85%AB%E4%BB%99&t=152&Refer=top) - 134848
+1. [长得像郭碧婷被拉去和向佐直播](https://s.weibo.com//weibo?q=%23%E9%95%BF%E5%BE%97%E5%83%8F%E9%83%AD%E7%A2%A7%E5%A9%B7%E8%A2%AB%E6%8B%89%E5%8E%BB%E5%92%8C%E5%90%91%E4%BD%90%E7%9B%B4%E6%92%AD%23&t=152&Refer=top) - 131508
+1. [薛之谦演唱会生气了](https://s.weibo.com//weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E7%94%9F%E6%B0%94%E4%BA%86%23&t=152&Refer=top) - 120875
+1. [郑燕姿自曝脸上花了500万](https://s.weibo.com//weibo?q=%23%E9%83%91%E7%87%95%E5%A7%BF%E8%87%AA%E6%9B%9D%E8%84%B8%E4%B8%8A%E8%8A%B1%E4%BA%86500%E4%B8%87%23&t=152&Refer=top) - 116676
+1. [张家齐妈妈到现在也理解不了观众和女儿](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E5%88%B0%E7%8E%B0%E5%9C%A8%E4%B9%9F%E7%90%86%E8%A7%A3%E4%B8%8D%E4%BA%86%E8%A7%82%E4%BC%97%E5%92%8C%E5%A5%B3%E5%84%BF%23&t=152&Refer=top) - 105008
+1. [谭松韵从你的全娱乐圈路过](https://s.weibo.com//weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E4%BB%8E%E4%BD%A0%E7%9A%84%E5%85%A8%E5%A8%B1%E4%B9%90%E5%9C%88%E8%B7%AF%E8%BF%87%23&t=152&Refer=top) - 105001
 1. [轩森森 虞书欣](https://s.weibo.com//weibo?q=%E8%BD%A9%E6%A3%AE%E6%A3%AE%20%E8%99%9E%E4%B9%A6%E6%AC%A3&t=152&Refer=top) - 1107239
+1. [披荆斩棘2026主题曲越](https://s.weibo.com//weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%982026%E4%B8%BB%E9%A2%98%E6%9B%B2%E8%B6%8A%23&t=152&Refer=top) - 100966
+1. [小S是给自己生了个林志玲吧](https://s.weibo.com//weibo?q=%23%E5%B0%8FS%E6%98%AF%E7%BB%99%E8%87%AA%E5%B7%B1%E7%94%9F%E4%BA%86%E4%B8%AA%E6%9E%97%E5%BF%97%E7%8E%B2%E5%90%A7%23&t=152&Refer=top) - 100707
+1. [奇文](https://s.weibo.com//weibo?q=%E5%A5%87%E6%96%87&t=152&Refer=top) - 100697
+1. [鹭卓 伦敦合伙人咱来啦](https://s.weibo.com//weibo?q=%E9%B9%AD%E5%8D%93%20%E4%BC%A6%E6%95%A6%E5%90%88%E4%BC%99%E4%BA%BA%E5%92%B1%E6%9D%A5%E5%95%A6&t=152&Refer=top) - 100187
+1. [肖战受欢迎度](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E5%8F%97%E6%AC%A2%E8%BF%8E%E5%BA%A6%23&t=152&Refer=top) - 98391
+1. [陈浩民说蒋丽莎消费他前女友](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%B5%A9%E6%B0%91%E8%AF%B4%E8%92%8B%E4%B8%BD%E8%8E%8E%E6%B6%88%E8%B4%B9%E4%BB%96%E5%89%8D%E5%A5%B3%E5%8F%8B%23&t=152&Refer=top) - 96903
+1. [林珍娜眼光](https://s.weibo.com//weibo?q=%E6%9E%97%E7%8F%8D%E5%A8%9C%E7%9C%BC%E5%85%89&t=152&Refer=top) - 94500
+1. [罗云熙新剧首播口碑](https://s.weibo.com//weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E6%96%B0%E5%89%A7%E9%A6%96%E6%92%AD%E5%8F%A3%E7%A2%91%23&t=152&Refer=top) - 90864
+1. [D社曝TOP林珍娜恋情](https://s.weibo.com//weibo?q=%23D%E7%A4%BE%E6%9B%9DTOP%E6%9E%97%E7%8F%8D%E5%A8%9C%E6%81%8B%E6%83%85%23&t=152&Refer=top) - 90548
+1. [成毅长安二十四计获双提名](https://s.weibo.com//weibo?q=%23%E6%88%90%E6%AF%85%E9%95%BF%E5%AE%89%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%AE%A1%E8%8E%B7%E5%8F%8C%E6%8F%90%E5%90%8D%23&t=152&Refer=top) - 88928
+1. [陈星旭不用来了 杨超越有自己的桌子](https://s.weibo.com//weibo?q=%E9%99%88%E6%98%9F%E6%97%AD%E4%B8%8D%E7%94%A8%E6%9D%A5%E4%BA%86%20%E6%9D%A8%E8%B6%85%E8%B6%8A%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E6%A1%8C%E5%AD%90&t=152&Refer=top) - 87776
+1. [梓渝的瘾有多大](https://s.weibo.com//weibo?q=%23%E6%A2%93%E6%B8%9D%E7%9A%84%E7%98%BE%E6%9C%89%E5%A4%9A%E5%A4%A7%23&t=152&Refer=top) - 85059
+1. [兰香如故这段看得心里五味杂陈](https://s.weibo.com//weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E8%BF%99%E6%AE%B5%E7%9C%8B%E5%BE%97%E5%BF%83%E9%87%8C%E4%BA%94%E5%91%B3%E6%9D%82%E9%99%88%23&t=152&Refer=top) - 76553
+1. [王一博咋萌成这样](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%92%8B%E8%90%8C%E6%88%90%E8%BF%99%E6%A0%B7%23&t=152&Refer=top) - 76544
+1. [TOP林珍娜恋情引涉毒争议](https://s.weibo.com//weibo?q=%23TOP%E6%9E%97%E7%8F%8D%E5%A8%9C%E6%81%8B%E6%83%85%E5%BC%95%E6%B6%89%E6%AF%92%E4%BA%89%E8%AE%AE%23&t=152&Refer=top) - 76536
+1. [无可替代](https://s.weibo.com//weibo?q=%E6%97%A0%E5%8F%AF%E6%9B%BF%E4%BB%A3&t=152&Refer=top) - 76528
+1. [陈浩民说妻子消费前女友](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%B5%A9%E6%B0%91%E8%AF%B4%E5%A6%BB%E5%AD%90%E6%B6%88%E8%B4%B9%E5%89%8D%E5%A5%B3%E5%8F%8B%23&t=152&Refer=top) - 72936
+1. [赵今麦被李小冉问的不敢接话了](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E8%A2%AB%E6%9D%8E%E5%B0%8F%E5%86%89%E9%97%AE%E7%9A%84%E4%B8%8D%E6%95%A2%E6%8E%A5%E8%AF%9D%E4%BA%86%23&t=152&Refer=top) - 72009
+1. [肖战被小朋友盯得不好意思了](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E8%A2%AB%E5%B0%8F%E6%9C%8B%E5%8F%8B%E7%9B%AF%E5%BE%97%E4%B8%8D%E5%A5%BD%E6%84%8F%E6%80%9D%E4%BA%86%23&t=152&Refer=top) - 71434
+1. [许兰香父母不再等女婿先落坐了](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E5%85%B0%E9%A6%99%E7%88%B6%E6%AF%8D%E4%B8%8D%E5%86%8D%E7%AD%89%E5%A5%B3%E5%A9%BF%E5%85%88%E8%90%BD%E5%9D%90%E4%BA%86%23&t=152&Refer=top) - 71421
+1. [管健嘉晨是披哥主题曲制作人](https://s.weibo.com//weibo?q=%23%E7%AE%A1%E5%81%A5%E5%98%89%E6%99%A8%E6%98%AF%E6%8A%AB%E5%93%A5%E4%B8%BB%E9%A2%98%E6%9B%B2%E5%88%B6%E4%BD%9C%E4%BA%BA%23&t=152&Refer=top) - 64598
+1. [张韶涵团队发千字长文](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9F%B6%E6%B6%B5%E5%9B%A2%E9%98%9F%E5%8F%91%E5%8D%83%E5%AD%97%E9%95%BF%E6%96%87%23&t=152&Refer=top) - 64477
 1. [刘欢家宴做红烧肉](https://s.weibo.com//weibo?q=%E5%88%98%E6%AC%A2%E5%AE%B6%E5%AE%B4%E5%81%9A%E7%BA%A2%E7%83%A7%E8%82%89&t=152&Refer=top) - 775067
 1. [Lily长成了小S一生的宿敌的样子](https://s.weibo.com//weibo?q=%23Lily%E9%95%BF%E6%88%90%E4%BA%86%E5%B0%8FS%E4%B8%80%E7%94%9F%E7%9A%84%E5%AE%BF%E6%95%8C%E7%9A%84%E6%A0%B7%E5%AD%90%23&t=152&Refer=top) - 542547
 1. [肖战自曝身高183.6](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E8%87%AA%E6%9B%9D%E8%BA%AB%E9%AB%98183.6%23&t=152&Refer=top) - 488292
