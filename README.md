@@ -2,19 +2,63 @@
 微博文娱热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 04 2026 18:54:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 04 2026 23:40:01 GMT+0800 (China Standard Time) -->
+1. [蔡康永现身台独分子竞选会场](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BA%B7%E6%B0%B8%E7%8E%B0%E8%BA%AB%E5%8F%B0%E7%8B%AC%E5%88%86%E5%AD%90%E7%AB%9E%E9%80%89%E4%BC%9A%E5%9C%BA%23&t=152&Refer=top) - 3507865
+1. [蔡康永](https://s.weibo.com//weibo?q=%E8%94%A1%E5%BA%B7%E6%B0%B8&t=152&Refer=top) - 2121607
+1. [张家齐长文](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E9%95%BF%E6%96%87%23&t=152&Refer=top) - 1691065
 1. [内娱请停止老头综艺](https://s.weibo.com//weibo?q=%23%E5%86%85%E5%A8%B1%E8%AF%B7%E5%81%9C%E6%AD%A2%E8%80%81%E5%A4%B4%E7%BB%BC%E8%89%BA%23&t=152&Refer=top) - 2236759
+1. [给阿嬷的情书 性转](https://s.weibo.com//weibo?q=%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%20%E6%80%A7%E8%BD%AC&t=152&Refer=top) - 963918
+1. [张家齐发了与妈妈合照](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%8F%91%E4%BA%86%E4%B8%8E%E5%A6%88%E5%A6%88%E5%90%88%E7%85%A7%23&t=152&Refer=top) - 891759
 1. [崔晋 李勒优](https://s.weibo.com//weibo?q=%E5%B4%94%E6%99%8B%20%E6%9D%8E%E5%8B%92%E4%BC%98&t=152&Refer=top) - 1436966
-1. [李勒优 接受一切事与愿违](https://s.weibo.com//weibo?q=%E6%9D%8E%E5%8B%92%E4%BC%98%20%E6%8E%A5%E5%8F%97%E4%B8%80%E5%88%87%E4%BA%8B%E4%B8%8E%E6%84%BF%E8%BF%9D&t=152&Refer=top) - 1390132
+1. [TF四代粉丝维权](https://s.weibo.com//weibo?q=TF%E5%9B%9B%E4%BB%A3%E7%B2%89%E4%B8%9D%E7%BB%B4%E6%9D%83&t=152&Refer=top) - 759888
+1. [李勒优说没有一个地方是属于我的归属](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%8B%92%E4%BC%98%E8%AF%B4%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E5%9C%B0%E6%96%B9%E6%98%AF%E5%B1%9E%E4%BA%8E%E6%88%91%E7%9A%84%E5%BD%92%E5%B1%9E%23&t=152&Refer=top) - 655448
+1. [晋妈称感谢崔晋而非李勒优](https://s.weibo.com//weibo?q=%E6%99%8B%E5%A6%88%E7%A7%B0%E6%84%9F%E8%B0%A2%E5%B4%94%E6%99%8B%E8%80%8C%E9%9D%9E%E6%9D%8E%E5%8B%92%E4%BC%98&t=152&Refer=top) - 589903
+1. [任嘉伦 红果短剧](https://s.weibo.com//weibo?q=%E4%BB%BB%E5%98%89%E4%BC%A6%20%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7&t=152&Refer=top) - 555824
+1. [蔡康永 零跑汽车](https://s.weibo.com//weibo?q=%E8%94%A1%E5%BA%B7%E6%B0%B8%20%E9%9B%B6%E8%B7%91%E6%B1%BD%E8%BD%A6&t=152&Refer=top) - 532172
+1. [王橹杰穆祉丞同款耳钉](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E7%A9%86%E7%A5%89%E4%B8%9E%E5%90%8C%E6%AC%BE%E8%80%B3%E9%92%89%23&t=152&Refer=top) - 531080
 1. [王祖贤大粉脱粉](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E7%A5%96%E8%B4%A4%E5%A4%A7%E7%B2%89%E8%84%B1%E7%B2%89%23&t=152&Refer=top) - 1061880
+1. [张桂源发了9分钟vlog](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%A1%82%E6%BA%90%E5%8F%91%E4%BA%869%E5%88%86%E9%92%9Fvlog%23&t=152&Refer=top) - 430174
+1. [蔡康永一贯的风格](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BA%B7%E6%B0%B8%E4%B8%80%E8%B4%AF%E7%9A%84%E9%A3%8E%E6%A0%BC%23&t=152&Refer=top) - 387157
+1. [蔡康永站台后合作商第一时间下架](https://s.weibo.com//weibo?q=%E8%94%A1%E5%BA%B7%E6%B0%B8%E7%AB%99%E5%8F%B0%E5%90%8E%E5%90%88%E4%BD%9C%E5%95%86%E7%AC%AC%E4%B8%80%E6%97%B6%E9%97%B4%E4%B8%8B%E6%9E%B6&t=152&Refer=top) - 348441
+1. [张桂源粉丝发维权声明](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%A1%82%E6%BA%90%E7%B2%89%E4%B8%9D%E5%8F%91%E7%BB%B4%E6%9D%83%E5%A3%B0%E6%98%8E%23&t=152&Refer=top) - 313597
+1. [李勒优 接受一切事与愿违](https://s.weibo.com//weibo?q=%E6%9D%8E%E5%8B%92%E4%BC%98%20%E6%8E%A5%E5%8F%97%E4%B8%80%E5%88%87%E4%BA%8B%E4%B8%8E%E6%84%BF%E8%BF%9D&t=152&Refer=top) - 1390132
+1. [李玉刚把万疆免费给徐良唱了](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E7%8E%89%E5%88%9A%E6%8A%8A%E4%B8%87%E7%96%86%E5%85%8D%E8%B4%B9%E7%BB%99%E5%BE%90%E8%89%AF%E5%94%B1%E4%BA%86%23&t=152&Refer=top) - 254013
+1. [疑似王橹杰B站浏览记录](https://s.weibo.com//weibo?q=%23%E7%96%91%E4%BC%BC%E7%8E%8B%E6%A9%B9%E6%9D%B0B%E7%AB%99%E6%B5%8F%E8%A7%88%E8%AE%B0%E5%BD%95%23&t=152&Refer=top) - 254006
+1. [赵今麦李沁MiuMiu看秀造型](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E6%9D%8E%E6%B2%81MiuMiu%E7%9C%8B%E7%A7%80%E9%80%A0%E5%9E%8B%23&t=152&Refer=top) - 228606
+1. [代露娃接档张家齐的原因](https://s.weibo.com//weibo?q=%23%E4%BB%A3%E9%9C%B2%E5%A8%83%E6%8E%A5%E6%A1%A3%E5%BC%A0%E5%AE%B6%E9%BD%90%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=152&Refer=top) - 205745
+1. [刘在石说不会给李光洙泡泡花钱](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%9C%A8%E7%9F%B3%E8%AF%B4%E4%B8%8D%E4%BC%9A%E7%BB%99%E6%9D%8E%E5%85%89%E6%B4%99%E6%B3%A1%E6%B3%A1%E8%8A%B1%E9%92%B1%23&t=152&Refer=top) - 185171
+1. [张家齐为我的乳腺负责了](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E4%B8%BA%E6%88%91%E7%9A%84%E4%B9%B3%E8%85%BA%E8%B4%9F%E8%B4%A3%E4%BA%86%23&t=152&Refer=top) - 185165
+1. [王橹杰路灯下舞蹈](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E8%B7%AF%E7%81%AF%E4%B8%8B%E8%88%9E%E8%B9%88%23&t=152&Refer=top) - 185159
+1. [王一博采访答非所问](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E9%87%87%E8%AE%BF%E7%AD%94%E9%9D%9E%E6%89%80%E9%97%AE%23&t=152&Refer=top) - 166643
+1. [李沁千金归来巴黎版](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%B2%81%E5%8D%83%E9%87%91%E5%BD%92%E6%9D%A5%E5%B7%B4%E9%BB%8E%E7%89%88%23&t=152&Refer=top) - 149978
+1. [代露娃刚考上大学就做艺考老师赚钱了](https://s.weibo.com//weibo?q=%23%E4%BB%A3%E9%9C%B2%E5%A8%83%E5%88%9A%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%B0%B1%E5%81%9A%E8%89%BA%E8%80%83%E8%80%81%E5%B8%88%E8%B5%9A%E9%92%B1%E4%BA%86%23&t=152&Refer=top) - 141763
+1. [刘雯亮相MiuMiu春夏秀](https://s.weibo.com//weibo?q=%E5%88%98%E9%9B%AF%E4%BA%AE%E7%9B%B8MiuMiu%E6%98%A5%E5%A4%8F%E7%A7%80&t=152&Refer=top) - 140396
+1. [王橹杰B站账号澄清](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0B%E7%AB%99%E8%B4%A6%E5%8F%B7%E6%BE%84%E6%B8%85%23&t=152&Refer=top) - 140387
+1. [梓渝偶遇](https://s.weibo.com//weibo?q=%E6%A2%93%E6%B8%9D%E5%81%B6%E9%81%87&t=152&Refer=top) - 140380
+1. [华伦天奴大秀](https://s.weibo.com//weibo?q=%E5%8D%8E%E4%BC%A6%E5%A4%A9%E5%A5%B4%E5%A4%A7%E7%A7%80&t=152&Refer=top) - 140371
+1. [姚琛部落选了王一博的无感](https://s.weibo.com//weibo?q=%23%E5%A7%9A%E7%90%9B%E9%83%A8%E8%90%BD%E9%80%89%E4%BA%86%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%9A%84%E6%97%A0%E6%84%9F%23&t=152&Refer=top) - 140365
+1. [TF家族 单人cha](https://s.weibo.com//weibo?q=TF%E5%AE%B6%E6%97%8F%20%E5%8D%95%E4%BA%BAcha&t=152&Refer=top) - 140359
+1. [七星彩](https://s.weibo.com//weibo?q=%E4%B8%83%E6%98%9F%E5%BD%A9&t=152&Refer=top) - 136970
+1. [孙千塞纳河边脱鞋晒太阳](https://s.weibo.com//weibo?q=%E5%AD%99%E5%8D%83%E5%A1%9E%E7%BA%B3%E6%B2%B3%E8%BE%B9%E8%84%B1%E9%9E%8B%E6%99%92%E5%A4%AA%E9%98%B3&t=152&Refer=top) - 136197
+1. [鞠婧祎曾舜晞 七星彩](https://s.weibo.com//weibo?q=%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%9B%BE%E8%88%9C%E6%99%9E%20%E4%B8%83%E6%98%9F%E5%BD%A9&t=152&Refer=top) - 135741
+1. [李勒优高三被接到大连去拍广告](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%8B%92%E4%BC%98%E9%AB%98%E4%B8%89%E8%A2%AB%E6%8E%A5%E5%88%B0%E5%A4%A7%E8%BF%9E%E5%8E%BB%E6%8B%8D%E5%B9%BF%E5%91%8A%23&t=152&Refer=top) - 134769
+1. [蔡徐坤华伦天奴大秀半扎发](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%8D%8E%E4%BC%A6%E5%A4%A9%E5%A5%B4%E5%A4%A7%E7%A7%80%E5%8D%8A%E6%89%8E%E5%8F%91%23&t=152&Refer=top) - 128128
+1. [金智秀 掉粉](https://s.weibo.com//weibo?q=%E9%87%91%E6%99%BA%E7%A7%80%20%E6%8E%89%E7%B2%89&t=152&Refer=top) - 126985
+1. [飞天奖](https://s.weibo.com//weibo?q=%E9%A3%9E%E5%A4%A9%E5%A5%96&t=152&Refer=top) - 504726
+1. [兰香如故兰香妈妈去世](https://s.weibo.com//weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E5%85%B0%E9%A6%99%E5%A6%88%E5%A6%88%E5%8E%BB%E4%B8%96%23&t=152&Refer=top) - 222745
+1. [谁想到让徐洋演李现父亲的](https://s.weibo.com//weibo?q=%23%E8%B0%81%E6%83%B3%E5%88%B0%E8%AE%A9%E5%BE%90%E6%B4%8B%E6%BC%94%E6%9D%8E%E7%8E%B0%E7%88%B6%E4%BA%B2%E7%9A%84%23&t=152&Refer=top) - 111398
+1. [孔令美演得太好了](https://s.weibo.com//weibo?q=%E5%AD%94%E4%BB%A4%E7%BE%8E%E6%BC%94%E5%BE%97%E5%A4%AA%E5%A5%BD%E4%BA%86&t=152&Refer=top) - 105828
+1. [李现新剧24集双平台143个广](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E7%8E%B0%E6%96%B0%E5%89%A724%E9%9B%86%E5%8F%8C%E5%B9%B3%E5%8F%B0143%E4%B8%AA%E5%B9%BF%23&t=152&Refer=top) - 96329
+1. [张家齐妈妈活在自己的世界里](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E6%B4%BB%E5%9C%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%96%E7%95%8C%E9%87%8C%23&t=152&Refer=top) - 89768
+1. [兰香如故林绣芄谢昭相遇](https://s.weibo.com//weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E6%9E%97%E7%BB%A3%E8%8A%84%E8%B0%A2%E6%98%AD%E7%9B%B8%E9%81%87%23&t=152&Refer=top) - 86006
+1. [谭松韵有效眼技](https://s.weibo.com//weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E6%9C%89%E6%95%88%E7%9C%BC%E6%8A%80%23&t=152&Refer=top) - 77728
+1. [黄丽玲演唱会 暧昧是最美味的](https://s.weibo.com//weibo?q=%E9%BB%84%E4%B8%BD%E7%8E%B2%E6%BC%94%E5%94%B1%E4%BC%9A%20%E6%9A%A7%E6%98%A7%E6%98%AF%E6%9C%80%E7%BE%8E%E5%91%B3%E7%9A%84&t=152&Refer=top) - 73004
 1. [代露娃七年初恋](https://s.weibo.com//weibo?q=%23%E4%BB%A3%E9%9C%B2%E5%A8%83%E4%B8%83%E5%B9%B4%E5%88%9D%E6%81%8B%23&t=152&Refer=top) - 692354
 1. [崔晋妈妈资助了不止李勒优一个](https://s.weibo.com//weibo?q=%23%E5%B4%94%E6%99%8B%E5%A6%88%E5%A6%88%E8%B5%84%E5%8A%A9%E4%BA%86%E4%B8%8D%E6%AD%A2%E6%9D%8E%E5%8B%92%E4%BC%98%E4%B8%80%E4%B8%AA%23&t=152&Refer=top) - 623118
 1. [李勒优已经搬出去住了](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%8B%92%E4%BC%98%E5%B7%B2%E7%BB%8F%E6%90%AC%E5%87%BA%E5%8E%BB%E4%BD%8F%E4%BA%86%23&t=152&Refer=top) - 560806
-1. [飞天奖](https://s.weibo.com//weibo?q=%E9%A3%9E%E5%A4%A9%E5%A5%96&t=152&Refer=top) - 504726
 1. [代露娃妈妈眼神](https://s.weibo.com//weibo?q=%23%E4%BB%A3%E9%9C%B2%E5%A8%83%E5%A6%88%E5%A6%88%E7%9C%BC%E7%A5%9E%23&t=152&Refer=top) - 454253
 1. [日本男星看秀被体味熏到捂鼻子](https://s.weibo.com//weibo?q=%E6%97%A5%E6%9C%AC%E7%94%B7%E6%98%9F%E7%9C%8B%E7%A7%80%E8%A2%AB%E4%BD%93%E5%91%B3%E7%86%8F%E5%88%B0%E6%8D%82%E9%BC%BB%E5%AD%90&t=152&Refer=top) - 408828
 1. [贝贝 打人](https://s.weibo.com//weibo?q=%E8%B4%9D%E8%B4%9D%20%E6%89%93%E4%BA%BA&t=152&Refer=top) - 368225
-1. [给阿嬷的情书 性转](https://s.weibo.com//weibo?q=%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%20%E6%80%A7%E8%BD%AC&t=152&Refer=top) - 331402
 1. [兰香如故](https://s.weibo.com//weibo?q=%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85&t=152&Refer=top) - 305261
 1. [和光签约新人](https://s.weibo.com//weibo?q=%E5%92%8C%E5%85%89%E7%AD%BE%E7%BA%A6%E6%96%B0%E4%BA%BA&t=152&Refer=top) - 302297
 1. [晋妈撮合李勒优和店员在一起](https://s.weibo.com//weibo?q=%23%E6%99%8B%E5%A6%88%E6%92%AE%E5%90%88%E6%9D%8E%E5%8B%92%E4%BC%98%E5%92%8C%E5%BA%97%E5%91%98%E5%9C%A8%E4%B8%80%E8%B5%B7%23&t=152&Refer=top) - 275365
@@ -25,9 +69,7 @@
 1. [网红慧慧饱饱被封号](https://s.weibo.com//weibo?q=%23%E7%BD%91%E7%BA%A2%E6%85%A7%E6%85%A7%E9%A5%B1%E9%A5%B1%E8%A2%AB%E5%B0%81%E5%8F%B7%23&t=152&Refer=top) - 367284
 1. [王一博cos赔笑表情包](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9Acos%E8%B5%94%E7%AC%91%E8%A1%A8%E6%83%85%E5%8C%85&t=152&Refer=top) - 244646
 1. [张元英掉粉30万](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1%E6%8E%89%E7%B2%8930%E4%B8%87%23&t=152&Refer=top) - 243415
-1. [任嘉伦 红果短剧](https://s.weibo.com//weibo?q=%E4%BB%BB%E5%98%89%E4%BC%A6%20%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7&t=152&Refer=top) - 231177
 1. [王一博lacoste看秀位置](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9Alacoste%E7%9C%8B%E7%A7%80%E4%BD%8D%E7%BD%AE%23&t=152&Refer=top) - 224883
-1. [兰香如故兰香妈妈去世](https://s.weibo.com//weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E5%85%B0%E9%A6%99%E5%A6%88%E5%A6%88%E5%8E%BB%E4%B8%96%23&t=152&Refer=top) - 222745
 1. [代露娃吃麻辣烫先用吸油纸吸油](https://s.weibo.com//weibo?q=%23%E4%BB%A3%E9%9C%B2%E5%A8%83%E5%90%83%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%85%88%E7%94%A8%E5%90%B8%E6%B2%B9%E7%BA%B8%E5%90%B8%E6%B2%B9%23&t=152&Refer=top) - 222692
 1. [崔晋妈妈简介有一儿一女的母亲](https://s.weibo.com//weibo?q=%23%E5%B4%94%E6%99%8B%E5%A6%88%E5%A6%88%E7%AE%80%E4%BB%8B%E6%9C%89%E4%B8%80%E5%84%BF%E4%B8%80%E5%A5%B3%E7%9A%84%E6%AF%8D%E4%BA%B2%23&t=152&Refer=top) - 200572
 1. [李沁赵今麦刘冲聚餐](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%B2%81%E8%B5%B5%E4%BB%8A%E9%BA%A6%E5%88%98%E5%86%B2%E8%81%9A%E9%A4%90%23&t=152&Refer=top) - 180514
