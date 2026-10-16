@@ -2,19 +2,63 @@
 微博文娱热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 16 2026 08:07:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 16 2026 13:28:20 GMT+0800 (China Standard Time) -->
+1. [张佳宁挺孕肚办事](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E4%BD%B3%E5%AE%81%E6%8C%BA%E5%AD%95%E8%82%9A%E5%8A%9E%E4%BA%8B%23&t=152&Refer=top) - 3482499
+1. [原来黄子韬从来没说过那段话](https://s.weibo.com//weibo?q=%E5%8E%9F%E6%9D%A5%E9%BB%84%E5%AD%90%E9%9F%AC%E4%BB%8E%E6%9D%A5%E6%B2%A1%E8%AF%B4%E8%BF%87%E9%82%A3%E6%AE%B5%E8%AF%9D&t=152&Refer=top) - 2494169
+1. [芒果真的拍了再见朋友](https://s.weibo.com//weibo?q=%23%E8%8A%92%E6%9E%9C%E7%9C%9F%E7%9A%84%E6%8B%8D%E4%BA%86%E5%86%8D%E8%A7%81%E6%9C%8B%E5%8F%8B%23&t=152&Refer=top) - 1442494
+1. [张佳宁老公](https://s.weibo.com//weibo?q=%E5%BC%A0%E4%BD%B3%E5%AE%81%E8%80%81%E5%85%AC&t=152&Refer=top) - 1121054
+1. [陈奕迅演唱会官宣](https://s.weibo.com//weibo?q=%E9%99%88%E5%A5%95%E8%BF%85%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3&t=152&Refer=top) - 996527
+1. [张钧甯已冻卵](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%92%A7%E7%94%AF%E5%B7%B2%E5%86%BB%E5%8D%B5%23&t=152&Refer=top) - 758350
+1. [小城良方定档](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E5%AE%9A%E6%A1%A3%23&t=152&Refer=top) - 753229
+1. [孟子义李昀锐是官宣还是剧宣](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%9D%8E%E6%98%80%E9%94%90%E6%98%AF%E5%AE%98%E5%AE%A3%E8%BF%98%E6%98%AF%E5%89%A7%E5%AE%A3%23&t=152&Refer=top) - 736042
+1. [徐艺洋24年6月的肚子](https://s.weibo.com//weibo?q=%23%E5%BE%90%E8%89%BA%E6%B4%8B24%E5%B9%B46%E6%9C%88%E7%9A%84%E8%82%9A%E5%AD%90%23&t=152&Refer=top) - 602955
+1. [小城良方定档一股短剧味](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E5%AE%9A%E6%A1%A3%E4%B8%80%E8%82%A1%E7%9F%AD%E5%89%A7%E5%91%B3%23&t=152&Refer=top) - 452736
 1. [黄子韬 徐艺洋](https://s.weibo.com//weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%20%E5%BE%90%E8%89%BA%E6%B4%8B&t=152&Refer=top) - 1429675
+1. [后会友期官宣](https://s.weibo.com//weibo?q=%23%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E5%AE%98%E5%AE%A3%23&t=152&Refer=top) - 429748
+1. [考古到徐艺洋生完孩子后的首个红毯](https://s.weibo.com//weibo?q=%23%E8%80%83%E5%8F%A4%E5%88%B0%E5%BE%90%E8%89%BA%E6%B4%8B%E7%94%9F%E5%AE%8C%E5%AD%A9%E5%AD%90%E5%90%8E%E7%9A%84%E9%A6%96%E4%B8%AA%E7%BA%A2%E6%AF%AF%23&t=152&Refer=top) - 386773
+1. [徐艺洋曾试图提前公关](https://s.weibo.com//weibo?q=%23%E5%BE%90%E8%89%BA%E6%B4%8B%E6%9B%BE%E8%AF%95%E5%9B%BE%E6%8F%90%E5%89%8D%E5%85%AC%E5%85%B3%23&t=152&Refer=top) - 353961
+1. [黄子韬徐艺洋官宣生子照也有目击证人](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E5%AE%98%E5%AE%A3%E7%94%9F%E5%AD%90%E7%85%A7%E4%B9%9F%E6%9C%89%E7%9B%AE%E5%87%BB%E8%AF%81%E4%BA%BA%23&t=152&Refer=top) - 318564
+1. [孟子义唯粉](https://s.weibo.com//weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%E5%94%AF%E7%B2%89&t=152&Refer=top) - 286708
+1. [19岁的赵丽颖已经在投简历了](https://s.weibo.com//weibo?q=%2319%E5%B2%81%E7%9A%84%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%B7%B2%E7%BB%8F%E5%9C%A8%E6%8A%95%E7%AE%80%E5%8E%86%E4%BA%86%23&t=152&Refer=top) - 258037
+1. [SM艺人点赞李秀满AI翻跳NEON视频](https://s.weibo.com//weibo?q=%23SM%E8%89%BA%E4%BA%BA%E7%82%B9%E8%B5%9E%E6%9D%8E%E7%A7%80%E6%BB%A1AI%E7%BF%BB%E8%B7%B3NEON%E8%A7%86%E9%A2%91%23&t=152&Refer=top) - 232233
+1. [乔任梁父母回应陈乔恩10年不忘](https://s.weibo.com//weibo?q=%23%E4%B9%94%E4%BB%BB%E6%A2%81%E7%88%B6%E6%AF%8D%E5%9B%9E%E5%BA%94%E9%99%88%E4%B9%94%E6%81%A910%E5%B9%B4%E4%B8%8D%E5%BF%98%23&t=152&Refer=top) - 209010
+1. [侯明昊为嫁金钗包场](https://s.weibo.com//weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E4%B8%BA%E5%AB%81%E9%87%91%E9%92%97%E5%8C%85%E5%9C%BA%23&t=152&Refer=top) - 188109
+1. [嫁金钗开播](https://s.weibo.com//weibo?q=%23%E5%AB%81%E9%87%91%E9%92%97%E5%BC%80%E6%92%AD%23&t=152&Refer=top) - 180005
+1. [演员张昊玥称有艺人自费拍戏](https://s.weibo.com//weibo?q=%E6%BC%94%E5%91%98%E5%BC%A0%E6%98%8A%E7%8E%A5%E7%A7%B0%E6%9C%89%E8%89%BA%E4%BA%BA%E8%87%AA%E8%B4%B9%E6%8B%8D%E6%88%8F&t=152&Refer=top) - 176278
+1. [李昀锐真是不让孟子义拿一点东西](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E7%9C%9F%E6%98%AF%E4%B8%8D%E8%AE%A9%E5%AD%9F%E5%AD%90%E4%B9%89%E6%8B%BF%E4%B8%80%E7%82%B9%E4%B8%9C%E8%A5%BF%23&t=152&Refer=top) - 315480
+1. [醉梦](https://s.weibo.com//weibo?q=%E9%86%89%E6%A2%A6&t=152&Refer=top) - 171527
 1. [黄子韬夫妇否认怀孕被指消耗信任](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%A4%AB%E5%A6%87%E5%90%A6%E8%AE%A4%E6%80%80%E5%AD%95%E8%A2%AB%E6%8C%87%E6%B6%88%E8%80%97%E4%BF%A1%E4%BB%BB%23&t=152&Refer=top) - 947348
+1. [易烊千玺周边](https://s.weibo.com//weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%91%A8%E8%BE%B9&t=152&Refer=top) - 142196
+1. [闫桉嫁金钗开播人脉](https://s.weibo.com//weibo?q=%23%E9%97%AB%E6%A1%89%E5%AB%81%E9%87%91%E9%92%97%E5%BC%80%E6%92%AD%E4%BA%BA%E8%84%89%23&t=152&Refer=top) - 141228
+1. [双料影后首谈心目中理想型](https://s.weibo.com//weibo?q=%23%E5%8F%8C%E6%96%99%E5%BD%B1%E5%90%8E%E9%A6%96%E8%B0%88%E5%BF%83%E7%9B%AE%E4%B8%AD%E7%90%86%E6%83%B3%E5%9E%8B%23&t=152&Refer=top) - 127105
+1. [丁子峻探班赵丽颖拍广告](https://s.weibo.com//weibo?q=%23%E4%B8%81%E5%AD%90%E5%B3%BB%E6%8E%A2%E7%8F%AD%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%8B%8D%E5%B9%BF%E5%91%8A%23&t=152&Refer=top) - 127095
+1. [孟子义李昀锐还解绑吗](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%9D%8E%E6%98%80%E9%94%90%E8%BF%98%E8%A7%A3%E7%BB%91%E5%90%97%23&t=152&Refer=top) - 127088
+1. [肖战小城良方过山车镜头](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E8%BF%87%E5%B1%B1%E8%BD%A6%E9%95%9C%E5%A4%B4%23&t=152&Refer=top) - 124249
+1. [王一博新纪录片定档10.24](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%96%B0%E7%BA%AA%E5%BD%95%E7%89%87%E5%AE%9A%E6%A1%A310.24%23&t=152&Refer=top) - 123968
+1. [王一博吉利服](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%90%89%E5%88%A9%E6%9C%8D%23&t=152&Refer=top) - 122658
+1. [林志颖52岁庆生照](https://s.weibo.com//weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%9652%E5%B2%81%E5%BA%86%E7%94%9F%E7%85%A7%23&t=152&Refer=top) - 119938
+1. [嫁金钗优酷追剧日历](https://s.weibo.com//weibo?q=%23%E5%AB%81%E9%87%91%E9%92%97%E4%BC%98%E9%85%B7%E8%BF%BD%E5%89%A7%E6%97%A5%E5%8E%86%23&t=152&Refer=top) - 118080
+1. [乔任梁家中摆满药物父亲只识助眠药](https://s.weibo.com//weibo?q=%23%E4%B9%94%E4%BB%BB%E6%A2%81%E5%AE%B6%E4%B8%AD%E6%91%86%E6%BB%A1%E8%8D%AF%E7%89%A9%E7%88%B6%E4%BA%B2%E5%8F%AA%E8%AF%86%E5%8A%A9%E7%9C%A0%E8%8D%AF%23&t=152&Refer=top) - 117623
+1. [aijing父母](https://s.weibo.com//weibo?q=aijing%E7%88%B6%E6%AF%8D&t=152&Refer=top) - 115496
+1. [赵丽颖只有两部待映作品了](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8F%AA%E6%9C%89%E4%B8%A4%E9%83%A8%E5%BE%85%E6%98%A0%E4%BD%9C%E5%93%81%E4%BA%86%23&t=152&Refer=top) - 107937
+1. [肖战寻心海报](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E5%AF%BB%E5%BF%83%E6%B5%B7%E6%8A%A5%23&t=152&Refer=top) - 105644
+1. [MAMA阵容](https://s.weibo.com//weibo?q=MAMA%E9%98%B5%E5%AE%B9&t=152&Refer=top) - 104553
+1. [肖战报批了4首孙燕姿的歌](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E6%8A%A5%E6%89%B9%E4%BA%864%E9%A6%96%E5%AD%99%E7%87%95%E5%A7%BF%E7%9A%84%E6%AD%8C%23&t=152&Refer=top) - 104039
+1. [嫁金钗](https://s.weibo.com//weibo?q=%E5%AB%81%E9%87%91%E9%92%97&t=152&Refer=top) - 480841
+1. [玉簟秋](https://s.weibo.com//weibo?q=%E7%8E%89%E7%B0%9F%E7%A7%8B&t=152&Refer=top) - 102577
+1. [奔跑吧大湾区篇](https://s.weibo.com//weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E5%A4%A7%E6%B9%BE%E5%8C%BA%E7%AF%87%23&t=152&Refer=top) - 101541
+1. [肖战 大麦下载量](https://s.weibo.com//weibo?q=%E8%82%96%E6%88%98%20%E5%A4%A7%E9%BA%A6%E4%B8%8B%E8%BD%BD%E9%87%8F&t=152&Refer=top) - 92480
+1. [赵丽颖39岁生日照](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%9639%E5%B2%81%E7%94%9F%E6%97%A5%E7%85%A7%23&t=152&Refer=top) - 135786
+1. [杨和苏公开女友](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%92%8C%E8%8B%8F%E5%85%AC%E5%BC%80%E5%A5%B3%E5%8F%8B%23&t=152&Refer=top) - 542655
+1. [韩安冉回应给宋浩然庆生](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%AE%89%E5%86%89%E5%9B%9E%E5%BA%94%E7%BB%99%E5%AE%8B%E6%B5%A9%E7%84%B6%E5%BA%86%E7%94%9F%23&t=152&Refer=top) - 91139
+1. [原来戏服长剧穿完短剧穿](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%88%8F%E6%9C%8D%E9%95%BF%E5%89%A7%E7%A9%BF%E5%AE%8C%E7%9F%AD%E5%89%A7%E7%A9%BF%23&t=152&Refer=top) - 88359
+1. [李一桐曾参加大冰主持的婚恋节目](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E6%9B%BE%E5%8F%82%E5%8A%A0%E5%A4%A7%E5%86%B0%E4%B8%BB%E6%8C%81%E7%9A%84%E5%A9%9A%E6%81%8B%E8%8A%82%E7%9B%AE%23&t=152&Refer=top) - 82796
 1. [曝李昀锐去hi6接孟子义下班](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E6%9D%8E%E6%98%80%E9%94%90%E5%8E%BBhi6%E6%8E%A5%E5%AD%9F%E5%AD%90%E4%B9%89%E4%B8%8B%E7%8F%AD%23&t=152&Refer=top) - 694746
 1. [张月看李昀锐接孟子义下班的反应](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9C%88%E7%9C%8B%E6%9D%8E%E6%98%80%E9%94%90%E6%8E%A5%E5%AD%9F%E5%AD%90%E4%B9%89%E4%B8%8B%E7%8F%AD%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=152&Refer=top) - 684946
 1. [黄子韬谈妻子生理期细节被质疑](https://s.weibo.com//weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%E8%B0%88%E5%A6%BB%E5%AD%90%E7%94%9F%E7%90%86%E6%9C%9F%E7%BB%86%E8%8A%82%E8%A2%AB%E8%B4%A8%E7%96%91&t=152&Refer=top) - 626411
-1. [徐艺洋24年6月的肚子](https://s.weibo.com//weibo?q=%23%E5%BE%90%E8%89%BA%E6%B4%8B24%E5%B9%B46%E6%9C%88%E7%9A%84%E8%82%9A%E5%AD%90%23&t=152&Refer=top) - 602955
 1. [李昀锐孟子义中间只避嫌了一段时间](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E5%AD%9F%E5%AD%90%E4%B9%89%E4%B8%AD%E9%97%B4%E5%8F%AA%E9%81%BF%E5%AB%8C%E4%BA%86%E4%B8%80%E6%AE%B5%E6%97%B6%E9%97%B4%23&t=152&Refer=top) - 534268
-1. [嫁金钗](https://s.weibo.com//weibo?q=%E5%AB%81%E9%87%91%E9%92%97&t=152&Refer=top) - 480841
 1. [虞书欣今天只吃了一块面包](https://s.weibo.com//weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%BB%8A%E5%A4%A9%E5%8F%AA%E5%90%83%E4%BA%86%E4%B8%80%E5%9D%97%E9%9D%A2%E5%8C%85%23&t=152&Refer=top) - 432757
 1. [尚公主 剧宣](https://s.weibo.com//weibo?q=%E5%B0%9A%E5%85%AC%E4%B8%BB%20%E5%89%A7%E5%AE%A3&t=152&Refer=top) - 389481
-1. [杨和苏公开女友](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%92%8C%E8%8B%8F%E5%85%AC%E5%BC%80%E5%A5%B3%E5%8F%8B%23&t=152&Refer=top) - 542655
-1. [李昀锐真是不让孟子义拿一点东西](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E7%9C%9F%E6%98%AF%E4%B8%8D%E8%AE%A9%E5%AD%9F%E5%AD%90%E4%B9%89%E6%8B%BF%E4%B8%80%E7%82%B9%E4%B8%9C%E8%A5%BF%23&t=152&Refer=top) - 315480
 1. [杨和苏法老聊天记录](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%92%8C%E8%8B%8F%E6%B3%95%E8%80%81%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23&t=152&Refer=top) - 283932
 1. [归国四子我不认识了](https://s.weibo.com//weibo?q=%E5%BD%92%E5%9B%BD%E5%9B%9B%E5%AD%90%E6%88%91%E4%B8%8D%E8%AE%A4%E8%AF%86%E4%BA%86&t=152&Refer=top) - 259540
 1. [赵丽颖出道21年归来只有39岁](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%87%BA%E9%81%9321%E5%B9%B4%E5%BD%92%E6%9D%A5%E5%8F%AA%E6%9C%8939%E5%B2%81%23&t=152&Refer=top) - 229985
@@ -24,7 +68,6 @@
 1. [尚公主](https://s.weibo.com//weibo?q=%E5%B0%9A%E5%85%AC%E4%B8%BB&t=152&Refer=top) - 150893
 1. [狄立人一开门就看到了儿子站在门口](https://s.weibo.com//weibo?q=%23%E7%8B%84%E7%AB%8B%E4%BA%BA%E4%B8%80%E5%BC%80%E9%97%A8%E5%B0%B1%E7%9C%8B%E5%88%B0%E4%BA%86%E5%84%BF%E5%AD%90%E7%AB%99%E5%9C%A8%E9%97%A8%E5%8F%A3%23&t=152&Refer=top) - 135803
 1. [易烊千玺宣布了个众所周知的事情](https://s.weibo.com//weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%AE%A3%E5%B8%83%E4%BA%86%E4%B8%AA%E4%BC%97%E6%89%80%E5%91%A8%E7%9F%A5%E7%9A%84%E4%BA%8B%E6%83%85%23&t=152&Refer=top) - 135795
-1. [赵丽颖39岁生日照](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%9639%E5%B2%81%E7%94%9F%E6%97%A5%E7%85%A7%23&t=152&Refer=top) - 135786
 1. [赵丽颖业内口碑](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%9A%E5%86%85%E5%8F%A3%E7%A2%91%23&t=152&Refer=top) - 125243
 1. [短国顶流花跟长剧女主同框](https://s.weibo.com//weibo?q=%23%E7%9F%AD%E5%9B%BD%E9%A1%B6%E6%B5%81%E8%8A%B1%E8%B7%9F%E9%95%BF%E5%89%A7%E5%A5%B3%E4%B8%BB%E5%90%8C%E6%A1%86%23&t=152&Refer=top) - 115144
 1. [徐艺洋产后身材恢复](https://s.weibo.com//weibo?q=%E5%BE%90%E8%89%BA%E6%B4%8B%E4%BA%A7%E5%90%8E%E8%BA%AB%E6%9D%90%E6%81%A2%E5%A4%8D&t=152&Refer=top) - 153255
