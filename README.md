@@ -2,7 +2,57 @@
 微博文娱热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 17 2026 09:04:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 17 2026 14:35:34 GMT+0800 (China Standard Time) -->
+1. [沈月好友翁小雯离婚](https://s.weibo.com//weibo?q=%23%E6%B2%88%E6%9C%88%E5%A5%BD%E5%8F%8B%E7%BF%81%E5%B0%8F%E9%9B%AF%E7%A6%BB%E5%A9%9A%23&t=152&Refer=top) - 1595706
+1. [徐艺洋怀孕下楼梯那英扶了她一把](https://s.weibo.com//weibo?q=%23%E5%BE%90%E8%89%BA%E6%B4%8B%E6%80%80%E5%AD%95%E4%B8%8B%E6%A5%BC%E6%A2%AF%E9%82%A3%E8%8B%B1%E6%89%B6%E4%BA%86%E5%A5%B9%E4%B8%80%E6%8A%8A%23&t=152&Refer=top) - 1564939
+1. [黄子韬徐艺洋孩子身高 拉腿](https://s.weibo.com//weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E5%AD%A9%E5%AD%90%E8%BA%AB%E9%AB%98%20%E6%8B%89%E8%85%BF&t=152&Refer=top) - 943076
+1. [韩安冉又又又又分手了](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%AE%89%E5%86%89%E5%8F%88%E5%8F%88%E5%8F%88%E5%8F%88%E5%88%86%E6%89%8B%E4%BA%86%23&t=152&Refer=top) - 468577
+1. [蓝心湄回应蔡康永为沈伯洋站台事件](https://s.weibo.com//weibo?q=%E8%93%9D%E5%BF%83%E6%B9%84%E5%9B%9E%E5%BA%94%E8%94%A1%E5%BA%B7%E6%B0%B8%E4%B8%BA%E6%B2%88%E4%BC%AF%E6%B4%8B%E7%AB%99%E5%8F%B0%E4%BA%8B%E4%BB%B6&t=152&Refer=top) - 460371
+1. [白敬亭肌肉把范丞丞胡先煦看愣了](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%82%8C%E8%82%89%E6%8A%8A%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%83%A1%E5%85%88%E7%85%A6%E7%9C%8B%E6%84%A3%E4%BA%86%23&t=152&Refer=top) - 418457
+1. [黄子韬 徐艺洋](https://s.weibo.com//weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%20%E5%BE%90%E8%89%BA%E6%B4%8B&t=152&Refer=top) - 418450
+1. [奔跑吧路透](https://s.weibo.com//weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7%E8%B7%AF%E9%80%8F&t=152&Refer=top) - 376605
+1. [曝离婚多年做直播的男明星有儿子](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E7%A6%BB%E5%A9%9A%E5%A4%9A%E5%B9%B4%E5%81%9A%E7%9B%B4%E6%92%AD%E7%9A%84%E7%94%B7%E6%98%8E%E6%98%9F%E6%9C%89%E5%84%BF%E5%AD%90%23&t=152&Refer=top) - 376600
+1. [徐志胜预言家](https://s.weibo.com//weibo?q=%23%E5%BE%90%E5%BF%97%E8%83%9C%E9%A2%84%E8%A8%80%E5%AE%B6%23&t=152&Refer=top) - 338940
+1. [徐艺洋太瘦了穿宽松的衣服完全不显怀](https://s.weibo.com//weibo?q=%23%E5%BE%90%E8%89%BA%E6%B4%8B%E5%A4%AA%E7%98%A6%E4%BA%86%E7%A9%BF%E5%AE%BD%E6%9D%BE%E7%9A%84%E8%A1%A3%E6%9C%8D%E5%AE%8C%E5%85%A8%E4%B8%8D%E6%98%BE%E6%80%80%23&t=152&Refer=top) - 331231
+1. [王祖蓝时隔8年回归奔跑吧](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E7%A5%96%E8%93%9D%E6%97%B6%E9%9A%948%E5%B9%B4%E5%9B%9E%E5%BD%92%E5%A5%94%E8%B7%91%E5%90%A7%23&t=152&Refer=top) - 312916
+1. [黄子韬其实几次直播都忍不住要分享了](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%85%B6%E5%AE%9E%E5%87%A0%E6%AC%A1%E7%9B%B4%E6%92%AD%E9%83%BD%E5%BF%8D%E4%B8%8D%E4%BD%8F%E8%A6%81%E5%88%86%E4%BA%AB%E4%BA%86%23&t=152&Refer=top) - 298533
+1. [嫁金钗](https://s.weibo.com//weibo?q=%E5%AB%81%E9%87%91%E9%92%97&t=152&Refer=top) - 268679
+1. [杨幂三生三世这段仿佛请神上身](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E4%B8%89%E7%94%9F%E4%B8%89%E4%B8%96%E8%BF%99%E6%AE%B5%E4%BB%BF%E4%BD%9B%E8%AF%B7%E7%A5%9E%E4%B8%8A%E8%BA%AB%23&t=152&Refer=top) - 241811
+1. [沈月翁小雯时间线](https://s.weibo.com//weibo?q=%23%E6%B2%88%E6%9C%88%E7%BF%81%E5%B0%8F%E9%9B%AF%E6%97%B6%E9%97%B4%E7%BA%BF%23&t=152&Refer=top) - 230976
+1. [曝尚公主剧宣内幕](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E5%B0%9A%E5%85%AC%E4%B8%BB%E5%89%A7%E5%AE%A3%E5%86%85%E5%B9%95%23&t=152&Refer=top) - 207878
+1. [张杰让跳跳俏俏小咘芽安静一点](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9D%B0%E8%AE%A9%E8%B7%B3%E8%B7%B3%E4%BF%8F%E4%BF%8F%E5%B0%8F%E5%92%98%E8%8A%BD%E5%AE%89%E9%9D%99%E4%B8%80%E7%82%B9%23&t=152&Refer=top) - 190922
+1. [胡先煦平常没少哄女朋友](https://s.weibo.com//weibo?q=%23%E8%83%A1%E5%85%88%E7%85%A6%E5%B9%B3%E5%B8%B8%E6%B2%A1%E5%B0%91%E5%93%84%E5%A5%B3%E6%9C%8B%E5%8F%8B%23&t=152&Refer=top) - 173384
+1. [建议大家去看嫁金钗原片](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E5%8E%BB%E7%9C%8B%E5%AB%81%E9%87%91%E9%92%97%E5%8E%9F%E7%89%87%23&t=152&Refer=top) - 156045
+1. [曝跑男分组](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E8%B7%91%E7%94%B7%E5%88%86%E7%BB%84%23&t=152&Refer=top) - 156040
+1. [腾讯给了李昀锐孟子义专属cp空间](https://s.weibo.com//weibo?q=%23%E8%85%BE%E8%AE%AF%E7%BB%99%E4%BA%86%E6%9D%8E%E6%98%80%E9%94%90%E5%AD%9F%E5%AD%90%E4%B9%89%E4%B8%93%E5%B1%9Ecp%E7%A9%BA%E9%97%B4%23&t=152&Refer=top) - 156033
+1. [李蠕蠕模仿AI短剧](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E8%A0%95%E8%A0%95%E6%A8%A1%E4%BB%BFAI%E7%9F%AD%E5%89%A7%23&t=152&Refer=top) - 156026
+1. [95花上桌速度](https://s.weibo.com//weibo?q=%2395%E8%8A%B1%E4%B8%8A%E6%A1%8C%E9%80%9F%E5%BA%A6%23&t=152&Refer=top) - 140423
+1. [玉簟秋简直是疯批高产剧](https://s.weibo.com//weibo?q=%23%E7%8E%89%E7%B0%9F%E7%A7%8B%E7%AE%80%E7%9B%B4%E6%98%AF%E7%96%AF%E6%89%B9%E9%AB%98%E4%BA%A7%E5%89%A7%23&t=152&Refer=top) - 126381
+1. [15分钟内同时见到王一博肖战](https://s.weibo.com//weibo?q=%2315%E5%88%86%E9%92%9F%E5%86%85%E5%90%8C%E6%97%B6%E8%A7%81%E5%88%B0%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%82%96%E6%88%98%23&t=152&Refer=top) - 126373
+1. [倪大红模仿肖战撒娇](https://s.weibo.com//weibo?q=%23%E5%80%AA%E5%A4%A7%E7%BA%A2%E6%A8%A1%E4%BB%BF%E8%82%96%E6%88%98%E6%92%92%E5%A8%87%23&t=152&Refer=top) - 126366
+1. [肖战小城良方被气的兔牙都出来了](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E8%A2%AB%E6%B0%94%E7%9A%84%E5%85%94%E7%89%99%E9%83%BD%E5%87%BA%E6%9D%A5%E4%BA%86%23&t=152&Refer=top) - 126360
+1. [嫁金钗优酷热度破8000](https://s.weibo.com//weibo?q=%23%E5%AB%81%E9%87%91%E9%92%97%E4%BC%98%E9%85%B7%E7%83%AD%E5%BA%A6%E7%A0%B48000%23&t=152&Refer=top) - 126352
+1. [于正希望白鹿朝玉阶救古装长剧](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E6%AD%A3%E5%B8%8C%E6%9C%9B%E7%99%BD%E9%B9%BF%E6%9C%9D%E7%8E%89%E9%98%B6%E6%95%91%E5%8F%A4%E8%A3%85%E9%95%BF%E5%89%A7%23&t=152&Refer=top) - 126345
+1. [白鹿奔跑吧薄荷绿短裙](https://s.weibo.com//weibo?q=%23%E7%99%BD%E9%B9%BF%E5%A5%94%E8%B7%91%E5%90%A7%E8%96%84%E8%8D%B7%E7%BB%BF%E7%9F%AD%E8%A3%99%23&t=152&Refer=top) - 126337
+1. [徐艺洋喝酒视频有清洁剂](https://s.weibo.com//weibo?q=%E5%BE%90%E8%89%BA%E6%B4%8B%E5%96%9D%E9%85%92%E8%A7%86%E9%A2%91%E6%9C%89%E6%B8%85%E6%B4%81%E5%89%82&t=152&Refer=top) - 126327
+1. [黄景瑜是范丞丞铁粉](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E6%98%AF%E8%8C%83%E4%B8%9E%E4%B8%9E%E9%93%81%E7%B2%89%23&t=152&Refer=top) - 126318
+1. [王一博第十七个破亿视频](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%AC%AC%E5%8D%81%E4%B8%83%E4%B8%AA%E7%A0%B4%E4%BA%BF%E8%A7%86%E9%A2%91&t=152&Refer=top) - 125974
+1. [范丞丞拿了好大一杯美式](https://s.weibo.com//weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%8B%BF%E4%BA%86%E5%A5%BD%E5%A4%A7%E4%B8%80%E6%9D%AF%E7%BE%8E%E5%BC%8F%23&t=152&Refer=top) - 125785
+1. [肖战出发南京排练演唱会](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E5%87%BA%E5%8F%91%E5%8D%97%E4%BA%AC%E6%8E%92%E7%BB%83%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=152&Refer=top) - 123650
+1. [奔跑吧](https://s.weibo.com//weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7&t=152&Refer=top) - 115892
+1. [郭宇欣直播被指屏蔽导演](https://s.weibo.com//weibo?q=%E9%83%AD%E5%AE%87%E6%AC%A3%E7%9B%B4%E6%92%AD%E8%A2%AB%E6%8C%87%E5%B1%8F%E8%94%BD%E5%AF%BC%E6%BC%94&t=152&Refer=top) - 115601
+1. [迪丽热巴线下活动人气](https://s.weibo.com//weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8%E4%BA%BA%E6%B0%94&t=152&Refer=top) - 110942
+1. [迪丽热巴无锡线下活动人气](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%97%A0%E9%94%A1%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8%E4%BA%BA%E6%B0%94%23&t=152&Refer=top) - 107399
+1. [黄子韬直播出镜被徐艺洋捂嘴](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E7%9B%B4%E6%92%AD%E5%87%BA%E9%95%9C%E8%A2%AB%E5%BE%90%E8%89%BA%E6%B4%8B%E6%8D%82%E5%98%B4%23&t=152&Refer=top) - 101492
+1. [黄景瑜一脚把范丞丞勾怀里了](https://s.weibo.com//weibo?q=%E9%BB%84%E6%99%AF%E7%91%9C%E4%B8%80%E8%84%9A%E6%8A%8A%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%8B%BE%E6%80%80%E9%87%8C%E4%BA%86&t=152&Refer=top) - 101061
+1. [黄子韬要吴彤把自己龙凤胎请来](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E8%A6%81%E5%90%B4%E5%BD%A4%E6%8A%8A%E8%87%AA%E5%B7%B1%E9%BE%99%E5%87%A4%E8%83%8E%E8%AF%B7%E6%9D%A5%23&t=152&Refer=top) - 97468
+1. [于正大赞兰香如故和主角](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E6%AD%A3%E5%A4%A7%E8%B5%9E%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E5%92%8C%E4%B8%BB%E8%A7%92%23&t=152&Refer=top) - 91081
+1. [嫁金钗这么快就亲上了](https://s.weibo.com//weibo?q=%23%E5%AB%81%E9%87%91%E9%92%97%E8%BF%99%E4%B9%88%E5%BF%AB%E5%B0%B1%E4%BA%B2%E4%B8%8A%E4%BA%86%23&t=152&Refer=top) - 88568
+1. [蒋劲夫回应太瘦了被说显老](https://s.weibo.com//weibo?q=%23%E8%92%8B%E5%8A%B2%E5%A4%AB%E5%9B%9E%E5%BA%94%E5%A4%AA%E7%98%A6%E4%BA%86%E8%A2%AB%E8%AF%B4%E6%98%BE%E8%80%81%23&t=152&Refer=top) - 87923
+1. [盛艾敬父母欠薪时仍给女儿花重金](https://s.weibo.com//weibo?q=%23%E7%9B%9B%E8%89%BE%E6%95%AC%E7%88%B6%E6%AF%8D%E6%AC%A0%E8%96%AA%E6%97%B6%E4%BB%8D%E7%BB%99%E5%A5%B3%E5%84%BF%E8%8A%B1%E9%87%8D%E9%87%91%23&t=152&Refer=top) - 86886
+1. [翁小雯不再回应离婚细节](https://s.weibo.com//weibo?q=%E7%BF%81%E5%B0%8F%E9%9B%AF%E4%B8%8D%E5%86%8D%E5%9B%9E%E5%BA%94%E7%A6%BB%E5%A9%9A%E7%BB%86%E8%8A%82&t=152&Refer=top) - 84871
+1. [肖战倪大红小城良方片场撒娇](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E5%80%AA%E5%A4%A7%E7%BA%A2%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E7%89%87%E5%9C%BA%E6%92%92%E5%A8%87%23&t=152&Refer=top) - 80920
+1. [盛艾敬百万直拍创六代女团最快纪录](https://s.weibo.com//weibo?q=%E7%9B%9B%E8%89%BE%E6%95%AC%E7%99%BE%E4%B8%87%E7%9B%B4%E6%8B%8D%E5%88%9B%E5%85%AD%E4%BB%A3%E5%A5%B3%E5%9B%A2%E6%9C%80%E5%BF%AB%E7%BA%AA%E5%BD%95&t=152&Refer=top) - 78666
 1. [黄子韬10年粉丝脱粉](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC10%E5%B9%B4%E7%B2%89%E4%B8%9D%E8%84%B1%E7%B2%89%23&t=152&Refer=top) - 1485515
 1. [徐艺洋 孩子是我自己生的](https://s.weibo.com//weibo?q=%E5%BE%90%E8%89%BA%E6%B4%8B%20%E5%AD%A9%E5%AD%90%E6%98%AF%E6%88%91%E8%87%AA%E5%B7%B1%E7%94%9F%E7%9A%84&t=152&Refer=top) - 1047921
 1. [田曦薇和周也上的一个表演课吗](https://s.weibo.com//weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E5%92%8C%E5%91%A8%E4%B9%9F%E4%B8%8A%E7%9A%84%E4%B8%80%E4%B8%AA%E8%A1%A8%E6%BC%94%E8%AF%BE%E5%90%97%23&t=152&Refer=top) - 733544
@@ -79,7 +129,6 @@
 1. [孟子义在好六cue了五次李昀锐](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E5%9C%A8%E5%A5%BD%E5%85%ADcue%E4%BA%86%E4%BA%94%E6%AC%A1%E6%9D%8E%E6%98%80%E9%94%90%23&t=152&Refer=top) - 36530
 1. [徐艺洋回应黄子韬被造黄谣](https://s.weibo.com//weibo?q=%23%E5%BE%90%E8%89%BA%E6%B4%8B%E5%9B%9E%E5%BA%94%E9%BB%84%E5%AD%90%E9%9F%AC%E8%A2%AB%E9%80%A0%E9%BB%84%E8%B0%A3%23&t=152&Refer=top) - 36047
 1. [Lisa纪录片里嘲讽粉丝](https://s.weibo.com//weibo?q=%23Lisa%E7%BA%AA%E5%BD%95%E7%89%87%E9%87%8C%E5%98%B2%E8%AE%BD%E7%B2%89%E4%B8%9D%23&t=152&Refer=top) - 35778
-1. [嫁金钗](https://s.weibo.com//weibo?q=%E5%AB%81%E9%87%91%E9%92%97&t=152&Refer=top) - 35452
 1. [徐艺洋产后脱发很严重](https://s.weibo.com//weibo?q=%23%E5%BE%90%E8%89%BA%E6%B4%8B%E4%BA%A7%E5%90%8E%E8%84%B1%E5%8F%91%E5%BE%88%E4%B8%A5%E9%87%8D%23&t=152&Refer=top) - 35110
 1. [嫁金钗田曦薇买股失败](https://s.weibo.com//weibo?q=%23%E5%AB%81%E9%87%91%E9%92%97%E7%94%B0%E6%9B%A6%E8%96%87%E4%B9%B0%E8%82%A1%E5%A4%B1%E8%B4%A5%23&t=152&Refer=top) - 35108
 1. [米卡五公个人火力值第二](https://s.weibo.com//weibo?q=%23%E7%B1%B3%E5%8D%A1%E4%BA%94%E5%85%AC%E4%B8%AA%E4%BA%BA%E7%81%AB%E5%8A%9B%E5%80%BC%E7%AC%AC%E4%BA%8C%23&t=152&Refer=top) - 32914
