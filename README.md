@@ -2,25 +2,68 @@
 微博文娱热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 18 2026 16:33:43 GMT+0800 (China Standard Time) -->
-1. [韩国男演员承认与韩安冉恋情](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E6%BC%94%E5%91%98%E6%89%BF%E8%AE%A4%E4%B8%8E%E9%9F%A9%E5%AE%89%E5%86%89%E6%81%8B%E6%83%85%23&t=152&Refer=top) - 1510814
+<!-- 最后更新时间 Sun Oct 18 2026 20:58:40 GMT+0800 (China Standard Time) -->
+1. [梅艳芳骨灰或流向东南亚](https://s.weibo.com//weibo?q=%23%E6%A2%85%E8%89%B3%E8%8A%B3%E9%AA%A8%E7%81%B0%E6%88%96%E6%B5%81%E5%90%91%E4%B8%9C%E5%8D%97%E4%BA%9A%23&t=152&Refer=top) - 1289732
 1. [韩国网友要求盛艾敬退团](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%A6%81%E6%B1%82%E7%9B%9B%E8%89%BE%E6%95%AC%E9%80%80%E5%9B%A2%23&t=152&Refer=top) - 1054503
 1. [Angelababy回应被说显老](https://s.weibo.com//weibo?q=%23Angelababy%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%AF%B4%E6%98%BE%E8%80%81%23&t=152&Refer=top) - 1009881
-1. [叶非夜拉群骂了郭宇欣100条](https://s.weibo.com//weibo?q=%23%E5%8F%B6%E9%9D%9E%E5%A4%9C%E6%8B%89%E7%BE%A4%E9%AA%82%E4%BA%86%E9%83%AD%E5%AE%87%E6%AC%A3100%E6%9D%A1%23&t=152&Refer=top) - 742045
+1. [韩国男演员承认与韩安冉恋情](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E6%BC%94%E5%91%98%E6%89%BF%E8%AE%A4%E4%B8%8E%E9%9F%A9%E5%AE%89%E5%86%89%E6%81%8B%E6%83%85%23&t=152&Refer=top) - 1510814
+1. [黄磊带着黄多多交际一开口落落大方](https://s.weibo.com//weibo?q=%23%E9%BB%84%E7%A3%8A%E5%B8%A6%E7%9D%80%E9%BB%84%E5%A4%9A%E5%A4%9A%E4%BA%A4%E9%99%85%E4%B8%80%E5%BC%80%E5%8F%A3%E8%90%BD%E8%90%BD%E5%A4%A7%E6%96%B9%23&t=152&Refer=top) - 548282
+1. [黄多多背肌](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%A4%9A%E5%A4%9A%E8%83%8C%E8%82%8C%23&t=152&Refer=top) - 493454
+1. [到底谁抢到了易烊千玺的周边](https://s.weibo.com//weibo?q=%23%E5%88%B0%E5%BA%95%E8%B0%81%E6%8A%A2%E5%88%B0%E4%BA%86%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%9A%84%E5%91%A8%E8%BE%B9%23&t=152&Refer=top) - 444108
+1. [姜妍说东北话肖战以为是英文](https://s.weibo.com//weibo?q=%23%E5%A7%9C%E5%A6%8D%E8%AF%B4%E4%B8%9C%E5%8C%97%E8%AF%9D%E8%82%96%E6%88%98%E4%BB%A5%E4%B8%BA%E6%98%AF%E8%8B%B1%E6%96%87%23&t=152&Refer=top) - 399698
+1. [宋雨琦父母被围拍](https://s.weibo.com//weibo?q=%E5%AE%8B%E9%9B%A8%E7%90%A6%E7%88%B6%E6%AF%8D%E8%A2%AB%E5%9B%B4%E6%8B%8D&t=152&Refer=top) - 359728
+1. [肖战演唱会音乐总监刘卓到南京了](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E6%BC%94%E5%94%B1%E4%BC%9A%E9%9F%B3%E4%B9%90%E6%80%BB%E7%9B%91%E5%88%98%E5%8D%93%E5%88%B0%E5%8D%97%E4%BA%AC%E4%BA%86%23&t=152&Refer=top) - 323755
+1. [王源模仿者王扁摆摊被打](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E6%A8%A1%E4%BB%BF%E8%80%85%E7%8E%8B%E6%89%81%E6%91%86%E6%91%8A%E8%A2%AB%E6%89%93%23&t=152&Refer=top) - 323749
+1. [田曦薇三部剧三平台破万](https://s.weibo.com//weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E4%B8%89%E9%83%A8%E5%89%A7%E4%B8%89%E5%B9%B3%E5%8F%B0%E7%A0%B4%E4%B8%87%23&t=152&Refer=top) - 323744
+1. [陈都灵跟粉丝求婚](https://s.weibo.com//weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E8%B7%9F%E7%B2%89%E4%B8%9D%E6%B1%82%E5%A9%9A%23&t=152&Refer=top) - 306447
+1. [梅艳芳骨灰疑似被寺庙工作人员盗走](https://s.weibo.com//weibo?q=%23%E6%A2%85%E8%89%B3%E8%8A%B3%E9%AA%A8%E7%81%B0%E7%96%91%E4%BC%BC%E8%A2%AB%E5%AF%BA%E5%BA%99%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%9B%97%E8%B5%B0%23&t=152&Refer=top) - 275802
+1. [盛艾敬是否应该退团](https://s.weibo.com//weibo?q=%23%E7%9B%9B%E8%89%BE%E6%95%AC%E6%98%AF%E5%90%A6%E5%BA%94%E8%AF%A5%E9%80%80%E5%9B%A2%23&t=152&Refer=top) - 248222
+1. [郭麒麟 蒋依依](https://s.weibo.com//weibo?q=%E9%83%AD%E9%BA%92%E9%BA%9F%20%E8%92%8B%E4%BE%9D%E4%BE%9D&t=152&Refer=top) - 1887323
+1. [披荆斩棘6总决赛歌单](https://s.weibo.com//weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%986%E6%80%BB%E5%86%B3%E8%B5%9B%E6%AD%8C%E5%8D%95%23&t=152&Refer=top) - 214902
+1. [嫁金钗](https://s.weibo.com//weibo?q=%E5%AB%81%E9%87%91%E9%92%97&t=152&Refer=top) - 193411
+1. [留几手说黄子韬徐艺洋是戏精网红](https://s.weibo.com//weibo?q=%23%E7%95%99%E5%87%A0%E6%89%8B%E8%AF%B4%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E6%98%AF%E6%88%8F%E7%B2%BE%E7%BD%91%E7%BA%A2%23&t=152&Refer=top) - 174070
+1. [嫁金钗破万毛林林还没出场](https://s.weibo.com//weibo?q=%23%E5%AB%81%E9%87%91%E9%92%97%E7%A0%B4%E4%B8%87%E6%AF%9B%E6%9E%97%E6%9E%97%E8%BF%98%E6%B2%A1%E5%87%BA%E5%9C%BA%23&t=152&Refer=top) - 156663
+1. [嫁金钗破万](https://s.weibo.com//weibo?q=%E5%AB%81%E9%87%91%E9%92%97%E7%A0%B4%E4%B8%87&t=152&Refer=top) - 156655
+1. [鹿晗今天更帅了](https://s.weibo.com//weibo?q=%E9%B9%BF%E6%99%97%E4%BB%8A%E5%A4%A9%E6%9B%B4%E5%B8%85%E4%BA%86&t=152&Refer=top) - 156650
+1. [峨眉确定不是小天官赐福吗](https://s.weibo.com//weibo?q=%E5%B3%A8%E7%9C%89%E7%A1%AE%E5%AE%9A%E4%B8%8D%E6%98%AF%E5%B0%8F%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%E5%90%97&t=152&Refer=top) - 148775
+1. [梅尼耶妻子整容模板是刘亦菲](https://s.weibo.com//weibo?q=%23%E6%A2%85%E5%B0%BC%E8%80%B6%E5%A6%BB%E5%AD%90%E6%95%B4%E5%AE%B9%E6%A8%A1%E6%9D%BF%E6%98%AF%E5%88%98%E4%BA%A6%E8%8F%B2%23&t=152&Refer=top) - 147541
+1. [玉簟秋又开始疯走了](https://s.weibo.com//weibo?q=%23%E7%8E%89%E7%B0%9F%E7%A7%8B%E5%8F%88%E5%BC%80%E5%A7%8B%E7%96%AF%E8%B5%B0%E4%BA%86%23&t=152&Refer=top) - 132786
 1. [黄宣官宣当爸](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%AE%A3%E5%AE%98%E5%AE%A3%E5%BD%93%E7%88%B8%23&t=152&Refer=top) - 610694
+1. [成毅直播](https://s.weibo.com//weibo?q=%E6%88%90%E6%AF%85%E7%9B%B4%E6%92%AD&t=152&Refer=top) - 132771
+1. [黄多多给黄磊当翻译](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%A4%9A%E5%A4%9A%E7%BB%99%E9%BB%84%E7%A3%8A%E5%BD%93%E7%BF%BB%E8%AF%91%23&t=152&Refer=top) - 132762
+1. [玉簟秋兄弟爱上了我的两个妻子](https://s.weibo.com//weibo?q=%23%E7%8E%89%E7%B0%9F%E7%A7%8B%E5%85%84%E5%BC%9F%E7%88%B1%E4%B8%8A%E4%BA%86%E6%88%91%E7%9A%84%E4%B8%A4%E4%B8%AA%E5%A6%BB%E5%AD%90%23&t=152&Refer=top) - 119486
+1. [叶非夜拉群骂了郭宇欣100条](https://s.weibo.com//weibo?q=%23%E5%8F%B6%E9%9D%9E%E5%A4%9C%E6%8B%89%E7%BE%A4%E9%AA%82%E4%BA%86%E9%83%AD%E5%AE%87%E6%AC%A3100%E6%9D%A1%23&t=152&Refer=top) - 742045
+1. [李昀锐 脱粉](https://s.weibo.com//weibo?q=%E6%9D%8E%E6%98%80%E9%94%90%20%E8%84%B1%E7%B2%89&t=152&Refer=top) - 119471
+1. [张新成汪顺粉丝](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%96%B0%E6%88%90%E6%B1%AA%E9%A1%BA%E7%B2%89%E4%B8%9D&t=152&Refer=top) - 119461
+1. [张家齐妈妈说我是一个傻子一个笨蛋](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E8%AF%B4%E6%88%91%E6%98%AF%E4%B8%80%E4%B8%AA%E5%82%BB%E5%AD%90%E4%B8%80%E4%B8%AA%E7%AC%A8%E8%9B%8B%23&t=152&Refer=top) - 191636
+1. [关晓彤陈都灵感情变质](https://s.weibo.com//weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E9%99%88%E9%83%BD%E7%81%B5%E6%84%9F%E6%83%85%E5%8F%98%E8%B4%A8%23&t=152&Refer=top) - 119446
+1. [玉簟秋徐若晗睡衣质量挺好啊](https://s.weibo.com//weibo?q=%23%E7%8E%89%E7%B0%9F%E7%A7%8B%E5%BE%90%E8%8B%A5%E6%99%97%E7%9D%A1%E8%A1%A3%E8%B4%A8%E9%87%8F%E6%8C%BA%E5%A5%BD%E5%95%8A%23&t=152&Refer=top) - 119441
+1. [郭宇欣这段演得太真实](https://s.weibo.com//weibo?q=%23%E9%83%AD%E5%AE%87%E6%AC%A3%E8%BF%99%E6%AE%B5%E6%BC%94%E5%BE%97%E5%A4%AA%E7%9C%9F%E5%AE%9E%23&t=152&Refer=top) - 119432
+1. [王烁然给张函瑞写的小作文](https://s.weibo.com//weibo?q=%E7%8E%8B%E7%83%81%E7%84%B6%E7%BB%99%E5%BC%A0%E5%87%BD%E7%91%9E%E5%86%99%E7%9A%84%E5%B0%8F%E4%BD%9C%E6%96%87&t=152&Refer=top) - 116606
+1. [宋雨琦呼吁粉丝不要过于打扰家人](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%91%BC%E5%90%81%E7%B2%89%E4%B8%9D%E4%B8%8D%E8%A6%81%E8%BF%87%E4%BA%8E%E6%89%93%E6%89%B0%E5%AE%B6%E4%BA%BA%23&t=152&Refer=top) - 109077
+1. [杨超越彭冠英吻戏](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E5%BD%AD%E5%86%A0%E8%8B%B1%E5%90%BB%E6%88%8F%23&t=152&Refer=top) - 106760
+1. [张凌赫第一次演反派](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%BC%94%E5%8F%8D%E6%B4%BE%23&t=152&Refer=top) - 104655
+1. [王源崩之父林宥嘉崩之伯](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E5%B4%A9%E4%B9%8B%E7%88%B6%E6%9E%97%E5%AE%A5%E5%98%89%E5%B4%A9%E4%B9%8B%E4%BC%AF%23&t=152&Refer=top) - 103174
+1. [王橹杰我也要17岁了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E6%88%91%E4%B9%9F%E8%A6%8117%E5%B2%81%E4%BA%86%23&t=152&Refer=top) - 101337
+1. [尚公主腾讯署名孟子义李昀锐](https://s.weibo.com//weibo?q=%23%E5%B0%9A%E5%85%AC%E4%B8%BB%E8%85%BE%E8%AE%AF%E7%BD%B2%E5%90%8D%E5%AD%9F%E5%AD%90%E4%B9%89%E6%9D%8E%E6%98%80%E9%94%90%23&t=152&Refer=top) - 98092
+1. [韩网审判HYBE警服性化](https://s.weibo.com//weibo?q=%E9%9F%A9%E7%BD%91%E5%AE%A1%E5%88%A4HYBE%E8%AD%A6%E6%9C%8D%E6%80%A7%E5%8C%96&t=152&Refer=top) - 97391
+1. [代抢称肖战演唱会热度太高陆续退款](https://s.weibo.com//weibo?q=%23%E4%BB%A3%E6%8A%A2%E7%A7%B0%E8%82%96%E6%88%98%E6%BC%94%E5%94%B1%E4%BC%9A%E7%83%AD%E5%BA%A6%E5%A4%AA%E9%AB%98%E9%99%86%E7%BB%AD%E9%80%80%E6%AC%BE%23&t=152&Refer=top) - 96966
+1. [宋茜家的狗也来打歌了](https://s.weibo.com//weibo?q=%E5%AE%8B%E8%8C%9C%E5%AE%B6%E7%9A%84%E7%8B%97%E4%B9%9F%E6%9D%A5%E6%89%93%E6%AD%8C%E4%BA%86&t=152&Refer=top) - 92640
+1. [盛艾敬主舞出道](https://s.weibo.com//weibo?q=%E7%9B%9B%E8%89%BE%E6%95%AC%E4%B8%BB%E8%88%9E%E5%87%BA%E9%81%93&t=152&Refer=top) - 86920
+1. [网传梁淅沥家庭资助过贫困生](https://s.weibo.com//weibo?q=%E7%BD%91%E4%BC%A0%E6%A2%81%E6%B7%85%E6%B2%A5%E5%AE%B6%E5%BA%AD%E8%B5%84%E5%8A%A9%E8%BF%87%E8%B4%AB%E5%9B%B0%E7%94%9F&t=152&Refer=top) - 85722
+1. [小沈阳部落唱现在不跳舞要干嘛](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%B2%88%E9%98%B3%E9%83%A8%E8%90%BD%E5%94%B1%E7%8E%B0%E5%9C%A8%E4%B8%8D%E8%B7%B3%E8%88%9E%E8%A6%81%E5%B9%B2%E5%98%9B%23&t=152&Refer=top) - 85180
+1. [田曦薇发30000红包](https://s.weibo.com//weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E5%8F%9130000%E7%BA%A2%E5%8C%85%23&t=152&Refer=top) - 85171
 1. [徐艺洋弟弟发文](https://s.weibo.com//weibo?q=%23%E5%BE%90%E8%89%BA%E6%B4%8B%E5%BC%9F%E5%BC%9F%E5%8F%91%E6%96%87%23&t=152&Refer=top) - 1671419
 1. [吴越质问花姐骗了多少钱](https://s.weibo.com//weibo?q=%23%E5%90%B4%E8%B6%8A%E8%B4%A8%E9%97%AE%E8%8A%B1%E5%A7%90%E9%AA%97%E4%BA%86%E5%A4%9A%E5%B0%91%E9%92%B1%23&t=152&Refer=top) - 494662
 1. [田曦薇摘面具神级镜头](https://s.weibo.com//weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E6%91%98%E9%9D%A2%E5%85%B7%E7%A5%9E%E7%BA%A7%E9%95%9C%E5%A4%B4%23&t=152&Refer=top) - 445195
 1. [柯蓝才是内娱真正的家世天花板](https://s.weibo.com//weibo?q=%23%E6%9F%AF%E8%93%9D%E6%89%8D%E6%98%AF%E5%86%85%E5%A8%B1%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AE%B6%E4%B8%96%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&t=152&Refer=top) - 400676
 1. [白鹿奔跑吧合照C位](https://s.weibo.com//weibo?q=%23%E7%99%BD%E9%B9%BF%E5%A5%94%E8%B7%91%E5%90%A7%E5%90%88%E7%85%A7C%E4%BD%8D%23&t=152&Refer=top) - 360608
 1. [多位明星自曝炒股巨亏](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E4%BD%8D%E6%98%8E%E6%98%9F%E8%87%AA%E6%9B%9D%E7%82%92%E8%82%A1%E5%B7%A8%E4%BA%8F%23&t=152&Refer=top) - 360603
-1. [郭麒麟 蒋依依](https://s.weibo.com//weibo?q=%E9%83%AD%E9%BA%92%E9%BA%9F%20%E8%92%8B%E4%BE%9D%E4%BE%9D&t=152&Refer=top) - 1887323
 1. [沈月工作室改名了](https://s.weibo.com//weibo?q=%23%E6%B2%88%E6%9C%88%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%94%B9%E5%90%8D%E4%BA%86%23&t=152&Refer=top) - 324537
 1. [张家齐妈妈说没用女儿钱买房](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E8%AF%B4%E6%B2%A1%E7%94%A8%E5%A5%B3%E5%84%BF%E9%92%B1%E4%B9%B0%E6%88%BF%23&t=152&Refer=top) - 292084
 1. [奔跑吧站姐给偶遇结婚新人拍出神图](https://s.weibo.com//weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E7%AB%99%E5%A7%90%E7%BB%99%E5%81%B6%E9%81%87%E7%BB%93%E5%A9%9A%E6%96%B0%E4%BA%BA%E6%8B%8D%E5%87%BA%E7%A5%9E%E5%9B%BE%23&t=152&Refer=top) - 262875
 1. [陈妍希新歌宣传人脉](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E6%96%B0%E6%AD%8C%E5%AE%A3%E4%BC%A0%E4%BA%BA%E8%84%89%23&t=152&Refer=top) - 236588
 1. [淡淡妈妈谈女儿分手哭了](https://s.weibo.com//weibo?q=%23%E6%B7%A1%E6%B7%A1%E5%A6%88%E5%A6%88%E8%B0%88%E5%A5%B3%E5%84%BF%E5%88%86%E6%89%8B%E5%93%AD%E4%BA%86%23&t=152&Refer=top) - 212929
-1. [张家齐妈妈说我是一个傻子一个笨蛋](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E8%AF%B4%E6%88%91%E6%98%AF%E4%B8%80%E4%B8%AA%E5%82%BB%E5%AD%90%E4%B8%80%E4%B8%AA%E7%AC%A8%E8%9B%8B%23&t=152&Refer=top) - 191636
 1. [张凌赫特别出演](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%89%B9%E5%88%AB%E5%87%BA%E6%BC%94%23&t=152&Refer=top) - 172472
 1. [offer8给贺峻霖把规矩立住了](https://s.weibo.com//weibo?q=%23offer8%E7%BB%99%E8%B4%BA%E5%B3%BB%E9%9C%96%E6%8A%8A%E8%A7%84%E7%9F%A9%E7%AB%8B%E4%BD%8F%E4%BA%86%23&t=152&Refer=top) - 155225
 1. [胡先煦问王楚然真是你啊](https://s.weibo.com//weibo?q=%23%E8%83%A1%E5%85%88%E7%85%A6%E9%97%AE%E7%8E%8B%E6%A5%9A%E7%84%B6%E7%9C%9F%E6%98%AF%E4%BD%A0%E5%95%8A%23&t=152&Refer=top) - 139702
@@ -83,7 +126,6 @@
 1. [张凌赫天选谢家人又在发力了](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%A4%A9%E9%80%89%E8%B0%A2%E5%AE%B6%E4%BA%BA%E5%8F%88%E5%9C%A8%E5%8F%91%E5%8A%9B%E4%BA%86%23&t=152&Refer=top) - 104251
 1. [张函瑞生周热销](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%87%BD%E7%91%9E%E7%94%9F%E5%91%A8%E7%83%AD%E9%94%80%23&t=152&Refer=top) - 104246
 1. [演员招不到黄胖子了](https://s.weibo.com//weibo?q=%23%E6%BC%94%E5%91%98%E6%8B%9B%E4%B8%8D%E5%88%B0%E9%BB%84%E8%83%96%E5%AD%90%E4%BA%86%23&t=152&Refer=top) - 407295
-1. [嫁金钗](https://s.weibo.com//weibo?q=%E5%AB%81%E9%87%91%E9%92%97&t=152&Refer=top) - 104229
 1. [杨超越峨眉海报](https://s.weibo.com//weibo?q=%E6%9D%A8%E8%B6%85%E8%B6%8A%E5%B3%A8%E7%9C%89%E6%B5%B7%E6%8A%A5&t=152&Refer=top) - 104224
 1. [桂瑞](https://s.weibo.com//weibo?q=%E6%A1%82%E7%91%9E&t=152&Refer=top) - 157794
 1. [黄子韬直播还炫耀丈母娘的厨艺](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E7%9B%B4%E6%92%AD%E8%BF%98%E7%82%AB%E8%80%80%E4%B8%88%E6%AF%8D%E5%A8%98%E7%9A%84%E5%8E%A8%E8%89%BA%23&t=152&Refer=top) - 104212
