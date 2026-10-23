@@ -2,11 +2,60 @@
 微博文娱热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 23 2026 14:59:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 23 2026 20:33:27 GMT+0800 (China Standard Time) -->
+1. [迪丽热巴 毯神](https://s.weibo.com//weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E6%AF%AF%E7%A5%9E&t=152&Refer=top) - 13662131
+1. [热巴蝴蝶飞走瞬间 列入内娱史册](https://s.weibo.com//weibo?q=%E7%83%AD%E5%B7%B4%E8%9D%B4%E8%9D%B6%E9%A3%9E%E8%B5%B0%E7%9E%AC%E9%97%B4%20%E5%88%97%E5%85%A5%E5%86%85%E5%A8%B1%E5%8F%B2%E5%86%8C&t=152&Refer=top) - 6182751
+1. [肖战演唱会](https://s.weibo.com//weibo?q=%E8%82%96%E6%88%98%E6%BC%94%E5%94%B1%E4%BC%9A&t=152&Refer=top) - 3827825
+1. [刘亦菲 凤凰神女](https://s.weibo.com//weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E5%87%A4%E5%87%B0%E7%A5%9E%E5%A5%B3&t=152&Refer=top) - 2068847
+1. [祖海](https://s.weibo.com//weibo?q=%E7%A5%96%E6%B5%B7&t=152&Refer=top) - 2023614
+1. [VOGUE红毯](https://s.weibo.com//weibo?q=VOGUE%E7%BA%A2%E6%AF%AF&t=152&Refer=top) - 1891245
+1. [全球热出图](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%90%83%E7%83%AD%E5%87%BA%E5%9B%BE%23&t=152&Refer=top) - 1757678
+1. [黄多多表情管理](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%A4%9A%E5%A4%9A%E8%A1%A8%E6%83%85%E7%AE%A1%E7%90%86%23&t=152&Refer=top) - 1146209
+1. [欧阳娜娜这个转场太妙了](https://s.weibo.com//weibo?q=%23%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E8%BF%99%E4%B8%AA%E8%BD%AC%E5%9C%BA%E5%A4%AA%E5%A6%99%E4%BA%86%23&t=152&Refer=top) - 1000917
+1. [肖战从光里走来](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E4%BB%8E%E5%85%89%E9%87%8C%E8%B5%B0%E6%9D%A5%23&t=152&Refer=top) - 568851
+1. [娜扎 蝴蝶仙子](https://s.weibo.com//weibo?q=%E5%A8%9C%E6%89%8E%20%E8%9D%B4%E8%9D%B6%E4%BB%99%E5%AD%90&t=152&Refer=top) - 568842
+1. [刘亦菲vogue大发仙威](https://s.weibo.com//weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2vogue%E5%A4%A7%E5%8F%91%E4%BB%99%E5%A8%81&t=152&Refer=top) - 568833
+1. [赵丽颖 发型](https://s.weibo.com//weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E5%8F%91%E5%9E%8B&t=152&Refer=top) - 568826
+1. [这雨下得像给迪丽热巴打了高光](https://s.weibo.com//weibo?q=%23%E8%BF%99%E9%9B%A8%E4%B8%8B%E5%BE%97%E5%83%8F%E7%BB%99%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%89%93%E4%BA%86%E9%AB%98%E5%85%89%23&t=152&Refer=top) - 568816
+1. [贾乃亮1天卖5.7亿](https://s.weibo.com//weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE1%E5%A4%A9%E5%8D%965.7%E4%BA%BF%23&t=152&Refer=top) - 568806
+1. [迪丽热巴嘴上叼着蝴蝶](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%98%B4%E4%B8%8A%E5%8F%BC%E7%9D%80%E8%9D%B4%E8%9D%B6%23&t=152&Refer=top) - 568798
+1. [尚公主首播反响](https://s.weibo.com//weibo?q=%E5%B0%9A%E5%85%AC%E4%B8%BB%E9%A6%96%E6%92%AD%E5%8F%8D%E5%93%8D&t=152&Refer=top) - 534179
+1. [迪丽热巴满钻高定](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%BB%A1%E9%92%BB%E9%AB%98%E5%AE%9A%23&t=152&Refer=top) - 518921
+1. [白鹿 神之九秒](https://s.weibo.com//weibo?q=%E7%99%BD%E9%B9%BF%20%E7%A5%9E%E4%B9%8B%E4%B9%9D%E7%A7%92&t=152&Refer=top) - 510370
+1. [肖战演唱会工作日上座率](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E6%BC%94%E5%94%B1%E4%BC%9A%E5%B7%A5%E4%BD%9C%E6%97%A5%E4%B8%8A%E5%BA%A7%E7%8E%87%23&t=152&Refer=top) - 459333
+1. [迪丽热巴淋雨开毯](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%B7%8B%E9%9B%A8%E5%BC%80%E6%AF%AF%23&t=152&Refer=top) - 459327
+1. [肖战 不要回头](https://s.weibo.com//weibo?q=%E8%82%96%E6%88%98%20%E4%B8%8D%E8%A6%81%E5%9B%9E%E5%A4%B4&t=152&Refer=top) - 419958
+1. [孙怡说李小冉想找头婚的不容易](https://s.weibo.com//weibo?q=%23%E5%AD%99%E6%80%A1%E8%AF%B4%E6%9D%8E%E5%B0%8F%E5%86%89%E6%83%B3%E6%89%BE%E5%A4%B4%E5%A9%9A%E7%9A%84%E4%B8%8D%E5%AE%B9%E6%98%93%23&t=152&Refer=top) - 419873
+1. [肖战演唱会内场](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E6%BC%94%E5%94%B1%E4%BC%9A%E5%86%85%E5%9C%BA%23&t=152&Refer=top) - 418964
+1. [VOGUE红毯顺序](https://s.weibo.com//weibo?q=VOGUE%E7%BA%A2%E6%AF%AF%E9%A1%BA%E5%BA%8F&t=152&Refer=top) - 403405
+1. [刘冲请到刘亦菲了](https://s.weibo.com//weibo?q=%E5%88%98%E5%86%B2%E8%AF%B7%E5%88%B0%E5%88%98%E4%BA%A6%E8%8F%B2%E4%BA%86&t=152&Refer=top) - 363064
+1. [宋威龙张婧仪对镜拍](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E5%A8%81%E9%BE%99%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%AF%B9%E9%95%9C%E6%8B%8D%23&t=152&Refer=top) - 326758
+1. [肖战演唱会歌单](https://s.weibo.com//weibo?q=%E8%82%96%E6%88%98%E6%BC%94%E5%94%B1%E4%BC%9A%E6%AD%8C%E5%8D%95&t=152&Refer=top) - 322560
+1. [赵丽颖直播衣服是杜华给的](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9B%B4%E6%92%AD%E8%A1%A3%E6%9C%8D%E6%98%AF%E6%9D%9C%E5%8D%8E%E7%BB%99%E7%9A%84%23&t=152&Refer=top) - 318589
+1. [尚公主](https://s.weibo.com//weibo?q=%E5%B0%9A%E5%85%AC%E4%B8%BB&t=152&Refer=top) - 302430
+1. [VOGUE时尚之力盛会](https://s.weibo.com//weibo?q=VOGUE%E6%97%B6%E5%B0%9A%E4%B9%8B%E5%8A%9B%E7%9B%9B%E4%BC%9A&t=152&Refer=top) - 302423
+1. [易梦玲瘦得夸张](https://s.weibo.com//weibo?q=%23%E6%98%93%E6%A2%A6%E7%8E%B2%E7%98%A6%E5%BE%97%E5%A4%B8%E5%BC%A0%23&t=152&Refer=top) - 302416
+1. [迪丽热巴 人间绝色](https://s.weibo.com//weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E4%BA%BA%E9%97%B4%E7%BB%9D%E8%89%B2&t=152&Refer=top) - 299326
+1. [小城良方 剧情硬伤](https://s.weibo.com//weibo?q=%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%20%E5%89%A7%E6%83%85%E7%A1%AC%E4%BC%A4&t=152&Refer=top) - 269393
+1. [尚公主热度](https://s.weibo.com//weibo?q=%E5%B0%9A%E5%85%AC%E4%B8%BB%E7%83%AD%E5%BA%A6&t=152&Refer=top) - 264982
+1. [迪丽热巴 蝴蝶飞走那一刻](https://s.weibo.com//weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E8%9D%B4%E8%9D%B6%E9%A3%9E%E8%B5%B0%E9%82%A3%E4%B8%80%E5%88%BB&t=152&Refer=top) - 247363
+1. [沈梦瑶否认恋爱](https://s.weibo.com//weibo?q=%23%E6%B2%88%E6%A2%A6%E7%91%B6%E5%90%A6%E8%AE%A4%E6%81%8B%E7%88%B1%23&t=152&Refer=top) - 222626
+1. [迪丽热巴工作室还不出图](https://s.weibo.com//weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BF%98%E4%B8%8D%E5%87%BA%E5%9B%BE&t=152&Refer=top) - 212724
+1. [赵丽颖陪着杜华谢娜闹](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%99%AA%E7%9D%80%E6%9D%9C%E5%8D%8E%E8%B0%A2%E5%A8%9C%E9%97%B9%23&t=152&Refer=top) - 209889
+1. [王俊凯演唱会](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A&t=152&Refer=top) - 188900
+1. [黄灿灿求大家不要再私信肌肉照了](https://s.weibo.com//weibo?q=%23%E9%BB%84%E7%81%BF%E7%81%BF%E6%B1%82%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E5%86%8D%E7%A7%81%E4%BF%A1%E8%82%8C%E8%82%89%E7%85%A7%E4%BA%86%23&t=152&Refer=top) - 170010
+1. [VOGUE明星出图](https://s.weibo.com//weibo?q=%23VOGUE%E6%98%8E%E6%98%9F%E5%87%BA%E5%9B%BE%23&t=152&Refer=top) - 964972
+1. [张小斐A了全场](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90A%E4%BA%86%E5%85%A8%E5%9C%BA%23&t=152&Refer=top) - 169998
+1. [NEON改了盛艾敬梁淅沥Intro](https://s.weibo.com//weibo?q=%23NEON%E6%94%B9%E4%BA%86%E7%9B%9B%E8%89%BE%E6%95%AC%E6%A2%81%E6%B7%85%E6%B2%A5Intro%23&t=152&Refer=top) - 169580
+1. [马天宇说厉娜许飞最尴尬一组](https://s.weibo.com//weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87%E8%AF%B4%E5%8E%89%E5%A8%9C%E8%AE%B8%E9%A3%9E%E6%9C%80%E5%B0%B4%E5%B0%AC%E4%B8%80%E7%BB%84&t=152&Refer=top) - 152622
+1. [杨幂赵丽颖85花双姝之争](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E8%B5%B5%E4%B8%BD%E9%A2%9685%E8%8A%B1%E5%8F%8C%E5%A7%9D%E4%B9%8B%E4%BA%89%23&t=152&Refer=top) - 137359
+1. [尚公主观后感](https://s.weibo.com//weibo?q=%23%E5%B0%9A%E5%85%AC%E4%B8%BB%E8%A7%82%E5%90%8E%E6%84%9F%23&t=152&Refer=top) - 123623
+1. [孟子义李昀锐一直在偷看对方](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%9D%8E%E6%98%80%E9%94%90%E4%B8%80%E7%9B%B4%E5%9C%A8%E5%81%B7%E7%9C%8B%E5%AF%B9%E6%96%B9%23&t=152&Refer=top) - 111917
+1. [小城良方](https://s.weibo.com//weibo?q=%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9&t=152&Refer=top) - 102173
+1. [喝爷爷不泡茶追李昀锐新剧](https://s.weibo.com//weibo?q=%23%E5%96%9D%E7%88%B7%E7%88%B7%E4%B8%8D%E6%B3%A1%E8%8C%B6%E8%BF%BD%E6%9D%8E%E6%98%80%E9%94%90%E6%96%B0%E5%89%A7%23&t=152&Refer=top) - 91955
 1. [肖战伴手礼是用红色帆布袋装着的](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E4%BC%B4%E6%89%8B%E7%A4%BC%E6%98%AF%E7%94%A8%E7%BA%A2%E8%89%B2%E5%B8%86%E5%B8%83%E8%A2%8B%E8%A3%85%E7%9D%80%E7%9A%84%23&t=152&Refer=top) - 1579156
 1. [黄子韬公司被强制执行2040万](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%85%AC%E5%8F%B8%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C2040%E4%B8%87%23&t=152&Refer=top) - 1342451
 1. [曝邢昭林卢洋洋恋情](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E9%82%A2%E6%98%AD%E6%9E%97%E5%8D%A2%E6%B4%8B%E6%B4%8B%E6%81%8B%E6%83%85%23&t=152&Refer=top) - 1040688
-1. [VOGUE明星出图](https://s.weibo.com//weibo?q=%23VOGUE%E6%98%8E%E6%98%9F%E5%87%BA%E5%9B%BE%23&t=152&Refer=top) - 964972
 1. [黄多多卷发红裙](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%A4%9A%E5%A4%9A%E5%8D%B7%E5%8F%91%E7%BA%A2%E8%A3%99%23&t=152&Refer=top) - 953568
 1. [何穗 拿到大结果了](https://s.weibo.com//weibo?q=%E4%BD%95%E7%A9%97%20%E6%8B%BF%E5%88%B0%E5%A4%A7%E7%BB%93%E6%9E%9C%E4%BA%86&t=152&Refer=top) - 880828
 1. [别再嫌再见朋友请来的咖糊了](https://s.weibo.com//weibo?q=%23%E5%88%AB%E5%86%8D%E5%AB%8C%E5%86%8D%E8%A7%81%E6%9C%8B%E5%8F%8B%E8%AF%B7%E6%9D%A5%E7%9A%84%E5%92%96%E7%B3%8A%E4%BA%86%23&t=152&Refer=top) - 851397
@@ -46,7 +95,6 @@
 1. [曝迪丽热巴VOGUE盛典穿祖海高定](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4VOGUE%E7%9B%9B%E5%85%B8%E7%A9%BF%E7%A5%96%E6%B5%B7%E9%AB%98%E5%AE%9A%23&t=152&Refer=top) - 103386
 1. [张亮请张亮吃张亮](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E4%BA%AE%E8%AF%B7%E5%BC%A0%E4%BA%AE%E5%90%83%E5%BC%A0%E4%BA%AE%23&t=152&Refer=top) - 93047
 1. [马天宇送的吹风机张萌用了10年](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E9%80%81%E7%9A%84%E5%90%B9%E9%A3%8E%E6%9C%BA%E5%BC%A0%E8%90%8C%E7%94%A8%E4%BA%8610%E5%B9%B4%23&t=152&Refer=top) - 88285
-1. [贾乃亮1天卖5.7亿](https://s.weibo.com//weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE1%E5%A4%A9%E5%8D%965.7%E4%BA%BF%23&t=152&Refer=top) - 84537
 1. [SBS歌谣大战阵容](https://s.weibo.com//weibo?q=SBS%E6%AD%8C%E8%B0%A3%E5%A4%A7%E6%88%98%E9%98%B5%E5%AE%B9&t=152&Refer=top) - 82089
 1. [郑钦文父亲说明年大满贯必须拿下](https://s.weibo.com//weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E7%88%B6%E4%BA%B2%E8%AF%B4%E6%98%8E%E5%B9%B4%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%BF%85%E9%A1%BB%E6%8B%BF%E4%B8%8B%23&t=152&Refer=top) - 80668
 1. [王以太五公个喜](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BB%A5%E5%A4%AA%E4%BA%94%E5%85%AC%E4%B8%AA%E5%96%9C%23&t=152&Refer=top) - 80330
