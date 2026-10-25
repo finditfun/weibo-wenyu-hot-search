@@ -2,9 +2,58 @@
 微博文娱热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 25 2026 13:42:54 GMT+0800 (China Standard Time) -->
-1. [日剧Vivant抹黑中国](https://s.weibo.com//weibo?q=%23%E6%97%A5%E5%89%A7Vivant%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD%23&t=152&Refer=top) - 1136202
+<!-- 最后更新时间 Sun Oct 25 2026 18:47:44 GMT+0800 (China Standard Time) -->
+1. [高叶盯胸](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%8F%B6%E7%9B%AF%E8%83%B8%23&t=152&Refer=top) - 1620692
+1. [韩国人真的好爱艾敬](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E7%9C%9F%E7%9A%84%E5%A5%BD%E7%88%B1%E8%89%BE%E6%95%AC%23&t=152&Refer=top) - 935230
+1. [虞书欣菜市场红毯](https://s.weibo.com//weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%8F%9C%E5%B8%82%E5%9C%BA%E7%BA%A2%E6%AF%AF&t=152&Refer=top) - 654661
+1. [章子怡肖战怎么认识的](https://s.weibo.com//weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E8%82%96%E6%88%98%E6%80%8E%E4%B9%88%E8%AE%A4%E8%AF%86%E7%9A%84%23&t=152&Refer=top) - 589194
+1. [sakee被打](https://s.weibo.com//weibo?q=%23sakee%E8%A2%AB%E6%89%93%23&t=152&Refer=top) - 530275
+1. [苏醒自曝跟朋友闹掰原因](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E9%86%92%E8%87%AA%E6%9B%9D%E8%B7%9F%E6%9C%8B%E5%8F%8B%E9%97%B9%E6%8E%B0%E5%8E%9F%E5%9B%A0%23&t=152&Refer=top) - 477247
+1. [祖海创始人点赞迪丽热巴无可替代](https://s.weibo.com//weibo?q=%23%E7%A5%96%E6%B5%B7%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%82%B9%E8%B5%9E%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%97%A0%E5%8F%AF%E6%9B%BF%E4%BB%A3%23&t=152&Refer=top) - 429523
+1. [羊年央视春晚总导演于蕾](https://s.weibo.com//weibo?q=%23%E7%BE%8A%E5%B9%B4%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E6%80%BB%E5%AF%BC%E6%BC%94%E4%BA%8E%E8%95%BE%23&t=152&Refer=top) - 386570
+1. [内娱最权威的三张脸](https://s.weibo.com//weibo?q=%23%E5%86%85%E5%A8%B1%E6%9C%80%E6%9D%83%E5%A8%81%E7%9A%84%E4%B8%89%E5%BC%A0%E8%84%B8%23&t=152&Refer=top) - 347913
+1. [颜安是不是喜欢赵昭仪](https://s.weibo.com//weibo?q=%23%E9%A2%9C%E5%AE%89%E6%98%AF%E4%B8%8D%E6%98%AF%E5%96%9C%E6%AC%A2%E8%B5%B5%E6%98%AD%E4%BB%AA%23&t=152&Refer=top) - 313122
+1. [厉娜许飞随时被20年前的自己夺舍](https://s.weibo.com//weibo?q=%E5%8E%89%E5%A8%9C%E8%AE%B8%E9%A3%9E%E9%9A%8F%E6%97%B6%E8%A2%AB20%E5%B9%B4%E5%89%8D%E7%9A%84%E8%87%AA%E5%B7%B1%E5%A4%BA%E8%88%8D&t=152&Refer=top) - 281810
+1. [范丞丞自曝上学时不太吃香](https://s.weibo.com//weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%87%AA%E6%9B%9D%E4%B8%8A%E5%AD%A6%E6%97%B6%E4%B8%8D%E5%A4%AA%E5%90%83%E9%A6%99%23&t=152&Refer=top) - 253629
+1. [原来魏姝的王妃位是捡漏魏娆的](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%AD%8F%E5%A7%9D%E7%9A%84%E7%8E%8B%E5%A6%83%E4%BD%8D%E6%98%AF%E6%8D%A1%E6%BC%8F%E9%AD%8F%E5%A8%86%E7%9A%84%23&t=152&Refer=top) - 228266
+1. [艾敬怕做错ending跑去问导演](https://s.weibo.com//weibo?q=%23%E8%89%BE%E6%95%AC%E6%80%95%E5%81%9A%E9%94%99ending%E8%B7%91%E5%8E%BB%E9%97%AE%E5%AF%BC%E6%BC%94%23&t=152&Refer=top) - 205439
+1. [肖战现场演唱小城良方主题曲](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E7%8E%B0%E5%9C%BA%E6%BC%94%E5%94%B1%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E4%B8%BB%E9%A2%98%E6%9B%B2%23&t=152&Refer=top) - 184895
+1. [迪丽热巴这是人能承受住的诱惑吗](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%BF%99%E6%98%AF%E4%BA%BA%E8%83%BD%E6%89%BF%E5%8F%97%E4%BD%8F%E7%9A%84%E8%AF%B1%E6%83%91%E5%90%97%23&t=152&Refer=top) - 166406
+1. [小城良方观众发力了](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E8%A7%82%E4%BC%97%E5%8F%91%E5%8A%9B%E4%BA%86%23&t=152&Refer=top) - 149765
+1. [迪丽热巴 沉默的羔羊](https://s.weibo.com//weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E6%B2%89%E9%BB%98%E7%9A%84%E7%BE%94%E7%BE%8A&t=152&Refer=top) - 143896
+1. [崔秀彬参加婚礼](https://s.weibo.com//weibo?q=%23%E5%B4%94%E7%A7%80%E5%BD%AC%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%23&t=152&Refer=top) - 129506
+1. [白敬亭吃六碗酸菜汤](https://s.weibo.com//weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E5%90%83%E5%85%AD%E7%A2%97%E9%85%B8%E8%8F%9C%E6%B1%A4&t=152&Refer=top) - 116555
+1. [网友给羊年春晚提建议](https://s.weibo.com//weibo?q=%E7%BD%91%E5%8F%8B%E7%BB%99%E7%BE%8A%E5%B9%B4%E6%98%A5%E6%99%9A%E6%8F%90%E5%BB%BA%E8%AE%AE&t=152&Refer=top) - 116549
+1. [田栩宁梓渝牵手合唱我可以](https://s.weibo.com//weibo?q=%23%E7%94%B0%E6%A0%A9%E5%AE%81%E6%A2%93%E6%B8%9D%E7%89%B5%E6%89%8B%E5%90%88%E5%94%B1%E6%88%91%E5%8F%AF%E4%BB%A5%23&t=152&Refer=top) - 116543
+1. [新音](https://s.weibo.com//weibo?q=%E6%96%B0%E9%9F%B3&t=152&Refer=top) - 116535
+1. [台媒报道迪丽热巴VOGUE盛典](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E5%AA%92%E6%8A%A5%E9%81%93%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4VOGUE%E7%9B%9B%E5%85%B8%23&t=152&Refer=top) - 116530
+1. [王菲声线一出梦回黄金年代](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%8F%B2%E5%A3%B0%E7%BA%BF%E4%B8%80%E5%87%BA%E6%A2%A6%E5%9B%9E%E9%BB%84%E9%87%91%E5%B9%B4%E4%BB%A3%23&t=152&Refer=top) - 115684
+1. [尚公主直播](https://s.weibo.com//weibo?q=%E5%B0%9A%E5%85%AC%E4%B8%BB%E7%9B%B4%E6%92%AD&t=152&Refer=top) - 113920
+1. [孟子义质疑尚公主浴缸戏](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E8%B4%A8%E7%96%91%E5%B0%9A%E5%85%AC%E4%B8%BB%E6%B5%B4%E7%BC%B8%E6%88%8F%23&t=152&Refer=top) - 111559
 1. [迪丽热巴全平台爆出圈](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%85%A8%E5%B9%B3%E5%8F%B0%E7%88%86%E5%87%BA%E5%9C%88%23&t=152&Refer=top) - 800112
+1. [章子怡称呼肖战为战战](https://s.weibo.com//weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E7%A7%B0%E5%91%BC%E8%82%96%E6%88%98%E4%B8%BA%E6%88%98%E6%88%98%23&t=152&Refer=top) - 99274
+1. [钟楚曦美得我眼前一亮](https://s.weibo.com//weibo?q=%23%E9%92%9F%E6%A5%9A%E6%9B%A6%E7%BE%8E%E5%BE%97%E6%88%91%E7%9C%BC%E5%89%8D%E4%B8%80%E4%BA%AE%23&t=152&Refer=top) - 98417
+1. [迪丽热巴张小斐刘冲合照](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BC%A0%E5%B0%8F%E6%96%90%E5%88%98%E5%86%B2%E5%90%88%E7%85%A7%23&t=152&Refer=top) - 98409
+1. [唐嫣 高珠美人](https://s.weibo.com//weibo?q=%E5%94%90%E5%AB%A3%20%E9%AB%98%E7%8F%A0%E7%BE%8E%E4%BA%BA&t=152&Refer=top) - 98402
+1. [王楚然公主切造型](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%85%AC%E4%B8%BB%E5%88%87%E9%80%A0%E5%9E%8B&t=152&Refer=top) - 98394
+1. [林一看白敬亭王安宇吵架的反应](https://s.weibo.com//weibo?q=%23%E6%9E%97%E4%B8%80%E7%9C%8B%E7%99%BD%E6%95%AC%E4%BA%AD%E7%8E%8B%E5%AE%89%E5%AE%87%E5%90%B5%E6%9E%B6%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=152&Refer=top) - 98387
+1. [周深大梦归又火了](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%B7%B1%E5%A4%A7%E6%A2%A6%E5%BD%92%E5%8F%88%E7%81%AB%E4%BA%86%23&t=152&Refer=top) - 88548
+1. [尚公主次日云合涨势](https://s.weibo.com//weibo?q=%23%E5%B0%9A%E5%85%AC%E4%B8%BB%E6%AC%A1%E6%97%A5%E4%BA%91%E5%90%88%E6%B6%A8%E5%8A%BF%23&t=152&Refer=top) - 88540
+1. [高市早苗点名要看抹黑中国日剧](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%82%B9%E5%90%8D%E8%A6%81%E7%9C%8B%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD%E6%97%A5%E5%89%A7%23&t=152&Refer=top) - 88533
+1. [华晨宇演唱会保洁提前下班](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BF%9D%E6%B4%81%E6%8F%90%E5%89%8D%E4%B8%8B%E7%8F%AD%23&t=152&Refer=top) - 88527
+1. [李子祺缝合看得我眼前一黑](https://s.weibo.com//weibo?q=%E6%9D%8E%E5%AD%90%E7%A5%BA%E7%BC%9D%E5%90%88%E7%9C%8B%E5%BE%97%E6%88%91%E7%9C%BC%E5%89%8D%E4%B8%80%E9%BB%91&t=152&Refer=top) - 88521
+1. [黄磊儿子单眼皮倒有点像李现了](https://s.weibo.com//weibo?q=%23%E9%BB%84%E7%A3%8A%E5%84%BF%E5%AD%90%E5%8D%95%E7%9C%BC%E7%9A%AE%E5%80%92%E6%9C%89%E7%82%B9%E5%83%8F%E6%9D%8E%E7%8E%B0%E4%BA%86%23&t=152&Refer=top) - 87424
+1. [A2olite人气歌谣一位](https://s.weibo.com//weibo?q=%23A2olite%E4%BA%BA%E6%B0%94%E6%AD%8C%E8%B0%A3%E4%B8%80%E4%BD%8D%23&t=152&Refer=top) - 86341
+1. [嫁金钗18集是人能承受的虐吗](https://s.weibo.com//weibo?q=%23%E5%AB%81%E9%87%91%E9%92%9718%E9%9B%86%E6%98%AF%E4%BA%BA%E8%83%BD%E6%89%BF%E5%8F%97%E7%9A%84%E8%99%90%E5%90%97%23&t=152&Refer=top) - 84767
+1. [唐朝诡事录](https://s.weibo.com//weibo?q=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95&t=152&Refer=top) - 217876
+1. [兰香如故热播期集均4147万](https://s.weibo.com//weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E7%83%AD%E6%92%AD%E6%9C%9F%E9%9B%86%E5%9D%874147%E4%B8%87%23&t=152&Refer=top) - 81097
+1. [唐诡五六季一起拍80集](https://s.weibo.com//weibo?q=%E5%94%90%E8%AF%A1%E4%BA%94%E5%85%AD%E5%AD%A3%E4%B8%80%E8%B5%B7%E6%8B%8D80%E9%9B%86&t=152&Refer=top) - 242045
+1. [华晨宇这是真的中国人能飞](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E8%BF%99%E6%98%AF%E7%9C%9F%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E%23&t=152&Refer=top) - 78874
+1. [肖战章子怡会合作电影吗](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E7%AB%A0%E5%AD%90%E6%80%A1%E4%BC%9A%E5%90%88%E4%BD%9C%E7%94%B5%E5%BD%B1%E5%90%97%23&t=152&Refer=top) - 77989
+1. [sakee被打原因](https://s.weibo.com//weibo?q=%23sakee%E8%A2%AB%E6%89%93%E5%8E%9F%E5%9B%A0%23&t=152&Refer=top) - 72834
+1. [毛不易一句不是我的妻子为何被放大](https://s.weibo.com//weibo?q=%23%E6%AF%9B%E4%B8%8D%E6%98%93%E4%B8%80%E5%8F%A5%E4%B8%8D%E6%98%AF%E6%88%91%E7%9A%84%E5%A6%BB%E5%AD%90%E4%B8%BA%E4%BD%95%E8%A2%AB%E6%94%BE%E5%A4%A7%23&t=152&Refer=top) - 91161
+1. [嫁金钗魏姝上线](https://s.weibo.com//weibo?q=%23%E5%AB%81%E9%87%91%E9%92%97%E9%AD%8F%E5%A7%9D%E4%B8%8A%E7%BA%BF%23&t=152&Refer=top) - 67057
+1. [日剧Vivant抹黑中国](https://s.weibo.com//weibo?q=%23%E6%97%A5%E5%89%A7Vivant%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD%23&t=152&Refer=top) - 1136202
 1. [毛不易婚礼发言引网友争议](https://s.weibo.com//weibo?q=%E6%AF%9B%E4%B8%8D%E6%98%93%E5%A9%9A%E7%A4%BC%E5%8F%91%E8%A8%80%E5%BC%95%E7%BD%91%E5%8F%8B%E4%BA%89%E8%AE%AE&t=152&Refer=top) - 1128934
 1. [李雪健已无法说话](https://s.weibo.com//weibo?q=%E6%9D%8E%E9%9B%AA%E5%81%A5%E5%B7%B2%E6%97%A0%E6%B3%95%E8%AF%B4%E8%AF%9D&t=152&Refer=top) - 612951
 1. [大麦这辈子第一次听到谢谢](https://s.weibo.com//weibo?q=%E5%A4%A7%E9%BA%A6%E8%BF%99%E8%BE%88%E5%AD%90%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%90%AC%E5%88%B0%E8%B0%A2%E8%B0%A2&t=152&Refer=top) - 551656
@@ -17,11 +66,9 @@
 1. [祖海态度](https://s.weibo.com//weibo?q=%23%E7%A5%96%E6%B5%B7%E6%80%81%E5%BA%A6%23&t=152&Refer=top) - 790253
 1. [香港中环偶遇虞书欣](https://s.weibo.com//weibo?q=%23%E9%A6%99%E6%B8%AF%E4%B8%AD%E7%8E%AF%E5%81%B6%E9%81%87%E8%99%9E%E4%B9%A6%E6%AC%A3%23&t=152&Refer=top) - 259916
 1. [柯淳李柯以短剧顶流首搭](https://s.weibo.com//weibo?q=%23%E6%9F%AF%E6%B7%B3%E6%9D%8E%E6%9F%AF%E4%BB%A5%E7%9F%AD%E5%89%A7%E9%A1%B6%E6%B5%81%E9%A6%96%E6%90%AD%23&t=152&Refer=top) - 247791
-1. [唐诡五六季一起拍80集](https://s.weibo.com//weibo?q=%E5%94%90%E8%AF%A1%E4%BA%94%E5%85%AD%E5%AD%A3%E4%B8%80%E8%B5%B7%E6%8B%8D80%E9%9B%86&t=152&Refer=top) - 242045
 1. [陈奕迅女儿称分手后情绪低落](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E5%A5%B3%E5%84%BF%E7%A7%B0%E5%88%86%E6%89%8B%E5%90%8E%E6%83%85%E7%BB%AA%E4%BD%8E%E8%90%BD%23&t=152&Refer=top) - 241915
 1. [Lisa周边是丁字裤](https://s.weibo.com//weibo?q=%23Lisa%E5%91%A8%E8%BE%B9%E6%98%AF%E4%B8%81%E5%AD%97%E8%A3%A4%23&t=152&Refer=top) - 699291
 1. [宋慧乔从出现开始就美得在发光](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E6%85%A7%E4%B9%94%E4%BB%8E%E5%87%BA%E7%8E%B0%E5%BC%80%E5%A7%8B%E5%B0%B1%E7%BE%8E%E5%BE%97%E5%9C%A8%E5%8F%91%E5%85%89%23&t=152&Refer=top) - 231685
-1. [唐朝诡事录](https://s.weibo.com//weibo?q=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95&t=152&Refer=top) - 217876
 1. [等我老了也去看蔡徐坤](https://s.weibo.com//weibo?q=%23%E7%AD%89%E6%88%91%E8%80%81%E4%BA%86%E4%B9%9F%E5%8E%BB%E7%9C%8B%E8%94%A1%E5%BE%90%E5%9D%A4%23&t=152&Refer=top) - 196088
 1. [玉簟秋 咬脖吻](https://s.weibo.com//weibo?q=%E7%8E%89%E7%B0%9F%E7%A7%8B%20%E5%92%AC%E8%84%96%E5%90%BB&t=152&Refer=top) - 196081
 1. [迪丽热巴红毯同款粉底断货](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BA%A2%E6%AF%AF%E5%90%8C%E6%AC%BE%E7%B2%89%E5%BA%95%E6%96%AD%E8%B4%A7%23&t=152&Refer=top) - 196071
@@ -47,7 +94,6 @@
 1. [黄景瑜张翰聚餐同框](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E5%BC%A0%E7%BF%B0%E8%81%9A%E9%A4%90%E5%90%8C%E6%A1%86%23&t=152&Refer=top) - 97460
 1. [后会友期 1V7](https://s.weibo.com//weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%201V7&t=152&Refer=top) - 96301
 1. [肖战小城良方收视率登顶](https://s.weibo.com//weibo?q=%E8%82%96%E6%88%98%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E6%94%B6%E8%A7%86%E7%8E%87%E7%99%BB%E9%A1%B6&t=152&Refer=top) - 92730
-1. [毛不易一句不是我的妻子为何被放大](https://s.weibo.com//weibo?q=%23%E6%AF%9B%E4%B8%8D%E6%98%93%E4%B8%80%E5%8F%A5%E4%B8%8D%E6%98%AF%E6%88%91%E7%9A%84%E5%A6%BB%E5%AD%90%E4%B8%BA%E4%BD%95%E8%A2%AB%E6%94%BE%E5%A4%A7%23&t=152&Refer=top) - 91161
 1. [小酒窝捐的旧衣服都是新的](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E9%85%92%E7%AA%9D%E6%8D%90%E7%9A%84%E6%97%A7%E8%A1%A3%E6%9C%8D%E9%83%BD%E6%98%AF%E6%96%B0%E7%9A%84%23&t=152&Refer=top) - 490208
 1. [张函瑞最小白金得主](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%87%BD%E7%91%9E%E6%9C%80%E5%B0%8F%E7%99%BD%E9%87%91%E5%BE%97%E4%B8%BB%23&t=152&Refer=top) - 83490
 1. [小城良方全组逮着机会就安利](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E5%85%A8%E7%BB%84%E9%80%AE%E7%9D%80%E6%9C%BA%E4%BC%9A%E5%B0%B1%E5%AE%89%E5%88%A9%23&t=152&Refer=top) - 78924
