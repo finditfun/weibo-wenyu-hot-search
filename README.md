@@ -2,11 +2,57 @@
 微博文娱热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 01 2026 09:52:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 01 2026 16:44:33 GMT+0800 (China Standard Time) -->
+1. [五哈嘉年华 节目组霸凌](https://s.weibo.com//weibo?q=%E4%BA%94%E5%93%88%E5%98%89%E5%B9%B4%E5%8D%8E%20%E8%8A%82%E7%9B%AE%E7%BB%84%E9%9C%B8%E5%87%8C&t=152&Refer=top) - 1529947
+1. [后会友期正片删除文吉儿一句话](https://s.weibo.com//weibo?q=%23%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E6%AD%A3%E7%89%87%E5%88%A0%E9%99%A4%E6%96%87%E5%90%89%E5%84%BF%E4%B8%80%E5%8F%A5%E8%AF%9D%23&t=152&Refer=top) - 1235796
+1. [AI短剧为何放弃清宫戏](https://s.weibo.com//weibo?q=AI%E7%9F%AD%E5%89%A7%E4%B8%BA%E4%BD%95%E6%94%BE%E5%BC%83%E6%B8%85%E5%AE%AB%E6%88%8F&t=152&Refer=top) - 915332
+1. [许飞怎么会留下如此明显的证据](https://s.weibo.com//weibo?q=%E8%AE%B8%E9%A3%9E%E6%80%8E%E4%B9%88%E4%BC%9A%E7%95%99%E4%B8%8B%E5%A6%82%E6%AD%A4%E6%98%8E%E6%98%BE%E7%9A%84%E8%AF%81%E6%8D%AE&t=152&Refer=top) - 824536
 1. [侯卓成杨汝晴官宣分手](https://s.weibo.com//weibo?q=%23%E4%BE%AF%E5%8D%93%E6%88%90%E6%9D%A8%E6%B1%9D%E6%99%B4%E5%AE%98%E5%AE%A3%E5%88%86%E6%89%8B%23&t=152&Refer=top) - 4077236
-1. [侯卓成 尊重一点女方别太入戏了](https://s.weibo.com//weibo?q=%E4%BE%AF%E5%8D%93%E6%88%90%20%E5%B0%8A%E9%87%8D%E4%B8%80%E7%82%B9%E5%A5%B3%E6%96%B9%E5%88%AB%E5%A4%AA%E5%85%A5%E6%88%8F%E4%BA%86&t=152&Refer=top) - 2113024
+1. [警方介入谢霆锋被扔荧光棒事件](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5%E8%B0%A2%E9%9C%86%E9%94%8B%E8%A2%AB%E6%89%94%E8%8D%A7%E5%85%89%E6%A3%92%E4%BA%8B%E4%BB%B6%23&t=152&Refer=top) - 542154
+1. [我起床了厉娜](https://s.weibo.com//weibo?q=%23%E6%88%91%E8%B5%B7%E5%BA%8A%E4%BA%86%E5%8E%89%E5%A8%9C%23&t=152&Refer=top) - 529042
+1. [胡歌参加女儿亲子活动](https://s.weibo.com//weibo?q=%23%E8%83%A1%E6%AD%8C%E5%8F%82%E5%8A%A0%E5%A5%B3%E5%84%BF%E4%BA%B2%E5%AD%90%E6%B4%BB%E5%8A%A8%23&t=152&Refer=top) - 476947
+1. [侯卓成 王垲智](https://s.weibo.com//weibo?q=%E4%BE%AF%E5%8D%93%E6%88%90%20%E7%8E%8B%E5%9E%B2%E6%99%BA&t=152&Refer=top) - 460624
+1. [侯卓成呼吁网友保持理性克制](https://s.weibo.com//weibo?q=%23%E4%BE%AF%E5%8D%93%E6%88%90%E5%91%BC%E5%90%81%E7%BD%91%E5%8F%8B%E4%BF%9D%E6%8C%81%E7%90%86%E6%80%A7%E5%85%8B%E5%88%B6%23&t=152&Refer=top) - 438652
+1. [玉簟秋be](https://s.weibo.com//weibo?q=%23%E7%8E%89%E7%B0%9F%E7%A7%8Bbe%23&t=152&Refer=top) - 413081
+1. [嫁金钗圆房第二天甜晕了](https://s.weibo.com//weibo?q=%E5%AB%81%E9%87%91%E9%92%97%E5%9C%86%E6%88%BF%E7%AC%AC%E4%BA%8C%E5%A4%A9%E7%94%9C%E6%99%95%E4%BA%86&t=152&Refer=top) - 394355
+1. [肖战从业以来尺度最大的一场戏](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E4%BB%8E%E4%B8%9A%E4%BB%A5%E6%9D%A5%E5%B0%BA%E5%BA%A6%E6%9C%80%E5%A4%A7%E7%9A%84%E4%B8%80%E5%9C%BA%E6%88%8F%23&t=152&Refer=top) - 375271
+1. [曝五哈嘉年华对鹿晗粉丝区别对待](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E4%BA%94%E5%93%88%E5%98%89%E5%B9%B4%E5%8D%8E%E5%AF%B9%E9%B9%BF%E6%99%97%E7%B2%89%E4%B8%9D%E5%8C%BA%E5%88%AB%E5%AF%B9%E5%BE%85%23&t=152&Refer=top) - 337743
+1. [浪1这些文字居然是许飞写的](https://s.weibo.com//weibo?q=%23%E6%B5%AA1%E8%BF%99%E4%BA%9B%E6%96%87%E5%AD%97%E5%B1%85%E7%84%B6%E6%98%AF%E8%AE%B8%E9%A3%9E%E5%86%99%E7%9A%84%23&t=152&Refer=top) - 303969
+1. [梁淅沥盛艾敬双人新版开场](https://s.weibo.com//weibo?q=%E6%A2%81%E6%B7%85%E6%B2%A5%E7%9B%9B%E8%89%BE%E6%95%AC%E5%8F%8C%E4%BA%BA%E6%96%B0%E7%89%88%E5%BC%80%E5%9C%BA&t=152&Refer=top) - 300077
+1. [小城良方最后八分钟太牛](https://s.weibo.com//weibo?q=%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E6%9C%80%E5%90%8E%E5%85%AB%E5%88%86%E9%92%9F%E5%A4%AA%E7%89%9B&t=152&Refer=top) - 286139
+1. [虞书欣演唱会官宣](https://s.weibo.com//weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3%23&t=152&Refer=top) - 257525
+1. [易易紫力挺文吉儿](https://s.weibo.com//weibo?q=%23%E6%98%93%E6%98%93%E7%B4%AB%E5%8A%9B%E6%8C%BA%E6%96%87%E5%90%89%E5%84%BF%23&t=152&Refer=top) - 231772
+1. [王楚然一推范丞丞就倒](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E4%B8%80%E6%8E%A8%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%B0%B1%E5%80%92%23&t=152&Refer=top) - 208595
+1. [胡先煦回应白敬亭](https://s.weibo.com//weibo?q=%23%E8%83%A1%E5%85%88%E7%85%A6%E5%9B%9E%E5%BA%94%E7%99%BD%E6%95%AC%E4%BA%AD%23&t=152&Refer=top) - 208587
+1. [王子璇大学同学发声](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E5%A4%A7%E5%AD%A6%E5%90%8C%E5%AD%A6%E5%8F%91%E5%A3%B0%23&t=152&Refer=top) - 193636
+1. [小城良方大结局神来之笔](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E5%A4%A7%E7%BB%93%E5%B1%80%E7%A5%9E%E6%9D%A5%E4%B9%8B%E7%AC%94%23&t=152&Refer=top) - 186378
+1. [王子璇聚餐不让朋友买单](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E8%81%9A%E9%A4%90%E4%B8%8D%E8%AE%A9%E6%9C%8B%E5%8F%8B%E4%B9%B0%E5%8D%95%23&t=152&Refer=top) - 183209
+1. [礼根就是lg 青稚也是妻子](https://s.weibo.com//weibo?q=%E7%A4%BC%E6%A0%B9%E5%B0%B1%E6%98%AFlg%20%E9%9D%92%E7%A8%9A%E4%B9%9F%E6%98%AF%E5%A6%BB%E5%AD%90&t=152&Refer=top) - 181529
+1. [丞磊徐若晗回应玉簟秋结局](https://s.weibo.com//weibo?q=%23%E4%B8%9E%E7%A3%8A%E5%BE%90%E8%8B%A5%E6%99%97%E5%9B%9E%E5%BA%94%E7%8E%89%E7%B0%9F%E7%A7%8B%E7%BB%93%E5%B1%80%23&t=152&Refer=top) - 173757
+1. [刘铮亮最后一刻还在救别人](https://s.weibo.com//weibo?q=%23%E5%88%98%E9%93%AE%E4%BA%AE%E6%9C%80%E5%90%8E%E4%B8%80%E5%88%BB%E8%BF%98%E5%9C%A8%E6%95%91%E5%88%AB%E4%BA%BA%23&t=152&Refer=top) - 156381
+1. [许飞 出书](https://s.weibo.com//weibo?q=%E8%AE%B8%E9%A3%9E%20%E5%87%BA%E4%B9%A6&t=152&Refer=top) - 140743
 1. [宋亚轩粉丝停氪](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E7%B2%89%E4%B8%9D%E5%81%9C%E6%B0%AA%23&t=152&Refer=top) - 1125391
+1. [多方回应王子璇文吉儿争议](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E7%8E%8B%E5%AD%90%E7%92%87%E6%96%87%E5%90%89%E5%84%BF%E4%BA%89%E8%AE%AE%23&t=152&Refer=top) - 131271
+1. [范丞丞曾因脖子长去医院检查](https://s.weibo.com//weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%9B%BE%E5%9B%A0%E8%84%96%E5%AD%90%E9%95%BF%E5%8E%BB%E5%8C%BB%E9%99%A2%E6%A3%80%E6%9F%A5%23&t=152&Refer=top) - 131261
+1. [小城良方米四下线](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E7%B1%B3%E5%9B%9B%E4%B8%8B%E7%BA%BF%23&t=152&Refer=top) - 130801
+1. [侯卓成 尊重一点女方别太入戏了](https://s.weibo.com//weibo?q=%E4%BE%AF%E5%8D%93%E6%88%90%20%E5%B0%8A%E9%87%8D%E4%B8%80%E7%82%B9%E5%A5%B3%E6%96%B9%E5%88%AB%E5%A4%AA%E5%85%A5%E6%88%8F%E4%BA%86&t=152&Refer=top) - 2113024
+1. [杨汝晴 沉没成本不参与重大决策](https://s.weibo.com//weibo?q=%E6%9D%A8%E6%B1%9D%E6%99%B4%20%E6%B2%89%E6%B2%A1%E6%88%90%E6%9C%AC%E4%B8%8D%E5%8F%82%E4%B8%8E%E9%87%8D%E5%A4%A7%E5%86%B3%E7%AD%96&t=152&Refer=top) - 479538
+1. [许飞厉娜 指纹](https://s.weibo.com//weibo?q=%E8%AE%B8%E9%A3%9E%E5%8E%89%E5%A8%9C%20%E6%8C%87%E7%BA%B9&t=152&Refer=top) - 127100
+1. [许飞早就暗示过了](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E9%A3%9E%E6%97%A9%E5%B0%B1%E6%9A%97%E7%A4%BA%E8%BF%87%E4%BA%86%23&t=152&Refer=top) - 122254
 1. [侯卓成王垲智聊天记录](https://s.weibo.com//weibo?q=%E4%BE%AF%E5%8D%93%E6%88%90%E7%8E%8B%E5%9E%B2%E6%99%BA%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95&t=152&Refer=top) - 1056790
+1. [胡歌出差会背一个AED](https://s.weibo.com//weibo?q=%23%E8%83%A1%E6%AD%8C%E5%87%BA%E5%B7%AE%E4%BC%9A%E8%83%8C%E4%B8%80%E4%B8%AAAED%23&t=152&Refer=top) - 115128
+1. [演员吕齐去世](https://s.weibo.com//weibo?q=%23%E6%BC%94%E5%91%98%E5%90%95%E9%BD%90%E5%8E%BB%E4%B8%96%23&t=152&Refer=top) - 104809
+1. [文吉儿 文笔](https://s.weibo.com//weibo?q=%E6%96%87%E5%90%89%E5%84%BF%20%E6%96%87%E7%AC%94&t=152&Refer=top) - 104447
+1. [曝好几个90和95生都在谈恋爱](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E5%A5%BD%E5%87%A0%E4%B8%AA90%E5%92%8C95%E7%94%9F%E9%83%BD%E5%9C%A8%E8%B0%88%E6%81%8B%E7%88%B1%23&t=152&Refer=top) - 96712
+1. [谭松韵改礼服](https://s.weibo.com//weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E6%94%B9%E7%A4%BC%E6%9C%8D%23&t=152&Refer=top) - 96707
+1. [折月亮OST阵容](https://s.weibo.com//weibo?q=%23%E6%8A%98%E6%9C%88%E4%BA%AEOST%E9%98%B5%E5%AE%B9%23&t=152&Refer=top) - 95130
+1. [苍白给吾恩写的歌词写的竟是自己](https://s.weibo.com//weibo?q=%E8%8B%8D%E7%99%BD%E7%BB%99%E5%90%BE%E6%81%A9%E5%86%99%E7%9A%84%E6%AD%8C%E8%AF%8D%E5%86%99%E7%9A%84%E7%AB%9F%E6%98%AF%E8%87%AA%E5%B7%B1&t=152&Refer=top) - 94760
+1. [肖战为了角色精准控制胡子生长](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E4%B8%BA%E4%BA%86%E8%A7%92%E8%89%B2%E7%B2%BE%E5%87%86%E6%8E%A7%E5%88%B6%E8%83%A1%E5%AD%90%E7%94%9F%E9%95%BF%23&t=152&Refer=top) - 94360
+1. [超模发了迪丽热巴](https://s.weibo.com//weibo?q=%23%E8%B6%85%E6%A8%A1%E5%8F%91%E4%BA%86%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23&t=152&Refer=top) - 92522
+1. [肖战小城良方29集207广](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B929%E9%9B%86207%E5%B9%BF%23&t=152&Refer=top) - 85067
+1. [郝熠然 资生堂](https://s.weibo.com//weibo?q=%E9%83%9D%E7%86%A0%E7%84%B6%20%E8%B5%84%E7%94%9F%E5%A0%82&t=152&Refer=top) - 83589
+1. [玉簟秋最后一集还在反转](https://s.weibo.com//weibo?q=%23%E7%8E%89%E7%B0%9F%E7%A7%8B%E6%9C%80%E5%90%8E%E4%B8%80%E9%9B%86%E8%BF%98%E5%9C%A8%E5%8F%8D%E8%BD%AC%23&t=152&Refer=top) - 81461
+1. [嫁金钗大婚吻戏](https://s.weibo.com//weibo?q=%E5%AB%81%E9%87%91%E9%92%97%E5%A4%A7%E5%A9%9A%E5%90%BB%E6%88%8F&t=152&Refer=top) - 81313
 1. [许飞 厉娜](https://s.weibo.com//weibo?q=%E8%AE%B8%E9%A3%9E%20%E5%8E%89%E5%A8%9C&t=152&Refer=top) - 688603
 1. [侯卓成杨汝晴原本计划10月领证](https://s.weibo.com//weibo?q=%23%E4%BE%AF%E5%8D%93%E6%88%90%E6%9D%A8%E6%B1%9D%E6%99%B4%E5%8E%9F%E6%9C%AC%E8%AE%A1%E5%88%9210%E6%9C%88%E9%A2%86%E8%AF%81%23&t=152&Refer=top) - 688598
 1. [章子怡发文鼓励宋雨琦](https://s.weibo.com//weibo?q=%E7%AB%A0%E5%AD%90%E6%80%A1%E5%8F%91%E6%96%87%E9%BC%93%E5%8A%B1%E5%AE%8B%E9%9B%A8%E7%90%A6&t=152&Refer=top) - 673722
@@ -14,7 +60,6 @@
 1. [侯卓成王垲智可以上后会友期](https://s.weibo.com//weibo?q=%23%E4%BE%AF%E5%8D%93%E6%88%90%E7%8E%8B%E5%9E%B2%E6%99%BA%E5%8F%AF%E4%BB%A5%E4%B8%8A%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%23&t=152&Refer=top) - 592032
 1. [肖战史冠](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E5%8F%B2%E5%86%A0%23&t=152&Refer=top) - 532829
 1. [侯卓成暗戳戳说杨汝晴太脆弱](https://s.weibo.com//weibo?q=%23%E4%BE%AF%E5%8D%93%E6%88%90%E6%9A%97%E6%88%B3%E6%88%B3%E8%AF%B4%E6%9D%A8%E6%B1%9D%E6%99%B4%E5%A4%AA%E8%84%86%E5%BC%B1%23&t=152&Refer=top) - 532820
-1. [杨汝晴 沉没成本不参与重大决策](https://s.weibo.com//weibo?q=%E6%9D%A8%E6%B1%9D%E6%99%B4%20%E6%B2%89%E6%B2%A1%E6%88%90%E6%9C%AC%E4%B8%8D%E5%8F%82%E4%B8%8E%E9%87%8D%E5%A4%A7%E5%86%B3%E7%AD%96&t=152&Refer=top) - 479538
 1. [永夜星河](https://s.weibo.com//weibo?q=%E6%B0%B8%E5%A4%9C%E6%98%9F%E6%B2%B3&t=152&Refer=top) - 431584
 1. [王子璇 文吉儿](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%AD%90%E7%92%87%20%E6%96%87%E5%90%89%E5%84%BF&t=152&Refer=top) - 968367
 1. [文吉儿 王子璇](https://s.weibo.com//weibo?q=%E6%96%87%E5%90%89%E5%84%BF%20%E7%8E%8B%E5%AD%90%E7%92%87&t=152&Refer=top) - 349583
