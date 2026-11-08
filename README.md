@@ -2,22 +2,65 @@
 微博文娱热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 08 2026 07:26:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 08 2026 12:38:18 GMT+0800 (China Standard Time) -->
+1. [黄焖鸡事变](https://s.weibo.com//weibo?q=%23%E9%BB%84%E7%84%96%E9%B8%A1%E4%BA%8B%E5%8F%98%23&t=152&Refer=top) - 2395658
+1. [文吉儿王子璇 吵架原对话](https://s.weibo.com//weibo?q=%E6%96%87%E5%90%89%E5%84%BF%E7%8E%8B%E5%AD%90%E7%92%87%20%E5%90%B5%E6%9E%B6%E5%8E%9F%E5%AF%B9%E8%AF%9D&t=152&Refer=top) - 1418686
+1. [小糯米听到刘恺威有新女友的反应](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E7%B3%AF%E7%B1%B3%E5%90%AC%E5%88%B0%E5%88%98%E6%81%BA%E5%A8%81%E6%9C%89%E6%96%B0%E5%A5%B3%E5%8F%8B%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=152&Refer=top) - 1094730
+1. [厉娜回复了于正求情](https://s.weibo.com//weibo?q=%23%E5%8E%89%E5%A8%9C%E5%9B%9E%E5%A4%8D%E4%BA%86%E4%BA%8E%E6%AD%A3%E6%B1%82%E6%83%85%23&t=152&Refer=top) - 949551
+1. [迪丽热巴物欲超低的女明星](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%89%A9%E6%AC%B2%E8%B6%85%E4%BD%8E%E7%9A%84%E5%A5%B3%E6%98%8E%E6%98%9F%23&t=152&Refer=top) - 697772
+1. [于正回应和何晟铭上后会友期](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E6%AD%A3%E5%9B%9E%E5%BA%94%E5%92%8C%E4%BD%95%E6%99%9F%E9%93%AD%E4%B8%8A%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%23&t=152&Refer=top) - 697762
+1. [王一博打滑后连续超车](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%89%93%E6%BB%91%E5%90%8E%E8%BF%9E%E7%BB%AD%E8%B6%85%E8%BD%A6&t=152&Refer=top) - 627985
+1. [王俊凯卡清迈零点祝王源生日快乐](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%8D%A1%E6%B8%85%E8%BF%88%E9%9B%B6%E7%82%B9%E7%A5%9D%E7%8E%8B%E6%BA%90%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%23&t=152&Refer=top) - 565187
+1. [曝金鸡奖获奖名单](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E9%87%91%E9%B8%A1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%23&t=152&Refer=top) - 508668
+1. [张月疑似拒收cp粉的信](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%9C%88%E7%96%91%E4%BC%BC%E6%8B%92%E6%94%B6cp%E7%B2%89%E7%9A%84%E4%BF%A1&t=152&Refer=top) - 457801
+1. [后会友期 恰逢各个圈子都很闲](https://s.weibo.com//weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%20%E6%81%B0%E9%80%A2%E5%90%84%E4%B8%AA%E5%9C%88%E5%AD%90%E9%83%BD%E5%BE%88%E9%97%B2&t=152&Refer=top) - 457796
+1. [文吉儿结婚前必须要解决和王子璇的事](https://s.weibo.com//weibo?q=%23%E6%96%87%E5%90%89%E5%84%BF%E7%BB%93%E5%A9%9A%E5%89%8D%E5%BF%85%E9%A1%BB%E8%A6%81%E8%A7%A3%E5%86%B3%E5%92%8C%E7%8E%8B%E5%AD%90%E7%92%87%E7%9A%84%E4%BA%8B%23&t=152&Refer=top) - 457788
+1. [后会友期剪辑 偏袒](https://s.weibo.com//weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E5%89%AA%E8%BE%91%20%E5%81%8F%E8%A2%92&t=152&Refer=top) - 457781
 1. [易烊千玺](https://s.weibo.com//weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA&t=152&Refer=top) - 802943
-1. [马天宇和张萌被审判](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E5%92%8C%E5%BC%A0%E8%90%8C%E8%A2%AB%E5%AE%A1%E5%88%A4%23&t=152&Refer=top) - 562060
+1. [嫁金钗大结局争议](https://s.weibo.com//weibo?q=%E5%AB%81%E9%87%91%E9%92%97%E5%A4%A7%E7%BB%93%E5%B1%80%E4%BA%89%E8%AE%AE&t=152&Refer=top) - 370803
+1. [宁艺卓 Gucci女王](https://s.weibo.com//weibo?q=%E5%AE%81%E8%89%BA%E5%8D%93%20Gucci%E5%A5%B3%E7%8E%8B&t=152&Refer=top) - 333722
+1. [王一博打双闪感谢车手](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%89%93%E5%8F%8C%E9%97%AA%E6%84%9F%E8%B0%A2%E8%BD%A6%E6%89%8B%23&t=152&Refer=top) - 300350
+1. [圈内人聊杨幂感情状况](https://s.weibo.com//weibo?q=%23%E5%9C%88%E5%86%85%E4%BA%BA%E8%81%8A%E6%9D%A8%E5%B9%82%E6%84%9F%E6%83%85%E7%8A%B6%E5%86%B5%23&t=152&Refer=top) - 270315
+1. [刘亦菲仙气标签装不下她了](https://s.weibo.com//weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E4%BB%99%E6%B0%94%E6%A0%87%E7%AD%BE%E8%A3%85%E4%B8%8D%E4%B8%8B%E5%A5%B9%E4%BA%86&t=152&Refer=top) - 243283
+1. [连外国人都在看后会友期](https://s.weibo.com//weibo?q=%23%E8%BF%9E%E5%A4%96%E5%9B%BD%E4%BA%BA%E9%83%BD%E5%9C%A8%E7%9C%8B%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%23&t=152&Refer=top) - 218955
+1. [青稚删除让他别和白小纯和好的回复](https://s.weibo.com//weibo?q=%23%E9%9D%92%E7%A8%9A%E5%88%A0%E9%99%A4%E8%AE%A9%E4%BB%96%E5%88%AB%E5%92%8C%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%92%8C%E5%A5%BD%E7%9A%84%E5%9B%9E%E5%A4%8D%23&t=152&Refer=top) - 218949
+1. [马天宇 不想再接触人类](https://s.weibo.com//weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87%20%E4%B8%8D%E6%83%B3%E5%86%8D%E6%8E%A5%E8%A7%A6%E4%BA%BA%E7%B1%BB&t=152&Refer=top) - 218942
+1. [王子璇太体面了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E5%A4%AA%E4%BD%93%E9%9D%A2%E4%BA%86%23&t=152&Refer=top) - 218935
+1. [太阳雨 超异能族](https://s.weibo.com//weibo?q=%E5%A4%AA%E9%98%B3%E9%9B%A8%20%E8%B6%85%E5%BC%82%E8%83%BD%E6%97%8F&t=152&Refer=top) - 197041
 1. [于正求厉娜原谅许飞](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E6%AD%A3%E6%B1%82%E5%8E%89%E5%A8%9C%E5%8E%9F%E8%B0%85%E8%AE%B8%E9%A3%9E%23&t=152&Refer=top) - 393442
-1. [王俊凯卡清迈零点祝王源生日快乐](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%8D%A1%E6%B8%85%E8%BF%88%E9%9B%B6%E7%82%B9%E7%A5%9D%E7%8E%8B%E6%BA%90%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%23&t=152&Refer=top) - 354097
+1. [厉娜许飞这是要和好了吗](https://s.weibo.com//weibo?q=%23%E5%8E%89%E5%A8%9C%E8%AE%B8%E9%A3%9E%E8%BF%99%E6%98%AF%E8%A6%81%E5%92%8C%E5%A5%BD%E4%BA%86%E5%90%97%23&t=152&Refer=top) - 194646
+1. [许飞厉娜两个人默契地都没有下车](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E9%A3%9E%E5%8E%89%E5%A8%9C%E4%B8%A4%E4%B8%AA%E4%BA%BA%E9%BB%98%E5%A5%91%E5%9C%B0%E9%83%BD%E6%B2%A1%E6%9C%89%E4%B8%8B%E8%BD%A6%23&t=152&Refer=top) - 175181
 1. [爸爸去哪儿3重聚为康康庆生](https://s.weibo.com//weibo?q=%23%E7%88%B8%E7%88%B8%E5%8E%BB%E5%93%AA%E5%84%BF3%E9%87%8D%E8%81%9A%E4%B8%BA%E5%BA%B7%E5%BA%B7%E5%BA%86%E7%94%9F%23&t=152&Refer=top) - 318688
+1. [马天宇和张萌被审判](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E5%92%8C%E5%BC%A0%E8%90%8C%E8%A2%AB%E5%AE%A1%E5%88%A4%23&t=152&Refer=top) - 562060
+1. [重庆号官宣角色档案](https://s.weibo.com//weibo?q=%E9%87%8D%E5%BA%86%E5%8F%B7%E5%AE%98%E5%AE%A3%E8%A7%92%E8%89%B2%E6%A1%A3%E6%A1%88&t=152&Refer=top) - 127707
+1. [现在就出发4](https://s.weibo.com//weibo?q=%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%914&t=152&Refer=top) - 127698
+1. [今何在](https://s.weibo.com//weibo?q=%E4%BB%8A%E4%BD%95%E5%9C%A8&t=152&Refer=top) - 114928
+1. [于正何晟铭 后会友期](https://s.weibo.com//weibo?q=%E4%BA%8E%E6%AD%A3%E4%BD%95%E6%99%9F%E9%93%AD%20%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F&t=152&Refer=top) - 103435
+1. [王一博轮胎打滑了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%BD%AE%E8%83%8E%E6%89%93%E6%BB%91%E4%BA%86%23&t=152&Refer=top) - 99799
+1. [辰亦儒叫汪东城赶紧去谈恋爱](https://s.weibo.com//weibo?q=%23%E8%BE%B0%E4%BA%A6%E5%84%92%E5%8F%AB%E6%B1%AA%E4%B8%9C%E5%9F%8E%E8%B5%B6%E7%B4%A7%E5%8E%BB%E8%B0%88%E6%81%8B%E7%88%B1%23&t=152&Refer=top) - 98977
+1. [马天宇5岁被妈妈喂安眠药](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%875%E5%B2%81%E8%A2%AB%E5%A6%88%E5%A6%88%E5%96%82%E5%AE%89%E7%9C%A0%E8%8D%AF%23&t=152&Refer=top) - 93753
+1. [王源这一滴泪真的太重了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E8%BF%99%E4%B8%80%E6%BB%B4%E6%B3%AA%E7%9C%9F%E7%9A%84%E5%A4%AA%E9%87%8D%E4%BA%86%23&t=152&Refer=top) - 93178
+1. [文吉儿 功利心](https://s.weibo.com//weibo?q=%E6%96%87%E5%90%89%E5%84%BF%20%E5%8A%9F%E5%88%A9%E5%BF%83&t=152&Refer=top) - 86992
+1. [王楚然表白完黄景瑜愣住了两秒](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E8%A1%A8%E7%99%BD%E5%AE%8C%E9%BB%84%E6%99%AF%E7%91%9C%E6%84%A3%E4%BD%8F%E4%BA%86%E4%B8%A4%E7%A7%92%23&t=152&Refer=top) - 152427
+1. [贺峻霖小时候偷亲过马天宇](https://s.weibo.com//weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E5%B0%8F%E6%97%B6%E5%80%99%E5%81%B7%E4%BA%B2%E8%BF%87%E9%A9%AC%E5%A4%A9%E5%AE%87%23&t=152&Refer=top) - 86403
+1. [杨超越下沉市场口碑](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E4%B8%8B%E6%B2%89%E5%B8%82%E5%9C%BA%E5%8F%A3%E7%A2%91%23&t=152&Refer=top) - 85609
+1. [张艺谋承认电影不再是精英艺术](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E6%89%BF%E8%AE%A4%E7%94%B5%E5%BD%B1%E4%B8%8D%E5%86%8D%E6%98%AF%E7%B2%BE%E8%8B%B1%E8%89%BA%E6%9C%AF%23&t=152&Refer=top) - 83991
+1. [宋慧乔孔刘 对抗路](https://s.weibo.com//weibo?q=%E5%AE%8B%E6%85%A7%E4%B9%94%E5%AD%94%E5%88%98%20%E5%AF%B9%E6%8A%97%E8%B7%AF&t=152&Refer=top) - 81844
+1. [没想到郭碧婷也爱玩造景贴纸](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E9%83%AD%E7%A2%A7%E5%A9%B7%E4%B9%9F%E7%88%B1%E7%8E%A9%E9%80%A0%E6%99%AF%E8%B4%B4%E7%BA%B8%23&t=152&Refer=top) - 73968
+1. [胡军为刘烨庆生vs诺一为康康庆生](https://s.weibo.com//weibo?q=%23%E8%83%A1%E5%86%9B%E4%B8%BA%E5%88%98%E7%83%A8%E5%BA%86%E7%94%9Fvs%E8%AF%BA%E4%B8%80%E4%B8%BA%E5%BA%B7%E5%BA%B7%E5%BA%86%E7%94%9F%23&t=152&Refer=top) - 72729
+1. [挟胚胎以令诸侯](https://s.weibo.com//weibo?q=%E6%8C%9F%E8%83%9A%E8%83%8E%E4%BB%A5%E4%BB%A4%E8%AF%B8%E4%BE%AF&t=152&Refer=top) - 70822
+1. [W盛典开毯人选](https://s.weibo.com//weibo?q=%23W%E7%9B%9B%E5%85%B8%E5%BC%80%E6%AF%AF%E4%BA%BA%E9%80%89%23&t=152&Refer=top) - 69146
+1. [小城良方的二创](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E7%9A%84%E4%BA%8C%E5%88%9B%23&t=152&Refer=top) - 69041
+1. [张予曦怒斥打手机工作人员](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E4%BA%88%E6%9B%A6%E6%80%92%E6%96%A5%E6%89%93%E6%89%8B%E6%9C%BA%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%23&t=152&Refer=top) - 65859
+1. [AI打破中国不能拍丧尸剧遗憾](https://s.weibo.com//weibo?q=AI%E6%89%93%E7%A0%B4%E4%B8%AD%E5%9B%BD%E4%B8%8D%E8%83%BD%E6%8B%8D%E4%B8%A7%E5%B0%B8%E5%89%A7%E9%81%97%E6%86%BE&t=152&Refer=top) - 65742
 1. [白小纯青稚的关系已经成了一门学问](https://s.weibo.com//weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E9%9D%92%E7%A8%9A%E7%9A%84%E5%85%B3%E7%B3%BB%E5%B7%B2%E7%BB%8F%E6%88%90%E4%BA%86%E4%B8%80%E9%97%A8%E5%AD%A6%E9%97%AE%23&t=152&Refer=top) - 286819
 1. [凯源](https://s.weibo.com//weibo?q=%E5%87%AF%E6%BA%90&t=152&Refer=top) - 258137
 1. [炎亚纶这次我真得站你这边了](https://s.weibo.com//weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E8%BF%99%E6%AC%A1%E6%88%91%E7%9C%9F%E5%BE%97%E7%AB%99%E4%BD%A0%E8%BF%99%E8%BE%B9%E4%BA%86%23&t=152&Refer=top) - 232323
 1. [刘丹透露小糯米在英国读书](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%B8%B9%E9%80%8F%E9%9C%B2%E5%B0%8F%E7%B3%AF%E7%B1%B3%E5%9C%A8%E8%8B%B1%E5%9B%BD%E8%AF%BB%E4%B9%A6%23&t=152&Refer=top) - 209091
 1. [hi6收视拿到大芒果了](https://s.weibo.com//weibo?q=%23hi6%E6%94%B6%E8%A7%86%E6%8B%BF%E5%88%B0%E5%A4%A7%E8%8A%92%E6%9E%9C%E4%BA%86%23&t=152&Refer=top) - 188182
 1. [鹿晗投资天霸至今没拿过分红](https://s.weibo.com//weibo?q=%23%E9%B9%BF%E6%99%97%E6%8A%95%E8%B5%84%E5%A4%A9%E9%9C%B8%E8%87%B3%E4%BB%8A%E6%B2%A1%E6%8B%BF%E8%BF%87%E5%88%86%E7%BA%A2%23&t=152&Refer=top) - 196630
-1. [王楚然表白完黄景瑜愣住了两秒](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E8%A1%A8%E7%99%BD%E5%AE%8C%E9%BB%84%E6%99%AF%E7%91%9C%E6%84%A3%E4%BD%8F%E4%BA%86%E4%B8%A4%E7%A7%92%23&t=152&Refer=top) - 152427
 1. [谁看到马天宇的家庭都会流泪](https://s.weibo.com//weibo?q=%23%E8%B0%81%E7%9C%8B%E5%88%B0%E9%A9%AC%E5%A4%A9%E5%AE%87%E7%9A%84%E5%AE%B6%E5%BA%AD%E9%83%BD%E4%BC%9A%E6%B5%81%E6%B3%AA%23&t=152&Refer=top) - 137184
 1. [大S剥虾论八年后被读懂](https://s.weibo.com//weibo?q=%E5%A4%A7S%E5%89%A5%E8%99%BE%E8%AE%BA%E5%85%AB%E5%B9%B4%E5%90%8E%E8%A2%AB%E8%AF%BB%E6%87%82&t=152&Refer=top) - 123466
-1. [今何在](https://s.weibo.com//weibo?q=%E4%BB%8A%E4%BD%95%E5%9C%A8&t=152&Refer=top) - 111119
 1. [王一博585车组获亚军](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A585%E8%BD%A6%E7%BB%84%E8%8E%B7%E4%BA%9A%E5%86%9B%23&t=152&Refer=top) - 100007
 1. [丁程鑫还回来当偶像吗](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E8%BF%98%E5%9B%9E%E6%9D%A5%E5%BD%93%E5%81%B6%E5%83%8F%E5%90%97%23&t=152&Refer=top) - 90006
 1. [马天宇 李明德](https://s.weibo.com//weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87%20%E6%9D%8E%E6%98%8E%E5%BE%B7&t=152&Refer=top) - 159270
