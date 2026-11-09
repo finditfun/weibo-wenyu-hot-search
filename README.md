@@ -2,8 +2,57 @@
 微博文娱热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 09 2026 09:26:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 09 2026 17:10:14 GMT+0800 (China Standard Time) -->
+1. [金子涵被下药中毒](https://s.weibo.com//weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E8%A2%AB%E4%B8%8B%E8%8D%AF%E4%B8%AD%E6%AF%92%23&t=152&Refer=top) - 1956188
+1. [杨幂一下穿了两套祖海高定](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E4%B8%80%E4%B8%8B%E7%A9%BF%E4%BA%86%E4%B8%A4%E5%A5%97%E7%A5%96%E6%B5%B7%E9%AB%98%E5%AE%9A%23&t=152&Refer=top) - 1378201
+1. [许飞人品](https://s.weibo.com//weibo?q=%E8%AE%B8%E9%A3%9E%E4%BA%BA%E5%93%81&t=152&Refer=top) - 1038733
+1. [W盛典红毯](https://s.weibo.com//weibo?q=W%E7%9B%9B%E5%85%B8%E7%BA%A2%E6%AF%AF&t=152&Refer=top) - 929382
+1. [高迪 大美](https://s.weibo.com//weibo?q=%E9%AB%98%E8%BF%AA%20%E5%A4%A7%E7%BE%8E&t=152&Refer=top) - 811136
+1. [迪丽热巴爸爸助农直播](https://s.weibo.com//weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%88%B8%E7%88%B8%E5%8A%A9%E5%86%9C%E7%9B%B4%E6%92%AD&t=152&Refer=top) - 724314
+1. [青稚疑似删的是CD录音](https://s.weibo.com//weibo?q=%23%E9%9D%92%E7%A8%9A%E7%96%91%E4%BC%BC%E5%88%A0%E7%9A%84%E6%98%AFCD%E5%BD%95%E9%9F%B3%23&t=152&Refer=top) - 534615
+1. [曝金子涵父母都在美国](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E9%87%91%E5%AD%90%E6%B6%B5%E7%88%B6%E6%AF%8D%E9%83%BD%E5%9C%A8%E7%BE%8E%E5%9B%BD%23&t=152&Refer=top) - 509305
+1. [西游记最无法用科学解释的离奇事件](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E6%B8%B8%E8%AE%B0%E6%9C%80%E6%97%A0%E6%B3%95%E7%94%A8%E7%A7%91%E5%AD%A6%E8%A7%A3%E9%87%8A%E7%9A%84%E7%A6%BB%E5%A5%87%E4%BA%8B%E4%BB%B6%23&t=152&Refer=top) - 458374
+1. [猫的树发文](https://s.weibo.com//weibo?q=%23%E7%8C%AB%E7%9A%84%E6%A0%91%E5%8F%91%E6%96%87%23&t=152&Refer=top) - 412537
+1. [宋茜穿的这个裙子能坐下吗](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E8%8C%9C%E7%A9%BF%E7%9A%84%E8%BF%99%E4%B8%AA%E8%A3%99%E5%AD%90%E8%83%BD%E5%9D%90%E4%B8%8B%E5%90%97%23&t=152&Refer=top) - 412527
+1. [虞书欣 W盛典](https://s.weibo.com//weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%20W%E7%9B%9B%E5%85%B8&t=152&Refer=top) - 412518
+1. [W盛典出图](https://s.weibo.com//weibo?q=W%E7%9B%9B%E5%85%B8%E5%87%BA%E5%9B%BE&t=152&Refer=top) - 371266
+1. [许飞不在厉娜的反应](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E9%A3%9E%E4%B8%8D%E5%9C%A8%E5%8E%89%E5%A8%9C%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=152&Refer=top) - 334139
+1. [陈梦宋茜陈好聚会合照](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%A2%A6%E5%AE%8B%E8%8C%9C%E9%99%88%E5%A5%BD%E8%81%9A%E4%BC%9A%E5%90%88%E7%85%A7%23&t=152&Refer=top) - 300725
+1. [迪丽热巴爸爸20分钟卖了7000单苹果](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%88%B8%E7%88%B820%E5%88%86%E9%92%9F%E5%8D%96%E4%BA%867000%E5%8D%95%E8%8B%B9%E6%9E%9C%23&t=152&Refer=top) - 270653
+1. [郭碧婷父亲抗癌进展](https://s.weibo.com//weibo?q=%23%E9%83%AD%E7%A2%A7%E5%A9%B7%E7%88%B6%E4%BA%B2%E6%8A%97%E7%99%8C%E8%BF%9B%E5%B1%95%23&t=152&Refer=top) - 243587
+1. [再婚皇后道具疑似是在拼多多买的](https://s.weibo.com//weibo?q=%23%E5%86%8D%E5%A9%9A%E7%9A%87%E5%90%8E%E9%81%93%E5%85%B7%E7%96%91%E4%BC%BC%E6%98%AF%E5%9C%A8%E6%8B%BC%E5%A4%9A%E5%A4%9A%E4%B9%B0%E7%9A%84%23&t=152&Refer=top) - 219229
+1. [W盛典女星发型要求](https://s.weibo.com//weibo?q=%23W%E7%9B%9B%E5%85%B8%E5%A5%B3%E6%98%9F%E5%8F%91%E5%9E%8B%E8%A6%81%E6%B1%82%23&t=152&Refer=top) - 197306
+1. [庞颖曾劝许飞别上后会友期](https://s.weibo.com//weibo?q=%E5%BA%9E%E9%A2%96%E6%9B%BE%E5%8A%9D%E8%AE%B8%E9%A3%9E%E5%88%AB%E4%B8%8A%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F&t=152&Refer=top) - 177575
+1. [青稚今天我给白小纯道歉了](https://s.weibo.com//weibo?q=%23%E9%9D%92%E7%A8%9A%E4%BB%8A%E5%A4%A9%E6%88%91%E7%BB%99%E7%99%BD%E5%B0%8F%E7%BA%AF%E9%81%93%E6%AD%89%E4%BA%86%23&t=152&Refer=top) - 177566
+1. [唐嫣 摩登女郎](https://s.weibo.com//weibo?q=%E5%94%90%E5%AB%A3%20%E6%91%A9%E7%99%BB%E5%A5%B3%E9%83%8E&t=152&Refer=top) - 177556
+1. [刘诗诗 复古名伶](https://s.weibo.com//weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20%E5%A4%8D%E5%8F%A4%E5%90%8D%E4%BC%B6&t=152&Refer=top) - 177551
+1. [疑似王橹杰等穆祉丞退场](https://s.weibo.com//weibo?q=%23%E7%96%91%E4%BC%BC%E7%8E%8B%E6%A9%B9%E6%9D%B0%E7%AD%89%E7%A9%86%E7%A5%89%E4%B8%9E%E9%80%80%E5%9C%BA%23&t=152&Refer=top) - 173691
+1. [李思潼金鸡奖表彰红毯直拍](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%80%9D%E6%BD%BC%E9%87%91%E9%B8%A1%E5%A5%96%E8%A1%A8%E5%BD%B0%E7%BA%A2%E6%AF%AF%E7%9B%B4%E6%8B%8D%23&t=152&Refer=top) - 156321
+1. [吴磊问梁家辉是不是坐高铁来的](https://s.weibo.com//weibo?q=%E5%90%B4%E7%A3%8A%E9%97%AE%E6%A2%81%E5%AE%B6%E8%BE%89%E6%98%AF%E4%B8%8D%E6%98%AF%E5%9D%90%E9%AB%98%E9%93%81%E6%9D%A5%E7%9A%84&t=152&Refer=top) - 156316
+1. [张凌赫回应穿裙子](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%9B%9E%E5%BA%94%E7%A9%BF%E8%A3%99%E5%AD%90%23&t=152&Refer=top) - 156307
+1. [王传君直言录桃花坞前很抑郁](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BC%A0%E5%90%9B%E7%9B%B4%E8%A8%80%E5%BD%95%E6%A1%83%E8%8A%B1%E5%9D%9E%E5%89%8D%E5%BE%88%E6%8A%91%E9%83%81%23&t=152&Refer=top) - 156041
+1. [马天宇厉娜评论区互怼](https://s.weibo.com//weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87%E5%8E%89%E5%A8%9C%E8%AF%84%E8%AE%BA%E5%8C%BA%E4%BA%92%E6%80%BC&t=152&Refer=top) - 152022
+1. [井柏然带刘雯见谷雨导演](https://s.weibo.com//weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E5%B8%A6%E5%88%98%E9%9B%AF%E8%A7%81%E8%B0%B7%E9%9B%A8%E5%AF%BC%E6%BC%94%23&t=152&Refer=top) - 139251
+1. [曾沛慈抢票](https://s.weibo.com//weibo?q=%E6%9B%BE%E6%B2%9B%E6%85%88%E6%8A%A2%E7%A5%A8&t=152&Refer=top) - 139244
+1. [刘浩存 喜欢什么就穿什么](https://s.weibo.com//weibo?q=%E5%88%98%E6%B5%A9%E5%AD%98%20%E5%96%9C%E6%AC%A2%E4%BB%80%E4%B9%88%E5%B0%B1%E7%A9%BF%E4%BB%80%E4%B9%88&t=152&Refer=top) - 134262
+1. [高迪大美时间线](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%BF%AA%E5%A4%A7%E7%BE%8E%E6%97%B6%E9%97%B4%E7%BA%BF%23&t=152&Refer=top) - 120835
+1. [张萌把厉娜同款冲锋衣拿给许飞穿了](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%90%8C%E6%8A%8A%E5%8E%89%E5%A8%9C%E5%90%8C%E6%AC%BE%E5%86%B2%E9%94%8B%E8%A1%A3%E6%8B%BF%E7%BB%99%E8%AE%B8%E9%A3%9E%E7%A9%BF%E4%BA%86%23&t=152&Refer=top) - 119093
+1. [程晓玥自曝与老公分床睡](https://s.weibo.com//weibo?q=%23%E7%A8%8B%E6%99%93%E7%8E%A5%E8%87%AA%E6%9B%9D%E4%B8%8E%E8%80%81%E5%85%AC%E5%88%86%E5%BA%8A%E7%9D%A1%23&t=152&Refer=top) - 117127
+1. [吴磊立了两个绝对不会塌的人设](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E7%AB%8B%E4%BA%86%E4%B8%A4%E4%B8%AA%E7%BB%9D%E5%AF%B9%E4%B8%8D%E4%BC%9A%E5%A1%8C%E7%9A%84%E4%BA%BA%E8%AE%BE%23&t=152&Refer=top) - 114273
+1. [网传陈情令将翻拍短剧](https://s.weibo.com//weibo?q=%23%E7%BD%91%E4%BC%A0%E9%99%88%E6%83%85%E4%BB%A4%E5%B0%86%E7%BF%BB%E6%8B%8D%E7%9F%AD%E5%89%A7%23&t=152&Refer=top) - 113750
+1. [曝青稚白小纯奔向花海是因为下雨了](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E9%9D%92%E7%A8%9A%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%A5%94%E5%90%91%E8%8A%B1%E6%B5%B7%E6%98%AF%E5%9B%A0%E4%B8%BA%E4%B8%8B%E9%9B%A8%E4%BA%86%23&t=152&Refer=top) - 111940
+1. [杨超越董思成醉酒吻](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E8%91%A3%E6%80%9D%E6%88%90%E9%86%89%E9%85%92%E5%90%BB%23&t=152&Refer=top) - 107336
+1. [厉娜用自己的表情包回复马天宇](https://s.weibo.com//weibo?q=%23%E5%8E%89%E5%A8%9C%E7%94%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%9E%E5%A4%8D%E9%A9%AC%E5%A4%A9%E5%AE%87%23&t=152&Refer=top) - 106376
+1. [谭松韵墨绿色抹胸裙](https://s.weibo.com//weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%A2%A8%E7%BB%BF%E8%89%B2%E6%8A%B9%E8%83%B8%E8%A3%99%23&t=152&Refer=top) - 101790
+1. [许飞初见面就该把背带裤扔了穿这套](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E9%A3%9E%E5%88%9D%E8%A7%81%E9%9D%A2%E5%B0%B1%E8%AF%A5%E6%8A%8A%E8%83%8C%E5%B8%A6%E8%A3%A4%E6%89%94%E4%BA%86%E7%A9%BF%E8%BF%99%E5%A5%97%23&t=152&Refer=top) - 101308
+1. [徐冬冬补办结婚仪式](https://s.weibo.com//weibo?q=%E5%BE%90%E5%86%AC%E5%86%AC%E8%A1%A5%E5%8A%9E%E7%BB%93%E5%A9%9A%E4%BB%AA%E5%BC%8F&t=152&Refer=top) - 100937
+1. [娇妹宣布与公司解约](https://s.weibo.com//weibo?q=%E5%A8%87%E5%A6%B9%E5%AE%A3%E5%B8%83%E4%B8%8E%E5%85%AC%E5%8F%B8%E8%A7%A3%E7%BA%A6&t=152&Refer=top) - 94910
+1. [刘浩存 看得出她是公主](https://s.weibo.com//weibo?q=%E5%88%98%E6%B5%A9%E5%AD%98%20%E7%9C%8B%E5%BE%97%E5%87%BA%E5%A5%B9%E6%98%AF%E5%85%AC%E4%B8%BB&t=152&Refer=top) - 85419
+1. [SM 新男团](https://s.weibo.com//weibo?q=SM%20%E6%96%B0%E7%94%B7%E5%9B%A2&t=152&Refer=top) - 85411
 1. [金子涵前几天露宿街头](https://s.weibo.com//weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E5%89%8D%E5%87%A0%E5%A4%A9%E9%9C%B2%E5%AE%BF%E8%A1%97%E5%A4%B4%23&t=152&Refer=top) - 2175023
+1. [秋瓷炫根本不给于晓光出门吃饭的机会](https://s.weibo.com//weibo?q=%23%E7%A7%8B%E7%93%B7%E7%82%AB%E6%A0%B9%E6%9C%AC%E4%B8%8D%E7%BB%99%E4%BA%8E%E6%99%93%E5%85%89%E5%87%BA%E9%97%A8%E5%90%83%E9%A5%AD%E7%9A%84%E6%9C%BA%E4%BC%9A%23&t=152&Refer=top) - 76864
+1. [杨超越坚持真摔](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E5%9D%9A%E6%8C%81%E7%9C%9F%E6%91%94%23&t=152&Refer=top) - 74122
+1. [檀健次金鸡奖表彰仪式座位](https://s.weibo.com//weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E9%87%91%E9%B8%A1%E5%A5%96%E8%A1%A8%E5%BD%B0%E4%BB%AA%E5%BC%8F%E5%BA%A7%E4%BD%8D%23&t=152&Refer=top) - 73462
 1. [热巴住酒店15年的真实原因](https://s.weibo.com//weibo?q=%23%E7%83%AD%E5%B7%B4%E4%BD%8F%E9%85%92%E5%BA%9715%E5%B9%B4%E7%9A%84%E7%9C%9F%E5%AE%9E%E5%8E%9F%E5%9B%A0%23&t=152&Refer=top) - 1020726
 1. [徐艺洋这身材穿个麻袋都好看](https://s.weibo.com//weibo?q=%23%E5%BE%90%E8%89%BA%E6%B4%8B%E8%BF%99%E8%BA%AB%E6%9D%90%E7%A9%BF%E4%B8%AA%E9%BA%BB%E8%A2%8B%E9%83%BD%E5%A5%BD%E7%9C%8B%23&t=152&Refer=top) - 882921
 1. [白小纯口碑反转](https://s.weibo.com//weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%8F%A3%E7%A2%91%E5%8F%8D%E8%BD%AC%23&t=152&Refer=top) - 772058
