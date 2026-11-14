@@ -2,10 +2,59 @@
 微博文娱热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 14 2026 15:21:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 14 2026 22:46:16 GMT+0800 (China Standard Time) -->
+1. [高迪 王乐乐](https://s.weibo.com//weibo?q=%E9%AB%98%E8%BF%AA%20%E7%8E%8B%E4%B9%90%E4%B9%90&t=152&Refer=top) - 2392293
+1. [高迪 家暴](https://s.weibo.com//weibo?q=%E9%AB%98%E8%BF%AA%20%E5%AE%B6%E6%9A%B4&t=152&Refer=top) - 1311903
+1. [许飞直接红温了](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E9%A3%9E%E7%9B%B4%E6%8E%A5%E7%BA%A2%E6%B8%A9%E4%BA%86%23&t=152&Refer=top) - 1069430
+1. [曝大美的伤口是刀伤](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E5%A4%A7%E7%BE%8E%E7%9A%84%E4%BC%A4%E5%8F%A3%E6%98%AF%E5%88%80%E4%BC%A4%23&t=152&Refer=top) - 1069424
+1. [海陆瘦20斤再扮紫薇](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E9%99%86%E7%98%A620%E6%96%A4%E5%86%8D%E6%89%AE%E7%B4%AB%E8%96%87%23&t=152&Refer=top) - 667927
+1. [杨清柠 王乐乐](https://s.weibo.com//weibo?q=%E6%9D%A8%E6%B8%85%E6%9F%A0%20%E7%8E%8B%E4%B9%90%E4%B9%90&t=152&Refer=top) - 667922
+1. [杨洋陈都灵车内吻戏路透](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E6%B4%8B%E9%99%88%E9%83%BD%E7%81%B5%E8%BD%A6%E5%86%85%E5%90%BB%E6%88%8F%E8%B7%AF%E9%80%8F%23&t=152&Refer=top) - 636904
+1. [厉娜把青改成卿太神](https://s.weibo.com//weibo?q=%E5%8E%89%E5%A8%9C%E6%8A%8A%E9%9D%92%E6%94%B9%E6%88%90%E5%8D%BF%E5%A4%AA%E7%A5%9E&t=152&Refer=top) - 573213
+1. [许飞和光芒万丈的娜娜](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E9%A3%9E%E5%92%8C%E5%85%89%E8%8A%92%E4%B8%87%E4%B8%88%E7%9A%84%E5%A8%9C%E5%A8%9C%23&t=152&Refer=top) - 515892
+1. [陈昊宇女子推理社3路透](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%98%8A%E5%AE%87%E5%A5%B3%E5%AD%90%E6%8E%A8%E7%90%86%E7%A4%BE3%E8%B7%AF%E9%80%8F%23&t=152&Refer=top) - 464303
+1. [高迪恐吓王乐乐](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%BF%AA%E6%81%90%E5%90%93%E7%8E%8B%E4%B9%90%E4%B9%90%23&t=152&Refer=top) - 451757
+1. [大美 高迪](https://s.weibo.com//weibo?q=%E5%A4%A7%E7%BE%8E%20%E9%AB%98%E8%BF%AA&t=152&Refer=top) - 1160226
+1. [迪丽热巴迪奥短片的配音](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%BF%AA%E5%A5%A5%E7%9F%AD%E7%89%87%E7%9A%84%E9%85%8D%E9%9F%B3%23&t=152&Refer=top) - 396765
+1. [大美妈妈回应](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E7%BE%8E%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94%23&t=152&Refer=top) - 357088
+1. [谢霆锋王嘉尔邻里邻居的](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E9%9C%86%E9%94%8B%E7%8E%8B%E5%98%89%E5%B0%94%E9%82%BB%E9%87%8C%E9%82%BB%E5%B1%85%E7%9A%84%23&t=152&Refer=top) - 321379
+1. [cpb向檀健次道歉](https://s.weibo.com//weibo?q=%23cpb%E5%90%91%E6%AA%80%E5%81%A5%E6%AC%A1%E9%81%93%E6%AD%89%23&t=152&Refer=top) - 321373
+1. [网友曝高迪私下总爱吐槽大美](https://s.weibo.com//weibo?q=%23%E7%BD%91%E5%8F%8B%E6%9B%9D%E9%AB%98%E8%BF%AA%E7%A7%81%E4%B8%8B%E6%80%BB%E7%88%B1%E5%90%90%E6%A7%BD%E5%A4%A7%E7%BE%8E%23&t=152&Refer=top) - 321363
+1. [田曦薇 女推3](https://s.weibo.com//weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%20%E5%A5%B3%E6%8E%A83&t=152&Refer=top) - 321277
+1. [金鹤龙看迪丽热巴冒雨走红毯的反应](https://s.weibo.com//weibo?q=%23%E9%87%91%E9%B9%A4%E9%BE%99%E7%9C%8B%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%86%92%E9%9B%A8%E8%B5%B0%E7%BA%A2%E6%AF%AF%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=152&Refer=top) - 289149
+1. [李一桐确定不录制女子推理社3](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E7%A1%AE%E5%AE%9A%E4%B8%8D%E5%BD%95%E5%88%B6%E5%A5%B3%E5%AD%90%E6%8E%A8%E7%90%86%E7%A4%BE3%23&t=152&Refer=top) - 260234
+1. [高迪王乐乐事件时间线](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%BF%AA%E7%8E%8B%E4%B9%90%E4%B9%90%E4%BA%8B%E4%BB%B6%E6%97%B6%E9%97%B4%E7%BA%BF%23&t=152&Refer=top) - 260226
+1. [大美晒受伤照片](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E7%BE%8E%E6%99%92%E5%8F%97%E4%BC%A4%E7%85%A7%E7%89%87%23&t=152&Refer=top) - 260216
+1. [曝时代少年团七周年直播改录播](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E4%B8%83%E5%91%A8%E5%B9%B4%E7%9B%B4%E6%92%AD%E6%94%B9%E5%BD%95%E6%92%AD%23&t=152&Refer=top) - 247277
+1. [高迪疑似回应家暴](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%BF%AA%E7%96%91%E4%BC%BC%E5%9B%9E%E5%BA%94%E5%AE%B6%E6%9A%B4%23&t=152&Refer=top) - 230868
+1. [大美删博](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E7%BE%8E%E5%88%A0%E5%8D%9A%23&t=152&Refer=top) - 208991
+1. [张泉灵直呼马天宇太神奇了](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%B3%89%E7%81%B5%E7%9B%B4%E5%91%BC%E9%A9%AC%E5%A4%A9%E5%AE%87%E5%A4%AA%E7%A5%9E%E5%A5%87%E4%BA%86%23&t=152&Refer=top) - 197074
+1. [高迪妈妈把大美视频删了](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%BF%AA%E5%A6%88%E5%A6%88%E6%8A%8A%E5%A4%A7%E7%BE%8E%E8%A7%86%E9%A2%91%E5%88%A0%E4%BA%86%23&t=152&Refer=top) - 197066
+1. [亚洲电视大奖](https://s.weibo.com//weibo?q=%E4%BA%9A%E6%B4%B2%E7%94%B5%E8%A7%86%E5%A4%A7%E5%A5%96&t=152&Refer=top) - 195777
+1. [曝爱奇艺尖叫之夜压轴](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E5%8E%8B%E8%BD%B4%23&t=152&Refer=top) - 176199
+1. [朱志鑫藏字](https://s.weibo.com//weibo?q=%E6%9C%B1%E5%BF%97%E9%91%AB%E8%97%8F%E5%AD%97&t=152&Refer=top) - 174495
+1. [邓紫棋回了13分钟一条回复都没看到](https://s.weibo.com//weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E5%9B%9E%E4%BA%8613%E5%88%86%E9%92%9F%E4%B8%80%E6%9D%A1%E5%9B%9E%E5%A4%8D%E9%83%BD%E6%B2%A1%E7%9C%8B%E5%88%B0%23&t=152&Refer=top) - 174485
+1. [白小纯王子璇受害者联盟](https://s.weibo.com//weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%8E%8B%E5%AD%90%E7%92%87%E5%8F%97%E5%AE%B3%E8%80%85%E8%81%94%E7%9B%9F%23&t=152&Refer=top) - 172034
+1. [陈卓璇吴宣仪合唱野心家](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%8D%93%E7%92%87%E5%90%B4%E5%AE%A3%E4%BB%AA%E5%90%88%E5%94%B1%E9%87%8E%E5%BF%83%E5%AE%B6%23&t=152&Refer=top) - 158476
+1. [张泽禹半裸野攀](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%B3%BD%E7%A6%B9%E5%8D%8A%E8%A3%B8%E9%87%8E%E6%94%80%23&t=152&Refer=top) - 157800
+1. [王楚然机械感搓澡舞](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%9C%BA%E6%A2%B0%E6%84%9F%E6%90%93%E6%BE%A1%E8%88%9E%23&t=152&Refer=top) - 142020
+1. [等风热吻你妆造获赞](https://s.weibo.com//weibo?q=%E7%AD%89%E9%A3%8E%E7%83%AD%E5%90%BB%E4%BD%A0%E5%A6%86%E9%80%A0%E8%8E%B7%E8%B5%9E&t=152&Refer=top) - 142014
+1. [张萌其实无法真正理解马天宇](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%90%8C%E5%85%B6%E5%AE%9E%E6%97%A0%E6%B3%95%E7%9C%9F%E6%AD%A3%E7%90%86%E8%A7%A3%E9%A9%AC%E5%A4%A9%E5%AE%87%23&t=152&Refer=top) - 142008
+1. [马天宇吐槽张泉灵](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E5%90%90%E6%A7%BD%E5%BC%A0%E6%B3%89%E7%81%B5%23&t=152&Refer=top) - 142002
+1. [yuni破坏演唱会物资](https://s.weibo.com//weibo?q=%23yuni%E7%A0%B4%E5%9D%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E7%89%A9%E8%B5%84%23&t=152&Refer=top) - 141994
+1. [感觉Lisa面相都变了](https://s.weibo.com//weibo?q=%23%E6%84%9F%E8%A7%89Lisa%E9%9D%A2%E7%9B%B8%E9%83%BD%E5%8F%98%E4%BA%86%23&t=152&Refer=top) - 141985
+1. [你好星期六下期预告是太阳雨](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E4%B8%8B%E6%9C%9F%E9%A2%84%E5%91%8A%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8%23&t=152&Refer=top) - 127786
+1. [程潇舞娘迷人眼](https://s.weibo.com//weibo?q=%23%E7%A8%8B%E6%BD%87%E8%88%9E%E5%A8%98%E8%BF%B7%E4%BA%BA%E7%9C%BC%23&t=152&Refer=top) - 127780
+1. [Angelababy](https://s.weibo.com//weibo?q=Angelababy&t=152&Refer=top) - 127770
+1. [纯璇](https://s.weibo.com//weibo?q=%E7%BA%AF%E7%92%87&t=152&Refer=top) - 127764
+1. [奚梦瑶家里的盘子用的都是爱马仕的](https://s.weibo.com//weibo?q=%23%E5%A5%9A%E6%A2%A6%E7%91%B6%E5%AE%B6%E9%87%8C%E7%9A%84%E7%9B%98%E5%AD%90%E7%94%A8%E7%9A%84%E9%83%BD%E6%98%AF%E7%88%B1%E9%A9%AC%E4%BB%95%E7%9A%84%23&t=152&Refer=top) - 127757
+1. [王楚然宋亚轩互关](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%AE%8B%E4%BA%9A%E8%BD%A9%E4%BA%92%E5%85%B3%23&t=152&Refer=top) - 125424
+1. [宋慧乔曾在国外被大批中国游客认出](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E6%85%A7%E4%B9%94%E6%9B%BE%E5%9C%A8%E5%9B%BD%E5%A4%96%E8%A2%AB%E5%A4%A7%E6%89%B9%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%AE%A4%E5%87%BA%23&t=152&Refer=top) - 120842
+1. [白鹿25年尖叫之夜指数断层第一](https://s.weibo.com//weibo?q=%E7%99%BD%E9%B9%BF25%E5%B9%B4%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E6%8C%87%E6%95%B0%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80&t=152&Refer=top) - 113076
+1. [MMA颁奖典礼](https://s.weibo.com//weibo?q=%23MMA%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC%23&t=152&Refer=top) - 106373
+1. [张泉灵为马天宇哭了](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%B3%89%E7%81%B5%E4%B8%BA%E9%A9%AC%E5%A4%A9%E5%AE%87%E5%93%AD%E4%BA%86%23&t=152&Refer=top) - 101679
 1. [曝娱乐圈下周会发生一次世纪大和解](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E5%A8%B1%E4%B9%90%E5%9C%88%E4%B8%8B%E5%91%A8%E4%BC%9A%E5%8F%91%E7%94%9F%E4%B8%80%E6%AC%A1%E4%B8%96%E7%BA%AA%E5%A4%A7%E5%92%8C%E8%A7%A3%23&t=152&Refer=top) - 1363399
 1. [Lisa现在的舞台这么大胆吗](https://s.weibo.com//weibo?q=%23Lisa%E7%8E%B0%E5%9C%A8%E7%9A%84%E8%88%9E%E5%8F%B0%E8%BF%99%E4%B9%88%E5%A4%A7%E8%83%86%E5%90%97%23&t=152&Refer=top) - 949119
-1. [大美 高迪](https://s.weibo.com//weibo?q=%E5%A4%A7%E7%BE%8E%20%E9%AB%98%E8%BF%AA&t=152&Refer=top) - 1160226
 1. [许飞 不知道厉娜喜欢什么就都准备了](https://s.weibo.com//weibo?q=%E8%AE%B8%E9%A3%9E%20%E4%B8%8D%E7%9F%A5%E9%81%93%E5%8E%89%E5%A8%9C%E5%96%9C%E6%AC%A2%E4%BB%80%E4%B9%88%E5%B0%B1%E9%83%BD%E5%87%86%E5%A4%87%E4%BA%86&t=152&Refer=top) - 785810
 1. [范丞丞回复了宋亚轩](https://s.weibo.com//weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%9B%9E%E5%A4%8D%E4%BA%86%E5%AE%8B%E4%BA%9A%E8%BD%A9%23&t=152&Refer=top) - 775860
 1. [Lisa把钱塞在腰上会不会太帅了](https://s.weibo.com//weibo?q=%23Lisa%E6%8A%8A%E9%92%B1%E5%A1%9E%E5%9C%A8%E8%85%B0%E4%B8%8A%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%A4%AA%E5%B8%85%E4%BA%86%23&t=152&Refer=top) - 541949
@@ -36,7 +85,6 @@
 1. [确认出席爱奇艺尖叫之夜的艺人](https://s.weibo.com//weibo?q=%23%E7%A1%AE%E8%AE%A4%E5%87%BA%E5%B8%AD%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E7%9A%84%E8%89%BA%E4%BA%BA%23&t=152&Refer=top) - 105118
 1. [田曦薇尖叫之夜官宣节奏](https://s.weibo.com//weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E5%AE%98%E5%AE%A3%E8%8A%82%E5%A5%8F%23&t=152&Refer=top) - 105108
 1. [沈腾拿到大结果周深拿到大后果](https://s.weibo.com//weibo?q=%23%E6%B2%88%E8%85%BE%E6%8B%BF%E5%88%B0%E5%A4%A7%E7%BB%93%E6%9E%9C%E5%91%A8%E6%B7%B1%E6%8B%BF%E5%88%B0%E5%A4%A7%E5%90%8E%E6%9E%9C%23&t=152&Refer=top) - 102800
-1. [高迪妈妈把大美视频删了](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%BF%AA%E5%A6%88%E5%A6%88%E6%8A%8A%E5%A4%A7%E7%BE%8E%E8%A7%86%E9%A2%91%E5%88%A0%E4%BA%86%23&t=152&Refer=top) - 102174
 1. [MMA](https://s.weibo.com//weibo?q=MMA&t=152&Refer=top) - 100958
 1. [进去一个宋亚轩出来全是宋亚轩](https://s.weibo.com//weibo?q=%23%E8%BF%9B%E5%8E%BB%E4%B8%80%E4%B8%AA%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%87%BA%E6%9D%A5%E5%85%A8%E6%98%AF%E5%AE%8B%E4%BA%9A%E8%BD%A9%23&t=152&Refer=top) - 99678
 1. [宋亚轩关注王楚然范丞丞](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%85%B3%E6%B3%A8%E7%8E%8B%E6%A5%9A%E7%84%B6%E8%8C%83%E4%B8%9E%E4%B8%9E%23&t=152&Refer=top) - 97438
