@@ -2,8 +2,57 @@
 微博文娱热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 16 2026 12:55:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 16 2026 21:22:02 GMT+0800 (China Standard Time) -->
+1. [金子涵称被家人骗到了精神病院](https://s.weibo.com//weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E7%A7%B0%E8%A2%AB%E5%AE%B6%E4%BA%BA%E9%AA%97%E5%88%B0%E4%BA%86%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%23&t=152&Refer=top) - 2038652
+1. [许飞自曝参加浪姐期间被分手了](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E9%A3%9E%E8%87%AA%E6%9B%9D%E5%8F%82%E5%8A%A0%E6%B5%AA%E5%A7%90%E6%9C%9F%E9%97%B4%E8%A2%AB%E5%88%86%E6%89%8B%E4%BA%86%23&t=152&Refer=top) - 1349217
+1. [虞书欣围裙 国外博主原图](https://s.weibo.com//weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%9B%B4%E8%A3%99%20%E5%9B%BD%E5%A4%96%E5%8D%9A%E4%B8%BB%E5%8E%9F%E5%9B%BE&t=152&Refer=top) - 1199114
+1. [文吉儿回应火车换位置全过程](https://s.weibo.com//weibo?q=%23%E6%96%87%E5%90%89%E5%84%BF%E5%9B%9E%E5%BA%94%E7%81%AB%E8%BD%A6%E6%8D%A2%E4%BD%8D%E7%BD%AE%E5%85%A8%E8%BF%87%E7%A8%8B%23&t=152&Refer=top) - 779884
+1. [厉娜流水转账记录](https://s.weibo.com//weibo?q=%23%E5%8E%89%E5%A8%9C%E6%B5%81%E6%B0%B4%E8%BD%AC%E8%B4%A6%E8%AE%B0%E5%BD%95%23&t=152&Refer=top) - 667738
+1. [我的有罪之人](https://s.weibo.com//weibo?q=%E6%88%91%E7%9A%84%E6%9C%89%E7%BD%AA%E4%B9%8B%E4%BA%BA&t=152&Refer=top) - 614668
+1. [林一一开始不太喜欢卢昱晓](https://s.weibo.com//weibo?q=%23%E6%9E%97%E4%B8%80%E4%B8%80%E5%BC%80%E5%A7%8B%E4%B8%8D%E5%A4%AA%E5%96%9C%E6%AC%A2%E5%8D%A2%E6%98%B1%E6%99%93%23&t=152&Refer=top) - 553201
+1. [厉娜澄清借贷传言](https://s.weibo.com//weibo?q=%23%E5%8E%89%E5%A8%9C%E6%BE%84%E6%B8%85%E5%80%9F%E8%B4%B7%E4%BC%A0%E8%A8%80%23&t=152&Refer=top) - 497881
+1. [金子涵求助济南网警](https://s.weibo.com//weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E6%B1%82%E5%8A%A9%E6%B5%8E%E5%8D%97%E7%BD%91%E8%AD%A6%23&t=152&Refer=top) - 448092
+1. [周峻炜说练口语就是要多说](https://s.weibo.com//weibo?q=%23%E5%91%A8%E5%B3%BB%E7%82%9C%E8%AF%B4%E7%BB%83%E5%8F%A3%E8%AF%AD%E5%B0%B1%E6%98%AF%E8%A6%81%E5%A4%9A%E8%AF%B4%23&t=152&Refer=top) - 403283
+1. [青稚汇报和好进度](https://s.weibo.com//weibo?q=%23%E9%9D%92%E7%A8%9A%E6%B1%87%E6%8A%A5%E5%92%8C%E5%A5%BD%E8%BF%9B%E5%BA%A6%23&t=152&Refer=top) - 362955
+1. [陈砚周躲郑雨的吻](https://s.weibo.com//weibo?q=%E9%99%88%E7%A0%9A%E5%91%A8%E8%BA%B2%E9%83%91%E9%9B%A8%E7%9A%84%E5%90%BB&t=152&Refer=top) - 326659
+1. [蒙淇淇回复虞书欣围裙照](https://s.weibo.com//weibo?q=%23%E8%92%99%E6%B7%87%E6%B7%87%E5%9B%9E%E5%A4%8D%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%9B%B4%E8%A3%99%E7%85%A7%23&t=152&Refer=top) - 293993
+1. [胡先煦模仿宋亚轩珍珠小子](https://s.weibo.com//weibo?q=%23%E8%83%A1%E5%85%88%E7%85%A6%E6%A8%A1%E4%BB%BF%E5%AE%8B%E4%BA%9A%E8%BD%A9%E7%8F%8D%E7%8F%A0%E5%B0%8F%E5%AD%90%23&t=152&Refer=top) - 264594
 1. [虞书欣围裙照删除了](https://s.weibo.com//weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%9B%B4%E8%A3%99%E7%85%A7%E5%88%A0%E9%99%A4%E4%BA%86%23&t=152&Refer=top) - 2801198
+1. [章子怡手滑点赞](https://s.weibo.com//weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E6%89%8B%E6%BB%91%E7%82%B9%E8%B5%9E%23&t=152&Refer=top) - 236489
+1. [赵丽颖刘诗诗持股两京十五日出品方](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%88%98%E8%AF%97%E8%AF%97%E6%8C%81%E8%82%A1%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E5%87%BA%E5%93%81%E6%96%B9%23&t=152&Refer=top) - 212840
+1. [金子涵家属说法矛盾](https://s.weibo.com//weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%E5%AE%B6%E5%B1%9E%E8%AF%B4%E6%B3%95%E7%9F%9B%E7%9B%BE&t=152&Refer=top) - 205826
+1. [王一博维权涉案账号清单公示](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%BB%B4%E6%9D%83%E6%B6%89%E6%A1%88%E8%B4%A6%E5%8F%B7%E6%B8%85%E5%8D%95%E5%85%AC%E7%A4%BA%23&t=152&Refer=top) - 185243
+1. [杨超越董思成这也太真情流露了](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E8%91%A3%E6%80%9D%E6%88%90%E8%BF%99%E4%B9%9F%E5%A4%AA%E7%9C%9F%E6%83%85%E6%B5%81%E9%9C%B2%E4%BA%86%23&t=152&Refer=top) - 166719
+1. [文淇牵手宋雨琦绝美奔跑](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%B7%87%E7%89%B5%E6%89%8B%E5%AE%8B%E9%9B%A8%E7%90%A6%E7%BB%9D%E7%BE%8E%E5%A5%94%E8%B7%91%23&t=152&Refer=top) - 165488
+1. [白小纯说完有更好的青稚仍要做朋友](https://s.weibo.com//weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E8%AF%B4%E5%AE%8C%E6%9C%89%E6%9B%B4%E5%A5%BD%E7%9A%84%E9%9D%92%E7%A8%9A%E4%BB%8D%E8%A6%81%E5%81%9A%E6%9C%8B%E5%8F%8B%23&t=152&Refer=top) - 161688
+1. [赵奕欢感谢前男友不娶之恩](https://s.weibo.com//weibo?q=%E8%B5%B5%E5%A5%95%E6%AC%A2%E6%84%9F%E8%B0%A2%E5%89%8D%E7%94%B7%E5%8F%8B%E4%B8%8D%E5%A8%B6%E4%B9%8B%E6%81%A9&t=152&Refer=top) - 157828
+1. [厉娜回应是朋友的780万](https://s.weibo.com//weibo?q=%23%E5%8E%89%E5%A8%9C%E5%9B%9E%E5%BA%94%E6%98%AF%E6%9C%8B%E5%8F%8B%E7%9A%84780%E4%B8%87%23&t=152&Refer=top) - 146097
+1. [马天宇还想上后会友期](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E8%BF%98%E6%83%B3%E4%B8%8A%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%23&t=152&Refer=top) - 139340
+1. [白小纯假装一个人出来玩](https://s.weibo.com//weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%81%87%E8%A3%85%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%87%BA%E6%9D%A5%E7%8E%A9%23&t=152&Refer=top) - 131161
+1. [蔡少芬晒儿子七岁生日照](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%B0%91%E8%8A%AC%E6%99%92%E5%84%BF%E5%AD%90%E4%B8%83%E5%B2%81%E7%94%9F%E6%97%A5%E7%85%A7%23&t=152&Refer=top) - 124664
+1. [宋亚轩腿长到床都放不下了](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E8%85%BF%E9%95%BF%E5%88%B0%E5%BA%8A%E9%83%BD%E6%94%BE%E4%B8%8D%E4%B8%8B%E4%BA%86%23&t=152&Refer=top) - 124636
+1. [孙千范丞丞的cp感vs孙千金世佳的cp感](https://s.weibo.com//weibo?q=%23%E5%AD%99%E5%8D%83%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%9A%84cp%E6%84%9Fvs%E5%AD%99%E5%8D%83%E9%87%91%E4%B8%96%E4%BD%B3%E7%9A%84cp%E6%84%9F%23&t=152&Refer=top) - 123660
+1. [曝厉娜卷入借贷纠纷](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E5%8E%89%E5%A8%9C%E5%8D%B7%E5%85%A5%E5%80%9F%E8%B4%B7%E7%BA%A0%E7%BA%B7%23&t=152&Refer=top) - 120128
+1. [虞书欣被指模仿Jennie](https://s.weibo.com//weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%A2%AB%E6%8C%87%E6%A8%A1%E4%BB%BFJennie%23&t=152&Refer=top) - 120123
+1. [VOGUE年度最佳着装](https://s.weibo.com//weibo?q=VOGUE%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3%E7%9D%80%E8%A3%85&t=152&Refer=top) - 120113
+1. [鹿晗黄子韬聚餐吃烤肉](https://s.weibo.com//weibo?q=%23%E9%B9%BF%E6%99%97%E9%BB%84%E5%AD%90%E9%9F%AC%E8%81%9A%E9%A4%90%E5%90%83%E7%83%A4%E8%82%89%23&t=152&Refer=top) - 120103
+1. [感觉王子璇已经仁至义尽了](https://s.weibo.com//weibo?q=%23%E6%84%9F%E8%A7%89%E7%8E%8B%E5%AD%90%E7%92%87%E5%B7%B2%E7%BB%8F%E4%BB%81%E8%87%B3%E4%B9%89%E5%B0%BD%E4%BA%86%23&t=152&Refer=top) - 120096
+1. [玫瑰战争](https://s.weibo.com//weibo?q=%E7%8E%AB%E7%91%B0%E6%88%98%E4%BA%89&t=152&Refer=top) - 113439
+1. [肖战重庆出发回北京机场路透](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E9%87%8D%E5%BA%86%E5%87%BA%E5%8F%91%E5%9B%9E%E5%8C%97%E4%BA%AC%E6%9C%BA%E5%9C%BA%E8%B7%AF%E9%80%8F%23&t=152&Refer=top) - 112344
+1. [金子涵事件精神收治边界](https://s.weibo.com//weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%E4%BA%8B%E4%BB%B6%E7%B2%BE%E7%A5%9E%E6%94%B6%E6%B2%BB%E8%BE%B9%E7%95%8C&t=152&Refer=top) - 111217
+1. [王一博方启动名誉维权诉讼](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%96%B9%E5%90%AF%E5%8A%A8%E5%90%8D%E8%AA%89%E7%BB%B4%E6%9D%83%E8%AF%89%E8%AE%BC%23&t=152&Refer=top) - 110837
+1. [曾沛慈许飞声生不息合作舞台](https://s.weibo.com//weibo?q=%23%E6%9B%BE%E6%B2%9B%E6%85%88%E8%AE%B8%E9%A3%9E%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%E5%90%88%E4%BD%9C%E8%88%9E%E5%8F%B0%23&t=152&Refer=top) - 109015
+1. [赵本山打假AI赵本山](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E6%9C%AC%E5%B1%B1%E6%89%93%E5%81%87AI%E8%B5%B5%E6%9C%AC%E5%B1%B1%23&t=152&Refer=top) - 106872
+1. [白鹿陈哲远朝玉阶开机仪式时间](https://s.weibo.com//weibo?q=%23%E7%99%BD%E9%B9%BF%E9%99%88%E5%93%B2%E8%BF%9C%E6%9C%9D%E7%8E%89%E9%98%B6%E5%BC%80%E6%9C%BA%E4%BB%AA%E5%BC%8F%E6%97%B6%E9%97%B4%23&t=152&Refer=top) - 105479
+1. [内娱国产剧也开始陪许飞闹了](https://s.weibo.com//weibo?q=%23%E5%86%85%E5%A8%B1%E5%9B%BD%E4%BA%A7%E5%89%A7%E4%B9%9F%E5%BC%80%E5%A7%8B%E9%99%AA%E8%AE%B8%E9%A3%9E%E9%97%B9%E4%BA%86%23&t=152&Refer=top) - 101919
+1. [许飞写给歌迷的邀请函](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E9%A3%9E%E5%86%99%E7%BB%99%E6%AD%8C%E8%BF%B7%E7%9A%84%E9%82%80%E8%AF%B7%E5%87%BD%23&t=152&Refer=top) - 95530
+1. [我的有罪之人 贪完了](https://s.weibo.com//weibo?q=%E6%88%91%E7%9A%84%E6%9C%89%E7%BD%AA%E4%B9%8B%E4%BA%BA%20%E8%B4%AA%E5%AE%8C%E4%BA%86&t=152&Refer=top) - 95317
+1. [田曦薇是考高跟鞋驾照了吗](https://s.weibo.com//weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E6%98%AF%E8%80%83%E9%AB%98%E8%B7%9F%E9%9E%8B%E9%A9%BE%E7%85%A7%E4%BA%86%E5%90%97%23&t=152&Refer=top) - 89681
+1. [阿娇我画地为牢呀厉娜](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%A8%87%E6%88%91%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2%E5%91%80%E5%8E%89%E5%A8%9C%23&t=152&Refer=top) - 86091
+1. [谷雨](https://s.weibo.com//weibo?q=%E8%B0%B7%E9%9B%A8&t=152&Refer=top) - 80151
+1. [王子璇被说隐狼](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%AD%90%E7%92%87%E8%A2%AB%E8%AF%B4%E9%9A%90%E7%8B%BC&t=152&Refer=top) - 80012
+1. [逆徒](https://s.weibo.com//weibo?q=%E9%80%86%E5%BE%92&t=152&Refer=top) - 75851
+1. [赵本山的宽容不代表AI能随意仿声](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E6%9C%AC%E5%B1%B1%E7%9A%84%E5%AE%BD%E5%AE%B9%E4%B8%8D%E4%BB%A3%E8%A1%A8AI%E8%83%BD%E9%9A%8F%E6%84%8F%E4%BB%BF%E5%A3%B0%23&t=152&Refer=top) - 75820
 1. [文吉儿 王子璇](https://s.weibo.com//weibo?q=%E6%96%87%E5%90%89%E5%84%BF%20%E7%8E%8B%E5%AD%90%E7%92%87&t=152&Refer=top) - 1202458
 1. [后会友期 删减](https://s.weibo.com//weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%20%E5%88%A0%E5%87%8F&t=152&Refer=top) - 1090281
 1. [奔跑吧大湾区篇官宣嘉宾阵容](https://s.weibo.com//weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E5%A4%A7%E6%B9%BE%E5%8C%BA%E7%AF%87%E5%AE%98%E5%AE%A3%E5%98%89%E5%AE%BE%E9%98%B5%E5%AE%B9%23&t=152&Refer=top) - 790398
