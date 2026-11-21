@@ -2,16 +2,64 @@
 微博文娱热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 21 2026 11:45:24 GMT+0800 (China Standard Time) -->
-1. [炎亚纶汪东城世纪大和解](https://s.weibo.com//weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E6%B1%AA%E4%B8%9C%E5%9F%8E%E4%B8%96%E7%BA%AA%E5%A4%A7%E5%92%8C%E8%A7%A3%23&t=152&Refer=top) - 2086035
+<!-- 最后更新时间 Sat Nov 21 2026 20:07:36 GMT+0800 (China Standard Time) -->
+1. [沈腾摔倒现发所有人都在扶](https://s.weibo.com//weibo?q=%23%E6%B2%88%E8%85%BE%E6%91%94%E5%80%92%E7%8E%B0%E5%8F%91%E6%89%80%E6%9C%89%E4%BA%BA%E9%83%BD%E5%9C%A8%E6%89%B6%23&t=152&Refer=top) - 1406428
+1. [张凌赫说田曦薇更瘦更美了](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%AF%B4%E7%94%B0%E6%9B%A6%E8%96%87%E6%9B%B4%E7%98%A6%E6%9B%B4%E7%BE%8E%E4%BA%86%23&t=152&Refer=top) - 960309
+1. [张凌赫听到田曦薇说我杀猪养你的反应](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%90%AC%E5%88%B0%E7%94%B0%E6%9B%A6%E8%96%87%E8%AF%B4%E6%88%91%E6%9D%80%E7%8C%AA%E5%85%BB%E4%BD%A0%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=152&Refer=top) - 696604
+1. [逐玉](https://s.weibo.com//weibo?q=%E9%80%90%E7%8E%89&t=152&Refer=top) - 626943
+1. [你好时光收官音乐会](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%97%B6%E5%85%89%E6%94%B6%E5%AE%98%E9%9F%B3%E4%B9%90%E4%BC%9A%23&t=152&Refer=top) - 564249
+1. [易立竞回复手撕文吉儿](https://s.weibo.com//weibo?q=%23%E6%98%93%E7%AB%8B%E7%AB%9E%E5%9B%9E%E5%A4%8D%E6%89%8B%E6%92%95%E6%96%87%E5%90%89%E5%84%BF%23&t=152&Refer=top) - 507905
+1. [彭昱畅被AI融脸](https://s.weibo.com//weibo?q=%23%E5%BD%AD%E6%98%B1%E7%95%85%E8%A2%ABAI%E8%9E%8D%E8%84%B8%23&t=152&Refer=top) - 475339
+1. [李嫣声音比窦靖童更像王菲](https://s.weibo.com//weibo?q=%E6%9D%8E%E5%AB%A3%E5%A3%B0%E9%9F%B3%E6%AF%94%E7%AA%A6%E9%9D%96%E7%AB%A5%E6%9B%B4%E5%83%8F%E7%8E%8B%E8%8F%B2&t=152&Refer=top) - 427805
+1. [曝孙芮已经结婚两年了](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E5%AD%99%E8%8A%AE%E5%B7%B2%E7%BB%8F%E7%BB%93%E5%A9%9A%E4%B8%A4%E5%B9%B4%E4%BA%86%23&t=152&Refer=top) - 387603
+1. [AI剧打败真人剧的真正原因](https://s.weibo.com//weibo?q=%23AI%E5%89%A7%E6%89%93%E8%B4%A5%E7%9C%9F%E4%BA%BA%E5%89%A7%E7%9A%84%E7%9C%9F%E6%AD%A3%E5%8E%9F%E5%9B%A0%23&t=152&Refer=top) - 348842
+1. [秦昊当着镜头直接数落伊能静](https://s.weibo.com//weibo?q=%23%E7%A7%A6%E6%98%8A%E5%BD%93%E7%9D%80%E9%95%9C%E5%A4%B4%E7%9B%B4%E6%8E%A5%E6%95%B0%E8%90%BD%E4%BC%8A%E8%83%BD%E9%9D%99%23&t=152&Refer=top) - 330878
+1. [炎亚纶称请到汪东城就上后会友期](https://s.weibo.com//weibo?q=%E7%82%8E%E4%BA%9A%E7%BA%B6%E7%A7%B0%E8%AF%B7%E5%88%B0%E6%B1%AA%E4%B8%9C%E5%9F%8E%E5%B0%B1%E4%B8%8A%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F&t=152&Refer=top) - 314394
+1. [安宥真张元英MAMA舞台开场](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%AE%A5%E7%9C%9F%E5%BC%A0%E5%85%83%E8%8B%B1MAMA%E8%88%9E%E5%8F%B0%E5%BC%80%E5%9C%BA%23&t=152&Refer=top) - 293181
+1. [田曦薇 这是我的夫婿言正](https://s.weibo.com//weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%20%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E5%A4%AB%E5%A9%BF%E8%A8%80%E6%AD%A3&t=152&Refer=top) - 263862
+1. [杨超越董思成穿婚服路人反应](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E8%91%A3%E6%80%9D%E6%88%90%E7%A9%BF%E5%A9%9A%E6%9C%8D%E8%B7%AF%E4%BA%BA%E5%8F%8D%E5%BA%94%23&t=152&Refer=top) - 237476
+1. [陈伟霆何穗儿子学会走路了](https://s.weibo.com//weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E4%BD%95%E7%A9%97%E5%84%BF%E5%AD%90%E5%AD%A6%E4%BC%9A%E8%B5%B0%E8%B7%AF%E4%BA%86%23&t=152&Refer=top) - 237467
+1. [田作之赫](https://s.weibo.com//weibo?q=%E7%94%B0%E4%BD%9C%E4%B9%8B%E8%B5%AB&t=152&Refer=top) - 220630
+1. [两京十五日台词](https://s.weibo.com//weibo?q=%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E5%8F%B0%E8%AF%8D&t=152&Refer=top) - 208366
+1. [太阳雨国外篇是杀青两个月后拍的](https://s.weibo.com//weibo?q=%E5%A4%AA%E9%98%B3%E9%9B%A8%E5%9B%BD%E5%A4%96%E7%AF%87%E6%98%AF%E6%9D%80%E9%9D%92%E4%B8%A4%E4%B8%AA%E6%9C%88%E5%90%8E%E6%8B%8D%E7%9A%84&t=152&Refer=top) - 187529
+1. [王楚然听到下次还选胡先煦的反应](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%90%AC%E5%88%B0%E4%B8%8B%E6%AC%A1%E8%BF%98%E9%80%89%E8%83%A1%E5%85%88%E7%85%A6%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=152&Refer=top) - 168776
+1. [家有儿女片酬放现在也超许多人](https://s.weibo.com//weibo?q=%23%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3%E7%89%87%E9%85%AC%E6%94%BE%E7%8E%B0%E5%9C%A8%E4%B9%9F%E8%B6%85%E8%AE%B8%E5%A4%9A%E4%BA%BA%23&t=152&Refer=top) - 168766
+1. [护腮宝](https://s.weibo.com//weibo?q=%E6%8A%A4%E8%85%AE%E5%AE%9D&t=152&Refer=top) - 168760
+1. [张凌赫 后面的不太方便了](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%20%E5%90%8E%E9%9D%A2%E7%9A%84%E4%B8%8D%E5%A4%AA%E6%96%B9%E4%BE%BF%E4%BA%86&t=152&Refer=top) - 168752
+1. [梅尼耶妻子和周洁琼一起上过综艺](https://s.weibo.com//weibo?q=%23%E6%A2%85%E5%B0%BC%E8%80%B6%E5%A6%BB%E5%AD%90%E5%92%8C%E5%91%A8%E6%B4%81%E7%90%BC%E4%B8%80%E8%B5%B7%E4%B8%8A%E8%BF%87%E7%BB%BC%E8%89%BA%23&t=152&Refer=top) - 151877
 1. [孙芮结婚怀孕](https://s.weibo.com//weibo?q=%E5%AD%99%E8%8A%AE%E7%BB%93%E5%A9%9A%E6%80%80%E5%AD%95&t=152&Refer=top) - 1459033
+1. [张凌赫田曦薇逐玉两岸粉丝见面会](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%94%B0%E6%9B%A6%E8%96%87%E9%80%90%E7%8E%89%E4%B8%A4%E5%B2%B8%E7%B2%89%E4%B8%9D%E8%A7%81%E9%9D%A2%E4%BC%9A%23&t=152&Refer=top) - 140508
+1. [爱笑的天使末尾是王菲抱着李嫣](https://s.weibo.com//weibo?q=%23%E7%88%B1%E7%AC%91%E7%9A%84%E5%A4%A9%E4%BD%BF%E6%9C%AB%E5%B0%BE%E6%98%AF%E7%8E%8B%E8%8F%B2%E6%8A%B1%E7%9D%80%E6%9D%8E%E5%AB%A3%23&t=152&Refer=top) - 137397
+1. [太阳大声帮权志龙捋头发](https://s.weibo.com//weibo?q=%E5%A4%AA%E9%98%B3%E5%A4%A7%E5%A3%B0%E5%B8%AE%E6%9D%83%E5%BF%97%E9%BE%99%E6%8D%8B%E5%A4%B4%E5%8F%91&t=152&Refer=top) - 135262
+1. [权志龙长发](https://s.weibo.com//weibo?q=%E6%9D%83%E5%BF%97%E9%BE%99%E9%95%BF%E5%8F%91&t=152&Refer=top) - 131925
+1. [两京十五日真没把我们当外人](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E7%9C%9F%E6%B2%A1%E6%8A%8A%E6%88%91%E4%BB%AC%E5%BD%93%E5%A4%96%E4%BA%BA%23&t=152&Refer=top) - 128847
+1. [金晨把上官婉儿跳活了](https://s.weibo.com//weibo?q=%E9%87%91%E6%99%A8%E6%8A%8A%E4%B8%8A%E5%AE%98%E5%A9%89%E5%84%BF%E8%B7%B3%E6%B4%BB%E4%BA%86&t=152&Refer=top) - 128838
+1. [CORTIS获得MAMA年度歌曲](https://s.weibo.com//weibo?q=%23CORTIS%E8%8E%B7%E5%BE%97MAMA%E5%B9%B4%E5%BA%A6%E6%AD%8C%E6%9B%B2%23&t=152&Refer=top) - 128833
+1. [金裕贞差点被风吹倒了](https://s.weibo.com//weibo?q=%23%E9%87%91%E8%A3%95%E8%B4%9E%E5%B7%AE%E7%82%B9%E8%A2%AB%E9%A3%8E%E5%90%B9%E5%80%92%E4%BA%86%23&t=152&Refer=top) - 123656
+1. [后会友期云合破97%](https://s.weibo.com//weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E4%BA%91%E5%90%88%E7%A0%B497%25&t=152&Refer=top) - 118994
+1. [猫的树说今天是太阳雨国内拍了2个多月](https://s.weibo.com//weibo?q=%23%E7%8C%AB%E7%9A%84%E6%A0%91%E8%AF%B4%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8%E5%9B%BD%E5%86%85%E6%8B%8D%E4%BA%862%E4%B8%AA%E5%A4%9A%E6%9C%88%23&t=152&Refer=top) - 107094
+1. [许飞偷偷上传仓央情歌小样](https://s.weibo.com//weibo?q=%E8%AE%B8%E9%A3%9E%E5%81%B7%E5%81%B7%E4%B8%8A%E4%BC%A0%E4%BB%93%E5%A4%AE%E6%83%85%E6%AD%8C%E5%B0%8F%E6%A0%B7&t=152&Refer=top) - 100408
+1. [我们来了阵容](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E6%9D%A5%E4%BA%86%E9%98%B5%E5%AE%B9%23&t=152&Refer=top) - 93637
+1. [时代少年团七周年拼图聊天](https://s.weibo.com//weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E4%B8%83%E5%91%A8%E5%B9%B4%E6%8B%BC%E5%9B%BE%E8%81%8A%E5%A4%A9%23&t=152&Refer=top) - 92551
+1. [曝时代峰峻自建TF家族演艺中心](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E8%87%AA%E5%BB%BATF%E5%AE%B6%E6%97%8F%E6%BC%94%E8%89%BA%E4%B8%AD%E5%BF%83%23&t=152&Refer=top) - 92541
+1. [马筱梅回应感情问题](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E7%AD%B1%E6%A2%85%E5%9B%9E%E5%BA%94%E6%84%9F%E6%83%85%E9%97%AE%E9%A2%98%23&t=152&Refer=top) - 83286
+1. [周深明年演唱会开场曲认真的吗](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%B7%B1%E6%98%8E%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%80%E5%9C%BA%E6%9B%B2%E8%AE%A4%E7%9C%9F%E7%9A%84%E5%90%97%23&t=152&Refer=top) - 83278
+1. [两京十五日](https://s.weibo.com//weibo?q=%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5&t=152&Refer=top) - 83271
+1. [炎亚纶铁了心要上后会友期](https://s.weibo.com//weibo?q=%E7%82%8E%E4%BA%9A%E7%BA%B6%E9%93%81%E4%BA%86%E5%BF%83%E8%A6%81%E4%B8%8A%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F&t=152&Refer=top) - 394438
+1. [逐玉两岸粉丝见面会](https://s.weibo.com//weibo?q=%23%E9%80%90%E7%8E%89%E4%B8%A4%E5%B2%B8%E7%B2%89%E4%B8%9D%E8%A7%81%E9%9D%A2%E4%BC%9A%23&t=152&Refer=top) - 83257
+1. [王子璇说她碰了我一下](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E8%AF%B4%E5%A5%B9%E7%A2%B0%E4%BA%86%E6%88%91%E4%B8%80%E4%B8%8B%23&t=152&Refer=top) - 83250
+1. [王安宇公主抱王楚然](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E5%85%AC%E4%B8%BB%E6%8A%B1%E7%8E%8B%E6%A5%9A%E7%84%B6%23&t=152&Refer=top) - 83240
+1. [猫的树今天是太阳雨收官长文](https://s.weibo.com//weibo?q=%E7%8C%AB%E7%9A%84%E6%A0%91%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8%E6%94%B6%E5%AE%98%E9%95%BF%E6%96%87&t=152&Refer=top) - 83234
+1. [白鹿方否认录制我们来了](https://s.weibo.com//weibo?q=%23%E7%99%BD%E9%B9%BF%E6%96%B9%E5%90%A6%E8%AE%A4%E5%BD%95%E5%88%B6%E6%88%91%E4%BB%AC%E6%9D%A5%E4%BA%86%23&t=152&Refer=top) - 83227
+1. [成毅两京十五日云合首日8%](https://s.weibo.com//weibo?q=%23%E6%88%90%E6%AF%85%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E4%BA%91%E5%90%88%E9%A6%96%E6%97%A58%25%23&t=152&Refer=top) - 83217
+1. [时代少年团的群名变迁史](https://s.weibo.com//weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E7%9A%84%E7%BE%A4%E5%90%8D%E5%8F%98%E8%BF%81%E5%8F%B2%23&t=152&Refer=top) - 82446
+1. [炎亚纶汪东城世纪大和解](https://s.weibo.com//weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E6%B1%AA%E4%B8%9C%E5%9F%8E%E4%B8%96%E7%BA%AA%E5%A4%A7%E5%92%8C%E8%A7%A3%23&t=152&Refer=top) - 2086035
 1. [孙芮属于军婚](https://s.weibo.com//weibo?q=%23%E5%AD%99%E8%8A%AE%E5%B1%9E%E4%BA%8E%E5%86%9B%E5%A9%9A%23&t=152&Refer=top) - 1350022
 1. [李嫣喝水都要用口罩遮着](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%AB%A3%E5%96%9D%E6%B0%B4%E9%83%BD%E8%A6%81%E7%94%A8%E5%8F%A3%E7%BD%A9%E9%81%AE%E7%9D%80%23&t=152&Refer=top) - 888250
 1. [伊能静发长文谈后会友期](https://s.weibo.com//weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E5%8F%91%E9%95%BF%E6%96%87%E8%B0%88%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%23&t=152&Refer=top) - 580874
 1. [这段爆破戏疑似AI做的](https://s.weibo.com//weibo?q=%E8%BF%99%E6%AE%B5%E7%88%86%E7%A0%B4%E6%88%8F%E7%96%91%E4%BC%BCAI%E5%81%9A%E7%9A%84&t=152&Refer=top) - 541068
 1. [张萌的大胆穿搭直接吓到孟子义](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%90%8C%E7%9A%84%E5%A4%A7%E8%83%86%E7%A9%BF%E6%90%AD%E7%9B%B4%E6%8E%A5%E5%90%93%E5%88%B0%E5%AD%9F%E5%AD%90%E4%B9%89%23&t=152&Refer=top) - 486961
 1. [丝芭下孩子了](https://s.weibo.com//weibo?q=%E4%B8%9D%E8%8A%AD%E4%B8%8B%E5%AD%A9%E5%AD%90%E4%BA%86&t=152&Refer=top) - 438265
-1. [炎亚纶铁了心要上后会友期](https://s.weibo.com//weibo?q=%E7%82%8E%E4%BA%9A%E7%BA%B6%E9%93%81%E4%BA%86%E5%BF%83%E8%A6%81%E4%B8%8A%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F&t=152&Refer=top) - 394438
 1. [王子璇问马天宇你不会爱上我](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E9%97%AE%E9%A9%AC%E5%A4%A9%E5%AE%87%E4%BD%A0%E4%B8%8D%E4%BC%9A%E7%88%B1%E4%B8%8A%E6%88%91%23&t=152&Refer=top) - 354994
 1. [李嫣唱歌太孝顺了](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%AB%A3%E5%94%B1%E6%AD%8C%E5%A4%AA%E5%AD%9D%E9%A1%BA%E4%BA%86%23&t=152&Refer=top) - 319495
 1. [以前的朱瞻基现在的朱瞻基](https://s.weibo.com//weibo?q=%E4%BB%A5%E5%89%8D%E7%9A%84%E6%9C%B1%E7%9E%BB%E5%9F%BA%E7%8E%B0%E5%9C%A8%E7%9A%84%E6%9C%B1%E7%9E%BB%E5%9F%BA&t=152&Refer=top) - 287545
