@@ -2,7 +2,57 @@
 微博文娱热搜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 22 2026 15:46:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 22 2026 23:56:17 GMT+0800 (China Standard Time) -->
+1. [中戏同学成顶流男演员却当NPC](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%88%8F%E5%90%8C%E5%AD%A6%E6%88%90%E9%A1%B6%E6%B5%81%E7%94%B7%E6%BC%94%E5%91%98%E5%8D%B4%E5%BD%93NPC%23&t=152&Refer=top) - 1310438
+1. [央视主持人录节目假牙丢了](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%BD%95%E8%8A%82%E7%9B%AE%E5%81%87%E7%89%99%E4%B8%A2%E4%BA%86%23&t=152&Refer=top) - 917306
+1. [孙芮后援会关站](https://s.weibo.com//weibo?q=%E5%AD%99%E8%8A%AE%E5%90%8E%E6%8F%B4%E4%BC%9A%E5%85%B3%E7%AB%99&t=152&Refer=top) - 642114
+1. [张元英被外网批抢liz的C位](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1%E8%A2%AB%E5%A4%96%E7%BD%91%E6%89%B9%E6%8A%A2liz%E7%9A%84C%E4%BD%8D%23&t=152&Refer=top) - 577903
+1. [PEL饭圈化像开了加速器](https://s.weibo.com//weibo?q=%23PEL%E9%A5%AD%E5%9C%88%E5%8C%96%E5%83%8F%E5%BC%80%E4%BA%86%E5%8A%A0%E9%80%9F%E5%99%A8%23&t=152&Refer=top) - 520112
+1. [王安宇被马顶跑了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E8%A2%AB%E9%A9%AC%E9%A1%B6%E8%B7%91%E4%BA%86%23&t=152&Refer=top) - 468101
+1. [郭碧婷二胎后全身浮肿下半身失控](https://s.weibo.com//weibo?q=%23%E9%83%AD%E7%A2%A7%E5%A9%B7%E4%BA%8C%E8%83%8E%E5%90%8E%E5%85%A8%E8%BA%AB%E6%B5%AE%E8%82%BF%E4%B8%8B%E5%8D%8A%E8%BA%AB%E5%A4%B1%E6%8E%A7%23&t=152&Refer=top) - 421291
+1. [第46届华鼎奖获奖名单](https://s.weibo.com//weibo?q=%23%E7%AC%AC46%E5%B1%8A%E5%8D%8E%E9%BC%8E%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%23&t=152&Refer=top) - 379162
+1. [刘宪华看到妹妹亲老公的反应](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%AA%E5%8D%8E%E7%9C%8B%E5%88%B0%E5%A6%B9%E5%A6%B9%E4%BA%B2%E8%80%81%E5%85%AC%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=152&Refer=top) - 341246
+1. [赵丽颖入选亚太最具影响力青年女性](https://s.weibo.com//weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%85%A5%E9%80%89%E4%BA%9A%E5%A4%AA%E6%9C%80%E5%85%B7%E5%BD%B1%E5%93%8D%E5%8A%9B%E9%9D%92%E5%B9%B4%E5%A5%B3%E6%80%A7&t=152&Refer=top) - 307121
+1. [肖战入选亚太最具影响力青年男性](https://s.weibo.com//weibo?q=%E8%82%96%E6%88%98%E5%85%A5%E9%80%89%E4%BA%9A%E5%A4%AA%E6%9C%80%E5%85%B7%E5%BD%B1%E5%93%8D%E5%8A%9B%E9%9D%92%E5%B9%B4%E7%94%B7%E6%80%A7&t=152&Refer=top) - 276409
+1. [张萌怎么会留下这样的证据](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%90%8C%E6%80%8E%E4%B9%88%E4%BC%9A%E7%95%99%E4%B8%8B%E8%BF%99%E6%A0%B7%E7%9A%84%E8%AF%81%E6%8D%AE%23&t=152&Refer=top) - 248768
+1. [欧阳娜娜参加朋友婚礼](https://s.weibo.com//weibo?q=%23%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E5%8F%82%E5%8A%A0%E6%9C%8B%E5%8F%8B%E5%A9%9A%E7%A4%BC%23&t=152&Refer=top) - 223891
+1. [成毅白龙挂镜头太震撼了](https://s.weibo.com//weibo?q=%23%E6%88%90%E6%AF%85%E7%99%BD%E9%BE%99%E6%8C%82%E9%95%9C%E5%A4%B4%E5%A4%AA%E9%9C%87%E6%92%BC%E4%BA%86%23&t=152&Refer=top) - 201502
+1. [AI还是离成毅太远了](https://s.weibo.com//weibo?q=%23AI%E8%BF%98%E6%98%AF%E7%A6%BB%E6%88%90%E6%AF%85%E5%A4%AA%E8%BF%9C%E4%BA%86%23&t=152&Refer=top) - 181352
+1. [王一博肖战亚太影响力青年男性](https://s.weibo.com//weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%82%96%E6%88%98%E4%BA%9A%E5%A4%AA%E5%BD%B1%E5%93%8D%E5%8A%9B%E9%9D%92%E5%B9%B4%E7%94%B7%E6%80%A7&t=152&Refer=top) - 163216
+1. [华鼎奖](https://s.weibo.com//weibo?q=%E5%8D%8E%E9%BC%8E%E5%A5%96&t=152&Refer=top) - 146895
+1. [华晨宇入选亚太U40卓越成就领袖榜单](https://s.weibo.com//weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%85%A5%E9%80%89%E4%BA%9A%E5%A4%AAU40%E5%8D%93%E8%B6%8A%E6%88%90%E5%B0%B1%E9%A2%86%E8%A2%96%E6%A6%9C%E5%8D%95&t=152&Refer=top) - 137971
+1. [再见老板嘉宾提名](https://s.weibo.com//weibo?q=%23%E5%86%8D%E8%A7%81%E8%80%81%E6%9D%BF%E5%98%89%E5%AE%BE%E6%8F%90%E5%90%8D%23&t=152&Refer=top) - 137680
+1. [周深超长高音还能找到气口说好累](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%B7%B1%E8%B6%85%E9%95%BF%E9%AB%98%E9%9F%B3%E8%BF%98%E8%83%BD%E6%89%BE%E5%88%B0%E6%B0%94%E5%8F%A3%E8%AF%B4%E5%A5%BD%E7%B4%AF%23&t=152&Refer=top) - 123912
+1. [青稚直播](https://s.weibo.com//weibo?q=%E9%9D%92%E7%A8%9A%E7%9B%B4%E6%92%AD&t=152&Refer=top) - 123906
+1. [时代少年团直播](https://s.weibo.com//weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E7%9B%B4%E6%92%AD&t=152&Refer=top) - 123897
+1. [赵丽颖华语最佳影视女演员](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8D%8E%E8%AF%AD%E6%9C%80%E4%BD%B3%E5%BD%B1%E8%A7%86%E5%A5%B3%E6%BC%94%E5%91%98%23&t=152&Refer=top) - 123891
+1. [成毅白龙挂腰腹力量](https://s.weibo.com//weibo?q=%E6%88%90%E6%AF%85%E7%99%BD%E9%BE%99%E6%8C%82%E8%85%B0%E8%85%B9%E5%8A%9B%E9%87%8F&t=152&Refer=top) - 123884
+1. [文吉儿 一起长大的约定](https://s.weibo.com//weibo?q=%E6%96%87%E5%90%89%E5%84%BF%20%E4%B8%80%E8%B5%B7%E9%95%BF%E5%A4%A7%E7%9A%84%E7%BA%A6%E5%AE%9A&t=152&Refer=top) - 123874
+1. [虞书欣入选亚太U35行业先锋领袖榜单](https://s.weibo.com//weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%85%A5%E9%80%89%E4%BA%9A%E5%A4%AAU35%E8%A1%8C%E4%B8%9A%E5%85%88%E9%94%8B%E9%A2%86%E8%A2%96%E6%A6%9C%E5%8D%95%23&t=152&Refer=top) - 123430
+1. [网友在贵宾休息室偶遇厉娜吃泡面](https://s.weibo.com//weibo?q=%23%E7%BD%91%E5%8F%8B%E5%9C%A8%E8%B4%B5%E5%AE%BE%E4%BC%91%E6%81%AF%E5%AE%A4%E5%81%B6%E9%81%87%E5%8E%89%E5%A8%9C%E5%90%83%E6%B3%A1%E9%9D%A2%23&t=152&Refer=top) - 111087
+1. [2026亚太最具影响力青年男性TOP100](https://s.weibo.com//weibo?q=2026%E4%BA%9A%E5%A4%AA%E6%9C%80%E5%85%B7%E5%BD%B1%E5%93%8D%E5%8A%9B%E9%9D%92%E5%B9%B4%E7%94%B7%E6%80%A7TOP100&t=152&Refer=top) - 111077
+1. [白小纯跳了初雪](https://s.weibo.com//weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E8%B7%B3%E4%BA%86%E5%88%9D%E9%9B%AA%23&t=152&Refer=top) - 111072
+1. [嫣然医院院长晒与李嫣合照](https://s.weibo.com//weibo?q=%23%E5%AB%A3%E7%84%B6%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E6%99%92%E4%B8%8E%E6%9D%8E%E5%AB%A3%E5%90%88%E7%85%A7%23&t=152&Refer=top) - 111066
+1. [好一个乖乖女开机](https://s.weibo.com//weibo?q=%E5%A5%BD%E4%B8%80%E4%B8%AA%E4%B9%96%E4%B9%96%E5%A5%B3%E5%BC%80%E6%9C%BA&t=152&Refer=top) - 111057
+1. [芒果是真的听劝](https://s.weibo.com//weibo?q=%23%E8%8A%92%E6%9E%9C%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%AC%E5%8A%9D%23&t=152&Refer=top) - 99951
+1. [赵本山女儿和老公两地分居](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E6%9C%AC%E5%B1%B1%E5%A5%B3%E5%84%BF%E5%92%8C%E8%80%81%E5%85%AC%E4%B8%A4%E5%9C%B0%E5%88%86%E5%B1%85%23&t=152&Refer=top) - 93736
+1. [王橹杰小蛇食物打码](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%A9%B9%E6%9D%B0%E5%B0%8F%E8%9B%87%E9%A3%9F%E7%89%A9%E6%89%93%E7%A0%81&t=152&Refer=top) - 90332
+1. [董思成直播](https://s.weibo.com//weibo?q=%E8%91%A3%E6%80%9D%E6%88%90%E7%9B%B4%E6%92%AD&t=152&Refer=top) - 81298
+1. [周深换衣服导播切镜头](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%B7%B1%E6%8D%A2%E8%A1%A3%E6%9C%8D%E5%AF%BC%E6%92%AD%E5%88%87%E9%95%9C%E5%A4%B4%23&t=152&Refer=top) - 80703
+1. [朱一龙华语最佳影视男演员](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E5%8D%8E%E8%AF%AD%E6%9C%80%E4%BD%B3%E5%BD%B1%E8%A7%86%E7%94%B7%E6%BC%94%E5%91%98%23&t=152&Refer=top) - 79205
+1. [曝高迪大美已经离婚了](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E9%AB%98%E8%BF%AA%E5%A4%A7%E7%BE%8E%E5%B7%B2%E7%BB%8F%E7%A6%BB%E5%A9%9A%E4%BA%86%23&t=152&Refer=top) - 74910
+1. [亚太U35行业先锋领袖入选名单](https://s.weibo.com//weibo?q=%23%E4%BA%9A%E5%A4%AAU35%E8%A1%8C%E4%B8%9A%E5%85%88%E9%94%8B%E9%A2%86%E8%A2%96%E5%85%A5%E9%80%89%E5%90%8D%E5%8D%95%23&t=152&Refer=top) - 73426
+1. [张杰这豆好南拼](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%9D%B0%E8%BF%99%E8%B1%86%E5%A5%BD%E5%8D%97%E6%8B%BC&t=152&Refer=top) - 73096
+1. [陈奕恒手机丢了](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%A5%95%E6%81%92%E6%89%8B%E6%9C%BA%E4%B8%A2%E4%BA%86%23&t=152&Refer=top) - 72638
+1. [郭碧婷二胎后自嘲整个人废掉了](https://s.weibo.com//weibo?q=%23%E9%83%AD%E7%A2%A7%E5%A9%B7%E4%BA%8C%E8%83%8E%E5%90%8E%E8%87%AA%E5%98%B2%E6%95%B4%E4%B8%AA%E4%BA%BA%E5%BA%9F%E6%8E%89%E4%BA%86%23&t=152&Refer=top) - 69486
+1. [迪丽热巴入选2026亚太U35行业先锋领袖](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%85%A5%E9%80%892026%E4%BA%9A%E5%A4%AAU35%E8%A1%8C%E4%B8%9A%E5%85%88%E9%94%8B%E9%A2%86%E8%A2%96%23&t=152&Refer=top) - 68544
+1. [王源入选亚太U30杰出青年领袖榜单](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E5%85%A5%E9%80%89%E4%BA%9A%E5%A4%AAU30%E6%9D%B0%E5%87%BA%E9%9D%92%E5%B9%B4%E9%A2%86%E8%A2%96%E6%A6%9C%E5%8D%95%23&t=152&Refer=top) - 68496
+1. [王一博入选亚太最具影响力青年](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%85%A5%E9%80%89%E4%BA%9A%E5%A4%AA%E6%9C%80%E5%85%B7%E5%BD%B1%E5%93%8D%E5%8A%9B%E9%9D%92%E5%B9%B4%23&t=152&Refer=top) - 68451
+1. [权志龙MAMA破棺而出](https://s.weibo.com//weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99MAMA%E7%A0%B4%E6%A3%BA%E8%80%8C%E5%87%BA%23&t=152&Refer=top) - 64697
+1. [再见老板真的要来了](https://s.weibo.com//weibo?q=%E5%86%8D%E8%A7%81%E8%80%81%E6%9D%BF%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86&t=152&Refer=top) - 64003
+1. [丁程鑫抽到了马嘉祺做的礼物](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E6%8A%BD%E5%88%B0%E4%BA%86%E9%A9%AC%E5%98%89%E7%A5%BA%E5%81%9A%E7%9A%84%E7%A4%BC%E7%89%A9%23&t=152&Refer=top) - 63921
+1. [白敬亭入选亚太U35行业先锋领袖榜单](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%85%A5%E9%80%89%E4%BA%9A%E5%A4%AAU35%E8%A1%8C%E4%B8%9A%E5%85%88%E9%94%8B%E9%A2%86%E8%A2%96%E6%A6%9C%E5%8D%95%23&t=152&Refer=top) - 63282
+1. [双帝之战大结局删改](https://s.weibo.com//weibo?q=%E5%8F%8C%E5%B8%9D%E4%B9%8B%E6%88%98%E5%A4%A7%E7%BB%93%E5%B1%80%E5%88%A0%E6%94%B9&t=152&Refer=top) - 62421
 1. [英皇到底亏了多少陈伟霆要穿成这样](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E7%9A%87%E5%88%B0%E5%BA%95%E4%BA%8F%E4%BA%86%E5%A4%9A%E5%B0%91%E9%99%88%E4%BC%9F%E9%9C%86%E8%A6%81%E7%A9%BF%E6%88%90%E8%BF%99%E6%A0%B7%23&t=152&Refer=top) - 1158304
 1. [怪不得王子璇要去做医美](https://s.weibo.com//weibo?q=%E6%80%AA%E4%B8%8D%E5%BE%97%E7%8E%8B%E5%AD%90%E7%92%87%E8%A6%81%E5%8E%BB%E5%81%9A%E5%8C%BB%E7%BE%8E&t=152&Refer=top) - 810812
 1. [王子璇给青稚送捏捏](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E7%BB%99%E9%9D%92%E7%A8%9A%E9%80%81%E6%8D%8F%E6%8D%8F%23&t=152&Refer=top) - 567568
